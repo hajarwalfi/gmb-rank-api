@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:3087568104233750505",
+  "gmbKey": "loc:3087568104233750505",
+  "business_name": "Lainez Electric",
+  "location": "locations/3087568104233750505",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated electricians Manteca, California",
+          "rank": 11,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778259994645.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 10,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778259994645.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated electricians Manteca, California",
+          "rank": 10,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp11_1778218817305.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 10,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp11_1778218817305.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 9
+    },
+    "map_ranks": [
+      {
+        "keyword": "top rated electricians Manteca, California",
+        "rank": 11,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778259994645.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 10,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778259994645.png"
+  },
+  "total_scans": 2
+}

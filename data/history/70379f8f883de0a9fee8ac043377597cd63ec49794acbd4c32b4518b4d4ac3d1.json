@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:8904072927408637332",
+  "gmbKey": "loc:8904072927408637332",
+  "business_name": "Florida Doug Services",
+  "location": "locations/8904072927408637332",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-20T20:31:53.744Z",
+      "traffic": {
+        "website_clicks": 6,
+        "direction_requests": 30,
+        "calls": 2,
+        "impressions": 88
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 41,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-20T20:31:53.744Z",
+    "traffic": {
+      "website_clicks": 6,
+      "direction_requests": 30,
+      "calls": 2,
+      "impressions": 88
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 41,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

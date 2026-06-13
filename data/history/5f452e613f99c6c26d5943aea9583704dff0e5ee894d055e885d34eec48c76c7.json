@@ -1,0 +1,144 @@
+{
+  "business_id": "loc:7308643591906834361",
+  "gmbKey": "loc:7308643591906834361",
+  "business_name": "Hardwood Floors Company",
+  "location": "locations/7308643591906834361",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 3,
+        "calls": 1,
+        "impressions": 161
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated hardwood flooring contractor Plano TX",
+          "rank": 8,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778251174603.png"
+        },
+        {
+          "keyword": "Affordable hardwood floor refinishing Keller TX",
+          "rank": 3,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp4_1778251225369.png"
+        },
+        {
+          "keyword": "Best hardwood flooring services Fort Worth TX",
+          "rank": 2,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778251258583.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 113,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778251174603.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 2,
+        "calls": 1,
+        "impressions": 122
+      },
+      "map_ranks": [
+        {
+          "keyword": "Hardwood floor installation Hurst TX",
+          "rank": 9,
+          "volume": 6,
+          "daily_traffic": 1.5,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778180307842.png"
+        },
+        {
+          "keyword": "Top rated hardwood flooring contractor Plano TX",
+          "rank": 15,
+          "volume": 6,
+          "daily_traffic": 1.5,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp7_1778180621052.png"
+        },
+        {
+          "keyword": "Affordable hardwood floor refinishing Keller TX",
+          "rank": 12,
+          "volume": 6,
+          "daily_traffic": 1.5,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp3_1778180664593.png"
+        },
+        {
+          "keyword": "Best hardwood flooring services Fort Worth TX",
+          "rank": 2,
+          "volume": 6,
+          "daily_traffic": 1.5,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778180796279.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 113,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778180307842.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 3,
+      "calls": 1,
+      "impressions": 161
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top rated hardwood flooring contractor Plano TX",
+        "rank": 8,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778251174603.png"
+      },
+      {
+        "keyword": "Affordable hardwood floor refinishing Keller TX",
+        "rank": 3,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp4_1778251225369.png"
+      },
+      {
+        "keyword": "Best hardwood flooring services Fort Worth TX",
+        "rank": 2,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778251258583.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 113,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778251174603.png"
+  },
+  "total_scans": 2
+}

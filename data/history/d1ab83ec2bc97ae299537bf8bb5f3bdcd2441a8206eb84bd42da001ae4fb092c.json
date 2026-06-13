@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:11078116118609308273",
+  "gmbKey": "loc:11078116118609308273",
+  "business_name": "Infinite Painting LLC",
+  "location": "locations/11078116118609308273",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-27T20:32:35.635Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-27T20:32:35.635Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 11
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

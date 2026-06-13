@@ -1,0 +1,50 @@
+{
+  "jobId": "6a1b49564e9fb0b60de5e6c2",
+  "createdAt": "2026-05-30T20:32:22.662Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-30T20:32:21.282Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8422330543943197231",
+      "locationTitle": "Chanate construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "15606220406492934720",
+      "locationTitle": "Sparkle fresh cleaningLLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8422330543943197231",
+      "locationTitle": "Chanate construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15606220406492934720",
+      "locationTitle": "Sparkle fresh cleaningLLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8422330543943197231",
+      "locationTitle": "Chanate construction",
+      "gmbKey": "loc:8422330543943197231",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-30T20:33:25.887Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15606220406492934720",
+      "locationTitle": "Sparkle fresh cleaningLLC",
+      "gmbKey": "loc:15606220406492934720",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-30T20:35:12.896Z"
+    }
+  ],
+  "updatedAt": "2026-05-30T20:35:13.924Z"
+}

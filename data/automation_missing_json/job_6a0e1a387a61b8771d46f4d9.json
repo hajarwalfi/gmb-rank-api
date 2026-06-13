@@ -1,0 +1,164 @@
+{
+  "jobId": "6a0e1a387a61b8771d46f4d9",
+  "createdAt": "2026-05-20T20:31:53.140Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-20T20:31:52.169Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2190750627329621945",
+      "locationTitle": "Duny Twins Events & Rental"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8904072927408637332",
+      "locationTitle": "Florida Doug Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "17141622747280373051",
+      "locationTitle": "J&I Contractors LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8157252686077296222",
+      "locationTitle": "JOHNNYS LANDSCAPE"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14820596148745604586",
+      "locationTitle": "Marcelo’s concrete LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "1093588458075072450",
+      "locationTitle": "Méndez cleaning LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16937398568633445480",
+      "locationTitle": "Smart Electrical Company Llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13443945135364874936",
+      "locationTitle": "Texas Lawn Champions LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2190750627329621945",
+      "locationTitle": "Duny Twins Events & Rental"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8904072927408637332",
+      "locationTitle": "Florida Doug Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17141622747280373051",
+      "locationTitle": "J&I Contractors LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8157252686077296222",
+      "locationTitle": "JOHNNYS LANDSCAPE"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14820596148745604586",
+      "locationTitle": "Marcelo’s concrete LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1093588458075072450",
+      "locationTitle": "Méndez cleaning LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16937398568633445480",
+      "locationTitle": "Smart Electrical Company Llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13443945135364874936",
+      "locationTitle": "Texas Lawn Champions LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2190750627329621945",
+      "locationTitle": "Duny Twins Events & Rental",
+      "gmbKey": "loc:2190750627329621945",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T20:42:46.420Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8904072927408637332",
+      "locationTitle": "Florida Doug Services",
+      "gmbKey": "loc:8904072927408637332",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T20:44:33.063Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17141622747280373051",
+      "locationTitle": "J&I Contractors LLC",
+      "gmbKey": "loc:17141622747280373051",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T20:53:08.563Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8157252686077296222",
+      "locationTitle": "JOHNNYS LANDSCAPE",
+      "gmbKey": "loc:8157252686077296222",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T20:55:59.981Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14820596148745604586",
+      "locationTitle": "Marcelo’s concrete LLC",
+      "gmbKey": "loc:14820596148745604586",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T20:59:14.941Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1093588458075072450",
+      "locationTitle": "Méndez cleaning LLC",
+      "gmbKey": "loc:1093588458075072450",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T21:01:54.511Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16937398568633445480",
+      "locationTitle": "Smart Electrical Company Llc",
+      "gmbKey": "loc:16937398568633445480",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T21:04:56.795Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13443945135364874936",
+      "locationTitle": "Texas Lawn Champions LLC",
+      "gmbKey": "loc:13443945135364874936",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-20T21:07:14.925Z"
+    }
+  ],
+  "updatedAt": "2026-05-20T21:07:15.872Z"
+}

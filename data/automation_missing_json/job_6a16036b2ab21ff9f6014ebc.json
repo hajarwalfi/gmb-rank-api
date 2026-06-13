@@ -1,0 +1,183 @@
+{
+  "jobId": "6a16036b2ab21ff9f6014ebc",
+  "createdAt": "2026-05-26T20:32:44.480Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-26T20:32:43.090Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14680601807024100322",
+      "locationTitle": "all in concrete"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13758317807191855689",
+      "locationTitle": "Columbia Esp Tree Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9326500073572112850",
+      "locationTitle": "Diamond painting services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "7382236300841419426",
+      "locationTitle": "J&M Painting Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2853443112727492548",
+      "locationTitle": "Masterix Builders LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13742967147924397562",
+      "locationTitle": "Polar Bears Professional Service LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "10304507514773735997",
+      "locationTitle": "Quality Electropainting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16092392826061542954",
+      "locationTitle": "Trendykity LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8982089029741265789",
+      "locationTitle": "Una Maid in Colorado cleaning service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14680601807024100322",
+      "locationTitle": "all in concrete"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13758317807191855689",
+      "locationTitle": "Columbia Esp Tree Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9326500073572112850",
+      "locationTitle": "Diamond painting services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7382236300841419426",
+      "locationTitle": "J&M Painting Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2853443112727492548",
+      "locationTitle": "Masterix Builders LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13742967147924397562",
+      "locationTitle": "Polar Bears Professional Service LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10304507514773735997",
+      "locationTitle": "Quality Electropainting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16092392826061542954",
+      "locationTitle": "Trendykity LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8982089029741265789",
+      "locationTitle": "Una Maid in Colorado cleaning service"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14680601807024100322",
+      "locationTitle": "all in concrete",
+      "gmbKey": "loc:14680601807024100322",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:33:46.526Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13758317807191855689",
+      "locationTitle": "Columbia Esp Tree Services",
+      "gmbKey": "loc:13758317807191855689",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:39:14.804Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9326500073572112850",
+      "locationTitle": "Diamond painting services LLC",
+      "gmbKey": "loc:9326500073572112850",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:40:20.142Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7382236300841419426",
+      "locationTitle": "J&M Painting Services LLC",
+      "gmbKey": "loc:7382236300841419426",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:43:31.461Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2853443112727492548",
+      "locationTitle": "Masterix Builders LLC",
+      "gmbKey": "loc:2853443112727492548",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:44:52.603Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13742967147924397562",
+      "locationTitle": "Polar Bears Professional Service LLC",
+      "gmbKey": "loc:13742967147924397562",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:48:49.296Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10304507514773735997",
+      "locationTitle": "Quality Electropainting LLC",
+      "gmbKey": "loc:10304507514773735997",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:50:35.881Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16092392826061542954",
+      "locationTitle": "Trendykity LLC",
+      "gmbKey": "loc:16092392826061542954",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T20:51:36.445Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8982089029741265789",
+      "locationTitle": "Una Maid in Colorado cleaning service",
+      "gmbKey": "loc:8982089029741265789",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-26T21:06:12.382Z"
+    }
+  ],
+  "updatedAt": "2026-05-26T21:06:13.321Z"
+}

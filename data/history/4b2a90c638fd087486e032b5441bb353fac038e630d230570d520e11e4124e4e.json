@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:16779025900873037850",
+  "gmbKey": "loc:16779025900873037850",
+  "business_name": "Ed's Home Improvement",
+  "location": "locations/16779025900873037850",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 44
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated handyman Clinton, MD",
+          "rank": 32,
+          "volume": 1,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp31_1779129340862.png"
+        },
+        {
+          "keyword": "emergency handyman Waldorf, MD",
+          "rank": 50,
+          "volume": 1,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r50_serp50_1779129440655.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 27,
+        "average_rating": 4.599999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp31_1779129340862.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 44
+    },
+    "map_ranks": [
+      {
+        "keyword": "top rated handyman Clinton, MD",
+        "rank": 32,
+        "volume": 1,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp31_1779129340862.png"
+      },
+      {
+        "keyword": "emergency handyman Waldorf, MD",
+        "rank": 50,
+        "volume": 1,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r50_serp50_1779129440655.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 27,
+      "average_rating": 4.599999904632568,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp31_1779129340862.png"
+  },
+  "total_scans": 1
+}

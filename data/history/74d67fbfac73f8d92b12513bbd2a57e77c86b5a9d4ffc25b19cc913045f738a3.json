@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:5620959616528494874",
+  "gmbKey": "loc:5620959616528494874",
+  "business_name": "New Remodelers LLC",
+  "location": "locations/5620959616528494874",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "best remodeler Charlotte NC",
+          "rank": 7,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp8_1778268031138.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp8_1778268031138.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [
+        {
+          "keyword": "best remodeler Charlotte NC",
+          "rank": 8,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp7_1778199756613.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp7_1778199756613.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 18
+    },
+    "map_ranks": [
+      {
+        "keyword": "best remodeler Charlotte NC",
+        "rank": 7,
+        "volume": 6,
+        "daily_traffic": 1.2,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp8_1778268031138.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp8_1778268031138.png"
+  },
+  "total_scans": 2
+}

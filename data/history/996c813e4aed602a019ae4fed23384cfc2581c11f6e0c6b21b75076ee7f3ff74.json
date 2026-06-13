@@ -1,0 +1,152 @@
+{
+  "business_id": "loc:3332303297693752625",
+  "gmbKey": "loc:3332303297693752625",
+  "business_name": "ISM painting & remodeling",
+  "location": "locations/3332303297693752625",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best painting services Miami, FL",
+          "rank": 38,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp36_1778255736201.png"
+        },
+        {
+          "keyword": "Top rated painters Fort Lauderdale, FL",
+          "rank": 27,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp27_1778255777447.png"
+        },
+        {
+          "keyword": "Professional painting Miami Beach, FL",
+          "rank": 7,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp6_1778255817759.png"
+        },
+        {
+          "keyword": "Emergency remodeling Pembroke Pines, FL",
+          "rank": 27,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp29_1778255851266.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp36_1778255736201.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best painting services Miami, FL",
+          "rank": 32,
+          "volume": 10,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1778186012442.png"
+        },
+        {
+          "keyword": "Top rated painters Fort Lauderdale, FL",
+          "rank": 28,
+          "volume": 10,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp26_1778186162974.png"
+        },
+        {
+          "keyword": "Professional painting Miami Beach, FL",
+          "rank": 7,
+          "volume": 10,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1778186247302.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1778186012442.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 10,
+      "calls": 0,
+      "impressions": 12
+    },
+    "map_ranks": [
+      {
+        "keyword": "Best painting services Miami, FL",
+        "rank": 38,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp36_1778255736201.png"
+      },
+      {
+        "keyword": "Top rated painters Fort Lauderdale, FL",
+        "rank": 27,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp27_1778255777447.png"
+      },
+      {
+        "keyword": "Professional painting Miami Beach, FL",
+        "rank": 7,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp6_1778255817759.png"
+      },
+      {
+        "keyword": "Emergency remodeling Pembroke Pines, FL",
+        "rank": 27,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp29_1778255851266.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 4,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp36_1778255736201.png"
+  },
+  "total_scans": 2
+}

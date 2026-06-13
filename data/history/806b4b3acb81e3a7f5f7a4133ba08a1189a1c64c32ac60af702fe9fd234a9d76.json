@@ -1,0 +1,110 @@
+{
+  "business_id": "loc:17718660315576252644",
+  "gmbKey": "loc:17718660315576252644",
+  "business_name": "A&E Design Group",
+  "location": "locations/17718660315576252644",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 35,
+        "calls": 0,
+        "impressions": 50
+      },
+      "map_ranks": [
+        {
+          "keyword": "architectural designer Mesa AZ",
+          "rank": 31,
+          "volume": 35,
+          "daily_traffic": 2.3,
+          "estimated_clicks": 35,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1779054884660.png"
+        },
+        {
+          "keyword": "best architectural designer near me",
+          "rank": 58,
+          "volume": 35,
+          "daily_traffic": 2.3,
+          "estimated_clicks": 35,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp59_1779054982922.png"
+        },
+        {
+          "keyword": "top rated architectural designer Mesa",
+          "rank": 8,
+          "volume": 35,
+          "daily_traffic": 2.3,
+          "estimated_clicks": 35,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1779055163967.png"
+        },
+        {
+          "keyword": "architectural design services in Mesa",
+          "rank": 17,
+          "volume": 35,
+          "daily_traffic": 2.3,
+          "estimated_clicks": 35,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp10_1779055336300.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1779054884660.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 35,
+      "calls": 0,
+      "impressions": 50
+    },
+    "map_ranks": [
+      {
+        "keyword": "architectural designer Mesa AZ",
+        "rank": 31,
+        "volume": 35,
+        "daily_traffic": 2.3,
+        "estimated_clicks": 35,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1779054884660.png"
+      },
+      {
+        "keyword": "best architectural designer near me",
+        "rank": 58,
+        "volume": 35,
+        "daily_traffic": 2.3,
+        "estimated_clicks": 35,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp59_1779054982922.png"
+      },
+      {
+        "keyword": "top rated architectural designer Mesa",
+        "rank": 8,
+        "volume": 35,
+        "daily_traffic": 2.3,
+        "estimated_clicks": 35,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1779055163967.png"
+      },
+      {
+        "keyword": "architectural design services in Mesa",
+        "rank": 17,
+        "volume": 35,
+        "daily_traffic": 2.3,
+        "estimated_clicks": 35,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp10_1779055336300.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1779054884660.png"
+  },
+  "total_scans": 1
+}

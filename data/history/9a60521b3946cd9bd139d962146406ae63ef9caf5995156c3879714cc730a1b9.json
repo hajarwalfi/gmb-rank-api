@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:12501602103922354303",
+  "gmbKey": "loc:12501602103922354303",
+  "business_name": "Fenix Aire",
+  "location": "locations/12501602103922354303",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 12,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 57
+      },
+      "map_ranks": [
+        {
+          "keyword": "emergency heating repair in Garland",
+          "rank": 49,
+          "volume": 12,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1779135298403.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 82,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1779135298403.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 74,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 6
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 74,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 12,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 57
+    },
+    "map_ranks": [
+      {
+        "keyword": "emergency heating repair in Garland",
+        "rank": 49,
+        "volume": 12,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 12,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1779135298403.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 82,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1779135298403.png"
+  },
+  "total_scans": 3
+}

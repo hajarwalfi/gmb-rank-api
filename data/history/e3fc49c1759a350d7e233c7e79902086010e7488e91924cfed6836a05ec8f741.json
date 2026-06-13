@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:2450334554629301580",
+  "gmbKey": "loc:2450334554629301580",
+  "business_name": "TCH Professional Services LLC",
+  "location": "locations/2450334554629301580",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 30
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable fencing services Broward County FL",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778278960785.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778278960785.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 30
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable fencing services Broward County FL",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778221939867.png"
+        },
+        {
+          "keyword": "Top rated fence contractor Miami-Dade County FL",
+          "rank": 19,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1778221992542.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778221939867.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 30
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable fencing services Broward County FL",
+        "rank": 1,
+        "volume": 1,
+        "daily_traffic": 0.3,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778278960785.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 2,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778278960785.png"
+  },
+  "total_scans": 2
+}

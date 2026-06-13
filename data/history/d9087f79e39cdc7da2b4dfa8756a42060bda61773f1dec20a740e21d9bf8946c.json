@@ -1,0 +1,120 @@
+{
+  "business_id": "loc:15280825925750482575",
+  "gmbKey": "loc:15280825925750482575",
+  "business_name": "Roofing & Siding Company Inc",
+  "location": "locations/15280825925750482575",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roofing contractor Durham NC",
+          "rank": 15,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778275234052.png"
+        },
+        {
+          "keyword": "Best siding company Greensboro NC",
+          "rank": 4,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp3_1778275570256.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778275234052.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 8
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roofing contractor Durham NC",
+          "rank": 14,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778208255919.png"
+        },
+        {
+          "keyword": "Top rated roofing services Raleigh NC",
+          "rank": 67,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r67_serp69_1778208425926.png"
+        },
+        {
+          "keyword": "Best siding company Greensboro NC",
+          "rank": 2,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778208483050.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778208255919.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 13
+    },
+    "map_ranks": [
+      {
+        "keyword": "Roofing contractor Durham NC",
+        "rank": 15,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778275234052.png"
+      },
+      {
+        "keyword": "Best siding company Greensboro NC",
+        "rank": 4,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp3_1778275570256.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 1,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778275234052.png"
+  },
+  "total_scans": 2
+}

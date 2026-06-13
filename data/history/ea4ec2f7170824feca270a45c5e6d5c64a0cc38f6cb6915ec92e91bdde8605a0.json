@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:4299585541076914482",
+  "gmbKey": "loc:4299585541076914482",
+  "business_name": "CR SocalPaints",
+  "location": "locations/4299585541076914482",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-25T20:32:07.665Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 45
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-25T20:32:07.665Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 45
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

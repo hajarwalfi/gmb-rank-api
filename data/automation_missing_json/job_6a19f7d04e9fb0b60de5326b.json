@@ -1,0 +1,179 @@
+{
+  "jobId": "6a19f7d04e9fb0b60de5326b",
+  "createdAt": "2026-05-29T20:32:17.444Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-29T20:32:16.062Z",
+  "status": "failed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2861070402378047921",
+      "locationTitle": "BESTONE INTERLOCK"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "10040719921196814792",
+      "locationTitle": "Brooclean Corp."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16756694296051834178",
+      "locationTitle": "Cabrera Garage Doors"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4708194182258459115",
+      "locationTitle": "Comfy Air Heating and Air Conditioning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "7002875250698127073",
+      "locationTitle": "Dina’s Painting & More LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "12787375351606584839",
+      "locationTitle": "JVBS Painting and Texture LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13516172458940082984",
+      "locationTitle": "MrLawnCare"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "15235211264712709814",
+      "locationTitle": "MY SUMMER POOL SERVICES LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9115115377797894007",
+      "locationTitle": "SwiftWolf hauling"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "15165022199564728203",
+      "locationTitle": "Vilchez Landscaping Construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "12249046764824602977",
+      "locationTitle": "XPro Window Film"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2861070402378047921",
+      "locationTitle": "BESTONE INTERLOCK"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10040719921196814792",
+      "locationTitle": "Brooclean Corp."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16756694296051834178",
+      "locationTitle": "Cabrera Garage Doors"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4708194182258459115",
+      "locationTitle": "Comfy Air Heating and Air Conditioning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7002875250698127073",
+      "locationTitle": "Dina’s Painting & More LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12787375351606584839",
+      "locationTitle": "JVBS Painting and Texture LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13516172458940082984",
+      "locationTitle": "MrLawnCare"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15235211264712709814",
+      "locationTitle": "MY SUMMER POOL SERVICES LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2861070402378047921",
+      "locationTitle": "BESTONE INTERLOCK",
+      "gmbKey": "loc:2861070402378047921",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T20:33:23.437Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10040719921196814792",
+      "locationTitle": "Brooclean Corp.",
+      "gmbKey": "loc:10040719921196814792",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T20:36:45.635Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16756694296051834178",
+      "locationTitle": "Cabrera Garage Doors",
+      "gmbKey": "loc:16756694296051834178",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T20:40:41.629Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4708194182258459115",
+      "locationTitle": "Comfy Air Heating and Air Conditioning",
+      "gmbKey": "loc:4708194182258459115",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T20:41:52.591Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7002875250698127073",
+      "locationTitle": "Dina’s Painting & More LLC",
+      "gmbKey": "loc:7002875250698127073",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T20:48:10.380Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12787375351606584839",
+      "locationTitle": "JVBS Painting and Texture LLC",
+      "gmbKey": "loc:12787375351606584839",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T20:49:14.529Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13516172458940082984",
+      "locationTitle": "MrLawnCare",
+      "gmbKey": "loc:13516172458940082984",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T20:50:36.912Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15235211264712709814",
+      "locationTitle": "MY SUMMER POOL SERVICES LLC",
+      "gmbKey": "loc:15235211264712709814",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-29T21:01:55.548Z"
+    }
+  ],
+  "updatedAt": "2026-05-29T21:01:56.961Z"
+}

@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:5442778849846054174",
+  "gmbKey": "loc:5442778849846054174",
+  "business_name": "Bayhaulers",
+  "location": "locations/5442778849846054174",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 17,
+        "calls": 0,
+        "impressions": 43
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 17,
+      "calls": 0,
+      "impressions": 43
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,153 @@
+{
+  "business_id": "loc:1281812399130514949",
+  "gmbKey": "loc:1281812399130514949",
+  "business_name": "Clean It",
+  "location": "locations/1281812399130514949",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "cleaning service Winder GA",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117179993.png"
+        },
+        {
+          "keyword": "affordable cleaning near me",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117274552.png"
+        },
+        {
+          "keyword": "top rated cleaning services Winder",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117519613.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117179993.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 8
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated office cleaning Winder Georgia",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778238427241.png"
+        },
+        {
+          "keyword": "Emergency cleaning services Winder GA",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778238471342.png"
+        },
+        {
+          "keyword": "Best residential cleaning Winder Georgia",
+          "rank": 2,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1778238514006.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778238427241.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 21
+    },
+    "map_ranks": [
+      {
+        "keyword": "cleaning service Winder GA",
+        "rank": 1,
+        "volume": 1,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117179993.png"
+      },
+      {
+        "keyword": "affordable cleaning near me",
+        "rank": 1,
+        "volume": 1,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117274552.png"
+      },
+      {
+        "keyword": "top rated cleaning services Winder",
+        "rank": 1,
+        "volume": 1,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117519613.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117179993.png"
+  },
+  "total_scans": 3
+}

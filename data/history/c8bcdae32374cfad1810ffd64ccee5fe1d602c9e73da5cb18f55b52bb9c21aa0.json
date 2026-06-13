@@ -1,0 +1,62 @@
+{
+  "business_id": "loc:17696118172092220908",
+  "gmbKey": "loc:17696118172092220908",
+  "business_name": "G&G Expert Solutions Llc",
+  "location": "locations/17696118172092220908",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-16T20:31:50.718Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 2
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable construction in Orlando, FL",
+          "rank": 28,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp28_1778963857051.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp28_1778963857051.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-16T20:31:50.718Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 2
+    },
+    "map_ranks": [
+      {
+        "keyword": "affordable construction in Orlando, FL",
+        "rank": 28,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp28_1778963857051.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp28_1778963857051.png"
+  },
+  "total_scans": 1
+}

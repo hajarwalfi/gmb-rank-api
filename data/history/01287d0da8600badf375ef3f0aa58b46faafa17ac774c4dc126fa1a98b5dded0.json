@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:4708194182258459115",
+  "gmbKey": "loc:4708194182258459115",
+  "business_name": "Comfy Air Heating and Air Conditioning",
+  "location": "locations/4708194182258459115",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-29T20:32:18.468Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 28,
+        "calls": 4,
+        "impressions": 100
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 10,
+        "average_rating": 4.5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-29T20:32:18.468Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 28,
+      "calls": 4,
+      "impressions": 100
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 10,
+      "average_rating": 4.5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

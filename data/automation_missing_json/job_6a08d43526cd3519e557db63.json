@@ -1,0 +1,107 @@
+{
+  "jobId": "6a08d43526cd3519e557db63",
+  "createdAt": "2026-05-16T20:31:49.919Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-16T20:31:48.764Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16965717843954823932",
+      "locationTitle": "Abel jr landscaping LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "17696118172092220908",
+      "locationTitle": "G&G Expert Solutions Llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9197090000166540299",
+      "locationTitle": "Landscaping Service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16841299430719642138",
+      "locationTitle": "Miranda Lawn Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4741097461137676814",
+      "locationTitle": "Trends Painting Solutions"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16965717843954823932",
+      "locationTitle": "Abel jr landscaping LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17696118172092220908",
+      "locationTitle": "G&G Expert Solutions Llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9197090000166540299",
+      "locationTitle": "Landscaping Service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16841299430719642138",
+      "locationTitle": "Miranda Lawn Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4741097461137676814",
+      "locationTitle": "Trends Painting Solutions"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16965717843954823932",
+      "locationTitle": "Abel jr landscaping LLC",
+      "gmbKey": "loc:16965717843954823932",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-16T20:34:21.282Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17696118172092220908",
+      "locationTitle": "G&G Expert Solutions Llc",
+      "gmbKey": "loc:17696118172092220908",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-16T20:38:38.097Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9197090000166540299",
+      "locationTitle": "Landscaping Service",
+      "gmbKey": "loc:9197090000166540299",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-16T20:44:26.957Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16841299430719642138",
+      "locationTitle": "Miranda Lawn Services",
+      "gmbKey": "loc:16841299430719642138",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-16T20:50:10.764Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4741097461137676814",
+      "locationTitle": "Trends Painting Solutions",
+      "gmbKey": "loc:4741097461137676814",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-16T20:53:53.452Z"
+    }
+  ],
+  "updatedAt": "2026-05-16T20:53:54.388Z"
+}

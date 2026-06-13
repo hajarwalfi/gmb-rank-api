@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:8831503953098191707",
+  "gmbKey": "loc:8831503953098191707",
+  "business_name": "WA Home Repairs and Remodeling",
+  "location": "locations/8831503953098191707",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable home repairs Richmond TX",
+          "rank": 2,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778281448027.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778281448027.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable home repairs Richmond TX",
+          "rank": 2,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp4_1778225093646.png"
+        },
+        {
+          "keyword": "Professional bathroom repairs Richmond TX",
+          "rank": 6,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778225228988.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp4_1778225093646.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable home repairs Richmond TX",
+        "rank": 2,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778281448027.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778281448027.png"
+  },
+  "total_scans": 2
+}

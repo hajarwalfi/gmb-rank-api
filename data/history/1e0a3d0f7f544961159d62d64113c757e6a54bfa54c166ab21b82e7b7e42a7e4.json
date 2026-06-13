@@ -1,0 +1,79 @@
+{
+  "business_id": "loc:11771957831634633213",
+  "gmbKey": "loc:11771957831634633213",
+  "business_name": "RG Quality Moving and Storage",
+  "location": "locations/11771957831634633213",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency Moving Services Fredericksburg VA 22401",
+          "rank": 14,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778273758662.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778273758662.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 18
+    },
+    "map_ranks": [
+      {
+        "keyword": "Emergency Moving Services Fredericksburg VA 22401",
+        "rank": 14,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778273758662.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778273758662.png"
+  },
+  "total_scans": 2
+}

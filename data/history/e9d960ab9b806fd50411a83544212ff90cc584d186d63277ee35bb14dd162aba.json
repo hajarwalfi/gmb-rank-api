@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:12907929371836491034",
+  "gmbKey": "loc:12907929371836491034",
+  "business_name": "Balam Roofing",
+  "location": "locations/12907929371836491034",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 22,
+        "direction_requests": 25,
+        "calls": 1,
+        "impressions": 95
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 23,
+        "calls": 1,
+        "impressions": 32
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 21,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 22,
+      "direction_requests": 25,
+      "calls": 1,
+      "impressions": 95
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 13,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

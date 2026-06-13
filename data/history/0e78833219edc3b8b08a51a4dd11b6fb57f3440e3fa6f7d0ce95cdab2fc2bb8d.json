@@ -1,0 +1,110 @@
+{
+  "business_id": "loc:5311909017159137677",
+  "gmbKey": "loc:5311909017159137677",
+  "business_name": "ACS Enterprises",
+  "location": "locations/5311909017159137677",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 0,
+        "calls": 9,
+        "impressions": 141
+      },
+      "map_ranks": [
+        {
+          "keyword": "water damage restoration Midland, TX",
+          "rank": 7,
+          "volume": 13,
+          "daily_traffic": 0.9,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779096871300.png"
+        },
+        {
+          "keyword": "emergency flood cleanup Odessa, TX",
+          "rank": 11,
+          "volume": 13,
+          "daily_traffic": 0.9,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779096974696.png"
+        },
+        {
+          "keyword": "mold remediation Goldsmith, TX",
+          "rank": 25,
+          "volume": 13,
+          "daily_traffic": 0.9,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp25_1779097145638.png"
+        },
+        {
+          "keyword": "best flood restoration Garden City, TX",
+          "rank": 58,
+          "volume": 13,
+          "daily_traffic": 0.9,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp58_1779097484990.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 348,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779096871300.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 0,
+      "calls": 9,
+      "impressions": 141
+    },
+    "map_ranks": [
+      {
+        "keyword": "water damage restoration Midland, TX",
+        "rank": 7,
+        "volume": 13,
+        "daily_traffic": 0.9,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779096871300.png"
+      },
+      {
+        "keyword": "emergency flood cleanup Odessa, TX",
+        "rank": 11,
+        "volume": 13,
+        "daily_traffic": 0.9,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779096974696.png"
+      },
+      {
+        "keyword": "mold remediation Goldsmith, TX",
+        "rank": 25,
+        "volume": 13,
+        "daily_traffic": 0.9,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp25_1779097145638.png"
+      },
+      {
+        "keyword": "best flood restoration Garden City, TX",
+        "rank": 58,
+        "volume": 13,
+        "daily_traffic": 0.9,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp58_1779097484990.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 348,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779096871300.png"
+  },
+  "total_scans": 1
+}

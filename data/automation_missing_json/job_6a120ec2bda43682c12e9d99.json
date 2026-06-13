@@ -1,0 +1,50 @@
+{
+  "jobId": "6a120ec2bda43682c12e9d99",
+  "createdAt": "2026-05-23T20:32:03.309Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-23T20:32:01.948Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "3574645602882368363",
+      "locationTitle": "Castillo Construction Solutions"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13023164284118074449",
+      "locationTitle": "Cortez Roofing LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3574645602882368363",
+      "locationTitle": "Castillo Construction Solutions"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13023164284118074449",
+      "locationTitle": "Cortez Roofing LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3574645602882368363",
+      "locationTitle": "Castillo Construction Solutions",
+      "gmbKey": "loc:3574645602882368363",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-23T20:33:13.903Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13023164284118074449",
+      "locationTitle": "Cortez Roofing LLC",
+      "gmbKey": "loc:13023164284118074449",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-23T20:36:39.473Z"
+    }
+  ],
+  "updatedAt": "2026-05-23T20:36:40.458Z"
+}

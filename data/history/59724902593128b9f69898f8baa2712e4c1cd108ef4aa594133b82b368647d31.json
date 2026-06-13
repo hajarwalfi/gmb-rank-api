@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:1481962886277231709",
+  "gmbKey": "loc:1481962886277231709",
+  "business_name": "MAK Home Repairs LLC",
+  "location": "locations/1481962886277231709",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 11,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency Home Repair Greenacres Florida",
+          "rank": 1,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778263432666.png"
+        },
+        {
+          "keyword": "Professional Home Maintenance Delray Beach Florida",
+          "rank": 4,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778263517534.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778263432666.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 11,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable Handyman Services Parkland Florida",
+          "rank": 3,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp5_1778194367139.png"
+        },
+        {
+          "keyword": "Professional Home Maintenance Delray Beach Florida",
+          "rank": 5,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp6_1778194545996.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp5_1778194367139.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 11,
+      "calls": 0,
+      "impressions": 18
+    },
+    "map_ranks": [
+      {
+        "keyword": "Emergency Home Repair Greenacres Florida",
+        "rank": 1,
+        "volume": 11,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 11,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778263432666.png"
+      },
+      {
+        "keyword": "Professional Home Maintenance Delray Beach Florida",
+        "rank": 4,
+        "volume": 11,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 11,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778263517534.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778263432666.png"
+  },
+  "total_scans": 2
+}

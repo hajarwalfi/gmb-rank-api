@@ -1,0 +1,183 @@
+{
+  "jobId": "6a1754e12ab21ff9f601fb60",
+  "createdAt": "2026-05-27T20:32:34.667Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-27T20:32:33.187Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "3272919105663561429",
+      "locationTitle": "Aldia Carpentry and Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13161648948181084883",
+      "locationTitle": "Arango Air Solutions Corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16740565445920140729",
+      "locationTitle": "Complete Carpet Cleaning, LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16794383390416505291",
+      "locationTitle": "G&S Pressure Washing CLT LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11078116118609308273",
+      "locationTitle": "Infinite Painting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11347054802416008214",
+      "locationTitle": "Jerry Painting Property Care"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "18182127343225659075",
+      "locationTitle": "Mercedes Landscaping LLC."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9079906024936184312",
+      "locationTitle": "Quick solution sewer & drain"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5740022224561862335",
+      "locationTitle": "Summit core LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3272919105663561429",
+      "locationTitle": "Aldia Carpentry and Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13161648948181084883",
+      "locationTitle": "Arango Air Solutions Corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16740565445920140729",
+      "locationTitle": "Complete Carpet Cleaning, LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16794383390416505291",
+      "locationTitle": "G&S Pressure Washing CLT LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11078116118609308273",
+      "locationTitle": "Infinite Painting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11347054802416008214",
+      "locationTitle": "Jerry Painting Property Care"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18182127343225659075",
+      "locationTitle": "Mercedes Landscaping LLC."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9079906024936184312",
+      "locationTitle": "Quick solution sewer & drain"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5740022224561862335",
+      "locationTitle": "Summit core LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3272919105663561429",
+      "locationTitle": "Aldia Carpentry and Services LLC",
+      "gmbKey": "loc:3272919105663561429",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:33:46.949Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13161648948181084883",
+      "locationTitle": "Arango Air Solutions Corp",
+      "gmbKey": "loc:13161648948181084883",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:35:09.374Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16740565445920140729",
+      "locationTitle": "Complete Carpet Cleaning, LLC",
+      "gmbKey": "loc:16740565445920140729",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:41:01.657Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16794383390416505291",
+      "locationTitle": "G&S Pressure Washing CLT LLC",
+      "gmbKey": "loc:16794383390416505291",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:46:59.503Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11078116118609308273",
+      "locationTitle": "Infinite Painting LLC",
+      "gmbKey": "loc:11078116118609308273",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:48:58.930Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11347054802416008214",
+      "locationTitle": "Jerry Painting Property Care",
+      "gmbKey": "loc:11347054802416008214",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:50:35.810Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18182127343225659075",
+      "locationTitle": "Mercedes Landscaping LLC.",
+      "gmbKey": "loc:18182127343225659075",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:52:08.016Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9079906024936184312",
+      "locationTitle": "Quick solution sewer & drain",
+      "gmbKey": "loc:9079906024936184312",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:52:55.979Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5740022224561862335",
+      "locationTitle": "Summit core LLC",
+      "gmbKey": "loc:5740022224561862335",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-27T20:53:46.361Z"
+    }
+  ],
+  "updatedAt": "2026-05-27T20:53:47.298Z"
+}

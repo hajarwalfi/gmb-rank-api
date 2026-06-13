@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:17124207444386520477",
+  "gmbKey": "loc:17124207444386520477",
+  "business_name": "Garcia’s construction services llc",
+  "location": "locations/17124207444386520477",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency construction services Savannah GA",
+          "rank": 14,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778249755813.png"
+        },
+        {
+          "keyword": "Savannah GA commercial construction experts",
+          "rank": 31,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1778249792470.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778249755813.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 2
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency construction services Savannah GA",
+          "rank": 15,
+          "volume": 2,
+          "daily_traffic": 1,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp14_1778178323217.png"
+        },
+        {
+          "keyword": "Savannah GA commercial construction experts",
+          "rank": 31,
+          "volume": 2,
+          "daily_traffic": 1,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1778178367470.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp14_1778178323217.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 2,
+      "calls": 0,
+      "impressions": 7
+    },
+    "map_ranks": [
+      {
+        "keyword": "Emergency construction services Savannah GA",
+        "rank": 14,
+        "volume": 3,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778249755813.png"
+      },
+      {
+        "keyword": "Savannah GA commercial construction experts",
+        "rank": 31,
+        "volume": 3,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1778249792470.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778249755813.png"
+  },
+  "total_scans": 2
+}

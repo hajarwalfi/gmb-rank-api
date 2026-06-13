@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:15271876968709013582",
+  "gmbKey": "loc:15271876968709013582",
+  "business_name": "Glim Solar LLC",
+  "location": "locations/15271876968709013582",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 62
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 61,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 7,
+        "calls": 0,
+        "impressions": 40
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 61,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 10,
+      "calls": 0,
+      "impressions": 62
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 61,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

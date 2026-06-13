@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.bak
+.env copy
+.env copy 2
+outputs
+data/reports.json
+*.log
+*.zip

@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:10387883459868356877",
+  "gmbKey": "loc:10387883459868356877",
+  "business_name": "Star Services",
+  "location": "locations/10387883459868356877",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated roofing contractors Terrell TX",
+          "rank": 33,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp33_1778278113569.png"
+        },
+        {
+          "keyword": "Emergency plumbing services Rockwall TX",
+          "rank": 32,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp36_1778278151103.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 15,
+        "average_rating": 4.699999809265137,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp33_1778278113569.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated roofing contractors Terrell TX",
+          "rank": 36,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp36_1778220741212.png"
+        },
+        {
+          "keyword": "Emergency plumbing services Rockwall TX",
+          "rank": 36,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp40_1778220778688.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 15,
+        "average_rating": 4.699999809265137,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp36_1778220741212.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 11
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top rated roofing contractors Terrell TX",
+        "rank": 33,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp33_1778278113569.png"
+      },
+      {
+        "keyword": "Emergency plumbing services Rockwall TX",
+        "rank": 32,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp36_1778278151103.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 15,
+      "average_rating": 4.699999809265137,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp33_1778278113569.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:17097979815858402620",
+  "gmbKey": "loc:17097979815858402620",
+  "business_name": "JA Carpet Cleaning",
+  "location": "locations/17097979815858402620",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 22,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 22,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 21
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 22,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

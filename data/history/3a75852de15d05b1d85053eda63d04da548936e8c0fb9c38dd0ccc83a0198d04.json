@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:15235211264712709814",
+  "gmbKey": "loc:15235211264712709814",
+  "business_name": "MY SUMMER POOL SERVICES LLC",
+  "location": "locations/15235211264712709814",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-29T20:32:18.468Z",
+      "traffic": {
+        "website_clicks": 96,
+        "direction_requests": 38,
+        "calls": 47,
+        "impressions": 1103
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 38,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-29T20:32:18.468Z",
+    "traffic": {
+      "website_clicks": 96,
+      "direction_requests": 38,
+      "calls": 47,
+      "impressions": 1103
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 38,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:16930799471444064747",
+  "gmbKey": "loc:16930799471444064747",
+  "business_name": "Berthas Cleaning and Janitorial LLC",
+  "location": "locations/16930799471444064747",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 1
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-13T20:31:40.104Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 1
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

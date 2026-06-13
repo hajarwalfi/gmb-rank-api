@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:7801682476192782804",
+  "gmbKey": "loc:7801682476192782804",
+  "business_name": "Interior & Design Inc flooring",
+  "location": "locations/7801682476192782804",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 28
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Concrete Epoxy Floor Installation Palm Beach",
+          "rank": 78,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r78_serp78_1778255636095.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 20,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r78_serp78_1778255636095.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Concrete Epoxy Floor Installation Palm Beach",
+          "rank": 78,
+          "volume": 5,
+          "daily_traffic": 1.7,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r78_serp79_1778185901697.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 20,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r78_serp79_1778185901697.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 2,
+      "calls": 0,
+      "impressions": 28
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional Concrete Epoxy Floor Installation Palm Beach",
+        "rank": 78,
+        "volume": 5,
+        "daily_traffic": 1,
+        "estimated_clicks": 5,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r78_serp78_1778255636095.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 20,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r78_serp78_1778255636095.png"
+  },
+  "total_scans": 2
+}

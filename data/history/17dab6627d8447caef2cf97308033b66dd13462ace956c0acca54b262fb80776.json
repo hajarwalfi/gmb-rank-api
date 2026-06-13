@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:2154373113014738986",
+  "gmbKey": "loc:2154373113014738986",
+  "business_name": "Castle family enterprise",
+  "location": "locations/2154373113014738986",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 20
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 20
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

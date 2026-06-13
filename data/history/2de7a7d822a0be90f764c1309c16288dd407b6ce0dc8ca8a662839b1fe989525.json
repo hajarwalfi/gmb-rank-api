@@ -1,0 +1,160 @@
+{
+  "business_id": "loc:5246555356159679170",
+  "gmbKey": "loc:5246555356159679170",
+  "business_name": "Marsha's Cleaning Service LLC",
+  "location": "locations/5246555356159679170",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "best house cleaning service Plainfield NJ",
+          "rank": 12,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp13_1778263687330.png"
+        },
+        {
+          "keyword": "affordable cleaning services Plainfield NJ",
+          "rank": 14,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778263742559.png"
+        },
+        {
+          "keyword": "top rated residential cleaners Plainfield NJ",
+          "rank": 17,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778263787562.png"
+        },
+        {
+          "keyword": "professional home cleaning Plainfield NJ",
+          "rank": 14,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778263831191.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 6,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp13_1778263687330.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "best house cleaning service Plainfield NJ",
+          "rank": 21,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp21_1778194772068.png"
+        },
+        {
+          "keyword": "affordable cleaning services Plainfield NJ",
+          "rank": 16,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp18_1778194895128.png"
+        },
+        {
+          "keyword": "top rated residential cleaners Plainfield NJ",
+          "rank": 23,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp22_1778194935181.png"
+        },
+        {
+          "keyword": "professional home cleaning Plainfield NJ",
+          "rank": 15,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778195067706.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 6,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp21_1778194772068.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 12
+    },
+    "map_ranks": [
+      {
+        "keyword": "best house cleaning service Plainfield NJ",
+        "rank": 12,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp13_1778263687330.png"
+      },
+      {
+        "keyword": "affordable cleaning services Plainfield NJ",
+        "rank": 14,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778263742559.png"
+      },
+      {
+        "keyword": "top rated residential cleaners Plainfield NJ",
+        "rank": 17,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778263787562.png"
+      },
+      {
+        "keyword": "professional home cleaning Plainfield NJ",
+        "rank": 14,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778263831191.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 6,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp13_1778263687330.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:14058186642918712978",
+  "gmbKey": "loc:14058186642918712978",
+  "business_name": "Hugo man tree services",
+  "location": "locations/14058186642918712978",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 27
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency tree services Rio Rancho",
+          "rank": 31,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp30_1778253825515.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 47,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp30_1778253825515.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [
+        {
+          "keyword": "Tree removal service Albuquerque",
+          "rank": 26,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp27_1778183643196.png"
+        },
+        {
+          "keyword": "Emergency tree services Rio Rancho",
+          "rank": 29,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp31_1778183751211.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 43,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp27_1778183643196.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 2,
+      "calls": 0,
+      "impressions": 27
+    },
+    "map_ranks": [
+      {
+        "keyword": "Emergency tree services Rio Rancho",
+        "rank": 31,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp30_1778253825515.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 47,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp30_1778253825515.png"
+  },
+  "total_scans": 2
+}

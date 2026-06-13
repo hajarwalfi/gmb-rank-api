@@ -1,0 +1,94 @@
+{
+  "business_id": "loc:3815647993544598363",
+  "gmbKey": "loc:3815647993544598363",
+  "business_name": "Apd painting and carpentry llc",
+  "location": "locations/3815647993544598363",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 125
+      },
+      "map_ranks": [
+        {
+          "keyword": "construction company Canton GA",
+          "rank": 91,
+          "volume": 17,
+          "daily_traffic": 1.1,
+          "estimated_clicks": 17,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r91_serp89_1779103934770.png"
+        },
+        {
+          "keyword": "best carpentry services Milton GA",
+          "rank": 11,
+          "volume": 17,
+          "daily_traffic": 1.1,
+          "estimated_clicks": 17,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp13_1779104158523.png"
+        },
+        {
+          "keyword": "Roswell GA home renovation services",
+          "rank": 13,
+          "volume": 17,
+          "daily_traffic": 1.1,
+          "estimated_clicks": 17,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp13_1779104360090.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 35,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r91_serp89_1779103934770.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 12,
+      "calls": 0,
+      "impressions": 125
+    },
+    "map_ranks": [
+      {
+        "keyword": "construction company Canton GA",
+        "rank": 91,
+        "volume": 17,
+        "daily_traffic": 1.1,
+        "estimated_clicks": 17,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r91_serp89_1779103934770.png"
+      },
+      {
+        "keyword": "best carpentry services Milton GA",
+        "rank": 11,
+        "volume": 17,
+        "daily_traffic": 1.1,
+        "estimated_clicks": 17,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp13_1779104158523.png"
+      },
+      {
+        "keyword": "Roswell GA home renovation services",
+        "rank": 13,
+        "volume": 17,
+        "daily_traffic": 1.1,
+        "estimated_clicks": 17,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp13_1779104360090.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 35,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r91_serp89_1779103934770.png"
+  },
+  "total_scans": 1
+}

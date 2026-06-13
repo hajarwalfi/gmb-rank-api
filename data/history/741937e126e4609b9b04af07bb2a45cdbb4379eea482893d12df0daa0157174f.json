@@ -1,0 +1,210 @@
+{
+  "business_id": "loc:1838772474877564803",
+  "gmbKey": "loc:1838772474877564803",
+  "business_name": "DG Landscape Inc",
+  "location": "locations/1838772474877564803",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 12,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 80
+      },
+      "map_ranks": [
+        {
+          "keyword": "paisajista en Spanaway",
+          "rank": 3,
+          "volume": 12,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779125569783.png"
+        },
+        {
+          "keyword": "top rated paisajista Spanaway",
+          "rank": 3,
+          "volume": 12,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779126042828.png"
+        },
+        {
+          "keyword": "paisajista affordable Spanaway",
+          "rank": 3,
+          "volume": 12,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779126082351.png"
+        },
+        {
+          "keyword": "paisajista servicios en EE. UU.",
+          "rank": 4,
+          "volume": 12,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1779126172020.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779125569783.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscaping services Spanaway",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778241656406.png"
+        },
+        {
+          "keyword": "affordable landscaping Spanaway",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778241697935.png"
+        },
+        {
+          "keyword": "best landscaper Spanaway",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778241738272.png"
+        },
+        {
+          "keyword": "professional landscape design Spanaway",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp3_1778241782805.png"
+        },
+        {
+          "keyword": "top rated landscape contractor Spanaway",
+          "rank": 19,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1778241833127.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778241656406.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 19
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscaping services Spanaway",
+          "rank": 16,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1778171084499.png"
+        },
+        {
+          "keyword": "professional landscape design Spanaway",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778171442836.png"
+        },
+        {
+          "keyword": "top rated landscape contractor Spanaway",
+          "rank": 13,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp19_1778171476082.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1778171084499.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 12,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 80
+    },
+    "map_ranks": [
+      {
+        "keyword": "paisajista en Spanaway",
+        "rank": 3,
+        "volume": 12,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 12,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779125569783.png"
+      },
+      {
+        "keyword": "top rated paisajista Spanaway",
+        "rank": 3,
+        "volume": 12,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 12,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779126042828.png"
+      },
+      {
+        "keyword": "paisajista affordable Spanaway",
+        "rank": 3,
+        "volume": 12,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 12,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779126082351.png"
+      },
+      {
+        "keyword": "paisajista servicios en EE. UU.",
+        "rank": 4,
+        "volume": 12,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 12,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1779126172020.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779125569783.png"
+  },
+  "total_scans": 3
+}

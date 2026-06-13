@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:13161648948181084883",
+  "gmbKey": "loc:13161648948181084883",
+  "business_name": "Arango Air Solutions Corp",
+  "location": "locations/13161648948181084883",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-27T20:32:35.635Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 31,
+        "calls": 0,
+        "impressions": 65
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-27T20:32:35.635Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 31,
+      "calls": 0,
+      "impressions": 65
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

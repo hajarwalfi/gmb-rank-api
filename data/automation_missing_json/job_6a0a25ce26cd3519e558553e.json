@@ -1,0 +1,69 @@
+{
+  "jobId": "6a0a25ce26cd3519e558553e",
+  "createdAt": "2026-05-17T20:32:14.758Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-17T20:32:13.530Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "579068556314215685",
+      "locationTitle": "AJ REMODELING AND ROOFING LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "10146086616799090076",
+      "locationTitle": "Arty's Pressure Washing Inc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "12537687015346677989",
+      "locationTitle": "ERC Painting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/579068556314215685",
+      "locationTitle": "AJ REMODELING AND ROOFING LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10146086616799090076",
+      "locationTitle": "Arty's Pressure Washing Inc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12537687015346677989",
+      "locationTitle": "ERC Painting LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/579068556314215685",
+      "locationTitle": "AJ REMODELING AND ROOFING LLC",
+      "gmbKey": "loc:579068556314215685",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-17T20:41:03.271Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10146086616799090076",
+      "locationTitle": "Arty's Pressure Washing Inc",
+      "gmbKey": "loc:10146086616799090076",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-17T20:47:05.734Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12537687015346677989",
+      "locationTitle": "ERC Painting LLC",
+      "gmbKey": "loc:12537687015346677989",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-17T20:50:07.991Z"
+    }
+  ],
+  "updatedAt": "2026-05-17T20:50:08.924Z"
+}

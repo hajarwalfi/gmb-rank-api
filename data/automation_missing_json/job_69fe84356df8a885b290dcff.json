@@ -1,0 +1,31 @@
+{
+  "jobId": "69fe84356df8a885b290dcff",
+  "createdAt": "2026-05-09T00:47:49.735Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-09T00:47:48.673Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14666755524950922261",
+      "locationTitle": "MCL TOTAL REMODELING LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14666755524950922261",
+      "locationTitle": "MCL TOTAL REMODELING LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14666755524950922261",
+      "locationTitle": "MCL TOTAL REMODELING LLC",
+      "gmbKey": "loc:14666755524950922261",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-09T00:49:14.681Z"
+    }
+  ],
+  "updatedAt": "2026-05-09T00:49:15.522Z"
+}

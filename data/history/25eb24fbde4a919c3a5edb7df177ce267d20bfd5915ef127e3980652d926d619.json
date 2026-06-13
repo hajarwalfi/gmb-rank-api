@@ -1,0 +1,154 @@
+{
+  "business_id": "loc:14090339184646834009",
+  "gmbKey": "loc:14090339184646834009",
+  "business_name": "America pool plastering",
+  "location": "locations/14090339184646834009",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 0,
+        "calls": 4,
+        "impressions": 89
+      },
+      "map_ranks": [
+        {
+          "keyword": "contratista de piscinas en Silverdale",
+          "rank": 16,
+          "volume": 13,
+          "daily_traffic": 0.9,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779099755844.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 15,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779099755844.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 32
+      },
+      "map_ranks": [
+        {
+          "keyword": "Pool plastering Silverdale PA",
+          "rank": 2,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778230381329.png"
+        },
+        {
+          "keyword": "Top rated pool plastering services Silverdale PA",
+          "rank": 1,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778230648797.png"
+        },
+        {
+          "keyword": "Professional pool contractors Perkasie PA 18944",
+          "rank": 5,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp4_1778230703917.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 14,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778230381329.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 27
+      },
+      "map_ranks": [
+        {
+          "keyword": "Pool plastering Silverdale PA",
+          "rank": 2,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778160031136.png"
+        },
+        {
+          "keyword": "Affordable pool plastering Perkasie PA 18944",
+          "rank": 1,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp4_1778160075059.png"
+        },
+        {
+          "keyword": "Top rated pool plastering services Silverdale PA",
+          "rank": 2,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1778160185866.png"
+        },
+        {
+          "keyword": "Professional pool contractors Perkasie PA 18944",
+          "rank": 4,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778160229996.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 14,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778160031136.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 9,
+      "direction_requests": 0,
+      "calls": 4,
+      "impressions": 89
+    },
+    "map_ranks": [
+      {
+        "keyword": "contratista de piscinas en Silverdale",
+        "rank": 16,
+        "volume": 13,
+        "daily_traffic": 0.9,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779099755844.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 15,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779099755844.png"
+  },
+  "total_scans": 3
+}

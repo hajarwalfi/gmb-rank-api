@@ -1,0 +1,50 @@
+{
+  "jobId": "6a04dfaaf7b4d15fa17ec611",
+  "createdAt": "2026-05-13T20:31:39.405Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-13T20:31:38.066Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16930799471444064747",
+      "locationTitle": "Berthas Cleaning and Janitorial LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14195204052390953517",
+      "locationTitle": "Home Improvement Kitchen & Bath"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16930799471444064747",
+      "locationTitle": "Berthas Cleaning and Janitorial LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14195204052390953517",
+      "locationTitle": "Home Improvement Kitchen & Bath"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16930799471444064747",
+      "locationTitle": "Berthas Cleaning and Janitorial LLC",
+      "gmbKey": "loc:16930799471444064747",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-13T20:33:21.267Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14195204052390953517",
+      "locationTitle": "Home Improvement Kitchen & Bath",
+      "gmbKey": "loc:14195204052390953517",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-13T20:35:07.732Z"
+    }
+  ],
+  "updatedAt": "2026-05-13T20:35:08.672Z"
+}

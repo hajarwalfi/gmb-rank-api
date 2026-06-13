@@ -1,0 +1,138 @@
+{
+  "business_id": "loc:12079170944296747404",
+  "gmbKey": "loc:12079170944296747404",
+  "business_name": "Bclean Bhealthy Cleaning Services Joplin Mo",
+  "location": "locations/12079170944296747404",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 20,
+        "calls": 1,
+        "impressions": 93
+      },
+      "map_ranks": [
+        {
+          "keyword": "cleaning services in Joplin, MO",
+          "rank": 6,
+          "volume": 31,
+          "daily_traffic": 2.1,
+          "estimated_clicks": 31,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779109426381.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 33,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779109426381.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 33
+      },
+      "map_ranks": [
+        {
+          "keyword": "Bcleaning Services Joplin MO",
+          "rank": 5,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778234861951.png"
+        },
+        {
+          "keyword": "Affordable Cleaning Services Webb City MO",
+          "rank": 23,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp22_1778234916464.png"
+        },
+        {
+          "keyword": "Top Rated House Cleaning Duenweg MO",
+          "rank": 61,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r61_serp78_1778235100036.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 32,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778234861951.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 20
+      },
+      "map_ranks": [
+        {
+          "keyword": "Bcleaning Services Joplin MO",
+          "rank": 4,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778162887878.png"
+        },
+        {
+          "keyword": "Affordable Cleaning Services Webb City MO",
+          "rank": 23,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp22_1778162925170.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 32,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778162887878.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 10,
+      "direction_requests": 20,
+      "calls": 1,
+      "impressions": 93
+    },
+    "map_ranks": [
+      {
+        "keyword": "cleaning services in Joplin, MO",
+        "rank": 6,
+        "volume": 31,
+        "daily_traffic": 2.1,
+        "estimated_clicks": 31,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779109426381.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 33,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779109426381.png"
+  },
+  "total_scans": 3
+}

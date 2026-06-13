@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:4846382155334033192",
+  "gmbKey": "loc:4846382155334033192",
+  "business_name": "Sandoval pro painting",
+  "location": "locations/4846382155334033192",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional painting services Bergen County NJ",
+          "rank": 39,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778277277849.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778277277849.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional painting services Bergen County NJ",
+          "rank": 32,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp37_1778219792415.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp37_1778219792415.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional painting services Bergen County NJ",
+        "rank": 39,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778277277849.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778277277849.png"
+  },
+  "total_scans": 2
+}

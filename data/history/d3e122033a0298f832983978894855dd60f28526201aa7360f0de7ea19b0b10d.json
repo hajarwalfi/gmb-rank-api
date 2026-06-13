@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:4894657700349044620",
+  "gmbKey": "loc:4894657700349044620",
+  "business_name": "Rivas Cleaning Service",
+  "location": "locations/4894657700349044620",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 21,
+        "calls": 0,
+        "impressions": 62
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional cleaning service Chicago, IL",
+          "rank": 19,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp16_1778274127287.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 66,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp16_1778274127287.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 21,
+        "calls": 0,
+        "impressions": 43
+      },
+      "map_ranks": [
+        {
+          "keyword": "Janitorial service Chicago, IL",
+          "rank": 18,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp19_1778206998538.png"
+        },
+        {
+          "keyword": "Professional cleaning service Chicago, IL",
+          "rank": 21,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp21_1778207082633.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 66,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp19_1778206998538.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 21,
+      "calls": 0,
+      "impressions": 62
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional cleaning service Chicago, IL",
+        "rank": 19,
+        "volume": 26,
+        "daily_traffic": 5.2,
+        "estimated_clicks": 26,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp16_1778274127287.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 66,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp16_1778274127287.png"
+  },
+  "total_scans": 2
+}

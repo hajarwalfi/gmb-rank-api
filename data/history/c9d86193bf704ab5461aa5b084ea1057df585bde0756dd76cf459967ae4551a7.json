@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:6578608753842630183",
+  "gmbKey": "loc:6578608753842630183",
+  "business_name": "Universal Painting LLC",
+  "location": "locations/6578608753842630183",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-28T20:32:13.297Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 32,
+        "calls": 2,
+        "impressions": 46
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 5,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-28T20:32:13.297Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 32,
+      "calls": 2,
+      "impressions": 46
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 5,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

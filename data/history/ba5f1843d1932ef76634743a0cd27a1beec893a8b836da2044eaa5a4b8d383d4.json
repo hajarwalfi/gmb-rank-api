@@ -1,0 +1,95 @@
+{
+  "business_id": "loc:17822191974829876449",
+  "gmbKey": "loc:17822191974829876449",
+  "business_name": "Looking good painting and remodeling LLC",
+  "location": "locations/17822191974829876449",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 12,
+        "calls": 1,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable painting contractors Walstonburg NC",
+          "rank": 42,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp43_1778261268214.png"
+        },
+        {
+          "keyword": "professional painting and remodeling Walstonburg NC",
+          "rank": 2,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778261333605.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp43_1778261268214.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 12,
+        "calls": 1,
+        "impressions": 9
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 12,
+      "calls": 1,
+      "impressions": 9
+    },
+    "map_ranks": [
+      {
+        "keyword": "affordable painting contractors Walstonburg NC",
+        "rank": 42,
+        "volume": 14,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp43_1778261268214.png"
+      },
+      {
+        "keyword": "professional painting and remodeling Walstonburg NC",
+        "rank": 2,
+        "volume": 14,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778261333605.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp43_1778261268214.png"
+  },
+  "total_scans": 2
+}

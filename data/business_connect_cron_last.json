@@ -1,0 +1,33 @@
+{
+  "ts": "2026-06-02T22:31:29.387Z",
+  "phase": "completed",
+  "ok": true,
+  "outputPath": "/4Born-Server/Server/4Born-Solutions/Clickup-Backend/clickupbackend/google-search-ranking/server/data/business-connect.json",
+  "jsonWritten": true,
+  "summary": {
+    "totalPaying": 471,
+    "linkedCount": 445,
+    "notConnectedCount": 26,
+    "withReviewsCount": 445,
+    "byRegion": {
+      "es": {
+        "totalPaying": 392,
+        "linkedCount": 372,
+        "notConnectedCount": 20,
+        "withReviewsCount": 372
+      },
+      "us": {
+        "totalPaying": 77,
+        "linkedCount": 71,
+        "notConnectedCount": 6,
+        "withReviewsCount": 71
+      },
+      "br": {
+        "totalPaying": 2,
+        "linkedCount": 2,
+        "notConnectedCount": 0,
+        "withReviewsCount": 2
+      }
+    }
+  }
+}

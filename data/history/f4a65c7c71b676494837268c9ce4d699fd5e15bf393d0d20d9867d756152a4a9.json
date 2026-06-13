@@ -1,0 +1,62 @@
+{
+  "business_id": "loc:7567013204668845999",
+  "gmbKey": "loc:7567013204668845999",
+  "business_name": "City Care USA, LLC",
+  "location": "locations/7567013204668845999",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-28T20:32:13.297Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 24
+      },
+      "map_ranks": [
+        {
+          "keyword": "best tree service Portland, OR",
+          "rank": 6,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1780000942317.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1780000942317.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-28T20:32:13.297Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 24
+    },
+    "map_ranks": [
+      {
+        "keyword": "best tree service Portland, OR",
+        "rank": 6,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1780000942317.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 1,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1780000942317.png"
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,95 @@
+{
+  "business_id": "loc:5336200737624344852",
+  "gmbKey": "loc:5336200737624344852",
+  "business_name": "TORRES PAVERS SERVICES LLC",
+  "location": "locations/5336200737624344852",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 9,
+        "calls": 1,
+        "impressions": 31
+      },
+      "map_ranks": [
+        {
+          "keyword": "best paving services Hialeah Florida",
+          "rank": 11,
+          "volume": 13,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778280621764.png"
+        },
+        {
+          "keyword": "professional paving solutions Aventura Florida",
+          "rank": 20,
+          "volume": 13,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp20_1778280672782.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 23,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778280621764.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 9,
+        "calls": 1,
+        "impressions": 31
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 23,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 9,
+      "calls": 1,
+      "impressions": 31
+    },
+    "map_ranks": [
+      {
+        "keyword": "best paving services Hialeah Florida",
+        "rank": 11,
+        "volume": 13,
+        "daily_traffic": 3.3,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778280621764.png"
+      },
+      {
+        "keyword": "professional paving solutions Aventura Florida",
+        "rank": 20,
+        "volume": 13,
+        "daily_traffic": 3.3,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp20_1778280672782.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 23,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778280621764.png"
+  },
+  "total_scans": 2
+}

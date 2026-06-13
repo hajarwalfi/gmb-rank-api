@@ -1,0 +1,221 @@
+{
+  "jobId": "6a14b1c62ab21ff9f60084cb",
+  "createdAt": "2026-05-25T20:32:06.714Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-25T20:32:05.704Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5621417999772744856",
+      "locationTitle": "Alikai cleaning house service llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9036396468467747233",
+      "locationTitle": "Cattaleya Brilliant Cleaning Service LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4299585541076914482",
+      "locationTitle": "CR SocalPaints"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13492841054284832693",
+      "locationTitle": "Dany’s cleaning services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14029012360490922150",
+      "locationTitle": "Francisco's landscape"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13353397927463742398",
+      "locationTitle": "Grupo Naivan 2013"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "3523037409073306411",
+      "locationTitle": "Jr Paint Solutions Inc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2875070524822474617",
+      "locationTitle": "Master Roofing & Flooring LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "10707279322568885026",
+      "locationTitle": "SKYSTONE CONSTRUCTION"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "12459158617548608806",
+      "locationTitle": "Velasco Painting & construction LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8738471271435906009",
+      "locationTitle": "W&G Remodeling INC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5621417999772744856",
+      "locationTitle": "Alikai cleaning house service llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9036396468467747233",
+      "locationTitle": "Cattaleya Brilliant Cleaning Service LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4299585541076914482",
+      "locationTitle": "CR SocalPaints"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13492841054284832693",
+      "locationTitle": "Dany’s cleaning services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14029012360490922150",
+      "locationTitle": "Francisco's landscape"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13353397927463742398",
+      "locationTitle": "Grupo Naivan 2013"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3523037409073306411",
+      "locationTitle": "Jr Paint Solutions Inc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2875070524822474617",
+      "locationTitle": "Master Roofing & Flooring LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10707279322568885026",
+      "locationTitle": "SKYSTONE CONSTRUCTION"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12459158617548608806",
+      "locationTitle": "Velasco Painting & construction LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8738471271435906009",
+      "locationTitle": "W&G Remodeling INC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5621417999772744856",
+      "locationTitle": "Alikai cleaning house service llc",
+      "gmbKey": "loc:5621417999772744856",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:33:14.455Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9036396468467747233",
+      "locationTitle": "Cattaleya Brilliant Cleaning Service LLC",
+      "gmbKey": "loc:9036396468467747233",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:34:28.556Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4299585541076914482",
+      "locationTitle": "CR SocalPaints",
+      "gmbKey": "loc:4299585541076914482",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:35:29.879Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13492841054284832693",
+      "locationTitle": "Dany’s cleaning services LLC",
+      "gmbKey": "loc:13492841054284832693",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:37:28.004Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14029012360490922150",
+      "locationTitle": "Francisco's landscape",
+      "gmbKey": "loc:14029012360490922150",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:39:20.336Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13353397927463742398",
+      "locationTitle": "Grupo Naivan 2013",
+      "gmbKey": "loc:13353397927463742398",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:40:29.561Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3523037409073306411",
+      "locationTitle": "Jr Paint Solutions Inc",
+      "gmbKey": "loc:3523037409073306411",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:50:51.131Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2875070524822474617",
+      "locationTitle": "Master Roofing & Flooring LLC",
+      "gmbKey": "loc:2875070524822474617",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:56:22.859Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10707279322568885026",
+      "locationTitle": "SKYSTONE CONSTRUCTION",
+      "gmbKey": "loc:10707279322568885026",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T20:57:23.975Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12459158617548608806",
+      "locationTitle": "Velasco Painting & construction LLC",
+      "gmbKey": "loc:12459158617548608806",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T21:01:12.767Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8738471271435906009",
+      "locationTitle": "W&G Remodeling INC",
+      "gmbKey": "loc:8738471271435906009",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T21:12:07.328Z"
+    }
+  ],
+  "updatedAt": "2026-05-25T21:12:08.255Z"
+}

@@ -1,0 +1,130 @@
+{
+  "business_id": "loc:8113351579379754068",
+  "gmbKey": "loc:8113351579379754068",
+  "business_name": "Dany & Lalo Services LLC",
+  "location": "locations/8113351579379754068",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 38
+      },
+      "map_ranks": [
+        {
+          "keyword": "best construction services in 94080",
+          "rank": 24,
+          "volume": 2,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1779123346751.png"
+        },
+        {
+          "keyword": "top rated construction firm South San Francisco",
+          "rank": 38,
+          "volume": 2,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp38_1779123478249.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1779123346751.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best construction company South San Francisco",
+          "rank": 23,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp25_1778240824763.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 10,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp25_1778240824763.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Reliable building services South San Francisco",
+          "rank": 8,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778170707924.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 10,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778170707924.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 38
+    },
+    "map_ranks": [
+      {
+        "keyword": "best construction services in 94080",
+        "rank": 24,
+        "volume": 2,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1779123346751.png"
+      },
+      {
+        "keyword": "top rated construction firm South San Francisco",
+        "rank": 38,
+        "volume": 2,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp38_1779123478249.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 13,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1779123346751.png"
+  },
+  "total_scans": 3
+}

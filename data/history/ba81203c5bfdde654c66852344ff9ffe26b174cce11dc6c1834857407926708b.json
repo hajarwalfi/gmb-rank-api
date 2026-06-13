@@ -1,0 +1,126 @@
+{
+  "business_id": "loc:17141622747280373051",
+  "gmbKey": "loc:17141622747280373051",
+  "business_name": "J&I Contractors LLC",
+  "location": "locations/17141622747280373051",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-20T20:31:53.744Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 18,
+        "calls": 1,
+        "impressions": 99
+      },
+      "map_ranks": [
+        {
+          "keyword": "contractor in Bowie, MD",
+          "rank": 2,
+          "volume": 29,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 29,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779309957648.png"
+        },
+        {
+          "keyword": "affordable contractor in Laurel, MD",
+          "rank": 8,
+          "volume": 29,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 29,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1779310056215.png"
+        },
+        {
+          "keyword": "top rated contractor near me",
+          "rank": 15,
+          "volume": 29,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 29,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp17_1779310149589.png"
+        },
+        {
+          "keyword": "emergency contractor in Germantown, MD",
+          "rank": 14,
+          "volume": 29,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 29,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp4_1779310278188.png"
+        },
+        {
+          "keyword": "best contractor in Silver Spring, MD",
+          "rank": 6,
+          "volume": 29,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 29,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779310382838.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 15,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779309957648.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-20T20:31:53.744Z",
+    "traffic": {
+      "website_clicks": 10,
+      "direction_requests": 18,
+      "calls": 1,
+      "impressions": 99
+    },
+    "map_ranks": [
+      {
+        "keyword": "contractor in Bowie, MD",
+        "rank": 2,
+        "volume": 29,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 29,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779309957648.png"
+      },
+      {
+        "keyword": "affordable contractor in Laurel, MD",
+        "rank": 8,
+        "volume": 29,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 29,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1779310056215.png"
+      },
+      {
+        "keyword": "top rated contractor near me",
+        "rank": 15,
+        "volume": 29,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 29,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp17_1779310149589.png"
+      },
+      {
+        "keyword": "emergency contractor in Germantown, MD",
+        "rank": 14,
+        "volume": 29,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 29,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp4_1779310278188.png"
+      },
+      {
+        "keyword": "best contractor in Silver Spring, MD",
+        "rank": 6,
+        "volume": 29,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 29,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779310382838.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 15,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779309957648.png"
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:2334489855505037976",
+  "gmbKey": "loc:2334489855505037976",
+  "business_name": "Claudia Cleaning Services",
+  "location": "locations/2334489855505037976",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 23,
+        "calls": 0,
+        "impressions": 86
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 27
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 20
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 23,
+      "calls": 0,
+      "impressions": 86
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

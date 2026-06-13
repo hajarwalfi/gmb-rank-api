@@ -1,0 +1,62 @@
+{
+  "business_id": "loc:14660710656384846779",
+  "gmbKey": "loc:14660710656384846779",
+  "business_name": "CERRATO FRAMING COMPANY LLC",
+  "location": "locations/14660710656384846779",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-06-02T20:32:55.796Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "deck builder in Durham NC",
+          "rank": 51,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_slot11_1780433024872.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_slot11_1780433024872.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-06-02T20:32:55.796Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "deck builder in Durham NC",
+        "rank": 51,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_slot11_1780433024872.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_slot11_1780433024872.png"
+  },
+  "total_scans": 1
+}

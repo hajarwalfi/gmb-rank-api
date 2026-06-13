@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:9943082160960779158",
+  "gmbKey": "loc:9943082160960779158",
+  "business_name": "Reyes Roofing and More LLC",
+  "location": "locations/9943082160960779158",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 44
+      },
+      "map_ranks": [
+        {
+          "keyword": "Reyes Roofing Boardman Ohio",
+          "rank": 1,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778273341794.png"
+        },
+        {
+          "keyword": "Emergency Roofing Repair Youngstown Ohio",
+          "rank": 24,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp28_1778273670157.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 52,
+        "average_rating": 4.699999809265137,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778273341794.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 40
+      },
+      "map_ranks": [
+        {
+          "keyword": "Reyes Roofing Boardman Ohio",
+          "rank": 1,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778206182415.png"
+        },
+        {
+          "keyword": "Top Rated Roof Installation Austintown Ohio",
+          "rank": 17,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778206429361.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 52,
+        "average_rating": 4.699999809265137,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778206182415.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 12,
+      "calls": 0,
+      "impressions": 44
+    },
+    "map_ranks": [
+      {
+        "keyword": "Reyes Roofing Boardman Ohio",
+        "rank": 1,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778273341794.png"
+      },
+      {
+        "keyword": "Emergency Roofing Repair Youngstown Ohio",
+        "rank": 24,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp28_1778273670157.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 52,
+      "average_rating": 4.699999809265137,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778273341794.png"
+  },
+  "total_scans": 2
+}

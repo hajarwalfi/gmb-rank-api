@@ -1,0 +1,31 @@
+{
+  "jobId": "6a1e9490d11bb6dcd14a279d",
+  "createdAt": "2026-06-02T08:30:09.218Z",
+  "allLocations": false,
+  "scheduledAt": "2026-06-02T08:40:00.000Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "15789341246826822449",
+      "locationTitle": "Apollo Pools"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15789341246826822449",
+      "locationTitle": "Apollo Pools"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15789341246826822449",
+      "locationTitle": "Apollo Pools",
+      "gmbKey": "loc:15789341246826822449",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T08:43:42.879Z"
+    }
+  ],
+  "updatedAt": "2026-06-02T08:43:43.766Z"
+}

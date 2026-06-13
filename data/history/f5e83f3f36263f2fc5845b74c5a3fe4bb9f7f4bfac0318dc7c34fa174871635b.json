@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:12653638315162996834",
+  "gmbKey": "loc:12653638315162996834",
+  "business_name": "pedro stucco services",
+  "location": "locations/12653638315162996834",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Stucco contractor Dallas TX",
+          "rank": 10,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778270787133.png"
+        },
+        {
+          "keyword": "Top rated stucco services Arlington TX",
+          "rank": 10,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778270922798.png"
+        },
+        {
+          "keyword": "Professional stucco installation Keller TX",
+          "rank": 12,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp9_1778271060867.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778270787133.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Stucco contractor Dallas TX",
+          "rank": 10,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778203548443.png"
+        },
+        {
+          "keyword": "Top rated stucco services Arlington TX",
+          "rank": 15,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778203602932.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778203548443.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 18
+    },
+    "map_ranks": [
+      {
+        "keyword": "Stucco contractor Dallas TX",
+        "rank": 10,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778270787133.png"
+      },
+      {
+        "keyword": "Top rated stucco services Arlington TX",
+        "rank": 10,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778270922798.png"
+      },
+      {
+        "keyword": "Professional stucco installation Keller TX",
+        "rank": 12,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp9_1778271060867.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 3,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778270787133.png"
+  },
+  "total_scans": 2
+}

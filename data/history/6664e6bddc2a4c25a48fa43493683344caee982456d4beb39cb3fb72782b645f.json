@@ -1,0 +1,70 @@
+{
+  "business_id": "loc:17834567359244788429",
+  "gmbKey": "loc:17834567359244788429",
+  "business_name": "JYN MULTISERVICIOS LLC",
+  "location": "locations/17834567359244788429",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 4,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 4,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Patio de juegos cubierto Orlando",
+          "rank": 45,
+          "volume": 4,
+          "daily_traffic": 1,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_serp44_1778189467119.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_serp44_1778189467119.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 4,
+      "calls": 0,
+      "impressions": 14
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,234 @@
+{
+  "business_id": "loc:11740146302205772985",
+  "gmbKey": "loc:11740146302205772985",
+  "business_name": "EZ Painting Plus",
+  "location": "locations/11740146302205772985",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 59
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable painters in Norwalk, CT",
+          "rank": 12,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp10_1779133288337.png"
+        },
+        {
+          "keyword": "top rated painting in Stamford, CT",
+          "rank": 9,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp8_1779133375002.png"
+        },
+        {
+          "keyword": "best house painting Fairfield, CT",
+          "rank": 73,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r73_serp72_1779133475290.png"
+        },
+        {
+          "keyword": "same day painting in Redding, CT",
+          "rank": 44,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r44_serp44_1779133558058.png"
+        },
+        {
+          "keyword": "emergency painting Trumbull, CT",
+          "rank": 25,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp26_1779133651366.png"
+        },
+        {
+          "keyword": "painters near me",
+          "rank": 56,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r56_serp55_1779133787833.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 38,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp10_1779133288337.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 19
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best painting services Easton CT",
+          "rank": 14,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp13_1778247939714.png"
+        },
+        {
+          "keyword": "Affordable house painters Norwalk CT",
+          "rank": 5,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp7_1778247975651.png"
+        },
+        {
+          "keyword": "Top rated commercial painting Stamford CT",
+          "rank": 11,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778248024743.png"
+        },
+        {
+          "keyword": "Professional interior painting Fairfield CT",
+          "rank": 52,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r52_serp52_1778248068667.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 38,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp13_1778247939714.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best painting services Easton CT",
+          "rank": 14,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778175634910.png"
+        },
+        {
+          "keyword": "Affordable house painters Norwalk CT",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp4_1778175688735.png"
+        },
+        {
+          "keyword": "Professional interior painting Fairfield CT",
+          "rank": 53,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r53_serp53_1778175895597.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 38,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778175634910.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 9,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 59
+    },
+    "map_ranks": [
+      {
+        "keyword": "affordable painters in Norwalk, CT",
+        "rank": 12,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp10_1779133288337.png"
+      },
+      {
+        "keyword": "top rated painting in Stamford, CT",
+        "rank": 9,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp8_1779133375002.png"
+      },
+      {
+        "keyword": "best house painting Fairfield, CT",
+        "rank": 73,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r73_serp72_1779133475290.png"
+      },
+      {
+        "keyword": "same day painting in Redding, CT",
+        "rank": 44,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r44_serp44_1779133558058.png"
+      },
+      {
+        "keyword": "emergency painting Trumbull, CT",
+        "rank": 25,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp26_1779133651366.png"
+      },
+      {
+        "keyword": "painters near me",
+        "rank": 56,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r56_serp55_1779133787833.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 38,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp10_1779133288337.png"
+  },
+  "total_scans": 3
+}

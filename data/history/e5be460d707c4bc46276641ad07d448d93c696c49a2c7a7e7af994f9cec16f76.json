@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:15911056506473028308",
+  "gmbKey": "loc:15911056506473028308",
+  "business_name": "EMT Emergency Mobile Tint",
+  "location": "locations/15911056506473028308",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 63
+      },
+      "map_ranks": [
+        {
+          "keyword": "window tinting La Mesa",
+          "rank": 58,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp58_1779130941659.png"
+        },
+        {
+          "keyword": "affordable window tinting El Cajon",
+          "rank": 62,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r62_serp61_1779131028863.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 24,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp58_1779130941659.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 63
+    },
+    "map_ranks": [
+      {
+        "keyword": "window tinting La Mesa",
+        "rank": 58,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp58_1779130941659.png"
+      },
+      {
+        "keyword": "affordable window tinting El Cajon",
+        "rank": 62,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r62_serp61_1779131028863.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 24,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r58_serp58_1779130941659.png"
+  },
+  "total_scans": 1
+}

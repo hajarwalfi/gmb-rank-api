@@ -1,0 +1,62 @@
+{
+  "business_id": "loc:2190750627329621945",
+  "gmbKey": "loc:2190750627329621945",
+  "business_name": "Duny Twins Events & Rental",
+  "location": "locations/2190750627329621945",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-20T20:31:53.744Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "event management in Cape Coral",
+          "rank": 30,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1779309202714.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1779309202714.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-20T20:31:53.744Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 12
+    },
+    "map_ranks": [
+      {
+        "keyword": "event management in Cape Coral",
+        "rank": 30,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1779309202714.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1779309202714.png"
+  },
+  "total_scans": 1
+}

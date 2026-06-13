@@ -1,0 +1,314 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, "Segoe UI", Arial, sans-serif;
+  background: #f4f7fb;
+  color: #0f172a;
+}
+
+.page {
+  max-width: 980px;
+  margin: 22px auto;
+  padding: 0 14px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 14px;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.06);
+}
+
+h1 {
+  margin: 0 0 6px;
+  font-size: 34px;
+}
+
+h2 {
+  margin: 0 0 4px;
+}
+
+.subtitle {
+  margin: 0 0 16px;
+  color: #475569;
+}
+
+.tabs {
+  display: inline-flex;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 18px;
+}
+
+.tab {
+  border: none;
+  background: #fff;
+  color: #111827;
+  font-weight: 700;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.tab.active {
+  background: #2563eb;
+  color: #fff;
+}
+
+.formGrid {
+  display: grid;
+  grid-template-columns: 210px 1fr;
+  gap: 12px 16px;
+  align-items: center;
+}
+
+label {
+  font-weight: 700;
+}
+
+input {
+  width: 100%;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 15px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15);
+}
+
+.autocomplete {
+  position: relative;
+}
+
+.menu {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  max-height: 260px;
+  overflow-y: auto;
+  z-index: 40;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.12);
+}
+
+.menuItem {
+  display: block;
+  width: 100%;
+  text-align: left;
+  border: none;
+  background: transparent;
+  padding: 10px 12px;
+  border-bottom: 1px solid #f1f5f9;
+  font-size: 14px;
+}
+
+.menuButton {
+  cursor: pointer;
+}
+
+.menuButton:hover {
+  background: #eff6ff;
+}
+
+.hint {
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: #64748b;
+}
+
+.actions {
+  margin-top: 14px;
+}
+
+.submitBtn {
+  border: none;
+  background: #2563eb;
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 9px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.submitBtn:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+
+.message {
+  margin-top: 12px;
+  font-size: 14px;
+}
+
+.message.ok {
+  color: #1e40af;
+}
+
+.message.error {
+  color: #b91c1c;
+}
+
+.scoreHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.scorePanel {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.scoreItem {
+  text-align: right;
+}
+
+.scoreLabel {
+  font-size: 10px;
+  font-weight: 700;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 2px;
+}
+
+.scoreValue {
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.scoreValue.small {
+  font-size: 24px;
+}
+
+.status {
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 12px;
+  display: inline-block;
+  padding: 4px 10px;
+}
+
+.status.good {
+  color: #15803d;
+  background: #dcfce7;
+}
+
+.status.average {
+  color: #b45309;
+  background: #fef3c7;
+}
+
+.status.poor {
+  color: #b91c1c;
+  background: #fee2e2;
+}
+
+.muted,
+.metaRow {
+  color: #64748b;
+  font-size: 13px;
+}
+
+.checklist {
+  margin-top: 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.checkItem {
+  padding: 12px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.checkItem.ranked {
+  display: block;
+}
+
+.checkHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.stepLabel {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.reasonText {
+  font-size: 13px;
+  color: #475569;
+  line-height: 1.5;
+  background: #f8fafc;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border-left: 3px solid #cbd5e1;
+}
+
+.checkItem:last-child {
+  border-bottom: none;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.badge {
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+}
+
+.badge.yes {
+  color: #15803d;
+  background: #dcfce7;
+}
+
+.badge.neutral {
+  color: #b45309;
+  background: #fef3c7;
+}
+
+.badge.no {
+  color: #b91c1c;
+  background: #fee2e2;
+}
+
+@media (max-width: 760px) {
+  .formGrid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .scoreHeader {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .scorePanel {
+    text-align: left;
+  }
+}

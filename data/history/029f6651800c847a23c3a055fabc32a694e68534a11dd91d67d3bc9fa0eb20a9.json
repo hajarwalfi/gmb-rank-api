@@ -1,0 +1,152 @@
+{
+  "business_id": "loc:10980689686421515073",
+  "gmbKey": "loc:10980689686421515073",
+  "business_name": "Premium Roofing LLC",
+  "location": "locations/10980689686421515073",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [
+        {
+          "keyword": "Premium roofing services Flagstaff AZ",
+          "rank": 1,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778271936428.png"
+        },
+        {
+          "keyword": "Affordable roofing contractors Flagstaff AZ",
+          "rank": 41,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp42_1778271969237.png"
+        },
+        {
+          "keyword": "Top rated roofing company Flagstaff AZ",
+          "rank": 39,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp37_1778272154071.png"
+        },
+        {
+          "keyword": "Professional roof installation Flagstaff AZ",
+          "rank": 33,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp35_1778272192819.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 4,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778271936428.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "Premium roofing services Flagstaff AZ",
+          "rank": 1,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778204677027.png"
+        },
+        {
+          "keyword": "Emergency roof repair Flagstaff AZ",
+          "rank": 33,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp33_1778204976909.png"
+        },
+        {
+          "keyword": "Top rated roofing company Flagstaff AZ",
+          "rank": 40,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r40_serp40_1778205010491.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 4,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778204677027.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 9,
+      "calls": 0,
+      "impressions": 16
+    },
+    "map_ranks": [
+      {
+        "keyword": "Premium roofing services Flagstaff AZ",
+        "rank": 1,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778271936428.png"
+      },
+      {
+        "keyword": "Affordable roofing contractors Flagstaff AZ",
+        "rank": 41,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp42_1778271969237.png"
+      },
+      {
+        "keyword": "Top rated roofing company Flagstaff AZ",
+        "rank": 39,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp37_1778272154071.png"
+      },
+      {
+        "keyword": "Professional roof installation Flagstaff AZ",
+        "rank": 33,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp35_1778272192819.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 4,
+      "average_rating": 4,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778271936428.png"
+  },
+  "total_scans": 2
+}

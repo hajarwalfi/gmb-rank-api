@@ -1,0 +1,277 @@
+{
+  "business_id": "loc:2941962860397160218",
+  "gmbKey": "loc:2941962860397160218",
+  "business_name": "Ac hardwood Floors llc",
+  "location": "locations/2941962860397160218",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 29,
+        "calls": 0,
+        "impressions": 64
+      },
+      "map_ranks": [
+        {
+          "keyword": "floor sanding in Hi-Nella, NJ",
+          "rank": 27,
+          "volume": 36,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 36,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp25_1779058364966.png"
+        },
+        {
+          "keyword": "top rated floor polishing Magnolia, NJ",
+          "rank": 2,
+          "volume": 36,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 36,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779058496267.png"
+        },
+        {
+          "keyword": "affordable floor sanding Woodbury, NJ",
+          "rank": 20,
+          "volume": 36,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 36,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp5_1779058638092.png"
+        },
+        {
+          "keyword": "best floor polishing near me",
+          "rank": 33,
+          "volume": 36,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 36,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp30_1779058762903.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 16,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp25_1779058364966.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 13,
+        "calls": 0,
+        "impressions": 19
+      },
+      "map_ranks": [
+        {
+          "keyword": "Floor sanding service Hi-Nella NJ",
+          "rank": 21,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp21_1778228111437.png"
+        },
+        {
+          "keyword": "Affordable floor polishing Magnolia NJ",
+          "rank": 8,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778228147897.png"
+        },
+        {
+          "keyword": "Professional floor sanding Glassboro NJ",
+          "rank": 8,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778228363398.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp21_1778228111437.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 13,
+        "calls": 0,
+        "impressions": 19
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Floor sanding service Hi-Nella NJ",
+          "rank": 22,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp21_1778158147040.png"
+        },
+        {
+          "keyword": "Affordable floor polishing Magnolia NJ",
+          "rank": 7,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1778158190248.png"
+        },
+        {
+          "keyword": "Professional floor sanding Glassboro NJ",
+          "rank": 8,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778158462866.png"
+        },
+        {
+          "keyword": "Emergency floor repair Philadelphia PA",
+          "rank": 8,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1778158615376.png"
+        },
+        {
+          "keyword": "Best hardwood floor service Cherry Hill Township NJ",
+          "rank": 16,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1778158665023.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp21_1778158147040.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T11:46:45.762Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable floor polishing Magnolia NJ",
+          "rank": 10,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp5_1778154696471.png"
+        },
+        {
+          "keyword": "Top rated hardwood floor refinishing Woodbury NJ",
+          "rank": 7,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp2_1778154733477.png"
+        },
+        {
+          "keyword": "Professional floor sanding Glassboro NJ",
+          "rank": 8,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp7_1778154772079.png"
+        },
+        {
+          "keyword": "Best hardwood floor service Cherry Hill Township NJ",
+          "rank": 29,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp31_1778154961869.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp5_1778154696471.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 7,
+      "direction_requests": 29,
+      "calls": 0,
+      "impressions": 64
+    },
+    "map_ranks": [
+      {
+        "keyword": "floor sanding in Hi-Nella, NJ",
+        "rank": 27,
+        "volume": 36,
+        "daily_traffic": 2.4,
+        "estimated_clicks": 36,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp25_1779058364966.png"
+      },
+      {
+        "keyword": "top rated floor polishing Magnolia, NJ",
+        "rank": 2,
+        "volume": 36,
+        "daily_traffic": 2.4,
+        "estimated_clicks": 36,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779058496267.png"
+      },
+      {
+        "keyword": "affordable floor sanding Woodbury, NJ",
+        "rank": 20,
+        "volume": 36,
+        "daily_traffic": 2.4,
+        "estimated_clicks": 36,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp5_1779058638092.png"
+      },
+      {
+        "keyword": "best floor polishing near me",
+        "rank": 33,
+        "volume": 36,
+        "daily_traffic": 2.4,
+        "estimated_clicks": 36,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp30_1779058762903.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 16,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp25_1779058364966.png"
+  },
+  "total_scans": 5
+}

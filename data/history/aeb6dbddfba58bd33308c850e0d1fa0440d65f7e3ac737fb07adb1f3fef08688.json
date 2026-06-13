@@ -1,0 +1,162 @@
+{
+  "business_id": "loc:5281384853328488475",
+  "gmbKey": "loc:5281384853328488475",
+  "business_name": "Contre one",
+  "location": "locations/5281384853328488475",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 7,
+        "calls": 0,
+        "impressions": 34
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscape designer Harvard IL",
+          "rank": 7,
+          "volume": 8,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779120514719.png"
+        },
+        {
+          "keyword": "landscape design services Harvard IL",
+          "rank": 22,
+          "volume": 8,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp22_1779120783259.png"
+        },
+        {
+          "keyword": "landscape designer services Harvard IL",
+          "rank": 24,
+          "volume": 8,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp28_1779120944127.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779120514719.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [
+        {
+          "keyword": "professional landscaping Harvard IL",
+          "rank": 22,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp38_1778239881411.png"
+        },
+        {
+          "keyword": "emergency landscape design Harvard IL",
+          "rank": 18,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp19_1778239934362.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp38_1778239881411.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscape designer Harvard IL",
+          "rank": 5,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp11_1778169021185.png"
+        },
+        {
+          "keyword": "professional landscaping Harvard IL",
+          "rank": 25,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp37_1778169139127.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp11_1778169021185.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 7,
+      "calls": 0,
+      "impressions": 34
+    },
+    "map_ranks": [
+      {
+        "keyword": "landscape designer Harvard IL",
+        "rank": 7,
+        "volume": 8,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779120514719.png"
+      },
+      {
+        "keyword": "landscape design services Harvard IL",
+        "rank": 22,
+        "volume": 8,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp22_1779120783259.png"
+      },
+      {
+        "keyword": "landscape designer services Harvard IL",
+        "rank": 24,
+        "volume": 8,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp28_1779120944127.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 2,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779120514719.png"
+  },
+  "total_scans": 3
+}

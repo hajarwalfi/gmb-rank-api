@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:10698649080258172683",
+  "gmbKey": "loc:10698649080258172683",
+  "business_name": "To Movers",
+  "location": "locations/10698649080258172683",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 20
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional moving services Kendall Florida",
+          "rank": 1,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778280355605.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 55,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778280355605.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 20
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional moving services Kendall Florida",
+          "rank": 1,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778223357160.png"
+        },
+        {
+          "keyword": "Top rated moving company Homestead Florida",
+          "rank": 5,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778223405632.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 55,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778223357160.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 20
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional moving services Kendall Florida",
+        "rank": 1,
+        "volume": 3,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778280355605.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 55,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778280355605.png"
+  },
+  "total_scans": 2
+}

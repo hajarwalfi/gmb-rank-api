@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:12537687015346677989",
+  "gmbKey": "loc:12537687015346677989",
+  "business_name": "ERC Painting LLC",
+  "location": "locations/12537687015346677989",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-06-02T20:32:55.796Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 81,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 26,
+        "calls": 2,
+        "impressions": 109
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated painters in Everett, WA",
+          "rank": 28,
+          "volume": 37,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 37,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp28_1779131843102.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 78,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp28_1779131843102.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-17T20:32:15.437Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 26,
+        "calls": 2,
+        "impressions": 109
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated painters in Everett, WA",
+          "rank": 29,
+          "volume": 37,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 37,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp34_1779051001126.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 78,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp34_1779051001126.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-06-02T20:32:55.796Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 81,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

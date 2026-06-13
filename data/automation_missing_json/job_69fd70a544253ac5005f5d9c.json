@@ -1,0 +1,905 @@
+{
+  "jobId": "69fd70a544253ac5005f5d9c",
+  "createdAt": "2026-05-08T05:12:06.240Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-08T05:25:00.000Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9101741679994009427",
+      "locationTitle": "Bramos Tree Solution"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "15447992281028582777",
+      "locationTitle": "Centaurus Land Services and Concrete"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4297376950610915266",
+      "locationTitle": "Cleaning Service FL LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2729186517167974306",
+      "locationTitle": "DELROB Construction & Landscape LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "140421025260318402",
+      "locationTitle": "ELEGANT FINISHES PAINTING"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "17097979815858402620",
+      "locationTitle": "JA Carpet Cleaning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "3087568104233750505",
+      "locationTitle": "Lainez Electric"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11388721988664948445",
+      "locationTitle": "S&C PAINTING AND MORE LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16777747998044248773",
+      "locationTitle": "Sal Cleaning LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8517946603857712409",
+      "locationTitle": "SALMERON PAINTING & REMODELING LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4846382155334033192",
+      "locationTitle": "Sandoval pro painting"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16805105204315830624",
+      "locationTitle": "Service Express Cleaning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "1291408549378423837",
+      "locationTitle": "Shalom foundation repair llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5663675911848266066",
+      "locationTitle": "Shark Pressure Washing East & Detailing"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5466253909869057600",
+      "locationTitle": "Sofo Irrigation Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "1700859999529911991",
+      "locationTitle": "Soramid drywall and paint llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "10387883459868356877",
+      "locationTitle": "Star Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "7454929397320675236",
+      "locationTitle": "Sunrise Exterior LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "1091142065500770741",
+      "locationTitle": "Sunset Tropical Landscaping"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13960762505033195450",
+      "locationTitle": "Sur Fence & Gates"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "12605769111882141371",
+      "locationTitle": "Sussy's Cleaning Service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11445309505025474215",
+      "locationTitle": "Susy’s House Cleanings LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2450334554629301580",
+      "locationTitle": "TCH Professional Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4391102944856612340",
+      "locationTitle": "Terra Fossil Kitchen & Bath LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "373592875090431876",
+      "locationTitle": "Texas Gold Roofing and More"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "3328468487946236043",
+      "locationTitle": "Texas Outdoor Projects"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "7050624561197084957",
+      "locationTitle": "The White Glove Cleaning Service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4611429107167347525",
+      "locationTitle": "Three Stars Painting"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5638022100311328010",
+      "locationTitle": "TI3D Martin SA corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4208900394864613421",
+      "locationTitle": "Tlax Construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5160913042188708500",
+      "locationTitle": "TLC Janitorial Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "10698649080258172683",
+      "locationTitle": "To Movers"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9142411373135127500",
+      "locationTitle": "Tony's Repairs LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5336200737624344852",
+      "locationTitle": "TORRES PAVERS SERVICES LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5307003035019744801",
+      "locationTitle": "Torres Roofing LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5636311824745263103",
+      "locationTitle": "Torres Tavara Coating Corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16485348696891664492",
+      "locationTitle": "TotalPro Exteriors"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13883146155510624377",
+      "locationTitle": "U.S. NEXT"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11662836945083284587",
+      "locationTitle": "United Tri States LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11716019024467517133",
+      "locationTitle": "UR PAINTER"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8479072643090647394",
+      "locationTitle": "Valdez Pavers And Hardscapes LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2173500587556770090",
+      "locationTitle": "Valdivia construction LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "15360429127150189695",
+      "locationTitle": "Villatoro landscaping"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8831503953098191707",
+      "locationTitle": "WA Home Repairs and Remodeling"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16115049464226246410",
+      "locationTitle": "Wildland Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "5819323599562272480",
+      "locationTitle": "World Of Colors Renewal LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14288374485815256008",
+      "locationTitle": "Zavala's Tree Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9101741679994009427",
+      "locationTitle": "Bramos Tree Solution"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15447992281028582777",
+      "locationTitle": "Centaurus Land Services and Concrete"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4297376950610915266",
+      "locationTitle": "Cleaning Service FL LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2729186517167974306",
+      "locationTitle": "DELROB Construction & Landscape LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/140421025260318402",
+      "locationTitle": "ELEGANT FINISHES PAINTING"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17097979815858402620",
+      "locationTitle": "JA Carpet Cleaning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3087568104233750505",
+      "locationTitle": "Lainez Electric"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11388721988664948445",
+      "locationTitle": "S&C PAINTING AND MORE LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16777747998044248773",
+      "locationTitle": "Sal Cleaning LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8517946603857712409",
+      "locationTitle": "SALMERON PAINTING & REMODELING LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4846382155334033192",
+      "locationTitle": "Sandoval pro painting"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16805105204315830624",
+      "locationTitle": "Service Express Cleaning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1291408549378423837",
+      "locationTitle": "Shalom foundation repair llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5663675911848266066",
+      "locationTitle": "Shark Pressure Washing East & Detailing"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5466253909869057600",
+      "locationTitle": "Sofo Irrigation Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1700859999529911991",
+      "locationTitle": "Soramid drywall and paint llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10387883459868356877",
+      "locationTitle": "Star Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7454929397320675236",
+      "locationTitle": "Sunrise Exterior LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1091142065500770741",
+      "locationTitle": "Sunset Tropical Landscaping"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13960762505033195450",
+      "locationTitle": "Sur Fence & Gates"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12605769111882141371",
+      "locationTitle": "Sussy's Cleaning Service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11445309505025474215",
+      "locationTitle": "Susy’s House Cleanings LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2450334554629301580",
+      "locationTitle": "TCH Professional Services LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4391102944856612340",
+      "locationTitle": "Terra Fossil Kitchen & Bath LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/373592875090431876",
+      "locationTitle": "Texas Gold Roofing and More"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3328468487946236043",
+      "locationTitle": "Texas Outdoor Projects"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7050624561197084957",
+      "locationTitle": "The White Glove Cleaning Service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4611429107167347525",
+      "locationTitle": "Three Stars Painting"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5638022100311328010",
+      "locationTitle": "TI3D Martin SA corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4208900394864613421",
+      "locationTitle": "Tlax Construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5160913042188708500",
+      "locationTitle": "TLC Janitorial Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10698649080258172683",
+      "locationTitle": "To Movers"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9142411373135127500",
+      "locationTitle": "Tony's Repairs LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5336200737624344852",
+      "locationTitle": "TORRES PAVERS SERVICES LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5307003035019744801",
+      "locationTitle": "Torres Roofing LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5636311824745263103",
+      "locationTitle": "Torres Tavara Coating Corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16485348696891664492",
+      "locationTitle": "TotalPro Exteriors"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13883146155510624377",
+      "locationTitle": "U.S. NEXT"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11662836945083284587",
+      "locationTitle": "United Tri States LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11716019024467517133",
+      "locationTitle": "UR PAINTER"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8479072643090647394",
+      "locationTitle": "Valdez Pavers And Hardscapes LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2173500587556770090",
+      "locationTitle": "Valdivia construction LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15360429127150189695",
+      "locationTitle": "Villatoro landscaping"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8831503953098191707",
+      "locationTitle": "WA Home Repairs and Remodeling"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16115049464226246410",
+      "locationTitle": "Wildland Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5819323599562272480",
+      "locationTitle": "World Of Colors Renewal LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14288374485815256008",
+      "locationTitle": "Zavala's Tree Services"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9101741679994009427",
+      "locationTitle": "Bramos Tree Solution",
+      "gmbKey": "loc:9101741679994009427",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:26:59.680Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15447992281028582777",
+      "locationTitle": "Centaurus Land Services and Concrete",
+      "gmbKey": "loc:15447992281028582777",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:28:53.813Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4297376950610915266",
+      "locationTitle": "Cleaning Service FL LLC",
+      "gmbKey": "loc:4297376950610915266",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:32:35.951Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2729186517167974306",
+      "locationTitle": "DELROB Construction & Landscape LLC",
+      "gmbKey": "loc:2729186517167974306",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:34:03.412Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/140421025260318402",
+      "locationTitle": "ELEGANT FINISHES PAINTING",
+      "gmbKey": "loc:140421025260318402",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:35:43.186Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17097979815858402620",
+      "locationTitle": "JA Carpet Cleaning",
+      "gmbKey": "loc:17097979815858402620",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:37:12.569Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3087568104233750505",
+      "locationTitle": "Lainez Electric",
+      "gmbKey": "loc:3087568104233750505",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:41:04.664Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11388721988664948445",
+      "locationTitle": "S&C PAINTING AND MORE LLC",
+      "gmbKey": "loc:11388721988664948445",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:50:30.145Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16777747998044248773",
+      "locationTitle": "Sal Cleaning LLC",
+      "gmbKey": "loc:16777747998044248773",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:51:54.178Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8517946603857712409",
+      "locationTitle": "SALMERON PAINTING & REMODELING LLC",
+      "gmbKey": "loc:8517946603857712409",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:55:48.510Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4846382155334033192",
+      "locationTitle": "Sandoval pro painting",
+      "gmbKey": "loc:4846382155334033192",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T05:57:44.136Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16805105204315830624",
+      "locationTitle": "Service Express Cleaning",
+      "gmbKey": "loc:16805105204315830624",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:01:13.698Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1291408549378423837",
+      "locationTitle": "Shalom foundation repair llc",
+      "gmbKey": "loc:1291408549378423837",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:02:53.043Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5663675911848266066",
+      "locationTitle": "Shark Pressure Washing East & Detailing",
+      "gmbKey": "loc:5663675911848266066",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:05:39.223Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5466253909869057600",
+      "locationTitle": "Sofo Irrigation Services LLC",
+      "gmbKey": "loc:5466253909869057600",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:09:28.705Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1700859999529911991",
+      "locationTitle": "Soramid drywall and paint llc",
+      "gmbKey": "loc:1700859999529911991",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:11:17.771Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10387883459868356877",
+      "locationTitle": "Star Services",
+      "gmbKey": "loc:10387883459868356877",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:13:05.509Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7454929397320675236",
+      "locationTitle": "Sunrise Exterior LLC",
+      "gmbKey": "loc:7454929397320675236",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:19:56.845Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1091142065500770741",
+      "locationTitle": "Sunset Tropical Landscaping",
+      "gmbKey": "loc:1091142065500770741",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:21:18.539Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13960762505033195450",
+      "locationTitle": "Sur Fence & Gates",
+      "gmbKey": "loc:13960762505033195450",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:26:32.997Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12605769111882141371",
+      "locationTitle": "Sussy's Cleaning Service",
+      "gmbKey": "loc:12605769111882141371",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:30:04.873Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11445309505025474215",
+      "locationTitle": "Susy’s House Cleanings LLC",
+      "gmbKey": "loc:11445309505025474215",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:31:21.632Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2450334554629301580",
+      "locationTitle": "TCH Professional Services LLC",
+      "gmbKey": "loc:2450334554629301580",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:33:53.251Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4391102944856612340",
+      "locationTitle": "Terra Fossil Kitchen & Bath LLC",
+      "gmbKey": "loc:4391102944856612340",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:35:28.233Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/373592875090431876",
+      "locationTitle": "Texas Gold Roofing and More",
+      "gmbKey": "loc:373592875090431876",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:36:36.308Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3328468487946236043",
+      "locationTitle": "Texas Outdoor Projects",
+      "gmbKey": "loc:3328468487946236043",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:38:02.087Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7050624561197084957",
+      "locationTitle": "The White Glove Cleaning Service",
+      "gmbKey": "loc:7050624561197084957",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:41:19.072Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4611429107167347525",
+      "locationTitle": "Three Stars Painting",
+      "gmbKey": "loc:4611429107167347525",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:45:51.028Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5638022100311328010",
+      "locationTitle": "TI3D Martin SA corp",
+      "gmbKey": "loc:5638022100311328010",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:48:05.173Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4208900394864613421",
+      "locationTitle": "Tlax Construction",
+      "gmbKey": "loc:4208900394864613421",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:50:28.862Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5160913042188708500",
+      "locationTitle": "TLC Janitorial Services",
+      "gmbKey": "loc:5160913042188708500",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:54:41.636Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/10698649080258172683",
+      "locationTitle": "To Movers",
+      "gmbKey": "loc:10698649080258172683",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:57:28.467Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9142411373135127500",
+      "locationTitle": "Tony's Repairs LLC",
+      "gmbKey": "loc:9142411373135127500",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T06:58:35.091Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5336200737624344852",
+      "locationTitle": "TORRES PAVERS SERVICES LLC",
+      "gmbKey": "loc:5336200737624344852",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:05:46.545Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5307003035019744801",
+      "locationTitle": "Torres Roofing LLC",
+      "gmbKey": "loc:5307003035019744801",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:06:54.303Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5636311824745263103",
+      "locationTitle": "Torres Tavara Coating Corp",
+      "gmbKey": "loc:5636311824745263103",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:08:08.302Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16485348696891664492",
+      "locationTitle": "TotalPro Exteriors",
+      "gmbKey": "loc:16485348696891664492",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:10:09.570Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13883146155510624377",
+      "locationTitle": "U.S. NEXT",
+      "gmbKey": "loc:13883146155510624377",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:11:30.769Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11662836945083284587",
+      "locationTitle": "United Tri States LLC",
+      "gmbKey": "loc:11662836945083284587",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:13:18.206Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11716019024467517133",
+      "locationTitle": "UR PAINTER",
+      "gmbKey": "loc:11716019024467517133",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:17:06.153Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8479072643090647394",
+      "locationTitle": "Valdez Pavers And Hardscapes LLC",
+      "gmbKey": "loc:8479072643090647394",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:18:15.855Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2173500587556770090",
+      "locationTitle": "Valdivia construction LLC",
+      "gmbKey": "loc:2173500587556770090",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:20:06.504Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15360429127150189695",
+      "locationTitle": "Villatoro landscaping",
+      "gmbKey": "loc:15360429127150189695",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:21:18.914Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8831503953098191707",
+      "locationTitle": "WA Home Repairs and Remodeling",
+      "gmbKey": "loc:8831503953098191707",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:27:17.509Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16115049464226246410",
+      "locationTitle": "Wildland Services",
+      "gmbKey": "loc:16115049464226246410",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:28:52.765Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/5819323599562272480",
+      "locationTitle": "World Of Colors Renewal LLC",
+      "gmbKey": "loc:5819323599562272480",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:30:20.161Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14288374485815256008",
+      "locationTitle": "Zavala's Tree Services",
+      "gmbKey": "loc:14288374485815256008",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:32:06.870Z"
+    }
+  ],
+  "updatedAt": "2026-05-08T07:32:07.858Z"
+}

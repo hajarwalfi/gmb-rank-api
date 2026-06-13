@@ -1,0 +1,110 @@
+{
+  "business_id": "loc:9197090000166540299",
+  "gmbKey": "loc:9197090000166540299",
+  "business_name": "Landscaping Service",
+  "location": "locations/9197090000166540299",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-16T20:31:50.718Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "paisajista en Laurel, Maryland",
+          "rank": 2,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778964021464.png"
+        },
+        {
+          "keyword": "best paisajista near me",
+          "rank": 4,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778964118513.png"
+        },
+        {
+          "keyword": "paisajista affordable en Laurel",
+          "rank": 2,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778964219410.png"
+        },
+        {
+          "keyword": "top rated paisajista en Maryland",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778964260587.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778964021464.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-16T20:31:50.718Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "paisajista en Laurel, Maryland",
+        "rank": 2,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778964021464.png"
+      },
+      {
+        "keyword": "best paisajista near me",
+        "rank": 4,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778964118513.png"
+      },
+      {
+        "keyword": "paisajista affordable en Laurel",
+        "rank": 2,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778964219410.png"
+      },
+      {
+        "keyword": "top rated paisajista en Maryland",
+        "rank": 1,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778964260587.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778964021464.png"
+  },
+  "total_scans": 1
+}

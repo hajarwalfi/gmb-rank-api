@@ -1,0 +1,20 @@
+{
+  "ts": "2026-06-02T21:02:33.015Z",
+  "phase": "completed",
+  "ok": true,
+  "outputPath": "/4Born-Server/Server/4Born-Solutions/Clickup-Backend/clickupbackend/google-search-ranking/server/data/services-keywords.json",
+  "jsonWritten": true,
+  "summary": {
+    "totalEligible": 469,
+    "gmbLinkedCount": 440,
+    "payingWithoutGmbLink": 29,
+    "withKeywords": 436,
+    "withoutKeywords": 4,
+    "keywordsTotalSum": 2611
+  },
+  "diffSummary": {
+    "newPayingClientsCount": 0,
+    "firstTimeKeywordsCount": 0,
+    "removedClientIdsCount": 0
+  }
+}

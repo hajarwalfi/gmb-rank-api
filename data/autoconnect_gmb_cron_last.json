@@ -1,0 +1,54 @@
+{
+  "ts": "2026-06-02T22:01:17.894Z",
+  "phase": "completed",
+  "ok": true,
+  "jsonWritten": true,
+  "outputPath": "/4Born-Server/Server/4Born-Solutions/Clickup-Backend/clickupbackend/google-search-ranking/server/data/auto-connected-gmb.json",
+  "summary": {
+    "totalPaying": 470,
+    "alreadyLinkedCount": 440,
+    "wouldAutoCount": 4,
+    "manualCount": 20,
+    "noEligibleCount": 6,
+    "sameNameCount": 1,
+    "sameMatchCount": 1,
+    "errors": 0,
+    "byRegion": {
+      "es": {
+        "totalPaying": 391,
+        "alreadyLinkedCount": 367,
+        "wouldAutoCount": 4,
+        "manualCount": 20,
+        "noEligibleCount": 0,
+        "sameNameCount": 1,
+        "sameMatchCount": 1,
+        "errors": 0
+      },
+      "us": {
+        "totalPaying": 77,
+        "alreadyLinkedCount": 71,
+        "wouldAutoCount": 0,
+        "manualCount": 0,
+        "noEligibleCount": 6,
+        "sameNameCount": 0,
+        "sameMatchCount": 0,
+        "errors": 0
+      },
+      "br": {
+        "totalPaying": 2,
+        "alreadyLinkedCount": 2,
+        "wouldAutoCount": 0,
+        "manualCount": 0,
+        "noEligibleCount": 0,
+        "sameNameCount": 0,
+        "sameMatchCount": 0,
+        "errors": 0
+      }
+    }
+  },
+  "mirror": {
+    "mirrored": true,
+    "publicPath": "/4Born-Server/Server/4Born-Solutions/Clickup-Backend/clickupbackend/formflow-buddy/client-hub-admin/public/auto-connected-gmb.json",
+    "rootPath": "/4Born-Server/Server/4Born-Solutions/Clickup-Backend/clickupbackend/formflow-buddy/client-hub-admin/auto-connected-gmb.json"
+  }
+}

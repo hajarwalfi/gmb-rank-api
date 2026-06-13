@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:12867894044997044306",
+  "gmbKey": "loc:12867894044997044306",
+  "business_name": "Enog J.A Remodeling Services LLC",
+  "location": "locations/12867894044997044306",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 107
+      },
+      "map_ranks": [
+        {
+          "keyword": "best contractor in Toms River, NJ",
+          "rank": 13,
+          "volume": 13,
+          "daily_traffic": 0.9,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp12_1779131357808.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 29,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp12_1779131357808.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 34
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 29,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 27
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 29,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 8,
+      "direction_requests": 5,
+      "calls": 0,
+      "impressions": 107
+    },
+    "map_ranks": [
+      {
+        "keyword": "best contractor in Toms River, NJ",
+        "rank": 13,
+        "volume": 13,
+        "daily_traffic": 0.9,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp12_1779131357808.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 29,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp12_1779131357808.png"
+  },
+  "total_scans": 3
+}

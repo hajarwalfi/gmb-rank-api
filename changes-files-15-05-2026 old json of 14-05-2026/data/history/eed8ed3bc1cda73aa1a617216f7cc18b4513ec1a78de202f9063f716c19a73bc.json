@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:18368889266528590526",
+  "gmbKey": "loc:18368889266528590526",
+  "business_name": "VICTOR M REMODELING LLC",
+  "location": "locations/18368889266528590526",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-14T20:32:20.656Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-14T20:32:20.656Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 18
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

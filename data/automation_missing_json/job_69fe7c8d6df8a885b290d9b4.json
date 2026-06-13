@@ -1,0 +1,31 @@
+{
+  "jobId": "69fe7c8d6df8a885b290d9b4",
+  "createdAt": "2026-05-09T00:15:09.679Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-09T00:15:08.350Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "7302041404572146520",
+      "locationTitle": "Clean Air Duct Pros LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7302041404572146520",
+      "locationTitle": "Clean Air Duct Pros LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7302041404572146520",
+      "locationTitle": "Clean Air Duct Pros LLC",
+      "gmbKey": "loc:7302041404572146520",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-09T00:21:23.194Z"
+    }
+  ],
+  "updatedAt": "2026-05-09T00:21:24.080Z"
+}

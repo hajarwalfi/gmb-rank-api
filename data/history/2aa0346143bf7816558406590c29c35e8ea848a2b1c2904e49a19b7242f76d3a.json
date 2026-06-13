@@ -1,0 +1,212 @@
+{
+  "business_id": "loc:2129688905938099930",
+  "gmbKey": "loc:2129688905938099930",
+  "business_name": "AC the Best American Painting INC",
+  "location": "locations/2129688905938099930",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable painter Valrico, FL",
+          "rank": 19,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1779095364879.png"
+        },
+        {
+          "keyword": "best painting services Riverview, FL",
+          "rank": 35,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp30_1779095471886.png"
+        },
+        {
+          "keyword": "top rated painter in Plant City",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779095617910.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1779095364879.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 8
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best painting services Tampa FL",
+          "rank": 32,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp33_1778228920240.png"
+        },
+        {
+          "keyword": "Affordable house painters Valrico FL",
+          "rank": 16,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1778228964722.png"
+        },
+        {
+          "keyword": "Top rated commercial painting Riverview FL",
+          "rank": 49,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp47_1778229157264.png"
+        },
+        {
+          "keyword": "Professional interior painting Plant City FL",
+          "rank": 5,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778229201832.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 76,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp33_1778228920240.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 8
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated commercial painting Riverview FL",
+          "rank": 47,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r47_serp47_1778215006721.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 76,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r47_serp47_1778215006721.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 5
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best painting services Tampa FL",
+          "rank": 40,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r40_serp35_1778158712029.png"
+        },
+        {
+          "keyword": "Affordable house painters Valrico FL",
+          "rank": 14,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp18_1778158748692.png"
+        },
+        {
+          "keyword": "Professional interior painting Plant City FL",
+          "rank": 5,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778158957026.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 76,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r40_serp35_1778158712029.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "affordable painter Valrico, FL",
+        "rank": 19,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1779095364879.png"
+      },
+      {
+        "keyword": "best painting services Riverview, FL",
+        "rank": 35,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp30_1779095471886.png"
+      },
+      {
+        "keyword": "top rated painter in Plant City",
+        "rank": 3,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779095617910.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1779095364879.png"
+  },
+  "total_scans": 4
+}

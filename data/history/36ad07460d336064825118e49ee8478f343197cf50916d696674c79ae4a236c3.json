@@ -1,0 +1,62 @@
+{
+  "business_id": "loc:16841299430719642138",
+  "gmbKey": "loc:16841299430719642138",
+  "business_name": "Miranda Lawn Services",
+  "location": "locations/16841299430719642138",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-16T20:31:50.718Z",
+      "traffic": {
+        "website_clicks": 13,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 86
+      },
+      "map_ranks": [
+        {
+          "keyword": "servicio de jardinería en Taylor",
+          "rank": 21,
+          "volume": 14,
+          "daily_traffic": 1.1,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp22_1778964565349.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 19,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp22_1778964565349.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-16T20:31:50.718Z",
+    "traffic": {
+      "website_clicks": 13,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 86
+    },
+    "map_ranks": [
+      {
+        "keyword": "servicio de jardinería en Taylor",
+        "rank": 21,
+        "volume": 14,
+        "daily_traffic": 1.1,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp22_1778964565349.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 19,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp22_1778964565349.png"
+  },
+  "total_scans": 1
+}

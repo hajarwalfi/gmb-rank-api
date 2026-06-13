@@ -1,0 +1,79 @@
+{
+  "business_id": "loc:769968705873488448",
+  "gmbKey": "loc:769968705873488448",
+  "business_name": "Gunners Painting LLC",
+  "location": "locations/769968705873488448",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:42:35.274Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Painting Services Bartow FL",
+          "rank": 42,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp42_1778226217557.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 22,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp42_1778226217557.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 22,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T07:42:35.274Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 10,
+      "calls": 0,
+      "impressions": 13
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional Painting Services Bartow FL",
+        "rank": 42,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp42_1778226217557.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 22,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp42_1778226217557.png"
+  },
+  "total_scans": 2
+}

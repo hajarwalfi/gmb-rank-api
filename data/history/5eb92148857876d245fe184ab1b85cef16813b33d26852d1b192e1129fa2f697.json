@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:5690642348820931909",
+  "gmbKey": "loc:5690642348820931909",
+  "business_name": "Angel Suarez construction inc",
+  "location": "locations/5690642348820931909",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 26
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 26
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 1,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

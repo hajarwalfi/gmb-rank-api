@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:140421025260318402",
+  "gmbKey": "loc:140421025260318402",
+  "business_name": "ELEGANT FINISHES PAINTING",
+  "location": "locations/140421025260318402",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 24,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 113
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 24,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 47
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 22,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 47
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 22,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 24,
+      "direction_requests": 1,
+      "calls": 0,
+      "impressions": 113
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 24,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

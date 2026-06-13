@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:4741097461137676814",
+  "gmbKey": "loc:4741097461137676814",
+  "business_name": "Trends Painting Solutions",
+  "location": "locations/4741097461137676814",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-16T20:31:50.718Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 31
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-16T20:31:50.718Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 31
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

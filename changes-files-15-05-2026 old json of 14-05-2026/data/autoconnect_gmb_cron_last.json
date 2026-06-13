@@ -1,0 +1,17 @@
+{
+  "ts": "2026-05-14T22:00:31.977Z",
+  "phase": "completed",
+  "ok": true,
+  "jsonWritten": true,
+  "outputPath": "/4Born-Server/Server/4Born-Solutions/Clickup-Backend/clickupbackend/google-search-ranking/server/data/auto-connected-gmb.json",
+  "summary": {
+    "totalPaying": 296,
+    "alreadyLinkedCount": 288,
+    "wouldAutoCount": 0,
+    "manualCount": 8,
+    "noEligibleCount": 0,
+    "sameNameCount": 0,
+    "sameMatchCount": 0,
+    "errors": 0
+  }
+}

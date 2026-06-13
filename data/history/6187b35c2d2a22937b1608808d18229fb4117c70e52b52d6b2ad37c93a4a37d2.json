@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:15618192767916919961",
+  "gmbKey": "loc:15618192767916919961",
+  "business_name": "Enterprise Air Conditioning & Refrigeration",
+  "location": "locations/15618192767916919961",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "HVAC contractor in Weslaco",
+          "rank": 37,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779131459989.png"
+        },
+        {
+          "keyword": "best refrigeration services in Harlingen",
+          "rank": 22,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp25_1779131582159.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 31,
+        "average_rating": 4,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779131459989.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "HVAC contractor in Weslaco",
+        "rank": 37,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779131459989.png"
+      },
+      {
+        "keyword": "best refrigeration services in Harlingen",
+        "rank": 22,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp25_1779131582159.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 31,
+      "average_rating": 4,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779131459989.png"
+  },
+  "total_scans": 1
+}

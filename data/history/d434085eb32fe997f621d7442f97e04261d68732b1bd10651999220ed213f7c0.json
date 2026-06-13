@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:130992217799399117",
+  "gmbKey": "loc:130992217799399117",
+  "business_name": "Cali's cleaning services",
+  "location": "locations/130992217799399117",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-06-02T20:32:55.796Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "house cleaning service Palo Alto",
+          "rank": 85,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_slot5_1780432809925.png"
+        },
+        {
+          "keyword": "house cleaning service San Carlos",
+          "rank": 28,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_slot8_1780432872109.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_slot5_1780432809925.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-06-02T20:32:55.796Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "house cleaning service Palo Alto",
+        "rank": 85,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_slot5_1780432809925.png"
+      },
+      {
+        "keyword": "house cleaning service San Carlos",
+        "rank": 28,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_slot8_1780432872109.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 3,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_slot5_1780432809925.png"
+  },
+  "total_scans": 1
+}

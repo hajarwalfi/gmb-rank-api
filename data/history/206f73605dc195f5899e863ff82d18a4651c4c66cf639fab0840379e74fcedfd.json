@@ -1,0 +1,136 @@
+{
+  "business_id": "loc:4869322655245035523",
+  "gmbKey": "loc:4869322655245035523",
+  "business_name": "K&E HOME IMPROVEMENT AND RENOVATION LLC",
+  "location": "locations/4869322655245035523",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 44
+      },
+      "map_ranks": [
+        {
+          "keyword": "best home improvement Rochester",
+          "rank": 3,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778258458797.png"
+        },
+        {
+          "keyword": "affordable renovation services Rochester",
+          "rank": 32,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp29_1778258500660.png"
+        },
+        {
+          "keyword": "K&E home improvement Rochester",
+          "rank": 1,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778258571573.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778258458797.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 34
+      },
+      "map_ranks": [
+        {
+          "keyword": "best home improvement Rochester",
+          "rank": 3,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp4_1778189600412.png"
+        },
+        {
+          "keyword": "affordable renovation services Rochester",
+          "rank": 36,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp31_1778189635610.png"
+        },
+        {
+          "keyword": "K&E home improvement Rochester",
+          "rank": 1,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778189721469.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp4_1778189600412.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 44
+    },
+    "map_ranks": [
+      {
+        "keyword": "best home improvement Rochester",
+        "rank": 3,
+        "volume": 6,
+        "daily_traffic": 1.2,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778258458797.png"
+      },
+      {
+        "keyword": "affordable renovation services Rochester",
+        "rank": 32,
+        "volume": 6,
+        "daily_traffic": 1.2,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp29_1778258500660.png"
+      },
+      {
+        "keyword": "K&E home improvement Rochester",
+        "rank": 1,
+        "volume": 6,
+        "daily_traffic": 1.2,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778258571573.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778258458797.png"
+  },
+  "total_scans": 2
+}

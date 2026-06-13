@@ -1,0 +1,62 @@
+{
+  "business_id": "loc:16937398568633445480",
+  "gmbKey": "loc:16937398568633445480",
+  "business_name": "Smart Electrical Company Llc",
+  "location": "locations/16937398568633445480",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-20T20:31:53.744Z",
+      "traffic": {
+        "website_clicks": 34,
+        "direction_requests": 17,
+        "calls": 18,
+        "impressions": 425
+      },
+      "map_ranks": [
+        {
+          "keyword": "electrician in Miami",
+          "rank": 23,
+          "volume": 69,
+          "daily_traffic": 3.8,
+          "estimated_clicks": 69,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1779311012061.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 60,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1779311012061.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-20T20:31:53.744Z",
+    "traffic": {
+      "website_clicks": 34,
+      "direction_requests": 17,
+      "calls": 18,
+      "impressions": 425
+    },
+    "map_ranks": [
+      {
+        "keyword": "electrician in Miami",
+        "rank": 23,
+        "volume": 69,
+        "daily_traffic": 3.8,
+        "estimated_clicks": 69,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1779311012061.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 60,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1779311012061.png"
+  },
+  "total_scans": 1
+}

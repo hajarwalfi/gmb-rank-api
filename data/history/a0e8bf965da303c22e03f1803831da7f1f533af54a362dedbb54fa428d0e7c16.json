@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:7432324907819836933",
+  "gmbKey": "loc:7432324907819836933",
+  "business_name": "J&M Gutter Tech Inc.",
+  "location": "locations/7432324907819836933",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 52
+      },
+      "map_ranks": [
+        {
+          "keyword": "Gutter installation Roslyn NY",
+          "rank": 9,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778256811955.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 45,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778256811955.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 40
+      },
+      "map_ranks": [
+        {
+          "keyword": "Gutter installation Roslyn NY",
+          "rank": 11,
+          "volume": 9,
+          "daily_traffic": 2.3,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp12_1778187544125.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 45,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp12_1778187544125.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 8,
+      "calls": 0,
+      "impressions": 52
+    },
+    "map_ranks": [
+      {
+        "keyword": "Gutter installation Roslyn NY",
+        "rank": 9,
+        "volume": 12,
+        "daily_traffic": 2.4,
+        "estimated_clicks": 12,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778256811955.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 45,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778256811955.png"
+  },
+  "total_scans": 2
+}

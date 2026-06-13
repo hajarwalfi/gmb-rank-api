@@ -1,0 +1,70 @@
+{
+  "business_id": "loc:10609474783019376238",
+  "gmbKey": "loc:10609474783019376238",
+  "business_name": "Olivier MultiServices LLC",
+  "location": "locations/10609474783019376238",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional bathroom remodel Dade City FL",
+          "rank": 94,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r94_serp94_1778202533233.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r94_serp94_1778202533233.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 2,
+      "calls": 0,
+      "impressions": 11
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 4.099999904632568,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

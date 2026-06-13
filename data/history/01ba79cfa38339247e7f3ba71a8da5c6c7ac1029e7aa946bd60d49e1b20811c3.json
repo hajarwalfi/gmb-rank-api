@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:1570393032887812133",
+  "gmbKey": "loc:1570393032887812133",
+  "business_name": "King of Clean",
+  "location": "locations/1570393032887812133",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 8,
+        "calls": 10,
+        "impressions": 27
+      },
+      "map_ranks": [
+        {
+          "keyword": "best house cleaning service Amarillo TX",
+          "rank": 15,
+          "volume": 23,
+          "daily_traffic": 4.6,
+          "estimated_clicks": 23,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778259160952.png"
+        },
+        {
+          "keyword": "affordable home cleaning Amarillo TX",
+          "rank": 15,
+          "volume": 23,
+          "daily_traffic": 4.6,
+          "estimated_clicks": 23,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778259201186.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 7,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778259160952.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [
+        {
+          "keyword": "best house cleaning service Amarillo TX",
+          "rank": 15,
+          "volume": 10,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778190575452.png"
+        },
+        {
+          "keyword": "affordable home cleaning Amarillo TX",
+          "rank": 16,
+          "volume": 10,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1778190619416.png"
+        },
+        {
+          "keyword": "top rated cleaning service Amarillo TX",
+          "rank": 16,
+          "volume": 10,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp20_1778190660886.png"
+        },
+        {
+          "keyword": "professional house cleaners Amarillo TX",
+          "rank": 15,
+          "volume": 10,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778190696671.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 7,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778190575452.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 8,
+      "calls": 10,
+      "impressions": 27
+    },
+    "map_ranks": [
+      {
+        "keyword": "best house cleaning service Amarillo TX",
+        "rank": 15,
+        "volume": 23,
+        "daily_traffic": 4.6,
+        "estimated_clicks": 23,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778259160952.png"
+      },
+      {
+        "keyword": "affordable home cleaning Amarillo TX",
+        "rank": 15,
+        "volume": 23,
+        "daily_traffic": 4.6,
+        "estimated_clicks": 23,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778259201186.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 7,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778259160952.png"
+  },
+  "total_scans": 2
+}

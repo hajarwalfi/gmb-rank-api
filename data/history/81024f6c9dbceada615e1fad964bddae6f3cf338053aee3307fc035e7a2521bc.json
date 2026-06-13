@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:7869711260085490897",
+  "gmbKey": "loc:7869711260085490897",
+  "business_name": "LUV CONSTRUCTION LLC",
+  "location": "locations/7869711260085490897",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable drywall repair Eagleville PA",
+          "rank": 12,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp12_1778261781184.png"
+        },
+        {
+          "keyword": "Water damage repairs West Chester PA",
+          "rank": 27,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp28_1778261822427.png"
+        },
+        {
+          "keyword": "Emergency drywall services Norristown PA",
+          "rank": 7,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1778262022611.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 7,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp12_1778261781184.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable drywall repair Eagleville PA",
+          "rank": 7,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1778193042449.png"
+        },
+        {
+          "keyword": "Emergency drywall services Norristown PA",
+          "rank": 6,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778193381320.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 7,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1778193042449.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 18
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable drywall repair Eagleville PA",
+        "rank": 12,
+        "volume": 3,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp12_1778261781184.png"
+      },
+      {
+        "keyword": "Water damage repairs West Chester PA",
+        "rank": 27,
+        "volume": 3,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp28_1778261822427.png"
+      },
+      {
+        "keyword": "Emergency drywall services Norristown PA",
+        "rank": 7,
+        "volume": 3,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1778262022611.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 7,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp12_1778261781184.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,152 @@
+{
+  "business_id": "loc:4726244654427519987",
+  "gmbKey": "loc:4726244654427519987",
+  "business_name": "Hme roofing and exterior solutions",
+  "location": "locations/4726244654427519987",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roofing contractor York PA",
+          "rank": 41,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp44_1778251686391.png"
+        },
+        {
+          "keyword": "Affordable roofing services Lancaster PA",
+          "rank": 5,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778251735572.png"
+        },
+        {
+          "keyword": "Emergency roof repair Harrisburg PA",
+          "rank": 42,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r42_serp38_1778251804167.png"
+        },
+        {
+          "keyword": "Top rated roofing company Dover PA",
+          "rank": 9,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778251888226.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp44_1778251686391.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roofing contractor York PA",
+          "rank": 42,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp42_1778181471245.png"
+        },
+        {
+          "keyword": "Top rated roofing company Dover PA",
+          "rank": 10,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp9_1778182083423.png"
+        },
+        {
+          "keyword": "Best roofing services Red Lion PA",
+          "rank": 12,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp15_1778182275831.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_serp42_1778181471245.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 10
+    },
+    "map_ranks": [
+      {
+        "keyword": "Roofing contractor York PA",
+        "rank": 41,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp44_1778251686391.png"
+      },
+      {
+        "keyword": "Affordable roofing services Lancaster PA",
+        "rank": 5,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778251735572.png"
+      },
+      {
+        "keyword": "Emergency roof repair Harrisburg PA",
+        "rank": 42,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r42_serp38_1778251804167.png"
+      },
+      {
+        "keyword": "Top rated roofing company Dover PA",
+        "rank": 9,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1778251888226.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 1,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp44_1778251686391.png"
+  },
+  "total_scans": 2
+}

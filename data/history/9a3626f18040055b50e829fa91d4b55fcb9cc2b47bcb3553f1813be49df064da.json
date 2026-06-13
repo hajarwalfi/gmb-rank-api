@@ -1,0 +1,144 @@
+{
+  "business_id": "loc:10058981215342139172",
+  "gmbKey": "loc:10058981215342139172",
+  "business_name": "Mr Screen Renovations Services LLC",
+  "location": "locations/10058981215342139172",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 33
+      },
+      "map_ranks": [
+        {
+          "keyword": "Carport builder Naples FL",
+          "rank": 22,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp23_1778266795893.png"
+        },
+        {
+          "keyword": "Affordable pergola installation Punta Gorda FL",
+          "rank": 6,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp5_1778266895882.png"
+        },
+        {
+          "keyword": "Top rated carport construction Bonita Springs FL",
+          "rank": 25,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp26_1778266937375.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 21,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp23_1778266795893.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 26
+      },
+      "map_ranks": [
+        {
+          "keyword": "Carport builder Naples FL",
+          "rank": 27,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp26_1778198204599.png"
+        },
+        {
+          "keyword": "Affordable pergola installation Punta Gorda FL",
+          "rank": 17,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778198244615.png"
+        },
+        {
+          "keyword": "Top rated carport construction Bonita Springs FL",
+          "rank": 27,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp26_1778198384218.png"
+        },
+        {
+          "keyword": "Professional pergola builder Port Charlotte FL",
+          "rank": 39,
+          "volume": 9,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp40_1778198422828.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 21,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp26_1778198204599.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 9,
+      "calls": 0,
+      "impressions": 33
+    },
+    "map_ranks": [
+      {
+        "keyword": "Carport builder Naples FL",
+        "rank": 22,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp23_1778266795893.png"
+      },
+      {
+        "keyword": "Affordable pergola installation Punta Gorda FL",
+        "rank": 6,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp5_1778266895882.png"
+      },
+      {
+        "keyword": "Top rated carport construction Bonita Springs FL",
+        "rank": 25,
+        "volume": 9,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp26_1778266937375.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 21,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp23_1778266795893.png"
+  },
+  "total_scans": 2
+}

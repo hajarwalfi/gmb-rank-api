@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:9599578858441685412",
+  "gmbKey": "loc:9599578858441685412",
+  "business_name": "JKAT Remodeling LLC",
+  "location": "locations/9599578858441685412",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 1,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 3,
+      "calls": 0,
+      "impressions": 10
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 13,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

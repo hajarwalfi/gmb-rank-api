@@ -1,0 +1,152 @@
+{
+  "business_id": "loc:14650723266094343203",
+  "gmbKey": "loc:14650723266094343203",
+  "business_name": "Integrity Landscaping",
+  "location": "locations/14650723266094343203",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 4,
+        "calls": 2,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top Rated Landscaping San Luis AZ",
+          "rank": 4,
+          "volume": 9,
+          "daily_traffic": 3,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778255324122.png"
+        },
+        {
+          "keyword": "Affordable Lawn Care Somerton AZ",
+          "rank": 63,
+          "volume": 9,
+          "daily_traffic": 3,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r63_serp63_1778255366668.png"
+        },
+        {
+          "keyword": "Professional Landscaping Yuma County AZ",
+          "rank": 60,
+          "volume": 9,
+          "daily_traffic": 3,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r60_serp49_1778255500195.png"
+        },
+        {
+          "keyword": "Emergency Landscaping Wellton AZ 85356",
+          "rank": 20,
+          "volume": 9,
+          "daily_traffic": 3,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp20_1778255536735.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778255324122.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 4,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top Rated Landscaping San Luis AZ",
+          "rank": 5,
+          "volume": 6,
+          "daily_traffic": 2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778185411929.png"
+        },
+        {
+          "keyword": "Affordable Lawn Care Somerton AZ",
+          "rank": 59,
+          "volume": 6,
+          "daily_traffic": 2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r59_serp60_1778185448526.png"
+        },
+        {
+          "keyword": "Emergency Landscaping Wellton AZ 85356",
+          "rank": 2,
+          "volume": 6,
+          "daily_traffic": 2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778185750160.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778185411929.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 4,
+      "calls": 2,
+      "impressions": 21
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top Rated Landscaping San Luis AZ",
+        "rank": 4,
+        "volume": 9,
+        "daily_traffic": 3,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778255324122.png"
+      },
+      {
+        "keyword": "Affordable Lawn Care Somerton AZ",
+        "rank": 63,
+        "volume": 9,
+        "daily_traffic": 3,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r63_serp63_1778255366668.png"
+      },
+      {
+        "keyword": "Professional Landscaping Yuma County AZ",
+        "rank": 60,
+        "volume": 9,
+        "daily_traffic": 3,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r60_serp49_1778255500195.png"
+      },
+      {
+        "keyword": "Emergency Landscaping Wellton AZ 85356",
+        "rank": 20,
+        "volume": 9,
+        "daily_traffic": 3,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp20_1778255536735.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 4.099999904632568,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778255324122.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,252 @@
+{
+  "business_id": "loc:17840413922674032332",
+  "gmbKey": "loc:17840413922674032332",
+  "business_name": "A&B Tree Experts",
+  "location": "locations/17840413922674032332",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "best tree service near me",
+          "rank": 55,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r55_serp55_1779054302477.png"
+        },
+        {
+          "keyword": "affordable tree service Round Lake",
+          "rank": 32,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1779054420754.png"
+        },
+        {
+          "keyword": "emergency tree service Round Lake, IL",
+          "rank": 25,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp27_1779054535268.png"
+        },
+        {
+          "keyword": "tree removal service Round Lake, IL",
+          "rank": 63,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r63_serp61_1779054707374.png"
+        },
+        {
+          "keyword": "tree trimming Round Lake, IL USA",
+          "rank": 25,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp25_1779054788831.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r55_serp55_1779054302477.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "Tree removal Round Lake IL",
+          "rank": 45,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_serp46_1778227098976.png"
+        },
+        {
+          "keyword": "Affordable tree service Round Lake IL",
+          "rank": 63,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r63_serp62_1778227152475.png"
+        },
+        {
+          "keyword": "Top rated arborists Round Lake IL",
+          "rank": 88,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r88_serp87_1778227391860.png"
+        },
+        {
+          "keyword": "Professional tree trimming Round Lake IL",
+          "rank": 80,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r80_serp70_1778227546735.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_serp46_1778227098976.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency tree care Round Lake IL",
+          "rank": 36,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp37_1778214577888.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp37_1778214577888.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 4
+      },
+      "map_ranks": [
+        {
+          "keyword": "Tree removal Round Lake IL",
+          "rank": 48,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r48_serp48_1778157076320.png"
+        },
+        {
+          "keyword": "Affordable tree service Round Lake IL",
+          "rank": 61,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r61_serp60_1778157122123.png"
+        },
+        {
+          "keyword": "Top rated arborists Round Lake IL",
+          "rank": 89,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r89_serp91_1778157354886.png"
+        },
+        {
+          "keyword": "Professional tree trimming Round Lake IL",
+          "rank": 50,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r50_serp51_1778157503541.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r48_serp48_1778157076320.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 21
+    },
+    "map_ranks": [
+      {
+        "keyword": "best tree service near me",
+        "rank": 55,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r55_serp55_1779054302477.png"
+      },
+      {
+        "keyword": "affordable tree service Round Lake",
+        "rank": 32,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1779054420754.png"
+      },
+      {
+        "keyword": "emergency tree service Round Lake, IL",
+        "rank": 25,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp27_1779054535268.png"
+      },
+      {
+        "keyword": "tree removal service Round Lake, IL",
+        "rank": 63,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r63_serp61_1779054707374.png"
+      },
+      {
+        "keyword": "tree trimming Round Lake, IL USA",
+        "rank": 25,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp25_1779054788831.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r55_serp55_1779054302477.png"
+  },
+  "total_scans": 4
+}

@@ -1,0 +1,70 @@
+{
+  "business_id": "loc:14288374485815256008",
+  "gmbKey": "loc:14288374485815256008",
+  "business_name": "Zavala's Tree Services",
+  "location": "locations/14288374485815256008",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 12
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 8,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated stump grinding Oklahoma City",
+          "rank": 51,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp47_1778225490580.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 8,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp47_1778225490580.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 12
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 8,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

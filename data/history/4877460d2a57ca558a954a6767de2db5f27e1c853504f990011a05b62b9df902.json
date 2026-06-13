@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:10304507514773735997",
+  "gmbKey": "loc:10304507514773735997",
+  "business_name": "Quality Electropainting LLC",
+  "location": "locations/10304507514773735997",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-26T20:32:45.130Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 18,
+        "calls": 0,
+        "impressions": 120
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 30,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-26T20:32:45.130Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 18,
+      "calls": 0,
+      "impressions": 120
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 30,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

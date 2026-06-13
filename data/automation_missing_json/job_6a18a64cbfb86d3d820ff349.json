@@ -1,0 +1,164 @@
+{
+  "jobId": "6a18a64cbfb86d3d820ff349",
+  "createdAt": "2026-05-28T20:32:12.671Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-28T20:32:11.591Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4789560238797255943",
+      "locationTitle": "Alpha Roofing & Gutters"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "7567013204668845999",
+      "locationTitle": "City Care USA, LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9960123456256962468",
+      "locationTitle": "Dedmi Cleaning Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2869386122738758036",
+      "locationTitle": "DMG Concrete construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2992616152280243094",
+      "locationTitle": "G&J 1LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8133396906859758873",
+      "locationTitle": "Moromex Sparkle LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16307113475108784704",
+      "locationTitle": "Portillo & Gonzalez Landscaping LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "6578608753842630183",
+      "locationTitle": "Universal Painting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4789560238797255943",
+      "locationTitle": "Alpha Roofing & Gutters"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7567013204668845999",
+      "locationTitle": "City Care USA, LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9960123456256962468",
+      "locationTitle": "Dedmi Cleaning Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2869386122738758036",
+      "locationTitle": "DMG Concrete construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2992616152280243094",
+      "locationTitle": "G&J 1LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8133396906859758873",
+      "locationTitle": "Moromex Sparkle LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16307113475108784704",
+      "locationTitle": "Portillo & Gonzalez Landscaping LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6578608753842630183",
+      "locationTitle": "Universal Painting LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4789560238797255943",
+      "locationTitle": "Alpha Roofing & Gutters",
+      "gmbKey": "loc:4789560238797255943",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T20:35:42.910Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7567013204668845999",
+      "locationTitle": "City Care USA, LLC",
+      "gmbKey": "loc:7567013204668845999",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T20:50:36.981Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9960123456256962468",
+      "locationTitle": "Dedmi Cleaning Services",
+      "gmbKey": "loc:9960123456256962468",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T20:51:52.462Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2869386122738758036",
+      "locationTitle": "DMG Concrete construction",
+      "gmbKey": "loc:2869386122738758036",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T21:07:12.209Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2992616152280243094",
+      "locationTitle": "G&J 1LLC",
+      "gmbKey": "loc:2992616152280243094",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T21:08:22.301Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8133396906859758873",
+      "locationTitle": "Moromex Sparkle LLC",
+      "gmbKey": "loc:8133396906859758873",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T21:09:30.017Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16307113475108784704",
+      "locationTitle": "Portillo & Gonzalez Landscaping LLC",
+      "gmbKey": "loc:16307113475108784704",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T21:10:59.242Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6578608753842630183",
+      "locationTitle": "Universal Painting LLC",
+      "gmbKey": "loc:6578608753842630183",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-28T21:17:13.098Z"
+    }
+  ],
+  "updatedAt": "2026-05-28T21:17:13.983Z"
+}

@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:8133396906859758873",
+  "gmbKey": "loc:8133396906859758873",
+  "business_name": "Moromex Sparkle LLC",
+  "location": "locations/8133396906859758873",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-28T20:32:13.297Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 41,
+        "calls": 0,
+        "impressions": 36
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-28T20:32:13.297Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 41,
+      "calls": 0,
+      "impressions": 36
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 13,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

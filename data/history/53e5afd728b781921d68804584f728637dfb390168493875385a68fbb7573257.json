@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:6539670859904695591",
+  "gmbKey": "loc:6539670859904695591",
+  "business_name": "Hepta Roofing",
+  "location": "locations/6539670859904695591",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "best roofing contractor Galloway OH",
+          "rank": 22,
+          "volume": 4,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp26_1778251423567.png"
+        },
+        {
+          "keyword": "top rated roofing company Galloway OH",
+          "rank": 28,
+          "volume": 4,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp29_1778251559538.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp26_1778251423567.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "best roofing contractor Galloway OH",
+          "rank": 25,
+          "volume": 4,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp29_1778181154724.png"
+        },
+        {
+          "keyword": "top rated roofing company Galloway OH",
+          "rank": 31,
+          "volume": 4,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp30_1778181262954.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp29_1778181154724.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 3,
+      "calls": 0,
+      "impressions": 13
+    },
+    "map_ranks": [
+      {
+        "keyword": "best roofing contractor Galloway OH",
+        "rank": 22,
+        "volume": 4,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 4,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp26_1778251423567.png"
+      },
+      {
+        "keyword": "top rated roofing company Galloway OH",
+        "rank": 28,
+        "volume": 4,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 4,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp29_1778251559538.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp26_1778251423567.png"
+  },
+  "total_scans": 2
+}

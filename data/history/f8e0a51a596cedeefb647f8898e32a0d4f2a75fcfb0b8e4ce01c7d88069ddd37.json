@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:7459656222211922876",
+  "gmbKey": "loc:7459656222211922876",
+  "business_name": "Mendez Tree Services",
+  "location": "locations/7459656222211922876",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 9,
+        "calls": 3,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable tree trimming Aurora IL",
+          "rank": 23,
+          "volume": 16,
+          "daily_traffic": 3.2,
+          "estimated_clicks": 16,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1778265183059.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 39,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1778265183059.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 9,
+        "calls": 2,
+        "impressions": 22
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency tree services Joliet IL",
+          "rank": 97,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r97_serp97_1778196657169.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 39,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r97_serp97_1778196657169.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 9,
+      "calls": 3,
+      "impressions": 25
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable tree trimming Aurora IL",
+        "rank": 23,
+        "volume": 16,
+        "daily_traffic": 3.2,
+        "estimated_clicks": 16,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1778265183059.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 39,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1778265183059.png"
+  },
+  "total_scans": 2
+}

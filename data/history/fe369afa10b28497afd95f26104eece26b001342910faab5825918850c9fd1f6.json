@@ -1,0 +1,120 @@
+{
+  "business_id": "loc:16345755225061581208",
+  "gmbKey": "loc:16345755225061581208",
+  "business_name": "J Premier Solutions",
+  "location": "locations/16345755225061581208",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best construction services in Tampa, Florida",
+          "rank": 5,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778256088134.png"
+        },
+        {
+          "keyword": "Professional roofing solutions in Clearwater, Florida",
+          "rank": 34,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r34_serp35_1778256391067.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778256088134.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best construction services in Tampa, Florida",
+          "rank": 5,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778186810936.png"
+        },
+        {
+          "keyword": "Affordable home remodeling in Sarasota, Florida",
+          "rank": 32,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp29_1778186908874.png"
+        },
+        {
+          "keyword": "Professional roofing solutions in Clearwater, Florida",
+          "rank": 30,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp36_1778187006826.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778186810936.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 7
+    },
+    "map_ranks": [
+      {
+        "keyword": "Best construction services in Tampa, Florida",
+        "rank": 5,
+        "volume": 2,
+        "daily_traffic": 0.5,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778256088134.png"
+      },
+      {
+        "keyword": "Professional roofing solutions in Clearwater, Florida",
+        "rank": 34,
+        "volume": 2,
+        "daily_traffic": 0.5,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r34_serp35_1778256391067.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778256088134.png"
+  },
+  "total_scans": 2
+}

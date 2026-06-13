@@ -1,0 +1,176 @@
+{
+  "business_id": "loc:12769980484299472206",
+  "gmbKey": "loc:12769980484299472206",
+  "business_name": "House Pro Painting",
+  "location": "locations/12769980484299472206",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 6,
+        "calls": 2,
+        "impressions": 123
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional House Painting Fountain CO",
+          "rank": 1,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778252996764.png"
+        },
+        {
+          "keyword": "Top Rated Exterior Painters Colorado Springs CO",
+          "rank": 8,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1778253269388.png"
+        },
+        {
+          "keyword": "Best Residential Painting Stratmoor CO",
+          "rank": 4,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp3_1778253313452.png"
+        },
+        {
+          "keyword": "Emergency Painting Services Falcon CO 80831",
+          "rank": 93,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r93_serp93_1778253388248.png"
+        },
+        {
+          "keyword": "Quality Commercial Painting Woodmoor CO 80132",
+          "rank": 72,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r72_serp67_1778253534600.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 73,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778252996764.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 6,
+        "calls": 1,
+        "impressions": 90
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional House Painting Fountain CO",
+          "rank": 1,
+          "volume": 14,
+          "daily_traffic": 3.5,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778183095311.png"
+        },
+        {
+          "keyword": "Affordable Interior Painting Monument CO",
+          "rank": 21,
+          "volume": 14,
+          "daily_traffic": 3.5,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp21_1778183150444.png"
+        },
+        {
+          "keyword": "Emergency Painting Services Falcon CO 80831",
+          "rank": 94,
+          "volume": 14,
+          "daily_traffic": 3.5,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r94_serp95_1778183545789.png"
+        },
+        {
+          "keyword": "Quality Commercial Painting Woodmoor CO 80132",
+          "rank": 68,
+          "volume": 14,
+          "daily_traffic": 3.5,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r68_serp67_1778183589658.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 72,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778183095311.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 7,
+      "direction_requests": 6,
+      "calls": 2,
+      "impressions": 123
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional House Painting Fountain CO",
+        "rank": 1,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778252996764.png"
+      },
+      {
+        "keyword": "Top Rated Exterior Painters Colorado Springs CO",
+        "rank": 8,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1778253269388.png"
+      },
+      {
+        "keyword": "Best Residential Painting Stratmoor CO",
+        "rank": 4,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp3_1778253313452.png"
+      },
+      {
+        "keyword": "Emergency Painting Services Falcon CO 80831",
+        "rank": 93,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r93_serp93_1778253388248.png"
+      },
+      {
+        "keyword": "Quality Commercial Painting Woodmoor CO 80132",
+        "rank": 72,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r72_serp67_1778253534600.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 73,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778252996764.png"
+  },
+  "total_scans": 2
+}

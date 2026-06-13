@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:13353397927463742398",
+  "gmbKey": "loc:13353397927463742398",
+  "business_name": "Grupo Naivan 2013",
+  "location": "locations/13353397927463742398",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-25T20:32:07.665Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 44
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-25T20:32:07.665Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 44
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,114 @@
+{
+  "business_id": "loc:16385814111110066588",
+  "gmbKey": "loc:16385814111110066588",
+  "business_name": "DJ's Professional Tree Removal and Landscaping LLC",
+  "location": "locations/16385814111110066588",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 11,
+        "direction_requests": 9,
+        "calls": 4,
+        "impressions": 66
+      },
+      "map_ranks": [
+        {
+          "keyword": "tree service in Dallas, GA",
+          "rank": 21,
+          "volume": 24,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 24,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r21_serp20_1779126605838.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 75,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r21_serp20_1779126605838.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional landscaping DeKalb County Georgia",
+          "rank": 91,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r91_serp94_1778242365850.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 72,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r91_serp94_1778242365850.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional landscaping DeKalb County Georgia",
+          "rank": 96,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r96_serp93_1778172161705.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 72,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r96_serp93_1778172161705.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 11,
+      "direction_requests": 9,
+      "calls": 4,
+      "impressions": 66
+    },
+    "map_ranks": [
+      {
+        "keyword": "tree service in Dallas, GA",
+        "rank": 21,
+        "volume": 24,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 24,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r21_serp20_1779126605838.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 75,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r21_serp20_1779126605838.png"
+  },
+  "total_scans": 3
+}

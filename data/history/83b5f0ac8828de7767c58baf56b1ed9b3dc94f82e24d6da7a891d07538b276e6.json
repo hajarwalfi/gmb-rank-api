@@ -1,0 +1,114 @@
+{
+  "business_id": "loc:15461494464648045815",
+  "gmbKey": "loc:15461494464648045815",
+  "business_name": "Emporium Construction Group Corp",
+  "location": "locations/15461494464648045815",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 40,
+        "calls": 0,
+        "impressions": 42
+      },
+      "map_ranks": [
+        {
+          "keyword": "general contractor in Davie, FL",
+          "rank": 51,
+          "volume": 43,
+          "daily_traffic": 2.9,
+          "estimated_clicks": 43,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp53_1779130625238.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp53_1779130625238.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 17,
+        "calls": 0,
+        "impressions": 15
+      },
+      "map_ranks": [
+        {
+          "keyword": "General contractor Davie FL",
+          "rank": 47,
+          "volume": 20,
+          "daily_traffic": 4,
+          "estimated_clicks": 20,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r47_serp48_1778247504618.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r47_serp48_1778247504618.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "General contractor Davie FL",
+          "rank": 50,
+          "volume": 4,
+          "daily_traffic": 1,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r50_serp43_1778174912127.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r50_serp43_1778174912127.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 40,
+      "calls": 0,
+      "impressions": 42
+    },
+    "map_ranks": [
+      {
+        "keyword": "general contractor in Davie, FL",
+        "rank": 51,
+        "volume": 43,
+        "daily_traffic": 2.9,
+        "estimated_clicks": 43,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp53_1779130625238.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp53_1779130625238.png"
+  },
+  "total_scans": 3
+}

@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:12459158617548608806",
+  "gmbKey": "loc:12459158617548608806",
+  "business_name": "Velasco Painting & construction LLC",
+  "location": "locations/12459158617548608806",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-25T20:32:07.665Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 30,
+        "calls": 0,
+        "impressions": 74
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 6,
+        "average_rating": 4.300000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-25T20:32:07.665Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 30,
+      "calls": 0,
+      "impressions": 74
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 6,
+      "average_rating": 4.300000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

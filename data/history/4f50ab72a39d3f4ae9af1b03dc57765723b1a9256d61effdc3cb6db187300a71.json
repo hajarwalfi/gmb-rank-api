@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:7454929397320675236",
+  "gmbKey": "loc:7454929397320675236",
+  "business_name": "Sunrise Exterior LLC",
+  "location": "locations/7454929397320675236",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 7,
+        "calls": 0,
+        "impressions": 15
+      },
+      "map_ranks": [
+        {
+          "keyword": "best construction company Irvington NJ",
+          "rank": 46,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp45_1778278193906.png"
+        },
+        {
+          "keyword": "affordable exterior services Irvington NJ",
+          "rank": 5,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778278251209.png"
+        },
+        {
+          "keyword": "top rated contractors Irvington NJ",
+          "rank": 44,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r44_serp56_1778278294739.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp45_1778278193906.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 7,
+        "calls": 0,
+        "impressions": 15
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable exterior services Irvington NJ",
+          "rank": 5,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp3_1778220993518.png"
+        },
+        {
+          "keyword": "top rated contractors Irvington NJ",
+          "rank": 44,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r44_serp44_1778221045249.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp3_1778220993518.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 7,
+      "calls": 0,
+      "impressions": 15
+    },
+    "map_ranks": [
+      {
+        "keyword": "best construction company Irvington NJ",
+        "rank": 46,
+        "volume": 7,
+        "daily_traffic": 1.4,
+        "estimated_clicks": 7,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp45_1778278193906.png"
+      },
+      {
+        "keyword": "affordable exterior services Irvington NJ",
+        "rank": 5,
+        "volume": 7,
+        "daily_traffic": 1.4,
+        "estimated_clicks": 7,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778278251209.png"
+      },
+      {
+        "keyword": "top rated contractors Irvington NJ",
+        "rank": 44,
+        "volume": 7,
+        "daily_traffic": 1.4,
+        "estimated_clicks": 7,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r44_serp56_1778278294739.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp45_1778278193906.png"
+  },
+  "total_scans": 2
+}

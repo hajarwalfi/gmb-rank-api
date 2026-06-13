@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:10300296279945291111",
+  "gmbKey": "loc:10300296279945291111",
+  "business_name": "Carroll Construction",
+  "location": "locations/10300296279945291111",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 0,
+        "calls": 4,
+        "impressions": 97
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 3,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 10,
+      "direction_requests": 0,
+      "calls": 4,
+      "impressions": 97
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 2,
+      "average_rating": 3,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

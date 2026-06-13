@@ -1,0 +1,31 @@
+{
+  "jobId": "69fe53d16df8a885b290c5bc",
+  "createdAt": "2026-05-08T21:21:22.607Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-08T21:21:21.104Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "1460183616009583448",
+      "locationTitle": "Legend Construction"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1460183616009583448",
+      "locationTitle": "Legend Construction"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/1460183616009583448",
+      "locationTitle": "Legend Construction",
+      "gmbKey": "loc:1460183616009583448",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T21:22:54.169Z"
+    }
+  ],
+  "updatedAt": "2026-05-08T21:22:55.654Z"
+}

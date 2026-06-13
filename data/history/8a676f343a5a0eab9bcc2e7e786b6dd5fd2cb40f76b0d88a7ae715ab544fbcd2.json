@@ -1,0 +1,87 @@
+{
+  "business_id": "loc:5504471532147892951",
+  "gmbKey": "loc:5504471532147892951",
+  "business_name": "Arguera's Paint",
+  "location": "locations/5504471532147892951",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 39,
+        "calls": 3,
+        "impressions": 241
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 16,
+        "calls": 3,
+        "impressions": 69
+      },
+      "map_ranks": [
+        {
+          "keyword": "Reliable house painters Washington Avenue Coalition / Memorial Park, Houston TX",
+          "rank": 33,
+          "volume": 19,
+          "daily_traffic": 3.8,
+          "estimated_clicks": 19,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp30_1778232101739.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp30_1778232101739.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 51
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 39,
+      "calls": 3,
+      "impressions": 241
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

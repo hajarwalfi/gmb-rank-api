@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:1445893694152542109",
+  "gmbKey": "loc:1445893694152542109",
+  "business_name": "Profinish Painting LLC",
+  "location": "locations/1445893694152542109",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 14,
+        "calls": 0,
+        "impressions": 26
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable House Painters Bluffton SC",
+          "rank": 17,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp4_1778272395364.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp4_1778272395364.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 14,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Painting Services Okatie SC",
+          "rank": 17,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp18_1778205222716.png"
+        },
+        {
+          "keyword": "Affordable House Painters Bluffton SC",
+          "rank": 20,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp18_1778205262909.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp18_1778205222716.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 14,
+      "calls": 0,
+      "impressions": 26
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable House Painters Bluffton SC",
+        "rank": 17,
+        "volume": 15,
+        "daily_traffic": 3,
+        "estimated_clicks": 15,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp4_1778272395364.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 17,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp4_1778272395364.png"
+  },
+  "total_scans": 2
+}

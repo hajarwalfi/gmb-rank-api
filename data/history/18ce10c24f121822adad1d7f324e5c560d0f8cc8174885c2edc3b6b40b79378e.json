@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:2086166374486979037",
+  "gmbKey": "loc:2086166374486979037",
+  "business_name": "Brymar Clean Services LLC",
+  "location": "locations/2086166374486979037",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 31,
+        "calls": 0,
+        "impressions": 30
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 3
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 4,
+        "calls": 0,
+        "impressions": 3
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 31,
+      "calls": 0,
+      "impressions": 30
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

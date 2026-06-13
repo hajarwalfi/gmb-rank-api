@@ -1,0 +1,31 @@
+{
+  "jobId": "69fe54416df8a885b290c611",
+  "createdAt": "2026-05-08T21:23:13.861Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-08T21:23:12.864Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9773571789760207638",
+      "locationTitle": "J & C Buenano Carpentry Inc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9773571789760207638",
+      "locationTitle": "J & C Buenano Carpentry Inc"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9773571789760207638",
+      "locationTitle": "J & C Buenano Carpentry Inc",
+      "gmbKey": "loc:9773571789760207638",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T21:24:53.889Z"
+    }
+  ],
+  "updatedAt": "2026-05-08T21:24:54.910Z"
+}

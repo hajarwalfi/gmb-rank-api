@@ -1,0 +1,130 @@
+{
+  "business_id": "loc:6866478070623181227",
+  "gmbKey": "loc:6866478070623181227",
+  "business_name": "Cousins Hardwood Floors Inc",
+  "location": "locations/6866478070623181227",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "floor refinishing Selden NY",
+          "rank": 6,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp8_1779121401994.png"
+        },
+        {
+          "keyword": "top rated floor refinishing Stony Brook",
+          "rank": 9,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779121515354.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp8_1779121401994.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 4
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated hardwood floor service Selden NY",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp8_1778240252855.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 10,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp8_1778240252855.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 4
+      },
+      "map_ranks": [
+        {
+          "keyword": "Floor refinishing Selden NY",
+          "rank": 5,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp7_1778169475464.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 10,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp7_1778169475464.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 25
+    },
+    "map_ranks": [
+      {
+        "keyword": "floor refinishing Selden NY",
+        "rank": 6,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp8_1779121401994.png"
+      },
+      {
+        "keyword": "top rated floor refinishing Stony Brook",
+        "rank": 9,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779121515354.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp8_1779121401994.png"
+  },
+  "total_scans": 3
+}

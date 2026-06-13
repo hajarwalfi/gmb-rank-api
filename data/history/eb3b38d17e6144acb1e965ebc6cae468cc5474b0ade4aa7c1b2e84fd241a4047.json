@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:6368082969254332013",
+  "gmbKey": "loc:6368082969254332013",
+  "business_name": "Dennis construction company LLC",
+  "location": "locations/6368082969254332013",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 0,
+        "calls": 2,
+        "impressions": 66
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 7,
+      "direction_requests": 0,
+      "calls": 2,
+      "impressions": 66
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 17,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:11027325192596001028",
+  "gmbKey": "loc:11027325192596001028",
+  "business_name": "Jarocho's roofing",
+  "location": "locations/11027325192596001028",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated roofing contractor Henderson NC",
+          "rank": 21,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp26_1778257037047.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 4.599999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp26_1778257037047.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated roofing contractor Henderson NC",
+          "rank": 26,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp30_1778187734227.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 4.599999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp30_1778187734227.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 9,
+      "calls": 0,
+      "impressions": 18
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top rated roofing contractor Henderson NC",
+        "rank": 21,
+        "volume": 11,
+        "daily_traffic": 2.2,
+        "estimated_clicks": 11,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp26_1778257037047.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 4.599999904632568,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r21_serp26_1778257037047.png"
+  },
+  "total_scans": 2
+}

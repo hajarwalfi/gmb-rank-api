@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:16756694296051834178",
+  "gmbKey": "loc:16756694296051834178",
+  "business_name": "Cabrera Garage Doors",
+  "location": "locations/16756694296051834178",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-29T20:32:18.468Z",
+      "traffic": {
+        "website_clicks": 6,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 73
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 5,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-29T20:32:18.468Z",
+    "traffic": {
+      "website_clicks": 6,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 73
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 5,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

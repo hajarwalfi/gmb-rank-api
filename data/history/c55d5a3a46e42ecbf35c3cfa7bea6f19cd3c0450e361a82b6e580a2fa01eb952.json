@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:5160913042188708500",
+  "gmbKey": "loc:5160913042188708500",
+  "business_name": "TLC Janitorial Services",
+  "location": "locations/5160913042188708500",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated office cleaning Denton TX",
+          "rank": 18,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp17_1778280058132.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp17_1778280058132.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated office cleaning Denton TX",
+          "rank": 15,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp14_1778223217167.png"
+        },
+        {
+          "keyword": "Emergency cleaning services Fort Worth TX",
+          "rank": 49,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778223273782.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp14_1778223217167.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 13
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top rated office cleaning Denton TX",
+        "rank": 18,
+        "volume": 6,
+        "daily_traffic": 1.2,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp17_1778280058132.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 4,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp17_1778280058132.png"
+  },
+  "total_scans": 2
+}

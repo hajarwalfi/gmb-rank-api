@@ -1,0 +1,104 @@
+{
+  "business_id": "loc:18094870470562173546",
+  "gmbKey": "loc:18094870470562173546",
+  "business_name": "King Movers",
+  "location": "locations/18094870470562173546",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 22
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated moving company San Antonio Texas",
+          "rank": 49,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778258970387.png"
+        },
+        {
+          "keyword": "best movers in San Antonio Texas",
+          "rank": 61,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r61_serp57_1778259027770.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 16,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778258970387.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 19
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated moving company San Antonio Texas",
+          "rank": 51,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp51_1778190359258.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 16,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp51_1778190359258.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 8,
+      "calls": 0,
+      "impressions": 22
+    },
+    "map_ranks": [
+      {
+        "keyword": "top rated moving company San Antonio Texas",
+        "rank": 49,
+        "volume": 8,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778258970387.png"
+      },
+      {
+        "keyword": "best movers in San Antonio Texas",
+        "rank": 61,
+        "volume": 8,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r61_serp57_1778259027770.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 16,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778258970387.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:4918110968562084183",
+  "gmbKey": "loc:4918110968562084183",
+  "business_name": "Fencing-Stain-Brothers",
+  "location": "locations/4918110968562084183",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 29,
+        "calls": 1,
+        "impressions": 67
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 18,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 19
+      },
+      "map_ranks": [
+        {
+          "keyword": "Fencing staining services Dallas TX",
+          "rank": 43,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r43_serp44_1778248695524.png"
+        },
+        {
+          "keyword": "Professional fence staining Coppell TX",
+          "rank": 37,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1778248736988.png"
+        },
+        {
+          "keyword": "Best fence painting Lewisville TX",
+          "rank": 6,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp7_1778248818180.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r43_serp44_1778248695524.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 7,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best fence painting Lewisville TX",
+          "rank": 8,
+          "volume": 8,
+          "daily_traffic": 2,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1778176790557.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1778176790557.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 29,
+      "calls": 1,
+      "impressions": 67
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 18,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

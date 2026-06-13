@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:13443945135364874936",
+  "gmbKey": "loc:13443945135364874936",
+  "business_name": "Texas Lawn Champions LLC",
+  "location": "locations/13443945135364874936",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-20T20:31:53.744Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 31
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-20T20:31:53.744Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 31
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:12777625121560472779",
+  "gmbKey": "loc:12777625121560472779",
+  "business_name": "Rodas contractor service llc",
+  "location": "locations/12777625121560472779",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-12T20:33:27.044Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 26
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-12T20:33:27.044Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 26
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

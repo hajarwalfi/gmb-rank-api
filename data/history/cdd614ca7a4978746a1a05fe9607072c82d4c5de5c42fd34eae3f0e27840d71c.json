@@ -1,0 +1,104 @@
+{
+  "business_id": "loc:5173639422964046728",
+  "gmbKey": "loc:5173639422964046728",
+  "business_name": "Mr finish of Naples Inc",
+  "location": "locations/5173639422964046728",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 7
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Painter Estero FL",
+          "rank": 16,
+          "volume": 10,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp17_1778266064562.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp17_1778266064562.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 6
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Painter Estero FL",
+          "rank": 20,
+          "volume": 10,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp20_1778197553540.png"
+        },
+        {
+          "keyword": "Top Rated Painting Services Naples FL",
+          "rank": 33,
+          "volume": 10,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp24_1778197682836.png"
+        },
+        {
+          "keyword": "Affordable House Painting Cape Coral FL",
+          "rank": 4,
+          "volume": 10,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778197784971.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp20_1778197553540.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 10,
+      "calls": 0,
+      "impressions": 7
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional Painter Estero FL",
+        "rank": 16,
+        "volume": 10,
+        "daily_traffic": 2.5,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp17_1778266064562.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 1,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp17_1778266064562.png"
+  },
+  "total_scans": 2
+}

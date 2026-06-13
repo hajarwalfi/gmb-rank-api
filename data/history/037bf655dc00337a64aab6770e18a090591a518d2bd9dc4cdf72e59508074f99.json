@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:16805105204315830624",
+  "gmbKey": "loc:16805105204315830624",
+  "business_name": "Service Express Cleaning",
+  "location": "locations/16805105204315830624",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 38
+      },
+      "map_ranks": [
+        {
+          "keyword": "House cleaning service Atlanta",
+          "rank": 62,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r62_serp62_1778277397559.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 123,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r62_serp62_1778277397559.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 38
+      },
+      "map_ranks": [
+        {
+          "keyword": "House cleaning service Atlanta",
+          "rank": 73,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r73_serp73_1778220012045.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 122,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r73_serp73_1778220012045.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 8,
+      "direction_requests": 3,
+      "calls": 0,
+      "impressions": 38
+    },
+    "map_ranks": [
+      {
+        "keyword": "House cleaning service Atlanta",
+        "rank": 62,
+        "volume": 11,
+        "daily_traffic": 2.2,
+        "estimated_clicks": 11,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r62_serp62_1778277397559.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 123,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r62_serp62_1778277397559.png"
+  },
+  "total_scans": 2
+}

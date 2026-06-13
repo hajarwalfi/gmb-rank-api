@@ -1,0 +1,12 @@
+{
+  "ts": "2026-06-03T06:57:08.154Z",
+  "source": "startup",
+  "supabaseOk": true,
+  "snapshotOk": true,
+  "metrics": {
+    "gmbAccounts": 469,
+    "keywordsTracked": 121,
+    "dailyTraffic": 192,
+    "reviews": 2188
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "business_id": "loc:14243866565099280457",
+  "gmbKey": "loc:14243866565099280457",
+  "business_name": "Day One Builder",
+  "location": "locations/14243866565099280457",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 31
+      },
+      "map_ranks": [
+        {
+          "keyword": "construtora em Boston, MA",
+          "rank": 6,
+          "volume": 3,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp3_1779123593473.png"
+        },
+        {
+          "keyword": "best construtora in Quincy, MA",
+          "rank": 26,
+          "volume": 3,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp25_1779123824207.png"
+        },
+        {
+          "keyword": "top rated construtora in Worcester, MA",
+          "rank": 24,
+          "volume": 3,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp21_1779124129282.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 5,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp3_1779123593473.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 31
+    },
+    "map_ranks": [
+      {
+        "keyword": "construtora em Boston, MA",
+        "rank": 6,
+        "volume": 3,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp3_1779123593473.png"
+      },
+      {
+        "keyword": "best construtora in Quincy, MA",
+        "rank": 26,
+        "volume": 3,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp25_1779123824207.png"
+      },
+      {
+        "keyword": "top rated construtora in Worcester, MA",
+        "rank": 24,
+        "volume": 3,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp21_1779124129282.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 5,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp3_1779123593473.png"
+  },
+  "total_scans": 1
+}

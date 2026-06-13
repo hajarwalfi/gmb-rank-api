@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:16092392826061542954",
+  "gmbKey": "loc:16092392826061542954",
+  "business_name": "Trendykity LLC",
+  "location": "locations/16092392826061542954",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-26T20:32:45.130Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 50
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-26T20:32:45.130Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 50
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 4,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

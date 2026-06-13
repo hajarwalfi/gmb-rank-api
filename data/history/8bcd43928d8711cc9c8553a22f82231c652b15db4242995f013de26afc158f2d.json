@@ -1,0 +1,170 @@
+{
+  "business_id": "loc:6175706646617359451",
+  "gmbKey": "loc:6175706646617359451",
+  "business_name": "classical Mobile detailing & window tinting",
+  "location": "locations/6175706646617359451",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "car detailing Habersham County GA",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp1_1779116135355.png"
+        },
+        {
+          "keyword": "car detailing service Clarkesville GA 30523",
+          "rank": 7,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp3_1779116231228.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp1_1779116135355.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 3,
+        "impressions": 34
+      },
+      "map_ranks": [
+        {
+          "keyword": "mobile detailing Gainesville GA",
+          "rank": 30,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1778237635658.png"
+        },
+        {
+          "keyword": "affordable window tinting Hall County GA",
+          "rank": 27,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp27_1778237683784.png"
+        },
+        {
+          "keyword": "professional mobile detailing Habersham County GA",
+          "rank": 3,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp2_1778237762858.png"
+        },
+        {
+          "keyword": "best window tinting Clarkesville GA 30523",
+          "rank": 2,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778237820740.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 124,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1778237635658.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 3,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "mobile detailing Gainesville GA",
+          "rank": 25,
+          "volume": 4,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp25_1778166066231.png"
+        },
+        {
+          "keyword": "professional mobile detailing Habersham County GA",
+          "rank": 1,
+          "volume": 4,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778166371835.png"
+        },
+        {
+          "keyword": "best window tinting Clarkesville GA 30523",
+          "rank": 2,
+          "volume": 4,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778166522306.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 124,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp25_1778166066231.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "car detailing Habersham County GA",
+        "rank": 3,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp1_1779116135355.png"
+      },
+      {
+        "keyword": "car detailing service Clarkesville GA 30523",
+        "rank": 7,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp3_1779116231228.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp1_1779116135355.png"
+  },
+  "total_scans": 3
+}

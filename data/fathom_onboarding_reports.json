@@ -1,0 +1,2938 @@
+[
+  {
+    "id": "ob_1775104851151_unkhdbl",
+    "taskId": "86ag37rd9",
+    "businessName": "reafsrdf (rwfer ferferf)",
+    "gmbProfileName": "CLEAR SOURCE WATER",
+    "fathomLink": "https://fathom.video/calls/619681037",
+    "transcript": "Kurtis Smith: All right.\nKurtis Smith: There we go.\nKurtis Smith: Can you hear me?\nMichael Ouellette: Yep, I can hear you.\nKurtis Smith: I can't hear you either.\nKurtis Smith: Can you call me on the phone?\nMichael Ouellette: Yeah, I can hear you.\nMichael Ouellette: For some reason, my microphone's not working on my computer.\nMichael Ouellette: Yeah, that's fine.\nMichael Ouellette: Let's just do that.\nMichael Ouellette: All right, you hear me?\nMichael Ouellette: All right, let's do this.\nMichael Ouellette: Right now, on the bottom, that's the biggest fight, I think.",
+    "analysis": {
+      "requiredTabs": [
+        {
+          "itemText": "Agency Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Agency Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Website (Netlify) tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Website (Netlify) tab is open."
+        },
+        {
+          "itemText": "Client Google My Business profile tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Google My Business profile tab is open."
+        },
+        {
+          "itemText": "Fathom connected to Google Meet and recording",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that Fathom is connected to Google Meet and recording."
+        }
+      ],
+      "gmbCheckup": [
+        {
+          "itemText": "Verify GMB listing is connected in sub account",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not mention anything about verifying the GMB listing being connected in a sub account. The conversation is focused on technical issues with audio, not GMB actions."
+        },
+        {
+          "itemText": "Confirm business info is accurate (name, address, phone)",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no discussion or mention of confirming business information such as name, address, or phone. The transcript is entirely about resolving audio issues."
+        },
+        {
+          "itemText": "Check GMB reviews are syncing properly",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not include any mention of checking GMB reviews or their syncing status. The focus is on communication problems, not GMB reviews."
+        },
+        {
+          "itemText": "Ensure Google Posts are enabled and scheduled",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no evidence in the transcript that Google Posts are discussed, enabled, or scheduled. The conversation is about resolving a microphone issue."
+        }
+      ],
+      "steps": [
+        {
+          "stepKey": "leadConnectorAccess",
+          "stepName": "Step 1 - LeadConnector Access",
+          "items": [
+            {
+              "itemText": "Client logs into LeadConnector",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence in the transcript that the client logs into LeadConnector."
+            },
+            {
+              "itemText": "Add client as Staff in Client Sub Account (Settings -> Staff)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent added the client as Staff in Client Sub Account."
+            },
+            {
+              "itemText": "Set password for client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that a password was set for the client."
+            },
+            {
+              "itemText": "Client confirms successful login",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation from the client about a successful login."
+            }
+          ]
+        },
+        {
+          "stepKey": "websiteWalkthrough",
+          "stepName": "Step 2 - Website Walkthrough",
+          "items": [
+            {
+              "itemText": "Walk client through every page",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the agent walked the client through every page. The conversation primarily revolves around audio issues."
+            },
+            {
+              "itemText": "Ask for specific design/content changes",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion about asking for specific design or content changes. The focus is on resolving communication issues."
+            },
+            {
+              "itemText": "Write ALL changes live in Google Doc",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that the agent wrote any changes live in a Google Doc. The conversation is centered on technical difficulties."
+            },
+            {
+              "itemText": "Explain Blog Strategy (SEO & Traffic)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any explanation of a blog strategy, including SEO or traffic. The dialogue is limited to troubleshooting audio problems."
+            },
+            {
+              "itemText": "Submit Google Doc to builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of submitting a Google Doc to builders in the transcript. The interaction is focused on resolving microphone issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "formSmsTest",
+          "stepName": "Step 3 - Form & SMS Test",
+          "items": [
+            {
+              "itemText": "Submit website form live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence of submitting a website form live in the transcript."
+            },
+            {
+              "itemText": "Check conversations in Sub Account",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or action related to checking conversations in a Sub Account."
+            },
+            {
+              "itemText": "Confirm client received SMS notification",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication that the client received an SMS notification, as the transcript lacks any reference to SMS."
+            },
+            {
+              "itemText": "Client saves contact as 'Business Notification'",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention the client saving a contact as 'Business Notification'."
+            },
+            {
+              "itemText": "Client replies from LeadConnector app",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the client replying from the LeadConnector app."
+            },
+            {
+              "itemText": "Reply appears in CRM Conversations",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any reply appearing in CRM Conversations."
+            },
+            {
+              "itemText": "'System Update' contact saved by client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of a 'System Update' contact being saved by the client in the transcript."
+            }
+          ]
+        },
+        {
+          "stepKey": "googleReviewsReferral",
+          "stepName": "Step 4 - Google Reviews & Referral",
+          "items": [
+            {
+              "itemText": "Open 1 Year Follow Up Form Builder",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about opening a 1 Year Follow Up Form Builder. The conversation is focused on audio issues."
+            },
+            {
+              "itemText": "Send integration link to client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of sending an integration link to the client. The transcript is primarily about resolving audio issues."
+            },
+            {
+              "itemText": "Submit test form (Own Name/Number)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Submitting a test form is not discussed in the transcript. The conversation is about technical difficulties with audio."
+            },
+            {
+              "itemText": "Show 5-star link vs Private Feedback logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of showing a 5-star link versus Private Feedback logic. The transcript is focused on resolving audio issues."
+            },
+            {
+              "itemText": "Review Review/Referral workflow",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The review/referral workflow is not reviewed in the transcript. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Explain 8-day wait / 8-week recurring",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation of the 8-day wait or 8-week recurring process. The transcript is focused on audio issues."
+            },
+            {
+              "itemText": "Request past customer database (CSV)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Requesting a past customer database (CSV) is not mentioned. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain 4-week SMS cadence logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The 4-week SMS cadence logic is not explained in the transcript. The conversation is focused on audio issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "gmbOptimization",
+          "stepName": "Step 5 - GMB Optimization & Integrity",
+          "items": [
+            {
+              "itemText": "Profile Completion: All fields filled; description keyword-rich",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about profile completion or keyword-rich descriptions."
+            },
+            {
+              "itemText": "Services: All core services added with clear descriptions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion about services being added or described in the transcript."
+            },
+            {
+              "itemText": "Photos: Logo, cover, team, and work photos (NO STOCK)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention photos, logos, or any visual content."
+            },
+            {
+              "itemText": "Business Info: Correct hours, phone, and website link",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of business information such as hours, phone, or website link."
+            },
+            {
+              "itemText": "Profile Health: Green check status; no errors/suspensions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention profile health, errors, or suspensions."
+            },
+            {
+              "itemText": "Service Areas: Specific geographic areas added correctly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of service areas or geographic areas being added."
+            },
+            {
+              "itemText": "Auto Review Replies: Mention we auto-reply to reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention auto-replying to reviews."
+            },
+            {
+              "itemText": "Weekly Google Posts: Mention daily posts created weekly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of weekly Google posts or daily posts being created."
+            }
+          ]
+        },
+        {
+          "stepKey": "cardVerification",
+          "stepName": "Step 6 - Card Verification",
+          "items": [
+            {
+              "itemText": "Manually rebill client $1 activation fee for subscription",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of manually rebilling a $1 activation fee in the transcript."
+            },
+            {
+              "itemText": "If $1 charge succeeds — card is verified",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss the success of a $1 charge or card verification."
+            },
+            {
+              "itemText": "If $1 charge fails — switch to another subscription/card",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of switching to another subscription/card if a $1 charge fails."
+            },
+            {
+              "itemText": "Confirm a valid, working card is on file",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm a valid, working card is on file."
+            },
+            {
+              "itemText": "Inform client A2P registration fee is $20 (we cover it)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of informing the client about a $20 A2P registration fee."
+            },
+            {
+              "itemText": "If client declines A2P: Stop sharing, buy toll-free number",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss stopping sharing or buying a toll-free number if the client declines A2P."
+            },
+            {
+              "itemText": "Have client save toll-free number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of having the client save a toll-free number as a contact."
+            },
+            {
+              "itemText": "Have client save TextGrid number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention having the client save a TextGrid number as a contact."
+            },
+            {
+              "itemText": "Total contacts saved: 2 numbers (Toll-free and TextGrid)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of saving two numbers as contacts in the transcript."
+            },
+            {
+              "itemText": "Confirm both numbers are saved as contacts",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm that both numbers are saved as contacts."
+            }
+          ]
+        },
+        {
+          "stepKey": "a2pMessaging",
+          "stepName": "Step 7 - A2P Client Briefing",
+          "items": [
+            {
+              "itemText": "Tell client we will eventually switch to A2P",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention switching to A2P. The conversation is focused on technical issues, not future plans."
+            },
+            {
+              "itemText": "Explain A2P benefits: reply stops reduced, deliverability",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of A2P benefits such as reply stops reduced or deliverability. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain A2P registration for automated messages",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any explanation of A2P registration for automated messages. The focus is on communication setup."
+            },
+            {
+              "itemText": "Show client what A2P registration is (Google live)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no demonstration or mention of showing A2P registration via Google live. The transcript is about resolving technical difficulties."
+            },
+            {
+              "itemText": "Mention we fill out A2P Registration form on their behalf",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention filling out the A2P Registration form on behalf of the client. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Tell client form costs $20 but we cover it",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the form costing $20 or that it will be covered. The transcript is focused on resolving communication problems."
+            },
+            {
+              "itemText": "Explain the only con: ~$10–15/month extra cost",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain any cons such as an extra cost of ~$10–15/month. The discussion is about technical setup."
+            },
+            {
+              "itemText": "Tell client: will provide stronger number once complete",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of providing a stronger number once complete. The transcript is about resolving audio issues, not future actions."
+            }
+          ]
+        },
+        {
+          "stepKey": "socialProofResults",
+          "stepName": "Step 8 - Social Proof / Results",
+          "items": [
+            {
+              "itemText": "Google a relevant keyword live (e.g. 'plumber city state')",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the agent Googling a relevant keyword live in the transcript."
+            },
+            {
+              "itemText": "Show client a top-ranked example business",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent showed the client a top-ranked example business."
+            },
+            {
+              "itemText": "Explain reviews are the reason for high leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation in the transcript about reviews being the reason for high leads."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not point out Google review count and rating in the transcript."
+            },
+            {
+              "itemText": "Google another relevant keyword live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show the agent Googling another relevant keyword live."
+            },
+            {
+              "itemText": "Show client another top-ranked example",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the agent showing the client another top-ranked example."
+            },
+            {
+              "itemText": "Explain reviews drove them to the top",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not explain that reviews drove them to the top in the transcript."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include the agent pointing out Google review count and rating."
+            },
+            {
+              "itemText": "Key message: leads come from reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no key message in the transcript indicating that leads come from reviews."
+            },
+            {
+              "itemText": "Explain: more reviews = higher ranking = more leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain that more reviews equal higher ranking and more leads."
+            },
+            {
+              "itemText": "Tell client: this is exactly what we are building for them",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not tell the client that this is exactly what they are building for them."
+            },
+            {
+              "itemText": "Emphasize: getting reviews is most important growth factor",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not emphasize that getting reviews is the most important growth factor."
+            }
+          ]
+        },
+        {
+          "stepKey": "updateForm",
+          "stepName": "Step 9 - Update Form",
+          "items": [
+            {
+              "itemText": "Open the Onboarding Form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Onboarding Form in the transcript."
+            },
+            {
+              "itemText": "Choose between English or Spanish before filling",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of choosing between English or Spanish before filling the form."
+            },
+            {
+              "itemText": "Fill in all required fields and submit form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of filling in all required fields and submitting the form."
+            },
+            {
+              "itemText": "Confirm form submission was successful",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming form submission was successful."
+            },
+            {
+              "itemText": "Open Client Tracking Editor after submitting form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Client Tracking Editor after submitting the form."
+            },
+            {
+              "itemText": "Verify client business name is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client business name."
+            },
+            {
+              "itemText": "Verify client phone number is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client phone number."
+            },
+            {
+              "itemText": "Verify client email address is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client email address."
+            },
+            {
+              "itemText": "Verify website URL is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the website URL."
+            },
+            {
+              "itemText": "Update any website change notes for builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of updating any website change notes for builders."
+            },
+            {
+              "itemText": "Confirm all tracking details are accurate and saved",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming all tracking details are accurate and saved."
+            },
+            {
+              "itemText": "Create call recording ticket with Fathom",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of creating a call recording ticket with Fathom."
+            }
+          ]
+        },
+        {
+          "stepKey": "pipelineSetup",
+          "stepName": "Step 10 - Update GoHighLevel Pipeline",
+          "items": [
+            {
+              "itemText": "Open client card in GoHighLevel",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the AGENT opened the client card in GoHighLevel. The conversation focuses on audio issues and does not reference any actions related to GoHighLevel."
+            },
+            {
+              "itemText": "Move card to correct pipeline stage",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any evidence that the AGENT moved the card to the correct pipeline stage. The discussion is centered around resolving audio issues, with no mention of pipeline stages."
+            },
+            {
+              "itemText": "Verify all contact details are up to date",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication in the transcript that the AGENT verified all contact details. The conversation is entirely about audio connectivity, with no reference to contact details."
+            },
+            {
+              "itemText": "Confirm pipeline stage reflects completion",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation by the AGENT that the pipeline stage reflects completion. The dialogue is focused on resolving technical issues, not on pipeline stages."
+            }
+          ]
+        },
+        {
+          "stepKey": "regularUpdates",
+          "stepName": "Step 11 - Regular Updates",
+          "items": [
+            {
+              "itemText": "Watch the Regular Updates walkthrough video",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention watching a Regular Updates walkthrough video. There is no evidence of this action being taken by the AGENT."
+            },
+            {
+              "itemText": "Understand update workflow and frequency",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or explanation about understanding the update workflow and frequency. The AGENT did not address this topic."
+            },
+            {
+              "itemText": "Confirm how to submit regular updates going forward",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming how to submit regular updates going forward. The AGENT did not provide any information or confirmation on this matter."
+            }
+          ]
+        }
+      ],
+      "closeCall": [
+        {
+          "itemText": "Questions Answered",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not contain any evidence of the AGENT answering questions. The conversation primarily focuses on resolving audio issues and does not include any questions being asked or answered."
+        },
+        {
+          "itemText": "Texted Kurtis with client name",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the AGENT texted Kurtis with the client's name. The dialogue is centered around audio issues and does not reference any texting actions."
+        }
+      ]
+    },
+    "score": 0,
+    "status": "VERY POOR",
+    "passedItems": 0,
+    "totalItems": 92,
+    "confidenceAvg": 1,
+    "createdAt": "2026-04-02T04:40:51.158Z"
+  },
+  {
+    "id": "ob_1775104431446_5vri2nw",
+    "taskId": "86ag81c82",
+    "businessName": "Enterprise Air Conditioning & Refrigeration LLC (Maryann Quiroz)",
+    "gmbProfileName": "Manny’s Ceramic Pro Touch LLC (Liquid PPF & Ceramic Protection)",
+    "fathomLink": "https://fathom.video/calls/619681037",
+    "transcript": "Kurtis Smith: All right.\nKurtis Smith: There we go.\nKurtis Smith: Can you hear me?\nMichael Ouellette: Yep, I can hear you.\nKurtis Smith: I can't hear you either.\nKurtis Smith: Can you call me on the phone?\nMichael Ouellette: Yeah, I can hear you.\nMichael Ouellette: For some reason, my microphone's not working on my computer.\nMichael Ouellette: Yeah, that's fine.\nMichael Ouellette: Let's just do that.\nMichael Ouellette: All right, you hear me?\nMichael Ouellette: All right, let's do this.\nMichael Ouellette: Right now, on the bottom, that's the biggest fight, I think.",
+    "analysis": {
+      "requiredTabs": [
+        {
+          "itemText": "Agency Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Agency Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Website (Netlify) tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Website (Netlify) tab is open."
+        },
+        {
+          "itemText": "Client Google My Business profile tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Google My Business profile tab is open."
+        },
+        {
+          "itemText": "Fathom connected to Google Meet and recording",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that Fathom is connected to Google Meet and recording."
+        }
+      ],
+      "gmbCheckup": [
+        {
+          "itemText": "Verify GMB listing is connected in sub account",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not mention anything about verifying the GMB listing being connected in a sub account. The conversation is focused on technical issues with audio, not GMB actions."
+        },
+        {
+          "itemText": "Confirm business info is accurate (name, address, phone)",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no discussion or mention of confirming business information such as name, address, or phone. The transcript is entirely about resolving audio issues."
+        },
+        {
+          "itemText": "Check GMB reviews are syncing properly",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not include any mention of checking GMB reviews or their syncing status. The focus is on communication problems, not GMB reviews."
+        },
+        {
+          "itemText": "Ensure Google Posts are enabled and scheduled",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no evidence in the transcript that Google Posts are discussed, enabled, or scheduled. The conversation is about resolving a microphone issue."
+        }
+      ],
+      "steps": [
+        {
+          "stepKey": "leadConnectorAccess",
+          "stepName": "Step 1 - LeadConnector Access",
+          "items": [
+            {
+              "itemText": "Client logs into LeadConnector",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence in the transcript that the client logs into LeadConnector."
+            },
+            {
+              "itemText": "Add client as Staff in Client Sub Account (Settings -> Staff)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent added the client as Staff in Client Sub Account."
+            },
+            {
+              "itemText": "Set password for client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that a password was set for the client."
+            },
+            {
+              "itemText": "Client confirms successful login",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation from the client about a successful login."
+            }
+          ]
+        },
+        {
+          "stepKey": "websiteWalkthrough",
+          "stepName": "Step 2 - Website Walkthrough",
+          "items": [
+            {
+              "itemText": "Walk client through every page",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the agent walked the client through every page. The conversation primarily revolves around audio issues."
+            },
+            {
+              "itemText": "Ask for specific design/content changes",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion about asking for specific design or content changes. The focus is on resolving communication issues."
+            },
+            {
+              "itemText": "Write ALL changes live in Google Doc",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that the agent wrote any changes live in a Google Doc. The conversation is centered on technical difficulties."
+            },
+            {
+              "itemText": "Explain Blog Strategy (SEO & Traffic)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any explanation of a blog strategy, including SEO or traffic. The dialogue is limited to troubleshooting audio problems."
+            },
+            {
+              "itemText": "Submit Google Doc to builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of submitting a Google Doc to builders in the transcript. The interaction is focused on resolving microphone issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "formSmsTest",
+          "stepName": "Step 3 - Form & SMS Test",
+          "items": [
+            {
+              "itemText": "Submit website form live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence of submitting a website form live in the transcript."
+            },
+            {
+              "itemText": "Check conversations in Sub Account",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or action related to checking conversations in a Sub Account."
+            },
+            {
+              "itemText": "Confirm client received SMS notification",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication that the client received an SMS notification, as the transcript lacks any reference to SMS."
+            },
+            {
+              "itemText": "Client saves contact as 'Business Notification'",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention the client saving a contact as 'Business Notification'."
+            },
+            {
+              "itemText": "Client replies from LeadConnector app",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the client replying from the LeadConnector app."
+            },
+            {
+              "itemText": "Reply appears in CRM Conversations",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any reply appearing in CRM Conversations."
+            },
+            {
+              "itemText": "'System Update' contact saved by client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of a 'System Update' contact being saved by the client in the transcript."
+            }
+          ]
+        },
+        {
+          "stepKey": "googleReviewsReferral",
+          "stepName": "Step 4 - Google Reviews & Referral",
+          "items": [
+            {
+              "itemText": "Open 1 Year Follow Up Form Builder",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about opening a 1 Year Follow Up Form Builder. The conversation is focused on audio issues."
+            },
+            {
+              "itemText": "Send integration link to client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of sending an integration link to the client. The transcript is primarily about resolving audio issues."
+            },
+            {
+              "itemText": "Submit test form (Own Name/Number)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Submitting a test form is not discussed in the transcript. The conversation is about technical difficulties with audio."
+            },
+            {
+              "itemText": "Show 5-star link vs Private Feedback logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of showing a 5-star link versus Private Feedback logic. The transcript is focused on resolving audio issues."
+            },
+            {
+              "itemText": "Review Review/Referral workflow",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The review/referral workflow is not reviewed in the transcript. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Explain 8-day wait / 8-week recurring",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation of the 8-day wait or 8-week recurring process. The transcript is focused on audio issues."
+            },
+            {
+              "itemText": "Request past customer database (CSV)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Requesting a past customer database (CSV) is not mentioned. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain 4-week SMS cadence logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The 4-week SMS cadence logic is not explained in the transcript. The conversation is focused on audio issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "gmbOptimization",
+          "stepName": "Step 5 - GMB Optimization & Integrity",
+          "items": [
+            {
+              "itemText": "Profile Completion: All fields filled; description keyword-rich",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about profile completion or keyword-rich descriptions."
+            },
+            {
+              "itemText": "Services: All core services added with clear descriptions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion about services being added or described in the transcript."
+            },
+            {
+              "itemText": "Photos: Logo, cover, team, and work photos (NO STOCK)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention photos, logos, or any visual content."
+            },
+            {
+              "itemText": "Business Info: Correct hours, phone, and website link",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of business information such as hours, phone, or website link."
+            },
+            {
+              "itemText": "Profile Health: Green check status; no errors/suspensions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention profile health, errors, or suspensions."
+            },
+            {
+              "itemText": "Service Areas: Specific geographic areas added correctly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of service areas or geographic areas being added."
+            },
+            {
+              "itemText": "Auto Review Replies: Mention we auto-reply to reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention auto-replying to reviews."
+            },
+            {
+              "itemText": "Weekly Google Posts: Mention daily posts created weekly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of weekly Google posts or daily posts being created."
+            }
+          ]
+        },
+        {
+          "stepKey": "cardVerification",
+          "stepName": "Step 6 - Card Verification",
+          "items": [
+            {
+              "itemText": "Manually rebill client $1 activation fee for subscription",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of manually rebilling a $1 activation fee in the transcript."
+            },
+            {
+              "itemText": "If $1 charge succeeds — card is verified",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss the success of a $1 charge or card verification."
+            },
+            {
+              "itemText": "If $1 charge fails — switch to another subscription/card",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of switching to another subscription/card if a $1 charge fails."
+            },
+            {
+              "itemText": "Confirm a valid, working card is on file",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm a valid, working card is on file."
+            },
+            {
+              "itemText": "Inform client A2P registration fee is $20 (we cover it)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of informing the client about a $20 A2P registration fee."
+            },
+            {
+              "itemText": "If client declines A2P: Stop sharing, buy toll-free number",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss stopping sharing or buying a toll-free number if the client declines A2P."
+            },
+            {
+              "itemText": "Have client save toll-free number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of having the client save a toll-free number as a contact."
+            },
+            {
+              "itemText": "Have client save TextGrid number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention having the client save a TextGrid number as a contact."
+            },
+            {
+              "itemText": "Total contacts saved: 2 numbers (Toll-free and TextGrid)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of saving two numbers as contacts in the transcript."
+            },
+            {
+              "itemText": "Confirm both numbers are saved as contacts",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm that both numbers are saved as contacts."
+            }
+          ]
+        },
+        {
+          "stepKey": "a2pMessaging",
+          "stepName": "Step 7 - A2P Client Briefing",
+          "items": [
+            {
+              "itemText": "Tell client we will eventually switch to A2P",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention switching to A2P. The conversation is focused on technical issues, not future plans."
+            },
+            {
+              "itemText": "Explain A2P benefits: reply stops reduced, deliverability",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of A2P benefits such as reply stops reduced or deliverability. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain A2P registration for automated messages",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any explanation of A2P registration for automated messages. The focus is on communication setup."
+            },
+            {
+              "itemText": "Show client what A2P registration is (Google live)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no demonstration or mention of showing A2P registration via Google live. The transcript is about resolving technical difficulties."
+            },
+            {
+              "itemText": "Mention we fill out A2P Registration form on their behalf",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention filling out the A2P Registration form on behalf of the client. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Tell client form costs $20 but we cover it",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the form costing $20 or that it will be covered. The transcript is focused on resolving communication problems."
+            },
+            {
+              "itemText": "Explain the only con: ~$10–15/month extra cost",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain any cons such as an extra cost of ~$10–15/month. The discussion is about technical setup."
+            },
+            {
+              "itemText": "Tell client: will provide stronger number once complete",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of providing a stronger number once complete. The transcript is about resolving audio issues, not future actions."
+            }
+          ]
+        },
+        {
+          "stepKey": "socialProofResults",
+          "stepName": "Step 8 - Social Proof / Results",
+          "items": [
+            {
+              "itemText": "Google a relevant keyword live (e.g. 'plumber city state')",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the agent Googling a relevant keyword live in the transcript."
+            },
+            {
+              "itemText": "Show client a top-ranked example business",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent showed the client a top-ranked example business."
+            },
+            {
+              "itemText": "Explain reviews are the reason for high leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation in the transcript about reviews being the reason for high leads."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not point out Google review count and rating in the transcript."
+            },
+            {
+              "itemText": "Google another relevant keyword live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show the agent Googling another relevant keyword live."
+            },
+            {
+              "itemText": "Show client another top-ranked example",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the agent showing the client another top-ranked example."
+            },
+            {
+              "itemText": "Explain reviews drove them to the top",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not explain that reviews drove them to the top in the transcript."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include the agent pointing out Google review count and rating."
+            },
+            {
+              "itemText": "Key message: leads come from reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no key message in the transcript indicating that leads come from reviews."
+            },
+            {
+              "itemText": "Explain: more reviews = higher ranking = more leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain that more reviews equal higher ranking and more leads."
+            },
+            {
+              "itemText": "Tell client: this is exactly what we are building for them",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not tell the client that this is exactly what they are building for them."
+            },
+            {
+              "itemText": "Emphasize: getting reviews is most important growth factor",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not emphasize that getting reviews is the most important growth factor."
+            }
+          ]
+        },
+        {
+          "stepKey": "updateForm",
+          "stepName": "Step 9 - Update Form",
+          "items": [
+            {
+              "itemText": "Open the Onboarding Form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Onboarding Form in the transcript."
+            },
+            {
+              "itemText": "Choose between English or Spanish before filling",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of choosing between English or Spanish before filling the form."
+            },
+            {
+              "itemText": "Fill in all required fields and submit form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of filling in all required fields and submitting the form."
+            },
+            {
+              "itemText": "Confirm form submission was successful",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming form submission was successful."
+            },
+            {
+              "itemText": "Open Client Tracking Editor after submitting form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Client Tracking Editor after submitting the form."
+            },
+            {
+              "itemText": "Verify client business name is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client business name."
+            },
+            {
+              "itemText": "Verify client phone number is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client phone number."
+            },
+            {
+              "itemText": "Verify client email address is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client email address."
+            },
+            {
+              "itemText": "Verify website URL is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the website URL."
+            },
+            {
+              "itemText": "Update any website change notes for builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of updating any website change notes for builders."
+            },
+            {
+              "itemText": "Confirm all tracking details are accurate and saved",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming all tracking details are accurate and saved."
+            },
+            {
+              "itemText": "Create call recording ticket with Fathom",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of creating a call recording ticket with Fathom."
+            }
+          ]
+        },
+        {
+          "stepKey": "pipelineSetup",
+          "stepName": "Step 10 - Update GoHighLevel Pipeline",
+          "items": [
+            {
+              "itemText": "Open client card in GoHighLevel",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the AGENT opened the client card in GoHighLevel. The conversation focuses on audio issues and does not reference any actions related to GoHighLevel."
+            },
+            {
+              "itemText": "Move card to correct pipeline stage",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any evidence that the AGENT moved the card to the correct pipeline stage. The discussion is centered around resolving audio issues, with no mention of pipeline stages."
+            },
+            {
+              "itemText": "Verify all contact details are up to date",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication in the transcript that the AGENT verified all contact details. The conversation is entirely about audio connectivity, with no reference to contact details."
+            },
+            {
+              "itemText": "Confirm pipeline stage reflects completion",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation by the AGENT that the pipeline stage reflects completion. The dialogue is focused on resolving technical issues, not on pipeline stages."
+            }
+          ]
+        },
+        {
+          "stepKey": "regularUpdates",
+          "stepName": "Step 11 - Regular Updates",
+          "items": [
+            {
+              "itemText": "Watch the Regular Updates walkthrough video",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention watching a Regular Updates walkthrough video. There is no evidence of this action being taken by the AGENT."
+            },
+            {
+              "itemText": "Understand update workflow and frequency",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or explanation about understanding the update workflow and frequency. The AGENT did not address this topic."
+            },
+            {
+              "itemText": "Confirm how to submit regular updates going forward",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming how to submit regular updates going forward. The AGENT did not provide any information or confirmation on this matter."
+            }
+          ]
+        }
+      ],
+      "closeCall": [
+        {
+          "itemText": "Questions Answered",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not contain any evidence of the AGENT answering questions. The conversation primarily focuses on resolving audio issues and does not include any questions being asked or answered."
+        },
+        {
+          "itemText": "Texted Kurtis with client name",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the AGENT texted Kurtis with the client's name. The dialogue is centered around audio issues and does not reference any texting actions."
+        }
+      ]
+    },
+    "score": 0,
+    "status": "VERY POOR",
+    "passedItems": 0,
+    "totalItems": 92,
+    "confidenceAvg": 1,
+    "createdAt": "2026-04-02T04:33:51.446Z"
+  },
+  {
+    "id": "ob_1775104400048_ghsvs71",
+    "taskId": "86agea0uk",
+    "businessName": "Black and Gold Painting (Luis Flores)",
+    "gmbProfileName": "Dhaso Painters",
+    "fathomLink": "https://fathom.video/calls/619681037",
+    "transcript": "Kurtis Smith: All right.\nKurtis Smith: There we go.\nKurtis Smith: Can you hear me?\nMichael Ouellette: Yep, I can hear you.\nKurtis Smith: I can't hear you either.\nKurtis Smith: Can you call me on the phone?\nMichael Ouellette: Yeah, I can hear you.\nMichael Ouellette: For some reason, my microphone's not working on my computer.\nMichael Ouellette: Yeah, that's fine.\nMichael Ouellette: Let's just do that.\nMichael Ouellette: All right, you hear me?\nMichael Ouellette: All right, let's do this.\nMichael Ouellette: Right now, on the bottom, that's the biggest fight, I think.",
+    "analysis": {
+      "requiredTabs": [
+        {
+          "itemText": "Agency Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Agency Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Website (Netlify) tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Website (Netlify) tab is open."
+        },
+        {
+          "itemText": "Client Google My Business profile tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Google My Business profile tab is open."
+        },
+        {
+          "itemText": "Fathom connected to Google Meet and recording",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that Fathom is connected to Google Meet and recording."
+        }
+      ],
+      "gmbCheckup": [
+        {
+          "itemText": "Verify GMB listing is connected in sub account",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not mention anything about verifying the GMB listing being connected in a sub account. The conversation is focused on technical issues with audio, not GMB actions."
+        },
+        {
+          "itemText": "Confirm business info is accurate (name, address, phone)",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no discussion or mention of confirming business information such as name, address, or phone. The transcript is entirely about resolving audio issues."
+        },
+        {
+          "itemText": "Check GMB reviews are syncing properly",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not include any mention of checking GMB reviews or their syncing status. The focus is on communication problems, not GMB reviews."
+        },
+        {
+          "itemText": "Ensure Google Posts are enabled and scheduled",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no evidence in the transcript that Google Posts are discussed, enabled, or scheduled. The conversation is about resolving a microphone issue."
+        }
+      ],
+      "steps": [
+        {
+          "stepKey": "leadConnectorAccess",
+          "stepName": "Step 1 - LeadConnector Access",
+          "items": [
+            {
+              "itemText": "Client logs into LeadConnector",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence in the transcript that the client logs into LeadConnector."
+            },
+            {
+              "itemText": "Add client as Staff in Client Sub Account (Settings -> Staff)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent added the client as Staff in Client Sub Account."
+            },
+            {
+              "itemText": "Set password for client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that a password was set for the client."
+            },
+            {
+              "itemText": "Client confirms successful login",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation from the client about a successful login."
+            }
+          ]
+        },
+        {
+          "stepKey": "websiteWalkthrough",
+          "stepName": "Step 2 - Website Walkthrough",
+          "items": [
+            {
+              "itemText": "Walk client through every page",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the agent walked the client through every page. The conversation primarily revolves around audio issues."
+            },
+            {
+              "itemText": "Ask for specific design/content changes",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion about asking for specific design or content changes. The focus is on resolving communication issues."
+            },
+            {
+              "itemText": "Write ALL changes live in Google Doc",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that the agent wrote any changes live in a Google Doc. The conversation is centered on technical difficulties."
+            },
+            {
+              "itemText": "Explain Blog Strategy (SEO & Traffic)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any explanation of a blog strategy, including SEO or traffic. The dialogue is limited to troubleshooting audio problems."
+            },
+            {
+              "itemText": "Submit Google Doc to builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of submitting a Google Doc to builders in the transcript. The interaction is focused on resolving microphone issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "formSmsTest",
+          "stepName": "Step 3 - Form & SMS Test",
+          "items": [
+            {
+              "itemText": "Submit website form live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence of submitting a website form live in the transcript."
+            },
+            {
+              "itemText": "Check conversations in Sub Account",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or action related to checking conversations in a Sub Account."
+            },
+            {
+              "itemText": "Confirm client received SMS notification",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication that the client received an SMS notification, as the transcript lacks any reference to SMS."
+            },
+            {
+              "itemText": "Client saves contact as 'Business Notification'",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention the client saving a contact as 'Business Notification'."
+            },
+            {
+              "itemText": "Client replies from LeadConnector app",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the client replying from the LeadConnector app."
+            },
+            {
+              "itemText": "Reply appears in CRM Conversations",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any reply appearing in CRM Conversations."
+            },
+            {
+              "itemText": "'System Update' contact saved by client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of a 'System Update' contact being saved by the client in the transcript."
+            }
+          ]
+        },
+        {
+          "stepKey": "googleReviewsReferral",
+          "stepName": "Step 4 - Google Reviews & Referral",
+          "items": [
+            {
+              "itemText": "Open 1 Year Follow Up Form Builder",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about opening a 1 Year Follow Up Form Builder. The conversation is focused on audio issues."
+            },
+            {
+              "itemText": "Send integration link to client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of sending an integration link to the client. The transcript is primarily about resolving audio issues."
+            },
+            {
+              "itemText": "Submit test form (Own Name/Number)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Submitting a test form is not discussed in the transcript. The conversation is about technical difficulties with audio."
+            },
+            {
+              "itemText": "Show 5-star link vs Private Feedback logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of showing a 5-star link versus Private Feedback logic. The transcript is focused on resolving audio issues."
+            },
+            {
+              "itemText": "Review Review/Referral workflow",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The review/referral workflow is not reviewed in the transcript. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Explain 8-day wait / 8-week recurring",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation of the 8-day wait or 8-week recurring process. The transcript is focused on audio issues."
+            },
+            {
+              "itemText": "Request past customer database (CSV)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Requesting a past customer database (CSV) is not mentioned. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain 4-week SMS cadence logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The 4-week SMS cadence logic is not explained in the transcript. The conversation is focused on audio issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "gmbOptimization",
+          "stepName": "Step 5 - GMB Optimization & Integrity",
+          "items": [
+            {
+              "itemText": "Profile Completion: All fields filled; description keyword-rich",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about profile completion or keyword-rich descriptions."
+            },
+            {
+              "itemText": "Services: All core services added with clear descriptions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion about services being added or described in the transcript."
+            },
+            {
+              "itemText": "Photos: Logo, cover, team, and work photos (NO STOCK)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention photos, logos, or any visual content."
+            },
+            {
+              "itemText": "Business Info: Correct hours, phone, and website link",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of business information such as hours, phone, or website link."
+            },
+            {
+              "itemText": "Profile Health: Green check status; no errors/suspensions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention profile health, errors, or suspensions."
+            },
+            {
+              "itemText": "Service Areas: Specific geographic areas added correctly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of service areas or geographic areas being added."
+            },
+            {
+              "itemText": "Auto Review Replies: Mention we auto-reply to reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention auto-replying to reviews."
+            },
+            {
+              "itemText": "Weekly Google Posts: Mention daily posts created weekly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of weekly Google posts or daily posts being created."
+            }
+          ]
+        },
+        {
+          "stepKey": "cardVerification",
+          "stepName": "Step 6 - Card Verification",
+          "items": [
+            {
+              "itemText": "Manually rebill client $1 activation fee for subscription",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of manually rebilling a $1 activation fee in the transcript."
+            },
+            {
+              "itemText": "If $1 charge succeeds — card is verified",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss the success of a $1 charge or card verification."
+            },
+            {
+              "itemText": "If $1 charge fails — switch to another subscription/card",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of switching to another subscription/card if a $1 charge fails."
+            },
+            {
+              "itemText": "Confirm a valid, working card is on file",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm a valid, working card is on file."
+            },
+            {
+              "itemText": "Inform client A2P registration fee is $20 (we cover it)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of informing the client about a $20 A2P registration fee."
+            },
+            {
+              "itemText": "If client declines A2P: Stop sharing, buy toll-free number",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss stopping sharing or buying a toll-free number if the client declines A2P."
+            },
+            {
+              "itemText": "Have client save toll-free number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of having the client save a toll-free number as a contact."
+            },
+            {
+              "itemText": "Have client save TextGrid number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention having the client save a TextGrid number as a contact."
+            },
+            {
+              "itemText": "Total contacts saved: 2 numbers (Toll-free and TextGrid)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of saving two numbers as contacts in the transcript."
+            },
+            {
+              "itemText": "Confirm both numbers are saved as contacts",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm that both numbers are saved as contacts."
+            }
+          ]
+        },
+        {
+          "stepKey": "a2pMessaging",
+          "stepName": "Step 7 - A2P Client Briefing",
+          "items": [
+            {
+              "itemText": "Tell client we will eventually switch to A2P",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention switching to A2P. The conversation is focused on technical issues, not future plans."
+            },
+            {
+              "itemText": "Explain A2P benefits: reply stops reduced, deliverability",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of A2P benefits such as reply stops reduced or deliverability. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain A2P registration for automated messages",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any explanation of A2P registration for automated messages. The focus is on communication setup."
+            },
+            {
+              "itemText": "Show client what A2P registration is (Google live)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no demonstration or mention of showing A2P registration via Google live. The transcript is about resolving technical difficulties."
+            },
+            {
+              "itemText": "Mention we fill out A2P Registration form on their behalf",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention filling out the A2P Registration form on behalf of the client. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Tell client form costs $20 but we cover it",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the form costing $20 or that it will be covered. The transcript is focused on resolving communication problems."
+            },
+            {
+              "itemText": "Explain the only con: ~$10–15/month extra cost",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain any cons such as an extra cost of ~$10–15/month. The discussion is about technical setup."
+            },
+            {
+              "itemText": "Tell client: will provide stronger number once complete",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of providing a stronger number once complete. The transcript is about resolving audio issues, not future actions."
+            }
+          ]
+        },
+        {
+          "stepKey": "socialProofResults",
+          "stepName": "Step 8 - Social Proof / Results",
+          "items": [
+            {
+              "itemText": "Google a relevant keyword live (e.g. 'plumber city state')",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the agent Googling a relevant keyword live in the transcript."
+            },
+            {
+              "itemText": "Show client a top-ranked example business",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent showed the client a top-ranked example business."
+            },
+            {
+              "itemText": "Explain reviews are the reason for high leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation in the transcript about reviews being the reason for high leads."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not point out Google review count and rating in the transcript."
+            },
+            {
+              "itemText": "Google another relevant keyword live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show the agent Googling another relevant keyword live."
+            },
+            {
+              "itemText": "Show client another top-ranked example",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the agent showing the client another top-ranked example."
+            },
+            {
+              "itemText": "Explain reviews drove them to the top",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not explain that reviews drove them to the top in the transcript."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include the agent pointing out Google review count and rating."
+            },
+            {
+              "itemText": "Key message: leads come from reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no key message in the transcript indicating that leads come from reviews."
+            },
+            {
+              "itemText": "Explain: more reviews = higher ranking = more leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain that more reviews equal higher ranking and more leads."
+            },
+            {
+              "itemText": "Tell client: this is exactly what we are building for them",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not tell the client that this is exactly what they are building for them."
+            },
+            {
+              "itemText": "Emphasize: getting reviews is most important growth factor",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not emphasize that getting reviews is the most important growth factor."
+            }
+          ]
+        },
+        {
+          "stepKey": "updateForm",
+          "stepName": "Step 9 - Update Form",
+          "items": [
+            {
+              "itemText": "Open the Onboarding Form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Onboarding Form in the transcript."
+            },
+            {
+              "itemText": "Choose between English or Spanish before filling",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of choosing between English or Spanish before filling the form."
+            },
+            {
+              "itemText": "Fill in all required fields and submit form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of filling in all required fields and submitting the form."
+            },
+            {
+              "itemText": "Confirm form submission was successful",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming form submission was successful."
+            },
+            {
+              "itemText": "Open Client Tracking Editor after submitting form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Client Tracking Editor after submitting the form."
+            },
+            {
+              "itemText": "Verify client business name is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client business name."
+            },
+            {
+              "itemText": "Verify client phone number is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client phone number."
+            },
+            {
+              "itemText": "Verify client email address is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client email address."
+            },
+            {
+              "itemText": "Verify website URL is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the website URL."
+            },
+            {
+              "itemText": "Update any website change notes for builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of updating any website change notes for builders."
+            },
+            {
+              "itemText": "Confirm all tracking details are accurate and saved",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming all tracking details are accurate and saved."
+            },
+            {
+              "itemText": "Create call recording ticket with Fathom",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of creating a call recording ticket with Fathom."
+            }
+          ]
+        },
+        {
+          "stepKey": "pipelineSetup",
+          "stepName": "Step 10 - Update GoHighLevel Pipeline",
+          "items": [
+            {
+              "itemText": "Open client card in GoHighLevel",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the AGENT opened the client card in GoHighLevel. The conversation focuses on audio issues and does not reference any actions related to GoHighLevel."
+            },
+            {
+              "itemText": "Move card to correct pipeline stage",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any evidence that the AGENT moved the card to the correct pipeline stage. The discussion is centered around resolving audio issues, with no mention of pipeline stages."
+            },
+            {
+              "itemText": "Verify all contact details are up to date",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication in the transcript that the AGENT verified all contact details. The conversation is entirely about audio connectivity, with no reference to contact details."
+            },
+            {
+              "itemText": "Confirm pipeline stage reflects completion",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation by the AGENT that the pipeline stage reflects completion. The dialogue is focused on resolving technical issues, not on pipeline stages."
+            }
+          ]
+        },
+        {
+          "stepKey": "regularUpdates",
+          "stepName": "Step 11 - Regular Updates",
+          "items": [
+            {
+              "itemText": "Watch the Regular Updates walkthrough video",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention watching a Regular Updates walkthrough video. There is no evidence of this action being taken by the AGENT."
+            },
+            {
+              "itemText": "Understand update workflow and frequency",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or explanation about understanding the update workflow and frequency. The AGENT did not address this topic."
+            },
+            {
+              "itemText": "Confirm how to submit regular updates going forward",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming how to submit regular updates going forward. The AGENT did not provide any information or confirmation on this matter."
+            }
+          ]
+        }
+      ],
+      "closeCall": [
+        {
+          "itemText": "Questions Answered",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not contain any evidence of the AGENT answering questions. The conversation primarily focuses on resolving audio issues and does not include any questions being asked or answered."
+        },
+        {
+          "itemText": "Texted Kurtis with client name",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the AGENT texted Kurtis with the client's name. The dialogue is centered around audio issues and does not reference any texting actions."
+        }
+      ]
+    },
+    "score": 0,
+    "status": "VERY POOR",
+    "passedItems": 0,
+    "totalItems": 92,
+    "confidenceAvg": 1,
+    "createdAt": "2026-04-02T04:33:20.048Z"
+  },
+  {
+    "id": "ob_1775052876273_fmcahhr",
+    "taskId": "86af4yygm",
+    "businessName": "Jnd Services (Omar Dickson)",
+    "gmbProfileName": "JnD Services",
+    "fathomLink": "https://fathom.video/calls/619681037",
+    "transcript": "Kurtis Smith: All right.\nKurtis Smith: There we go.\nKurtis Smith: Can you hear me?\nMichael Ouellette: Yep, I can hear you.\nKurtis Smith: I can't hear you either.\nKurtis Smith: Can you call me on the phone?\nMichael Ouellette: Yeah, I can hear you.\nMichael Ouellette: For some reason, my microphone's not working on my computer.\nMichael Ouellette: Yeah, that's fine.\nMichael Ouellette: Let's just do that.\nMichael Ouellette: All right, you hear me?\nMichael Ouellette: All right, let's do this.\nMichael Ouellette: Right now, on the bottom, that's the biggest fight, I think.",
+    "analysis": {
+      "requiredTabs": [
+        {
+          "itemText": "Agency Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Agency Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Sub Account tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Sub Account tab is open."
+        },
+        {
+          "itemText": "Client Website (Netlify) tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Website (Netlify) tab is open."
+        },
+        {
+          "itemText": "Client Google My Business profile tab is open",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the Client Google My Business profile tab is open."
+        },
+        {
+          "itemText": "Fathom connected to Google Meet and recording",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that Fathom is connected to Google Meet and recording."
+        }
+      ],
+      "gmbCheckup": [
+        {
+          "itemText": "Verify GMB listing is connected in sub account",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not mention anything about verifying the GMB listing being connected in a sub account. The conversation is focused on technical issues with audio, not GMB actions."
+        },
+        {
+          "itemText": "Confirm business info is accurate (name, address, phone)",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no discussion or mention of confirming business information such as name, address, or phone. The transcript is entirely about resolving audio issues."
+        },
+        {
+          "itemText": "Check GMB reviews are syncing properly",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not include any mention of checking GMB reviews or their syncing status. The focus is on communication problems, not GMB reviews."
+        },
+        {
+          "itemText": "Ensure Google Posts are enabled and scheduled",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no evidence in the transcript that Google Posts are discussed, enabled, or scheduled. The conversation is about resolving a microphone issue."
+        }
+      ],
+      "steps": [
+        {
+          "stepKey": "leadConnectorAccess",
+          "stepName": "Step 1 - LeadConnector Access",
+          "items": [
+            {
+              "itemText": "Client logs into LeadConnector",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence in the transcript that the client logs into LeadConnector."
+            },
+            {
+              "itemText": "Add client as Staff in Client Sub Account (Settings -> Staff)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent added the client as Staff in Client Sub Account."
+            },
+            {
+              "itemText": "Set password for client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that a password was set for the client."
+            },
+            {
+              "itemText": "Client confirms successful login",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation from the client about a successful login."
+            }
+          ]
+        },
+        {
+          "stepKey": "websiteWalkthrough",
+          "stepName": "Step 2 - Website Walkthrough",
+          "items": [
+            {
+              "itemText": "Walk client through every page",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the agent walked the client through every page. The conversation primarily revolves around audio issues."
+            },
+            {
+              "itemText": "Ask for specific design/content changes",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion about asking for specific design or content changes. The focus is on resolving communication issues."
+            },
+            {
+              "itemText": "Write ALL changes live in Google Doc",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript that the agent wrote any changes live in a Google Doc. The conversation is centered on technical difficulties."
+            },
+            {
+              "itemText": "Explain Blog Strategy (SEO & Traffic)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any explanation of a blog strategy, including SEO or traffic. The dialogue is limited to troubleshooting audio problems."
+            },
+            {
+              "itemText": "Submit Google Doc to builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of submitting a Google Doc to builders in the transcript. The interaction is focused on resolving microphone issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "formSmsTest",
+          "stepName": "Step 3 - Form & SMS Test",
+          "items": [
+            {
+              "itemText": "Submit website form live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or evidence of submitting a website form live in the transcript."
+            },
+            {
+              "itemText": "Check conversations in Sub Account",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or action related to checking conversations in a Sub Account."
+            },
+            {
+              "itemText": "Confirm client received SMS notification",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication that the client received an SMS notification, as the transcript lacks any reference to SMS."
+            },
+            {
+              "itemText": "Client saves contact as 'Business Notification'",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention the client saving a contact as 'Business Notification'."
+            },
+            {
+              "itemText": "Client replies from LeadConnector app",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the client replying from the LeadConnector app."
+            },
+            {
+              "itemText": "Reply appears in CRM Conversations",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any reply appearing in CRM Conversations."
+            },
+            {
+              "itemText": "'System Update' contact saved by client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of a 'System Update' contact being saved by the client in the transcript."
+            }
+          ]
+        },
+        {
+          "stepKey": "googleReviewsReferral",
+          "stepName": "Step 4 - Google Reviews & Referral",
+          "items": [
+            {
+              "itemText": "Open 1 Year Follow Up Form Builder",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about opening a 1 Year Follow Up Form Builder. The conversation is focused on audio issues."
+            },
+            {
+              "itemText": "Send integration link to client",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of sending an integration link to the client. The transcript is primarily about resolving audio issues."
+            },
+            {
+              "itemText": "Submit test form (Own Name/Number)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Submitting a test form is not discussed in the transcript. The conversation is about technical difficulties with audio."
+            },
+            {
+              "itemText": "Show 5-star link vs Private Feedback logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of showing a 5-star link versus Private Feedback logic. The transcript is focused on resolving audio issues."
+            },
+            {
+              "itemText": "Review Review/Referral workflow",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The review/referral workflow is not reviewed in the transcript. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Explain 8-day wait / 8-week recurring",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation of the 8-day wait or 8-week recurring process. The transcript is focused on audio issues."
+            },
+            {
+              "itemText": "Request past customer database (CSV)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "Requesting a past customer database (CSV) is not mentioned. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain 4-week SMS cadence logic",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The 4-week SMS cadence logic is not explained in the transcript. The conversation is focused on audio issues."
+            }
+          ]
+        },
+        {
+          "stepKey": "gmbOptimization",
+          "stepName": "Step 5 - GMB Optimization & Integrity",
+          "items": [
+            {
+              "itemText": "Profile Completion: All fields filled; description keyword-rich",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention anything about profile completion or keyword-rich descriptions."
+            },
+            {
+              "itemText": "Services: All core services added with clear descriptions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion about services being added or described in the transcript."
+            },
+            {
+              "itemText": "Photos: Logo, cover, team, and work photos (NO STOCK)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention photos, logos, or any visual content."
+            },
+            {
+              "itemText": "Business Info: Correct hours, phone, and website link",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of business information such as hours, phone, or website link."
+            },
+            {
+              "itemText": "Profile Health: Green check status; no errors/suspensions",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention profile health, errors, or suspensions."
+            },
+            {
+              "itemText": "Service Areas: Specific geographic areas added correctly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of service areas or geographic areas being added."
+            },
+            {
+              "itemText": "Auto Review Replies: Mention we auto-reply to reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention auto-replying to reviews."
+            },
+            {
+              "itemText": "Weekly Google Posts: Mention daily posts created weekly",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of weekly Google posts or daily posts being created."
+            }
+          ]
+        },
+        {
+          "stepKey": "cardVerification",
+          "stepName": "Step 6 - Card Verification",
+          "items": [
+            {
+              "itemText": "Manually rebill client $1 activation fee for subscription",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of manually rebilling a $1 activation fee in the transcript."
+            },
+            {
+              "itemText": "If $1 charge succeeds — card is verified",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss the success of a $1 charge or card verification."
+            },
+            {
+              "itemText": "If $1 charge fails — switch to another subscription/card",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of switching to another subscription/card if a $1 charge fails."
+            },
+            {
+              "itemText": "Confirm a valid, working card is on file",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm a valid, working card is on file."
+            },
+            {
+              "itemText": "Inform client A2P registration fee is $20 (we cover it)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of informing the client about a $20 A2P registration fee."
+            },
+            {
+              "itemText": "If client declines A2P: Stop sharing, buy toll-free number",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not discuss stopping sharing or buying a toll-free number if the client declines A2P."
+            },
+            {
+              "itemText": "Have client save toll-free number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of having the client save a toll-free number as a contact."
+            },
+            {
+              "itemText": "Have client save TextGrid number as contact",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention having the client save a TextGrid number as a contact."
+            },
+            {
+              "itemText": "Total contacts saved: 2 numbers (Toll-free and TextGrid)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of saving two numbers as contacts in the transcript."
+            },
+            {
+              "itemText": "Confirm both numbers are saved as contacts",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not confirm that both numbers are saved as contacts."
+            }
+          ]
+        },
+        {
+          "stepKey": "a2pMessaging",
+          "stepName": "Step 7 - A2P Client Briefing",
+          "items": [
+            {
+              "itemText": "Tell client we will eventually switch to A2P",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention switching to A2P. The conversation is focused on technical issues, not future plans."
+            },
+            {
+              "itemText": "Explain A2P benefits: reply stops reduced, deliverability",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no discussion of A2P benefits such as reply stops reduced or deliverability. The transcript is about resolving audio issues."
+            },
+            {
+              "itemText": "Explain A2P registration for automated messages",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any explanation of A2P registration for automated messages. The focus is on communication setup."
+            },
+            {
+              "itemText": "Show client what A2P registration is (Google live)",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no demonstration or mention of showing A2P registration via Google live. The transcript is about resolving technical difficulties."
+            },
+            {
+              "itemText": "Mention we fill out A2P Registration form on their behalf",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention filling out the A2P Registration form on behalf of the client. The conversation is about audio issues."
+            },
+            {
+              "itemText": "Tell client form costs $20 but we cover it",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the form costing $20 or that it will be covered. The transcript is focused on resolving communication problems."
+            },
+            {
+              "itemText": "Explain the only con: ~$10–15/month extra cost",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain any cons such as an extra cost of ~$10–15/month. The discussion is about technical setup."
+            },
+            {
+              "itemText": "Tell client: will provide stronger number once complete",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of providing a stronger number once complete. The transcript is about resolving audio issues, not future actions."
+            }
+          ]
+        },
+        {
+          "stepKey": "socialProofResults",
+          "stepName": "Step 8 - Social Proof / Results",
+          "items": [
+            {
+              "itemText": "Google a relevant keyword live (e.g. 'plumber city state')",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of the agent Googling a relevant keyword live in the transcript."
+            },
+            {
+              "itemText": "Show client a top-ranked example business",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not indicate that the agent showed the client a top-ranked example business."
+            },
+            {
+              "itemText": "Explain reviews are the reason for high leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no explanation in the transcript about reviews being the reason for high leads."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not point out Google review count and rating in the transcript."
+            },
+            {
+              "itemText": "Google another relevant keyword live",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show the agent Googling another relevant keyword live."
+            },
+            {
+              "itemText": "Show client another top-ranked example",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no evidence in the transcript of the agent showing the client another top-ranked example."
+            },
+            {
+              "itemText": "Explain reviews drove them to the top",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not explain that reviews drove them to the top in the transcript."
+            },
+            {
+              "itemText": "Point out Google review count and rating",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include the agent pointing out Google review count and rating."
+            },
+            {
+              "itemText": "Key message: leads come from reviews",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no key message in the transcript indicating that leads come from reviews."
+            },
+            {
+              "itemText": "Explain: more reviews = higher ranking = more leads",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not explain that more reviews equal higher ranking and more leads."
+            },
+            {
+              "itemText": "Tell client: this is exactly what we are building for them",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The agent does not tell the client that this is exactly what they are building for them."
+            },
+            {
+              "itemText": "Emphasize: getting reviews is most important growth factor",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not emphasize that getting reviews is the most important growth factor."
+            }
+          ]
+        },
+        {
+          "stepKey": "updateForm",
+          "stepName": "Step 9 - Update Form",
+          "items": [
+            {
+              "itemText": "Open the Onboarding Form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Onboarding Form in the transcript."
+            },
+            {
+              "itemText": "Choose between English or Spanish before filling",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of choosing between English or Spanish before filling the form."
+            },
+            {
+              "itemText": "Fill in all required fields and submit form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of filling in all required fields and submitting the form."
+            },
+            {
+              "itemText": "Confirm form submission was successful",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming form submission was successful."
+            },
+            {
+              "itemText": "Open Client Tracking Editor after submitting form",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of opening the Client Tracking Editor after submitting the form."
+            },
+            {
+              "itemText": "Verify client business name is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client business name."
+            },
+            {
+              "itemText": "Verify client phone number is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client phone number."
+            },
+            {
+              "itemText": "Verify client email address is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the client email address."
+            },
+            {
+              "itemText": "Verify website URL is correct",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of verifying the website URL."
+            },
+            {
+              "itemText": "Update any website change notes for builders",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of updating any website change notes for builders."
+            },
+            {
+              "itemText": "Confirm all tracking details are accurate and saved",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming all tracking details are accurate and saved."
+            },
+            {
+              "itemText": "Create call recording ticket with Fathom",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of creating a call recording ticket with Fathom."
+            }
+          ]
+        },
+        {
+          "stepKey": "pipelineSetup",
+          "stepName": "Step 10 - Update GoHighLevel Pipeline",
+          "items": [
+            {
+              "itemText": "Open client card in GoHighLevel",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention or indication in the transcript that the AGENT opened the client card in GoHighLevel. The conversation focuses on audio issues and does not reference any actions related to GoHighLevel."
+            },
+            {
+              "itemText": "Move card to correct pipeline stage",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not contain any evidence that the AGENT moved the card to the correct pipeline stage. The discussion is centered around resolving audio issues, with no mention of pipeline stages."
+            },
+            {
+              "itemText": "Verify all contact details are up to date",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no indication in the transcript that the AGENT verified all contact details. The conversation is entirely about audio connectivity, with no reference to contact details."
+            },
+            {
+              "itemText": "Confirm pipeline stage reflects completion",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not show any confirmation by the AGENT that the pipeline stage reflects completion. The dialogue is focused on resolving technical issues, not on pipeline stages."
+            }
+          ]
+        },
+        {
+          "stepKey": "regularUpdates",
+          "stepName": "Step 11 - Regular Updates",
+          "items": [
+            {
+              "itemText": "Watch the Regular Updates walkthrough video",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not mention watching a Regular Updates walkthrough video. There is no evidence of this action being taken by the AGENT."
+            },
+            {
+              "itemText": "Understand update workflow and frequency",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "The transcript does not include any discussion or explanation about understanding the update workflow and frequency. The AGENT did not address this topic."
+            },
+            {
+              "itemText": "Confirm how to submit regular updates going forward",
+              "covered": false,
+              "confidence": 1,
+              "timestamp": "00:00",
+              "reason": "There is no mention of confirming how to submit regular updates going forward. The AGENT did not provide any information or confirmation on this matter."
+            }
+          ]
+        }
+      ],
+      "closeCall": [
+        {
+          "itemText": "Questions Answered",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "The transcript does not contain any evidence of the AGENT answering questions. The conversation primarily focuses on resolving audio issues and does not include any questions being asked or answered."
+        },
+        {
+          "itemText": "Texted Kurtis with client name",
+          "covered": false,
+          "confidence": 1,
+          "timestamp": "00:00",
+          "reason": "There is no mention or indication in the transcript that the AGENT texted Kurtis with the client's name. The dialogue is centered around audio issues and does not reference any texting actions."
+        }
+      ]
+    },
+    "score": 0,
+    "status": "VERY POOR",
+    "passedItems": 0,
+    "totalItems": 92,
+    "confidenceAvg": 1,
+    "createdAt": "2026-04-01T14:14:36.273Z"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:14319959396241875807",
+  "gmbKey": "loc:14319959396241875807",
+  "business_name": "Noriega and Sons Tree Service Corp.",
+  "location": "locations/14319959396241875807",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated stump grinding Ontario CA",
+          "rank": 54,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r54_serp54_1778268815156.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 20,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r54_serp54_1778268815156.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency tree service Riverside County CA",
+          "rank": 32,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp37_1778200967387.png"
+        },
+        {
+          "keyword": "Top rated stump grinding Ontario CA",
+          "rank": 48,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r48_serp48_1778201013742.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 20,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp37_1778200967387.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 14
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top rated stump grinding Ontario CA",
+        "rank": 54,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r54_serp54_1778268815156.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 20,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r54_serp54_1778268815156.png"
+  },
+  "total_scans": 2
+}

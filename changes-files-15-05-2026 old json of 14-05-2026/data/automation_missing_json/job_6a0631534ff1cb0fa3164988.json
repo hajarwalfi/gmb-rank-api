@@ -1,0 +1,88 @@
+{
+  "jobId": "6a0631534ff1cb0fa3164988",
+  "createdAt": "2026-05-14T20:32:19.740Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-14T20:32:18.241Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9367733499973283842",
+      "locationTitle": "Dhaso Painters CO"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "50849683254342464",
+      "locationTitle": "OC Side Construction And Design"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14932372234568898657",
+      "locationTitle": "StormMate Roofing INC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "18368889266528590526",
+      "locationTitle": "VICTOR M REMODELING LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9367733499973283842",
+      "locationTitle": "Dhaso Painters CO"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/50849683254342464",
+      "locationTitle": "OC Side Construction And Design"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14932372234568898657",
+      "locationTitle": "StormMate Roofing INC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18368889266528590526",
+      "locationTitle": "VICTOR M REMODELING LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9367733499973283842",
+      "locationTitle": "Dhaso Painters CO",
+      "gmbKey": "loc:9367733499973283842",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-14T20:33:14.724Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/50849683254342464",
+      "locationTitle": "OC Side Construction And Design",
+      "gmbKey": "loc:50849683254342464",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-14T20:36:54.876Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14932372234568898657",
+      "locationTitle": "StormMate Roofing INC",
+      "gmbKey": "loc:14932372234568898657",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-14T20:37:55.294Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18368889266528590526",
+      "locationTitle": "VICTOR M REMODELING LLC",
+      "gmbKey": "loc:18368889266528590526",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-14T20:39:26.751Z"
+    }
+  ],
+  "updatedAt": "2026-05-14T20:39:27.532Z"
+}

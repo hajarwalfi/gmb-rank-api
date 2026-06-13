@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:4611429107167347525",
+  "gmbKey": "loc:4611429107167347525",
+  "business_name": "Three Stars Painting",
+  "location": "locations/4611429107167347525",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "best painting services Salem OR",
+          "rank": 9,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp10_1778279537372.png"
+        },
+        {
+          "keyword": "professional exterior painting Silverton OR",
+          "rank": 34,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r34_serp34_1778279713345.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp10_1778279537372.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "best painting services Salem OR",
+          "rank": 8,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778222559425.png"
+        },
+        {
+          "keyword": "professional exterior painting Silverton OR",
+          "rank": 37,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp38_1778222744049.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 13,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778222559425.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 21
+    },
+    "map_ranks": [
+      {
+        "keyword": "best painting services Salem OR",
+        "rank": 9,
+        "volume": 6,
+        "daily_traffic": 1.2,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp10_1778279537372.png"
+      },
+      {
+        "keyword": "professional exterior painting Silverton OR",
+        "rank": 34,
+        "volume": 6,
+        "daily_traffic": 1.2,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r34_serp34_1778279713345.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 13,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp10_1778279537372.png"
+  },
+  "total_scans": 2
+}

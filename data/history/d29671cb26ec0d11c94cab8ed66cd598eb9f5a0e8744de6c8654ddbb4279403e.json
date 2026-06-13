@@ -1,0 +1,146 @@
+{
+  "business_id": "loc:4297376950610915266",
+  "gmbKey": "loc:4297376950610915266",
+  "business_name": "Cleaning Service FL LLC",
+  "location": "locations/4297376950610915266",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 22,
+        "calls": 1,
+        "impressions": 153
+      },
+      "map_ranks": [
+        {
+          "keyword": "servicios de limpieza doméstica Davie",
+          "rank": 2,
+          "volume": 33,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 33,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1779118234799.png"
+        },
+        {
+          "keyword": "affordable cleaning Miramar",
+          "rank": 35,
+          "volume": 33,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 33,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp35_1779118540656.png"
+        },
+        {
+          "keyword": "servicios de limpieza Pembroke Pines",
+          "rank": 3,
+          "volume": 33,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 33,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779118730138.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 18,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1779118234799.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 43
+      },
+      "map_ranks": [
+        {
+          "keyword": "emergency cleaning service Miramar, Florida",
+          "rank": 7,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp8_1778239196389.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 18,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp8_1778239196389.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 43
+      },
+      "map_ranks": [
+        {
+          "keyword": "emergency cleaning service Miramar, Florida",
+          "rank": 4,
+          "volume": 15,
+          "daily_traffic": 3,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778218316975.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 18,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778218316975.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 10,
+      "direction_requests": 22,
+      "calls": 1,
+      "impressions": 153
+    },
+    "map_ranks": [
+      {
+        "keyword": "servicios de limpieza doméstica Davie",
+        "rank": 2,
+        "volume": 33,
+        "daily_traffic": 2.2,
+        "estimated_clicks": 33,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1779118234799.png"
+      },
+      {
+        "keyword": "affordable cleaning Miramar",
+        "rank": 35,
+        "volume": 33,
+        "daily_traffic": 2.2,
+        "estimated_clicks": 33,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp35_1779118540656.png"
+      },
+      {
+        "keyword": "servicios de limpieza Pembroke Pines",
+        "rank": 3,
+        "volume": 33,
+        "daily_traffic": 2.2,
+        "estimated_clicks": 33,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779118730138.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 18,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1779118234799.png"
+  },
+  "total_scans": 3
+}

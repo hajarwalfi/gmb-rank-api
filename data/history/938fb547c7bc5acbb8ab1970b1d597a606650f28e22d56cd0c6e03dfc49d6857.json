@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:9934123425488741173",
+  "gmbKey": "loc:9934123425488741173",
+  "business_name": "Innovarq L&B LLC",
+  "location": "locations/9934123425488741173",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 18,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "best arquitectura en Midland, Texas",
+          "rank": 3,
+          "volume": 18,
+          "daily_traffic": 3.6,
+          "estimated_clicks": 18,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778255079796.png"
+        },
+        {
+          "keyword": "top rated estudio de arquitectura Midland, Texas",
+          "rank": 1,
+          "volume": 18,
+          "daily_traffic": 3.6,
+          "estimated_clicks": 18,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778255108057.png"
+        },
+        {
+          "keyword": "professional architects Midland, Texas",
+          "rank": 6,
+          "volume": 18,
+          "daily_traffic": 3.6,
+          "estimated_clicks": 18,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778255165063.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778255079796.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 15,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "best arquitectura en Midland, Texas",
+          "rank": 3,
+          "volume": 15,
+          "daily_traffic": 5,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778184946022.png"
+        },
+        {
+          "keyword": "top rated estudio de arquitectura Midland, Texas",
+          "rank": 1,
+          "volume": 15,
+          "daily_traffic": 5,
+          "estimated_clicks": 15,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778184981509.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778184946022.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 18,
+      "calls": 0,
+      "impressions": 13
+    },
+    "map_ranks": [
+      {
+        "keyword": "best arquitectura en Midland, Texas",
+        "rank": 3,
+        "volume": 18,
+        "daily_traffic": 3.6,
+        "estimated_clicks": 18,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778255079796.png"
+      },
+      {
+        "keyword": "top rated estudio de arquitectura Midland, Texas",
+        "rank": 1,
+        "volume": 18,
+        "daily_traffic": 3.6,
+        "estimated_clicks": 18,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778255108057.png"
+      },
+      {
+        "keyword": "professional architects Midland, Texas",
+        "rank": 6,
+        "volume": 18,
+        "daily_traffic": 3.6,
+        "estimated_clicks": 18,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778255165063.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 2,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778255079796.png"
+  },
+  "total_scans": 2
+}

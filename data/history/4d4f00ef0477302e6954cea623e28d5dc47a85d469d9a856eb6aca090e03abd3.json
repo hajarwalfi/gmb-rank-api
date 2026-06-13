@@ -1,0 +1,244 @@
+{
+  "business_id": "loc:8933379981938236041",
+  "gmbKey": "loc:8933379981938236041",
+  "business_name": "Elite Troop Pressure Washing & Painting",
+  "location": "locations/8933379981938236041",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-06-02T08:05:00.573Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "pressure washing Whittier CA",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780387527650.png"
+        },
+        {
+          "keyword": "top rated pressure washing Whittier",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780387603273.png"
+        },
+        {
+          "keyword": "pressure washing service 90604",
+          "rank": 2,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_slot2_1780387637544.png"
+        },
+        {
+          "keyword": "same day pressure washing Whittier",
+          "rank": 2,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_slot2_1780387665585.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 132,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780387527650.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 15,
+        "calls": 33,
+        "impressions": 276
+      },
+      "map_ranks": [
+        {
+          "keyword": "pressure washing Whittier CA",
+          "rank": 2,
+          "volume": 56,
+          "daily_traffic": 3.7,
+          "estimated_clicks": 56,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779129988645.png"
+        },
+        {
+          "keyword": "best pressure washing service Whittier",
+          "rank": 2,
+          "volume": 56,
+          "daily_traffic": 3.7,
+          "estimated_clicks": 56,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779130079644.png"
+        },
+        {
+          "keyword": "pressure washing service 90604",
+          "rank": 2,
+          "volume": 56,
+          "daily_traffic": 3.7,
+          "estimated_clicks": 56,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779130370291.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 132,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779129988645.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 3,
+        "calls": 2,
+        "impressions": 58
+      },
+      "map_ranks": [
+        {
+          "keyword": "Elite Pressure Washing Whittier CA",
+          "rank": 1,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778174473548.png"
+        },
+        {
+          "keyword": "Affordable Pressure Washing Whittier 90604",
+          "rank": 7,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp6_1778174536234.png"
+        },
+        {
+          "keyword": "Top Rated Painting Services Whittier CA",
+          "rank": 23,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp22_1778174649472.png"
+        },
+        {
+          "keyword": "Professional Pressure Washing Whittier CA",
+          "rank": 3,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp2_1778174694284.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 131,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778174473548.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T11:39:52.907Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 3,
+        "calls": 2,
+        "impressions": 58
+      },
+      "map_ranks": [
+        {
+          "keyword": "Elite Pressure Washing Whittier CA",
+          "rank": 1,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778154033151.png"
+        },
+        {
+          "keyword": "Affordable Pressure Washing Whittier 90604",
+          "rank": 4,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778154073675.png"
+        },
+        {
+          "keyword": "Professional Pressure Washing Whittier CA",
+          "rank": 2,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp3_1778154257424.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 131,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778154033151.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-06-02T08:05:00.573Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "pressure washing Whittier CA",
+        "rank": 1,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780387527650.png"
+      },
+      {
+        "keyword": "top rated pressure washing Whittier",
+        "rank": 1,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780387603273.png"
+      },
+      {
+        "keyword": "pressure washing service 90604",
+        "rank": 2,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_slot2_1780387637544.png"
+      },
+      {
+        "keyword": "same day pressure washing Whittier",
+        "rank": 2,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_slot2_1780387665585.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 132,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780387527650.png"
+  },
+  "total_scans": 4
+}

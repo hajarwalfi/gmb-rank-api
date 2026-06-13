@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:16943427567081594211",
+  "gmbKey": "loc:16943427567081594211",
+  "business_name": "ROME HOME IMPROVEMENT LLC",
+  "location": "locations/16943427567081594211",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-22T20:31:58.302Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 54,
+        "calls": 0,
+        "impressions": 61
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 5,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-22T20:31:58.302Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 54,
+      "calls": 0,
+      "impressions": 61
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 5,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,136 @@
+{
+  "business_id": "loc:5663675911848266066",
+  "gmbKey": "loc:5663675911848266066",
+  "business_name": "Shark Pressure Washing East & Detailing",
+  "location": "locations/5663675911848266066",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [
+        {
+          "keyword": "Pressure washing service Oviedo FL",
+          "rank": 13,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp13_1778277544866.png"
+        },
+        {
+          "keyword": "Top rated pressure washing Chuluota FL",
+          "rank": 8,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp10_1778277601661.png"
+        },
+        {
+          "keyword": "Best pressure washing Lake Mary FL",
+          "rank": 25,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp26_1778277651483.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 69,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp13_1778277544866.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [
+        {
+          "keyword": "Pressure washing service Oviedo FL",
+          "rank": 19,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp20_1778220205196.png"
+        },
+        {
+          "keyword": "Top rated pressure washing Chuluota FL",
+          "rank": 7,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1778220259077.png"
+        },
+        {
+          "keyword": "Best pressure washing Lake Mary FL",
+          "rank": 25,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp24_1778220325783.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 69,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp20_1778220205196.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 16
+    },
+    "map_ranks": [
+      {
+        "keyword": "Pressure washing service Oviedo FL",
+        "rank": 13,
+        "volume": 2,
+        "daily_traffic": 0.5,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp13_1778277544866.png"
+      },
+      {
+        "keyword": "Top rated pressure washing Chuluota FL",
+        "rank": 8,
+        "volume": 2,
+        "daily_traffic": 0.5,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp10_1778277601661.png"
+      },
+      {
+        "keyword": "Best pressure washing Lake Mary FL",
+        "rank": 25,
+        "volume": 2,
+        "daily_traffic": 0.5,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp26_1778277651483.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 69,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp13_1778277544866.png"
+  },
+  "total_scans": 2
+}

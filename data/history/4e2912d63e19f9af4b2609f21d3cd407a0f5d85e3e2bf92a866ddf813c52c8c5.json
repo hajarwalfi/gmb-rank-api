@@ -1,0 +1,155 @@
+{
+  "business_id": "loc:3622749190409044936",
+  "gmbKey": "loc:3622749190409044936",
+  "business_name": "A&M affordable tree services",
+  "location": "locations/3622749190409044936",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 64
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable tree care Nutley, NJ",
+          "rank": 11,
+          "volume": 4,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779056224577.png"
+        },
+        {
+          "keyword": "best tree trimming near me",
+          "rank": 30,
+          "volume": 4,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1779056519098.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779056224577.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable tree services Wayne NJ",
+          "rank": 1,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778227608372.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778227608372.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable tree services Wayne NJ",
+          "rank": 1,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778157560942.png"
+        },
+        {
+          "keyword": "Tree maintenance Cedar Grove NJ",
+          "rank": 25,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp26_1778157674043.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778157560942.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 64
+    },
+    "map_ranks": [
+      {
+        "keyword": "affordable tree care Nutley, NJ",
+        "rank": 11,
+        "volume": 4,
+        "daily_traffic": 0.3,
+        "estimated_clicks": 4,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779056224577.png"
+      },
+      {
+        "keyword": "best tree trimming near me",
+        "rank": 30,
+        "volume": 4,
+        "daily_traffic": 0.3,
+        "estimated_clicks": 4,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1779056519098.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 1,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779056224577.png"
+  },
+  "total_scans": 4
+}

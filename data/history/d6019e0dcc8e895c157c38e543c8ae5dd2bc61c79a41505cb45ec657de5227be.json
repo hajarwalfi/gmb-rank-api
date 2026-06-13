@@ -1,0 +1,126 @@
+{
+  "business_id": "loc:3620750301177007253",
+  "gmbKey": "loc:3620750301177007253",
+  "business_name": "2S Electric",
+  "location": "locations/3620750301177007253",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 24,
+        "direction_requests": 13,
+        "calls": 4,
+        "impressions": 136
+      },
+      "map_ranks": [
+        {
+          "keyword": "electrician in Byram, MS",
+          "rank": 1,
+          "volume": 41,
+          "daily_traffic": 2.7,
+          "estimated_clicks": 41,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779052139200.png"
+        },
+        {
+          "keyword": "affordable electrician in Pearl, MS",
+          "rank": 11,
+          "volume": 41,
+          "daily_traffic": 2.7,
+          "estimated_clicks": 41,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779052302438.png"
+        },
+        {
+          "keyword": "top rated electrician in Jackson, MS",
+          "rank": 6,
+          "volume": 41,
+          "daily_traffic": 2.7,
+          "estimated_clicks": 41,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779052542192.png"
+        },
+        {
+          "keyword": "best electrician in Clinton, MS",
+          "rank": 4,
+          "volume": 41,
+          "daily_traffic": 2.7,
+          "estimated_clicks": 41,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp3_1779052631031.png"
+        },
+        {
+          "keyword": "same day electrician in Brandon, MS",
+          "rank": 14,
+          "volume": 41,
+          "daily_traffic": 2.7,
+          "estimated_clicks": 41,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1779052713238.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 34,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779052139200.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 24,
+      "direction_requests": 13,
+      "calls": 4,
+      "impressions": 136
+    },
+    "map_ranks": [
+      {
+        "keyword": "electrician in Byram, MS",
+        "rank": 1,
+        "volume": 41,
+        "daily_traffic": 2.7,
+        "estimated_clicks": 41,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779052139200.png"
+      },
+      {
+        "keyword": "affordable electrician in Pearl, MS",
+        "rank": 11,
+        "volume": 41,
+        "daily_traffic": 2.7,
+        "estimated_clicks": 41,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779052302438.png"
+      },
+      {
+        "keyword": "top rated electrician in Jackson, MS",
+        "rank": 6,
+        "volume": 41,
+        "daily_traffic": 2.7,
+        "estimated_clicks": 41,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779052542192.png"
+      },
+      {
+        "keyword": "best electrician in Clinton, MS",
+        "rank": 4,
+        "volume": 41,
+        "daily_traffic": 2.7,
+        "estimated_clicks": 41,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp3_1779052631031.png"
+      },
+      {
+        "keyword": "same day electrician in Brandon, MS",
+        "rank": 14,
+        "volume": 41,
+        "daily_traffic": 2.7,
+        "estimated_clicks": 41,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1779052713238.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 34,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779052139200.png"
+  },
+  "total_scans": 1
+}

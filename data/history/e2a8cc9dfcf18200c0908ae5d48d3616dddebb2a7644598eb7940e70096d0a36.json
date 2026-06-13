@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:8479072643090647394",
+  "gmbKey": "loc:8479072643090647394",
+  "business_name": "Valdez Pavers And Hardscapes LLC",
+  "location": "locations/8479072643090647394",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 45
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 6,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 45
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 6,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 2,
+      "calls": 0,
+      "impressions": 45
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 6,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

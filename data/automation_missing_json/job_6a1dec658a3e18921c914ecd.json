@@ -1,0 +1,69 @@
+{
+  "jobId": "6a1dec658a3e18921c914ecd",
+  "createdAt": "2026-06-01T20:32:37.603Z",
+  "allLocations": false,
+  "scheduledAt": "2026-06-01T20:32:36.516Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8502991512313920963",
+      "locationTitle": "Electrician 24 Hours inc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11624480159974051299",
+      "locationTitle": "Fill Up Tires /Mobile service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "13768223116615905501",
+      "locationTitle": "LARA'S PAINTING SERVICE INC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8502991512313920963",
+      "locationTitle": "Electrician 24 Hours inc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11624480159974051299",
+      "locationTitle": "Fill Up Tires /Mobile service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13768223116615905501",
+      "locationTitle": "LARA'S PAINTING SERVICE INC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8502991512313920963",
+      "locationTitle": "Electrician 24 Hours inc",
+      "gmbKey": "loc:8502991512313920963",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-01T20:33:45.853Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11624480159974051299",
+      "locationTitle": "Fill Up Tires /Mobile service",
+      "gmbKey": "loc:11624480159974051299",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-01T20:39:27.287Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/13768223116615905501",
+      "locationTitle": "LARA'S PAINTING SERVICE INC",
+      "gmbKey": "loc:13768223116615905501",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-01T20:43:20.636Z"
+    }
+  ],
+  "updatedAt": "2026-06-01T20:43:21.541Z"
+}

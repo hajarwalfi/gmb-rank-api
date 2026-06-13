@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:18217550024354379303",
+  "gmbKey": "loc:18217550024354379303",
+  "business_name": "LA Duct Cleaning",
+  "location": "locations/18217550024354379303",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 61
+      },
+      "map_ranks": [
+        {
+          "keyword": "best duct cleaning Pasadena, CA",
+          "rank": 48,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r48_serp47_1778259674001.png"
+        },
+        {
+          "keyword": "emergency air duct cleaning Beverly Hills, CA",
+          "rank": 56,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r56_serp56_1778259855560.png"
+        },
+        {
+          "keyword": "same day duct cleaning Santa Monica, CA",
+          "rank": 27,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp25_1778259891606.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 34,
+        "average_rating": 4.400000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r48_serp47_1778259674001.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 50
+      },
+      "map_ranks": [
+        {
+          "keyword": "best duct cleaning Pasadena, CA",
+          "rank": 49,
+          "volume": 9,
+          "daily_traffic": 2.3,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp49_1778190858605.png"
+        },
+        {
+          "keyword": "same day duct cleaning Santa Monica, CA",
+          "rank": 25,
+          "volume": 9,
+          "daily_traffic": 2.3,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp25_1778191102284.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 34,
+        "average_rating": 4.400000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp49_1778190858605.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 10,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 61
+    },
+    "map_ranks": [
+      {
+        "keyword": "best duct cleaning Pasadena, CA",
+        "rank": 48,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r48_serp47_1778259674001.png"
+      },
+      {
+        "keyword": "emergency air duct cleaning Beverly Hills, CA",
+        "rank": 56,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r56_serp56_1778259855560.png"
+      },
+      {
+        "keyword": "same day duct cleaning Santa Monica, CA",
+        "rank": 27,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp25_1778259891606.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 34,
+      "average_rating": 4.400000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r48_serp47_1778259674001.png"
+  },
+  "total_scans": 2
+}

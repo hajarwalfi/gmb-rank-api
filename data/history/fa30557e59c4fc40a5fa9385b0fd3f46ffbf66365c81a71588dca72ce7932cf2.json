@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:6969629467848810585",
+  "gmbKey": "loc:6969629467848810585",
+  "business_name": "Angels Plumbing & Heating",
+  "location": "locations/6969629467848810585",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 12,
+        "direction_requests": 23,
+        "calls": 3,
+        "impressions": 197
+      },
+      "map_ranks": [
+        {
+          "keyword": "drain cleaning in Paterson, NJ",
+          "rank": 33,
+          "volume": 38,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 38,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp28_1779102287955.png"
+        },
+        {
+          "keyword": "best plumber in Clifton, NJ",
+          "rank": 41,
+          "volume": 38,
+          "daily_traffic": 2.5,
+          "estimated_clicks": 38,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r41_serp37_1779102458147.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 75,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp28_1779102287955.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 12,
+      "direction_requests": 23,
+      "calls": 3,
+      "impressions": 197
+    },
+    "map_ranks": [
+      {
+        "keyword": "drain cleaning in Paterson, NJ",
+        "rank": 33,
+        "volume": 38,
+        "daily_traffic": 2.5,
+        "estimated_clicks": 38,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp28_1779102287955.png"
+      },
+      {
+        "keyword": "best plumber in Clifton, NJ",
+        "rank": 41,
+        "volume": 38,
+        "daily_traffic": 2.5,
+        "estimated_clicks": 38,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r41_serp37_1779102458147.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 75,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp28_1779102287955.png"
+  },
+  "total_scans": 1
+}

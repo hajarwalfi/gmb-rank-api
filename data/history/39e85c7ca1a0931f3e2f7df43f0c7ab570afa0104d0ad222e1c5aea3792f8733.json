@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:11493835722459256282",
+  "gmbKey": "loc:11493835722459256282",
+  "business_name": "RICO. Painting, Drywall and Flooring",
+  "location": "locations/11493835722459256282",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-25T09:15:03.864Z",
+      "traffic": {
+        "website_clicks": 27,
+        "direction_requests": 36,
+        "calls": 11,
+        "impressions": 293
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 43,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-22T20:31:58.302Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 35,
+        "calls": 10,
+        "impressions": 243
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 43,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-25T09:15:03.864Z",
+    "traffic": {
+      "website_clicks": 27,
+      "direction_requests": 36,
+      "calls": 11,
+      "impressions": 293
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 43,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

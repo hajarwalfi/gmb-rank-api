@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:9640342345015043788",
+  "gmbKey": "loc:9640342345015043788",
+  "business_name": "Bastrop Landscaping & More",
+  "location": "locations/9640342345015043788",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-06-02T20:32:55.796Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscape designer in Bastrop, TX",
+          "rank": 4,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_slot4_1780432585087.png"
+        },
+        {
+          "keyword": "landscape designer Red Rock, TX",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780432775583.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 21,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_slot4_1780432585087.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-06-02T20:32:55.796Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "landscape designer in Bastrop, TX",
+        "rank": 4,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_slot4_1780432585087.png"
+      },
+      {
+        "keyword": "landscape designer Red Rock, TX",
+        "rank": 1,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780432775583.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 21,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_slot4_1780432585087.png"
+  },
+  "total_scans": 1
+}

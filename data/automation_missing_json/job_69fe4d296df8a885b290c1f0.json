@@ -1,0 +1,31 @@
+{
+  "jobId": "69fe4d296df8a885b290c1f0",
+  "createdAt": "2026-05-08T20:52:57.805Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-08T20:52:56.584Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11730681114474981481",
+      "locationTitle": "HydroGer Pressure Washing"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11730681114474981481",
+      "locationTitle": "HydroGer Pressure Washing"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11730681114474981481",
+      "locationTitle": "HydroGer Pressure Washing",
+      "gmbKey": "loc:11730681114474981481",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T20:54:05.254Z"
+    }
+  ],
+  "updatedAt": "2026-05-08T20:54:06.057Z"
+}

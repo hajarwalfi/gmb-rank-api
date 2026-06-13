@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:12063444671155771729",
+  "gmbKey": "loc:12063444671155771729",
+  "business_name": "First Choice Painting & Remodeling",
+  "location": "locations/12063444671155771729",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 54
+      },
+      "map_ranks": [
+        {
+          "keyword": "house painting in Maplewood, MN",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp2_1779136269223.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 20,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp2_1779136269223.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 15
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 20,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 20,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 54
+    },
+    "map_ranks": [
+      {
+        "keyword": "house painting in Maplewood, MN",
+        "rank": 3,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp2_1779136269223.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 20,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp2_1779136269223.png"
+  },
+  "total_scans": 3
+}

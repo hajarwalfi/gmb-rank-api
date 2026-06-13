@@ -1,0 +1,170 @@
+{
+  "business_id": "loc:11590735627839393166",
+  "gmbKey": "loc:11590735627839393166",
+  "business_name": "Brothers Coatings and Painting LLC",
+  "location": "locations/11590735627839393166",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 27,
+        "calls": 3,
+        "impressions": 102
+      },
+      "map_ranks": [
+        {
+          "keyword": "painting services in Wilmington, NC",
+          "rank": 15,
+          "volume": 31,
+          "daily_traffic": 2.1,
+          "estimated_clicks": 31,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp10_1779111560225.png"
+        },
+        {
+          "keyword": "best painters in Ogden, NC",
+          "rank": 24,
+          "volume": 31,
+          "daily_traffic": 2.1,
+          "estimated_clicks": 31,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp21_1779111730279.png"
+        },
+        {
+          "keyword": "affordable house painting Leland, NC",
+          "rank": 7,
+          "volume": 31,
+          "daily_traffic": 2.1,
+          "estimated_clicks": 31,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779111834050.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 46,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp10_1779111560225.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 11,
+        "calls": 0,
+        "impressions": 28
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Painting Services Ogden NC",
+          "rank": 10,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp11_1778236506999.png"
+        },
+        {
+          "keyword": "Top Rated Interior Painting Hampstead NC",
+          "rank": 9,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp13_1778236718958.png"
+        },
+        {
+          "keyword": "Best Exterior Painters Wilmington NC",
+          "rank": 15,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp13_1778236757138.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 45,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp11_1778236506999.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Painting Services Ogden NC",
+          "rank": 7,
+          "volume": 8,
+          "daily_traffic": 2,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp9_1778164283717.png"
+        },
+        {
+          "keyword": "Best Exterior Painters Wilmington NC",
+          "rank": 13,
+          "volume": 8,
+          "daily_traffic": 2,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp13_1778164648698.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 45,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp9_1778164283717.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 27,
+      "calls": 3,
+      "impressions": 102
+    },
+    "map_ranks": [
+      {
+        "keyword": "painting services in Wilmington, NC",
+        "rank": 15,
+        "volume": 31,
+        "daily_traffic": 2.1,
+        "estimated_clicks": 31,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp10_1779111560225.png"
+      },
+      {
+        "keyword": "best painters in Ogden, NC",
+        "rank": 24,
+        "volume": 31,
+        "daily_traffic": 2.1,
+        "estimated_clicks": 31,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp21_1779111730279.png"
+      },
+      {
+        "keyword": "affordable house painting Leland, NC",
+        "rank": 7,
+        "volume": 31,
+        "daily_traffic": 2.1,
+        "estimated_clicks": 31,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779111834050.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 46,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp10_1779111560225.png"
+  },
+  "total_scans": 3
+}

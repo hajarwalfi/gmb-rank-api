@@ -1,0 +1,218 @@
+{
+  "business_id": "loc:12900110153625586427",
+  "gmbKey": "loc:12900110153625586427",
+  "business_name": "F & G Plastering INC.",
+  "location": "locations/12900110153625586427",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 84
+      },
+      "map_ranks": [
+        {
+          "keyword": "contratista de estucos en Phoenix",
+          "rank": 5,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp3_1779133915796.png"
+        },
+        {
+          "keyword": "mejor contratista de estucos Glendale",
+          "rank": 9,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779133994323.png"
+        },
+        {
+          "keyword": "contratista de estucos cerca de mí",
+          "rank": 7,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779134077821.png"
+        },
+        {
+          "keyword": "top rated contratista de estucos Scottsdale",
+          "rank": 3,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779134205795.png"
+        },
+        {
+          "keyword": "contratista de estucos affordable Phoenix",
+          "rank": 2,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779134248806.png"
+        },
+        {
+          "keyword": "emergency contratista de estucos Glendale",
+          "rank": 14,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1779134337758.png"
+        },
+        {
+          "keyword": "contratista de estucos en Scottsdale",
+          "rank": 2,
+          "volume": 9,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 9,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779134522311.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp3_1779133915796.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 28
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable stucco services Glendale",
+          "rank": 4,
+          "volume": 7,
+          "daily_traffic": 1.4,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778248134145.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778248134145.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable stucco services Glendale",
+          "rank": 4,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778175958295.png"
+        },
+        {
+          "keyword": "professional stucco repair Phoenix",
+          "rank": 68,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r68_serp67_1778176134462.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp5_1778175958295.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 84
+    },
+    "map_ranks": [
+      {
+        "keyword": "contratista de estucos en Phoenix",
+        "rank": 5,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp3_1779133915796.png"
+      },
+      {
+        "keyword": "mejor contratista de estucos Glendale",
+        "rank": 9,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779133994323.png"
+      },
+      {
+        "keyword": "contratista de estucos cerca de mí",
+        "rank": 7,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779134077821.png"
+      },
+      {
+        "keyword": "top rated contratista de estucos Scottsdale",
+        "rank": 3,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779134205795.png"
+      },
+      {
+        "keyword": "contratista de estucos affordable Phoenix",
+        "rank": 2,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779134248806.png"
+      },
+      {
+        "keyword": "emergency contratista de estucos Glendale",
+        "rank": 14,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1779134337758.png"
+      },
+      {
+        "keyword": "contratista de estucos en Scottsdale",
+        "rank": 2,
+        "volume": 9,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 9,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779134522311.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 3,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp3_1779133915796.png"
+  },
+  "total_scans": 3
+}

@@ -1,0 +1,94 @@
+{
+  "business_id": "loc:17148211282739959162",
+  "gmbKey": "loc:17148211282739959162",
+  "business_name": "E&C Landscaping Solutions LLC",
+  "location": "locations/17148211282739959162",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-21T20:31:59.201Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 47
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscaper in Dutchess County, NY",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779395662972.png"
+        },
+        {
+          "keyword": "best landscaper near me",
+          "rank": 8,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1779395953760.png"
+        },
+        {
+          "keyword": "same day landscaper in NY",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779396364674.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779395662972.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-21T20:31:59.201Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 47
+    },
+    "map_ranks": [
+      {
+        "keyword": "landscaper in Dutchess County, NY",
+        "rank": 1,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779395662972.png"
+      },
+      {
+        "keyword": "best landscaper near me",
+        "rank": 8,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1779395953760.png"
+      },
+      {
+        "keyword": "same day landscaper in NY",
+        "rank": 1,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779396364674.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779395662972.png"
+  },
+  "total_scans": 1
+}

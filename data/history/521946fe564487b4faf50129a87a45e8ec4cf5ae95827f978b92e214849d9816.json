@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:11874650431713190577",
+  "gmbKey": "loc:11874650431713190577",
+  "business_name": "Anything And Everything Residential LLC",
+  "location": "locations/11874650431713190577",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 30
+      },
+      "map_ranks": [
+        {
+          "keyword": "handyman services in Greeley, CO",
+          "rank": 28,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp27_1779103093194.png"
+        },
+        {
+          "keyword": "affordable handyman in Loveland, CO",
+          "rank": 24,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp23_1779103217251.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 5,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp27_1779103093194.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 30
+    },
+    "map_ranks": [
+      {
+        "keyword": "handyman services in Greeley, CO",
+        "rank": 28,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp27_1779103093194.png"
+      },
+      {
+        "keyword": "affordable handyman in Loveland, CO",
+        "rank": 24,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp23_1779103217251.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 5,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp27_1779103093194.png"
+  },
+  "total_scans": 1
+}

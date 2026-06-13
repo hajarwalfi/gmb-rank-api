@@ -1,0 +1,79 @@
+{
+  "business_id": "loc:5466253909869057600",
+  "gmbKey": "loc:5466253909869057600",
+  "business_name": "Sofo Irrigation Services LLC",
+  "location": "locations/5466253909869057600",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 27
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best irrigation services Dade City",
+          "rank": 2,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778277716279.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778277716279.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 27
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 27
+    },
+    "map_ranks": [
+      {
+        "keyword": "Best irrigation services Dade City",
+        "rank": 2,
+        "volume": 1,
+        "daily_traffic": 0.3,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778277716279.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778277716279.png"
+  },
+  "total_scans": 2
+}

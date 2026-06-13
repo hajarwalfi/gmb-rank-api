@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:6175334802107135665",
+  "gmbKey": "loc:6175334802107135665",
+  "business_name": "Luna Master Painting",
+  "location": "locations/6175334802107135665",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional door painting Eustis FL",
+          "rank": 30,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1778261694197.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 60,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1778261694197.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 9,
+        "calls": 0,
+        "impressions": 13
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional door painting Eustis FL",
+          "rank": 31,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1778192954039.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 58,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r31_serp31_1778192954039.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 9,
+      "calls": 0,
+      "impressions": 21
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional door painting Eustis FL",
+        "rank": 30,
+        "volume": 11,
+        "daily_traffic": 2.2,
+        "estimated_clicks": 11,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1778261694197.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 60,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r30_serp30_1778261694197.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,126 @@
+{
+  "business_id": "loc:2545734914723369752",
+  "gmbKey": "loc:2545734914723369752",
+  "business_name": "MCA landscaping services and construction inc",
+  "location": "locations/2545734914723369752",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-19T20:31:55.301Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 22
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscape designer in Lowell, MA",
+          "rank": 4,
+          "volume": 2,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779222864989.png"
+        },
+        {
+          "keyword": "affordable landscaping in Andover, MA",
+          "rank": 7,
+          "volume": 2,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779222967334.png"
+        },
+        {
+          "keyword": "top rated landscape services Billerica, MA",
+          "rank": 81,
+          "volume": 2,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r81_serp81_1779223115869.png"
+        },
+        {
+          "keyword": "best landscape designer near me",
+          "rank": 77,
+          "volume": 2,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r77_serp75_1779223207749.png"
+        },
+        {
+          "keyword": "landscaping services in Tewksbury, MA",
+          "rank": 29,
+          "volume": 2,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp29_1779223295690.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779222864989.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-19T20:31:55.301Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 22
+    },
+    "map_ranks": [
+      {
+        "keyword": "landscape designer in Lowell, MA",
+        "rank": 4,
+        "volume": 2,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779222864989.png"
+      },
+      {
+        "keyword": "affordable landscaping in Andover, MA",
+        "rank": 7,
+        "volume": 2,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp13_1779222967334.png"
+      },
+      {
+        "keyword": "top rated landscape services Billerica, MA",
+        "rank": 81,
+        "volume": 2,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r81_serp81_1779223115869.png"
+      },
+      {
+        "keyword": "best landscape designer near me",
+        "rank": 77,
+        "volume": 2,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r77_serp75_1779223207749.png"
+      },
+      {
+        "keyword": "landscaping services in Tewksbury, MA",
+        "rank": 29,
+        "volume": 2,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp29_1779223295690.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779222864989.png"
+  },
+  "total_scans": 1
+}

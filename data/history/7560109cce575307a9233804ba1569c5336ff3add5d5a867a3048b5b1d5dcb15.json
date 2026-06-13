@@ -1,0 +1,136 @@
+{
+  "business_id": "loc:7050624561197084957",
+  "gmbKey": "loc:7050624561197084957",
+  "business_name": "The White Glove Cleaning Service",
+  "location": "locations/7050624561197084957",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable house cleaning Bonita, CA",
+          "rank": 24,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1778279420280.png"
+        },
+        {
+          "keyword": "Professional home cleaning Chula Vista, CA",
+          "rank": 38,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp38_1778279473726.png"
+        },
+        {
+          "keyword": "Best cleaning service Otay Mesa, San Diego, CA",
+          "rank": 53,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r53_serp51_1778279502198.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1778279420280.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable house cleaning Bonita, CA",
+          "rank": 24,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp25_1778222318561.png"
+        },
+        {
+          "keyword": "Professional home cleaning Chula Vista, CA",
+          "rank": 37,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1778222379906.png"
+        },
+        {
+          "keyword": "Best cleaning service Otay Mesa, San Diego, CA",
+          "rank": 49,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp51_1778222458928.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp25_1778222318561.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 25
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable house cleaning Bonita, CA",
+        "rank": 24,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1778279420280.png"
+      },
+      {
+        "keyword": "Professional home cleaning Chula Vista, CA",
+        "rank": 38,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp38_1778279473726.png"
+      },
+      {
+        "keyword": "Best cleaning service Otay Mesa, San Diego, CA",
+        "rank": 53,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r53_serp51_1778279502198.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 17,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r24_serp24_1778279420280.png"
+  },
+  "total_scans": 2
+}

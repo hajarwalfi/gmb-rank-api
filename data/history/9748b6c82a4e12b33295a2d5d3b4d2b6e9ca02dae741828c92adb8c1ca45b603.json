@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:16485348696891664492",
+  "gmbKey": "loc:16485348696891664492",
+  "business_name": "TotalPro Exteriors",
+  "location": "locations/16485348696891664492",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 55
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional deck builders East Ridge TN",
+          "rank": 16,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp5_1778280944508.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 14,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp5_1778280944508.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 55
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional deck builders East Ridge TN",
+          "rank": 8,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778224189969.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 14,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778224189969.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 55
+    },
+    "map_ranks": [
+      {
+        "keyword": "Professional deck builders East Ridge TN",
+        "rank": 16,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp5_1778280944508.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 14,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp5_1778280944508.png"
+  },
+  "total_scans": 2
+}

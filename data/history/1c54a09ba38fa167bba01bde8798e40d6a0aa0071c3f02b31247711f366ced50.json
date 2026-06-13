@@ -1,0 +1,186 @@
+{
+  "business_id": "loc:15159420627830035882",
+  "gmbKey": "loc:15159420627830035882",
+  "business_name": "Pool Table Movers DMV",
+  "location": "locations/15159420627830035882",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-06-02T20:32:55.796Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable pool table moving Virginia",
+          "rank": 1,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780434076152.png"
+        },
+        {
+          "keyword": "top rated pool table movers near me",
+          "rank": 11,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_slot11_1780434108742.png"
+        },
+        {
+          "keyword": "pool table relocation in Baltimore, MD",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_slot3_1780434138066.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 154,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780434076152.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 0,
+        "calls": 2,
+        "impressions": 45
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable Pool Table Moving Baltimore MD",
+          "rank": 3,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp10_1778271815428.png"
+        },
+        {
+          "keyword": "Top Rated Pool Table Movers Ashburn VA",
+          "rank": 1,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778271850858.png"
+        },
+        {
+          "keyword": "Emergency Pool Table Moving Fredericksburg VA",
+          "rank": 1,
+          "volume": 11,
+          "daily_traffic": 2.2,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778271895071.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 142,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp10_1778271815428.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 0,
+        "calls": 2,
+        "impressions": 36
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional Pool Table Movers Bowie MD",
+          "rank": 2,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778204468244.png"
+        },
+        {
+          "keyword": "Affordable Pool Table Moving Baltimore MD",
+          "rank": 3,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778204515590.png"
+        },
+        {
+          "keyword": "Top Rated Pool Table Movers Ashburn VA",
+          "rank": 1,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778204552420.png"
+        },
+        {
+          "keyword": "Emergency Pool Table Moving Fredericksburg VA",
+          "rank": 1,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778204626983.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 142,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778204468244.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-06-02T20:32:55.796Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "affordable pool table moving Virginia",
+        "rank": 1,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780434076152.png"
+      },
+      {
+        "keyword": "top rated pool table movers near me",
+        "rank": 11,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_slot11_1780434108742.png"
+      },
+      {
+        "keyword": "pool table relocation in Baltimore, MD",
+        "rank": 3,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_slot3_1780434138066.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 154,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_slot1_1780434076152.png"
+  },
+  "total_scans": 3
+}

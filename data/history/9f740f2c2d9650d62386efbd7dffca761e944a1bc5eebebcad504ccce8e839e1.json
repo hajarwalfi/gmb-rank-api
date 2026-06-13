@@ -1,0 +1,196 @@
+{
+  "business_id": "loc:18389232808645755577",
+  "gmbKey": "loc:18389232808645755577",
+  "business_name": "Air home llc",
+  "location": "locations/18389232808645755577",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 25,
+        "calls": 1,
+        "impressions": 48
+      },
+      "map_ranks": [
+        {
+          "keyword": "best HVAC contractor near me",
+          "rank": 2,
+          "volume": 27,
+          "daily_traffic": 1.9,
+          "estimated_clicks": 27,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779097929443.png"
+        },
+        {
+          "keyword": "affordable HVAC services Raleigh",
+          "rank": 10,
+          "volume": 27,
+          "daily_traffic": 1.9,
+          "estimated_clicks": 27,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1779098214401.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779097929443.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 11,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best HVAC contractor Raleigh NC",
+          "rank": 33,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp33_1778229345986.png"
+        },
+        {
+          "keyword": "Emergency furnace repair Raleigh NC",
+          "rank": 89,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r89_serp85_1778229407952.png"
+        },
+        {
+          "keyword": "Reliable AC installation Raleigh NC",
+          "rank": 47,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r47_serp51_1778229690009.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp33_1778229345986.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 11,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency furnace repair Raleigh NC",
+          "rank": 85,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_serp89_1778215134777.png"
+        },
+        {
+          "keyword": "Professional heating and cooling Raleigh NC",
+          "rank": 91,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r91_serp84_1778215324066.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_serp89_1778215134777.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 18
+      },
+      "map_ranks": [
+        {
+          "keyword": "Best HVAC contractor Raleigh NC",
+          "rank": 40,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r40_serp35_1778159235371.png"
+        },
+        {
+          "keyword": "Top rated HVAC services Raleigh NC",
+          "rank": 34,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r34_serp39_1778159455191.png"
+        },
+        {
+          "keyword": "Reliable AC installation Raleigh NC",
+          "rank": 52,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r52_serp54_1778159601756.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 1,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r40_serp35_1778159235371.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 25,
+      "calls": 1,
+      "impressions": 48
+    },
+    "map_ranks": [
+      {
+        "keyword": "best HVAC contractor near me",
+        "rank": 2,
+        "volume": 27,
+        "daily_traffic": 1.9,
+        "estimated_clicks": 27,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779097929443.png"
+      },
+      {
+        "keyword": "affordable HVAC services Raleigh",
+        "rank": 10,
+        "volume": 27,
+        "daily_traffic": 1.9,
+        "estimated_clicks": 27,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1779098214401.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 1,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1779097929443.png"
+  },
+  "total_scans": 4
+}

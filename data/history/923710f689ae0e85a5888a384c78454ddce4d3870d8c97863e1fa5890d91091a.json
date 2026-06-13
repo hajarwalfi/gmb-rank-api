@@ -1,0 +1,105 @@
+{
+  "business_id": "loc:12202861837219657815",
+  "gmbKey": "loc:12202861837219657815",
+  "business_name": "Barros Construction & Remodeling Inc.",
+  "location": "locations/12202861837219657815",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 31
+      },
+      "map_ranks": [
+        {
+          "keyword": "project management Warwick NY",
+          "rank": 59,
+          "volume": 1,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r59_serp59_1779108168937.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r59_serp59_1779108168937.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 2
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional remodeling services New Hampton NY",
+          "rank": 20,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp15_1778232645623.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp15_1778232645623.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 1
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 31
+    },
+    "map_ranks": [
+      {
+        "keyword": "project management Warwick NY",
+        "rank": 59,
+        "volume": 1,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r59_serp59_1779108168937.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r59_serp59_1779108168937.png"
+  },
+  "total_scans": 3
+}

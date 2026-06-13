@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:9455273367257020430",
+  "gmbKey": "loc:9455273367257020430",
+  "business_name": "RoofGuard Bay Area",
+  "location": "locations/9455273367257020430",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 7,
+        "calls": 0,
+        "impressions": 15
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 6,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 7,
+        "calls": 0,
+        "impressions": 10
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 6,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 7,
+      "calls": 0,
+      "impressions": 15
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 6,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

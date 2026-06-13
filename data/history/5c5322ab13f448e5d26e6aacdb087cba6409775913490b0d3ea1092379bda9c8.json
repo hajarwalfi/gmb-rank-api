@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:10707279322568885026",
+  "gmbKey": "loc:10707279322568885026",
+  "business_name": "SKYSTONE CONSTRUCTION",
+  "location": "locations/10707279322568885026",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-25T20:32:07.665Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 30,
+        "calls": 2,
+        "impressions": 78
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 21,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-25T20:32:07.665Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 30,
+      "calls": 2,
+      "impressions": 78
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 21,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

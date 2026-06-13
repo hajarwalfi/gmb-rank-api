@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:11716019024467517133",
+  "gmbKey": "loc:11716019024467517133",
+  "business_name": "UR PAINTER",
+  "location": "locations/11716019024467517133",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top Rated House Painter in Erlanger, KY",
+          "rank": 46,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp48_1778281174787.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp48_1778281174787.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top Rated House Painter in Erlanger, KY",
+          "rank": 45,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_serp54_1778224608101.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_serp54_1778224608101.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 11
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top Rated House Painter in Erlanger, KY",
+        "rank": 46,
+        "volume": 1,
+        "daily_traffic": 0.3,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp48_1778281174787.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp48_1778281174787.png"
+  },
+  "total_scans": 2
+}

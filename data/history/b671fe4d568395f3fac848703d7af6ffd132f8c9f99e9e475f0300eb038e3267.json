@@ -1,0 +1,62 @@
+{
+  "business_id": "loc:14932372234568898657",
+  "gmbKey": "loc:14932372234568898657",
+  "business_name": "StormMate Roofing INC",
+  "location": "locations/14932372234568898657",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-14T20:32:20.656Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 54
+      },
+      "map_ranks": [
+        {
+          "keyword": "roofing contractor New Milford, CT",
+          "rank": 3,
+          "volume": 3,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778791041255.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 25,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778791041255.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-14T20:32:20.656Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 3,
+      "calls": 0,
+      "impressions": 54
+    },
+    "map_ranks": [
+      {
+        "keyword": "roofing contractor New Milford, CT",
+        "rank": 3,
+        "volume": 3,
+        "daily_traffic": 0.3,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778791041255.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 25,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778791041255.png"
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,269 @@
+{
+  "weeklyBaseline": {
+    "gmbAccounts": 451,
+    "gmbAccountsAddedThisWeek": 0,
+    "keywordsTracked": 128,
+    "dailyTraffic": 264,
+    "reviews": 2463,
+    "timestamp": "2026-05-31T21:30:06.611Z"
+  },
+  "previousWeekClosed": {
+    "gmbAccounts": 450,
+    "gmbAccountsAddedThisWeek": 0,
+    "keywordsTracked": 128,
+    "dailyTraffic": 264,
+    "reviews": 2463,
+    "timestamp": "2026-05-30T21:30:06.291Z"
+  },
+  "lastDailySnapshot": {
+    "gmbAccounts": 469,
+    "gmbAccountsAddedThisWeek": 0,
+    "keywordsTracked": 121,
+    "dailyTraffic": 192,
+    "reviews": 2188,
+    "timestamp": "2026-06-03T06:57:08.153Z"
+  },
+  "history": [
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T20:51:13.180Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T20:52:25.464Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T20:53:50.376Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T20:56:35.710Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T20:57:38.739Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T20:59:12.238Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T21:02:24.026Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T21:04:37.073Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T21:05:32.178Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T21:06:55.661Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-02T21:30:13.284Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T03:39:18.570Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T03:41:16.621Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T03:50:10.311Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T03:50:35.366Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T04:05:17.376Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T04:26:38.497Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T04:27:14.374Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T04:36:33.074Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:11:49.088Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:13:37.376Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:20:06.729Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:24:56.458Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:28:34.285Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:36:12.833Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:40:26.710Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:44:30.197Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:49:32.778Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:52:40.890Z"
+    },
+    {
+      "gmbAccounts": 469,
+      "gmbAccountsAddedThisWeek": 0,
+      "keywordsTracked": 121,
+      "dailyTraffic": 192,
+      "reviews": 2188,
+      "timestamp": "2026-06-03T06:57:08.153Z"
+    }
+  ],
+  "metricsDefinitionVersion": 9
+}

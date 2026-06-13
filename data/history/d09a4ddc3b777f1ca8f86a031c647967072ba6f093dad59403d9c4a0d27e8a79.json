@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:17907739333139595839",
+  "gmbKey": "loc:17907739333139595839",
+  "business_name": "A+ Clean & Maintenance LLC",
+  "location": "locations/17907739333139595839",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-06-02T20:32:55.796Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "house cleaning service Crestline, CA",
+          "rank": 45,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_slot5_1780432402983.png"
+        },
+        {
+          "keyword": "house cleaning in Skyforest, CA",
+          "rank": 11,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_slot11_1780432550023.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_slot5_1780432402983.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-06-02T20:32:55.796Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "house cleaning service Crestline, CA",
+        "rank": 45,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_slot5_1780432402983.png"
+      },
+      {
+        "keyword": "house cleaning in Skyforest, CA",
+        "rank": 11,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_slot11_1780432550023.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r45_slot5_1780432402983.png"
+  },
+  "total_scans": 1
+}

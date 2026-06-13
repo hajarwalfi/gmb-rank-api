@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:785504345735073160",
+  "gmbKey": "loc:785504345735073160",
+  "business_name": "Dr Scott Lifschitz DC",
+  "location": "locations/785504345735073160",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 23,
+        "calls": 0,
+        "impressions": 73
+      },
+      "map_ranks": [
+        {
+          "keyword": "chiropractor in Thousand Oaks CA",
+          "rank": 17,
+          "volume": 23,
+          "daily_traffic": 1.5,
+          "estimated_clicks": 23,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1779127387348.png"
+        },
+        {
+          "keyword": "top rated chiropractor in Thousand Oaks",
+          "rank": 25,
+          "volume": 23,
+          "daily_traffic": 1.5,
+          "estimated_clicks": 23,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp24_1779127780739.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 12,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1779127387348.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 23,
+      "calls": 0,
+      "impressions": 73
+    },
+    "map_ranks": [
+      {
+        "keyword": "chiropractor in Thousand Oaks CA",
+        "rank": 17,
+        "volume": 23,
+        "daily_traffic": 1.5,
+        "estimated_clicks": 23,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1779127387348.png"
+      },
+      {
+        "keyword": "top rated chiropractor in Thousand Oaks",
+        "rank": 25,
+        "volume": 23,
+        "daily_traffic": 1.5,
+        "estimated_clicks": 23,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp24_1779127780739.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 12,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1779127387348.png"
+  },
+  "total_scans": 1
+}

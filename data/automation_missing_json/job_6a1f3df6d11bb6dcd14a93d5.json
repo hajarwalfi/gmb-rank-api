@@ -1,0 +1,354 @@
+{
+  "jobId": "6a1f3df6d11bb6dcd14a93d5",
+  "createdAt": "2026-06-02T20:32:54.989Z",
+  "allLocations": false,
+  "scheduledAt": "2026-06-02T20:32:53.724Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "17907739333139595839",
+      "locationTitle": "A+ Clean & Maintenance LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "9640342345015043788",
+      "locationTitle": "Bastrop Landscaping & More"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "130992217799399117",
+      "locationTitle": "Cali's cleaning services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "7981813193876716390",
+      "locationTitle": "CCD FLOORING SOLUTIONS.INC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14660710656384846779",
+      "locationTitle": "CERRATO FRAMING COMPANY LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11163318984030399159",
+      "locationTitle": "Delta Core Electric LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11605413496314266736",
+      "locationTitle": "El Dorado cleaning services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "12537687015346677989",
+      "locationTitle": "ERC Painting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2235923025976674974",
+      "locationTitle": "F&J painting services LLC."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "17656342476444300234",
+      "locationTitle": "Golden horse fencing"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "12920710580947172860",
+      "locationTitle": "López landscaping y gardening"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8724324811063641248",
+      "locationTitle": "Marvin’s Painting & Decorating"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "14758540280707051447",
+      "locationTitle": "ONE STOP BUILDING & RENOVATION INC."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11169117088343981973",
+      "locationTitle": "Ortez mvp home renovations"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "15159420627830035882",
+      "locationTitle": "Pool Table Movers DMV"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "3947769672279219326",
+      "locationTitle": "Ticos Tree Services and Removal"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "18231373423211882780",
+      "locationTitle": "TjtheBest - Home Improvement"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8994938231767878684",
+      "locationTitle": "VEVOA ROOFING SYSTEMS"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17907739333139595839",
+      "locationTitle": "A+ Clean & Maintenance LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9640342345015043788",
+      "locationTitle": "Bastrop Landscaping & More"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/130992217799399117",
+      "locationTitle": "Cali's cleaning services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7981813193876716390",
+      "locationTitle": "CCD FLOORING SOLUTIONS.INC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14660710656384846779",
+      "locationTitle": "CERRATO FRAMING COMPANY LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11163318984030399159",
+      "locationTitle": "Delta Core Electric LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11605413496314266736",
+      "locationTitle": "El Dorado cleaning services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12537687015346677989",
+      "locationTitle": "ERC Painting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2235923025976674974",
+      "locationTitle": "F&J painting services LLC."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17656342476444300234",
+      "locationTitle": "Golden horse fencing"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12920710580947172860",
+      "locationTitle": "López landscaping y gardening"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8724324811063641248",
+      "locationTitle": "Marvin’s Painting & Decorating"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14758540280707051447",
+      "locationTitle": "ONE STOP BUILDING & RENOVATION INC."
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11169117088343981973",
+      "locationTitle": "Ortez mvp home renovations"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15159420627830035882",
+      "locationTitle": "Pool Table Movers DMV"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3947769672279219326",
+      "locationTitle": "Ticos Tree Services and Removal"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18231373423211882780",
+      "locationTitle": "TjtheBest - Home Improvement"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8994938231767878684",
+      "locationTitle": "VEVOA ROOFING SYSTEMS"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17907739333139595839",
+      "locationTitle": "A+ Clean & Maintenance LLC",
+      "gmbKey": "loc:17907739333139595839",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:35:52.013Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/9640342345015043788",
+      "locationTitle": "Bastrop Landscaping & More",
+      "gmbKey": "loc:9640342345015043788",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:39:37.786Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/130992217799399117",
+      "locationTitle": "Cali's cleaning services",
+      "gmbKey": "loc:130992217799399117",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:41:52.497Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/7981813193876716390",
+      "locationTitle": "CCD FLOORING SOLUTIONS.INC",
+      "gmbKey": "loc:7981813193876716390",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:42:48.174Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14660710656384846779",
+      "locationTitle": "CERRATO FRAMING COMPANY LLC",
+      "gmbKey": "loc:14660710656384846779",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:44:15.545Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11163318984030399159",
+      "locationTitle": "Delta Core Electric LLC",
+      "gmbKey": "loc:11163318984030399159",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:47:33.718Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11605413496314266736",
+      "locationTitle": "El Dorado cleaning services",
+      "gmbKey": "loc:11605413496314266736",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:48:34.433Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12537687015346677989",
+      "locationTitle": "ERC Painting LLC",
+      "gmbKey": "loc:12537687015346677989",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:50:09.989Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2235923025976674974",
+      "locationTitle": "F&J painting services LLC.",
+      "gmbKey": "loc:2235923025976674974",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:51:12.571Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17656342476444300234",
+      "locationTitle": "Golden horse fencing",
+      "gmbKey": "loc:17656342476444300234",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:52:24.866Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/12920710580947172860",
+      "locationTitle": "López landscaping y gardening",
+      "gmbKey": "loc:12920710580947172860",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:53:49.758Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8724324811063641248",
+      "locationTitle": "Marvin’s Painting & Decorating",
+      "gmbKey": "loc:8724324811063641248",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:56:35.116Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/14758540280707051447",
+      "locationTitle": "ONE STOP BUILDING & RENOVATION INC.",
+      "gmbKey": "loc:14758540280707051447",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:57:38.125Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11169117088343981973",
+      "locationTitle": "Ortez mvp home renovations",
+      "gmbKey": "loc:11169117088343981973",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T20:59:11.642Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/15159420627830035882",
+      "locationTitle": "Pool Table Movers DMV",
+      "gmbKey": "loc:15159420627830035882",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T21:02:23.351Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/3947769672279219326",
+      "locationTitle": "Ticos Tree Services and Removal",
+      "gmbKey": "loc:3947769672279219326",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T21:04:36.462Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18231373423211882780",
+      "locationTitle": "TjtheBest - Home Improvement",
+      "gmbKey": "loc:18231373423211882780",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T21:05:31.535Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8994938231767878684",
+      "locationTitle": "VEVOA ROOFING SYSTEMS",
+      "gmbKey": "loc:8994938231767878684",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-06-02T21:06:55.035Z"
+    }
+  ],
+  "updatedAt": "2026-06-02T21:06:55.932Z"
+}

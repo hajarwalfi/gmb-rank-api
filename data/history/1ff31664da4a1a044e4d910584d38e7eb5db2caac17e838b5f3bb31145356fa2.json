@@ -1,0 +1,218 @@
+{
+  "business_id": "loc:15239498970078058595",
+  "gmbKey": "loc:15239498970078058595",
+  "business_name": "Clean N Go Solutions",
+  "location": "locations/15239498970078058595",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 51
+      },
+      "map_ranks": [
+        {
+          "keyword": "cleaners in Sioux City, IA",
+          "rank": 16,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp14_1779117750725.png"
+        },
+        {
+          "keyword": "affordable cleaners near me",
+          "rank": 1,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117879248.png"
+        },
+        {
+          "keyword": "top rated cleaners Sioux City",
+          "rank": 23,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1779117972877.png"
+        },
+        {
+          "keyword": "emergency cleaning services Sioux City",
+          "rank": 1,
+          "volume": 2,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779118124802.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp14_1779117750725.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "best cleaning services Sioux City IA",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778238675430.png"
+        },
+        {
+          "keyword": "affordable carpet cleaning Sioux City IA",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778238709783.png"
+        },
+        {
+          "keyword": "emergency cleaning services Sioux City IA",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778238918681.png"
+        },
+        {
+          "keyword": "professional office cleaning Sioux City IA",
+          "rank": 17,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778239062079.png"
+        },
+        {
+          "keyword": "cleaning solutions Sioux City IA",
+          "rank": 2,
+          "volume": 1,
+          "daily_traffic": 0.3,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1778239102234.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778238675430.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 4
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated house cleaners Sioux City IA",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778168050319.png"
+        },
+        {
+          "keyword": "emergency cleaning services Sioux City IA",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778168094837.png"
+        },
+        {
+          "keyword": "professional office cleaning Sioux City IA",
+          "rank": 14,
+          "volume": 1,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778168129158.png"
+        },
+        {
+          "keyword": "cleaning solutions Sioux City IA",
+          "rank": 1,
+          "volume": 1,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778168165902.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778168050319.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 51
+    },
+    "map_ranks": [
+      {
+        "keyword": "cleaners in Sioux City, IA",
+        "rank": 16,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp14_1779117750725.png"
+      },
+      {
+        "keyword": "affordable cleaners near me",
+        "rank": 1,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779117879248.png"
+      },
+      {
+        "keyword": "top rated cleaners Sioux City",
+        "rank": 23,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r23_serp23_1779117972877.png"
+      },
+      {
+        "keyword": "emergency cleaning services Sioux City",
+        "rank": 1,
+        "volume": 2,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779118124802.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 3,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp14_1779117750725.png"
+  },
+  "total_scans": 3
+}

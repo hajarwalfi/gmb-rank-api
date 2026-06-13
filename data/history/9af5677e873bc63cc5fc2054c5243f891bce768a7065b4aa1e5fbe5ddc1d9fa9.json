@@ -1,0 +1,170 @@
+{
+  "business_id": "loc:521204785199191990",
+  "gmbKey": "loc:521204785199191990",
+  "business_name": "CG Landscaping",
+  "location": "locations/521204785199191990",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 0,
+        "calls": 3,
+        "impressions": 164
+      },
+      "map_ranks": [
+        {
+          "keyword": "artificial turf installation Sacramento",
+          "rank": 82,
+          "volume": 10,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r82_serp82_1779115177537.png"
+        },
+        {
+          "keyword": "retaining wall contractors in Folsom",
+          "rank": 4,
+          "volume": 10,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779115459410.png"
+        },
+        {
+          "keyword": "sod installation in Elk Grove, CA",
+          "rank": 3,
+          "volume": 10,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779115641147.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 31,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r82_serp82_1779115177537.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 53
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated landscaper Folsom CA",
+          "rank": 4,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778237446051.png"
+        },
+        {
+          "keyword": "Professional lawn care Rocklin CA",
+          "rank": 5,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp3_1778237501976.png"
+        },
+        {
+          "keyword": "Best garden design Elk Grove CA",
+          "rank": 4,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp3_1778237566556.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 31,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778237446051.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 34
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated landscaper Folsom CA",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp4_1778165679437.png"
+        },
+        {
+          "keyword": "Professional lawn care Rocklin CA",
+          "rank": 3,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778165751713.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 31,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp4_1778165679437.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 7,
+      "direction_requests": 0,
+      "calls": 3,
+      "impressions": 164
+    },
+    "map_ranks": [
+      {
+        "keyword": "artificial turf installation Sacramento",
+        "rank": 82,
+        "volume": 10,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r82_serp82_1779115177537.png"
+      },
+      {
+        "keyword": "retaining wall contractors in Folsom",
+        "rank": 4,
+        "volume": 10,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779115459410.png"
+      },
+      {
+        "keyword": "sod installation in Elk Grove, CA",
+        "rank": 3,
+        "volume": 10,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779115641147.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 31,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r82_serp82_1779115177537.png"
+  },
+  "total_scans": 3
+}

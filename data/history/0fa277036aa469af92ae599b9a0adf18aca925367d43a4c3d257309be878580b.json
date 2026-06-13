@@ -1,0 +1,104 @@
+{
+  "business_id": "loc:16468938537586097217",
+  "gmbKey": "loc:16468938537586097217",
+  "business_name": "Painting Colors 1",
+  "location": "locations/16468938537586097217",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 42
+      },
+      "map_ranks": [
+        {
+          "keyword": "Interior painting services Colorado Springs",
+          "rank": 39,
+          "volume": 1,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778270076138.png"
+        },
+        {
+          "keyword": "Professional cabinet painting Pueblo",
+          "rank": 8,
+          "volume": 1,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp12_1778270134645.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 89,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778270076138.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 39
+      },
+      "map_ranks": [
+        {
+          "keyword": "Interior painting services Colorado Springs",
+          "rank": 41,
+          "volume": 1,
+          "daily_traffic": 0.2,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp41_1778202638847.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 89,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp41_1778202638847.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 42
+    },
+    "map_ranks": [
+      {
+        "keyword": "Interior painting services Colorado Springs",
+        "rank": 39,
+        "volume": 1,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778270076138.png"
+      },
+      {
+        "keyword": "Professional cabinet painting Pueblo",
+        "rank": 8,
+        "volume": 1,
+        "daily_traffic": 0.2,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp12_1778270134645.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 89,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp39_1778270076138.png"
+  },
+  "total_scans": 2
+}

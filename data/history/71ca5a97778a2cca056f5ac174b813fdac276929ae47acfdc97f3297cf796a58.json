@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:4208900394864613421",
+  "gmbKey": "loc:4208900394864613421",
+  "business_name": "Tlax Construction",
+  "location": "locations/4208900394864613421",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roofing Contractor Clearfield UT",
+          "rank": 11,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778279888402.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778279888402.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 12
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roofing Contractor Clearfield UT",
+          "rank": 12,
+          "volume": 7,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 7,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp11_1778222974098.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp11_1778222974098.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 12
+    },
+    "map_ranks": [
+      {
+        "keyword": "Roofing Contractor Clearfield UT",
+        "rank": 11,
+        "volume": 7,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 7,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778279888402.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 3,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778279888402.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,130 @@
+{
+  "business_id": "loc:15724626237466874792",
+  "gmbKey": "loc:15724626237466874792",
+  "business_name": "Eco-Mex LLC",
+  "location": "locations/15724626237466874792",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 17,
+        "direction_requests": 28,
+        "calls": 4,
+        "impressions": 75
+      },
+      "map_ranks": [
+        {
+          "keyword": "tree service in Utah",
+          "rank": 80,
+          "volume": 49,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 49,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r80_serp80_1779128810527.png"
+        },
+        {
+          "keyword": "same day tree service Utah",
+          "rank": 67,
+          "volume": 49,
+          "daily_traffic": 3.3,
+          "estimated_clicks": 49,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r67_serp67_1779129059226.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 38,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r80_serp80_1779128810527.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 7,
+        "direction_requests": 17,
+        "calls": 2,
+        "impressions": 20
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated arborist in Layton",
+          "rank": 94,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r94_serp95_1778244513623.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 36,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r94_serp95_1778244513623.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 17,
+        "calls": 1,
+        "impressions": 14
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated arborist in Layton",
+          "rank": 85,
+          "volume": 22,
+          "daily_traffic": 5.5,
+          "estimated_clicks": 22,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_serp85_1778174128057.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 36,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r85_serp85_1778174128057.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 17,
+      "direction_requests": 28,
+      "calls": 4,
+      "impressions": 75
+    },
+    "map_ranks": [
+      {
+        "keyword": "tree service in Utah",
+        "rank": 80,
+        "volume": 49,
+        "daily_traffic": 3.3,
+        "estimated_clicks": 49,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r80_serp80_1779128810527.png"
+      },
+      {
+        "keyword": "same day tree service Utah",
+        "rank": 67,
+        "volume": 49,
+        "daily_traffic": 3.3,
+        "estimated_clicks": 49,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r67_serp67_1779129059226.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 38,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r80_serp80_1779128810527.png"
+  },
+  "total_scans": 3
+}

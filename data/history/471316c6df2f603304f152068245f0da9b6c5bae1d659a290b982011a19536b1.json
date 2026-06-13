@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:6000728335362333150",
+  "gmbKey": "loc:6000728335362333150",
+  "business_name": "Matute Painting LLC",
+  "location": "locations/6000728335362333150",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 28
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable House Painting Bluffton SC",
+          "rank": 7,
+          "volume": 3,
+          "daily_traffic": 0.6,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp6_1778264082744.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 57,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp6_1778264082744.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 17
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable House Painting Bluffton SC",
+          "rank": 6,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778195352574.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 57,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778195352574.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 2,
+      "calls": 0,
+      "impressions": 28
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable House Painting Bluffton SC",
+        "rank": 7,
+        "volume": 3,
+        "daily_traffic": 0.6,
+        "estimated_clicks": 3,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp6_1778264082744.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 57,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp6_1778264082744.png"
+  },
+  "total_scans": 2
+}

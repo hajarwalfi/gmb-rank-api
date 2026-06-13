@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:3523037409073306411",
+  "gmbKey": "loc:3523037409073306411",
+  "business_name": "Jr Paint Solutions Inc",
+  "location": "locations/3523037409073306411",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-25T20:32:07.665Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 66
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 18,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-25T20:32:07.665Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 66
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 18,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

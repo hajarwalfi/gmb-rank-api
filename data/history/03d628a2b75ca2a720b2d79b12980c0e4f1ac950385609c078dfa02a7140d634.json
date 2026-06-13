@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:4772608145696869592",
+  "gmbKey": "loc:4772608145696869592",
+  "business_name": "Redfalcon roofing",
+  "location": "locations/4772608145696869592",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 8
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 9
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 2,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

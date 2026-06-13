@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:1379184841737980703",
+  "gmbKey": "loc:1379184841737980703",
+  "business_name": "Norbac Remodeling",
+  "location": "locations/1379184841737980703",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 18,
+        "calls": 2,
+        "impressions": 89
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top-rated home additions Romeoville",
+          "rank": 1,
+          "volume": 24,
+          "daily_traffic": 4.8,
+          "estimated_clicks": 24,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778268556382.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 68,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778268556382.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 18,
+        "calls": 2,
+        "impressions": 72
+      },
+      "map_ranks": [
+        {
+          "keyword": "Basement remodeling Naperville",
+          "rank": 3,
+          "volume": 24,
+          "daily_traffic": 4.8,
+          "estimated_clicks": 24,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778200375931.png"
+        },
+        {
+          "keyword": "Top-rated home additions Romeoville",
+          "rank": 1,
+          "volume": 24,
+          "daily_traffic": 4.8,
+          "estimated_clicks": 24,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778200485195.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 68,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1778200375931.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 18,
+      "calls": 2,
+      "impressions": 89
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top-rated home additions Romeoville",
+        "rank": 1,
+        "volume": 24,
+        "daily_traffic": 4.8,
+        "estimated_clicks": 24,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778268556382.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 68,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778268556382.png"
+  },
+  "total_scans": 2
+}

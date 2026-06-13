@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:12926252013801493463",
+  "gmbKey": "loc:12926252013801493463",
+  "business_name": "S J All Florida Renovations LLC",
+  "location": "locations/12926252013801493463",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 17
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated remodeler Central Florida",
+          "rank": 16,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp7_1778276442527.png"
+        },
+        {
+          "keyword": "best kitchen remodel Central Florida",
+          "rank": 20,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp19_1778276575928.png"
+        },
+        {
+          "keyword": "professional bathroom renovation Central Florida",
+          "rank": 2,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778276709176.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp7_1778276442527.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 15
+      },
+      "map_ranks": [
+        {
+          "keyword": "top rated remodeler Central Florida",
+          "rank": 4,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778209383213.png"
+        },
+        {
+          "keyword": "professional bathroom renovation Central Florida",
+          "rank": 2,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778209578098.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778209383213.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 8,
+      "calls": 0,
+      "impressions": 17
+    },
+    "map_ranks": [
+      {
+        "keyword": "top rated remodeler Central Florida",
+        "rank": 16,
+        "volume": 8,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp7_1778276442527.png"
+      },
+      {
+        "keyword": "best kitchen remodel Central Florida",
+        "rank": 20,
+        "volume": 8,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp19_1778276575928.png"
+      },
+      {
+        "keyword": "professional bathroom renovation Central Florida",
+        "rank": 2,
+        "volume": 8,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778276709176.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 4,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp7_1778276442527.png"
+  },
+  "total_scans": 2
+}

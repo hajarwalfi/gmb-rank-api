@@ -1,0 +1,286 @@
+{
+  "business_id": "loc:15789341246826822449",
+  "gmbKey": "loc:15789341246826822449",
+  "business_name": "Apollo Pools",
+  "location": "locations/15789341246826822449",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-06-02T08:40:00.825Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "swimming pool contractor in Mango, FL",
+          "rank": 42,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_slot2_1780389633566.png"
+        },
+        {
+          "keyword": "affordable pool services Lithia, FL",
+          "rank": 100,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r100_slot20_1780389664663.png"
+        },
+        {
+          "keyword": "best swimming pool builder Brandon, FL",
+          "rank": 43,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r43_slot3_1780389720348.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 274,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_slot2_1780389633566.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-06-02T08:40:00.565Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 0
+      },
+      "map_ranks": [
+        {
+          "keyword": "swimming pool contractor in Mango, FL",
+          "rank": 42,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_slot2_1780389627104.png"
+        },
+        {
+          "keyword": "best swimming pool builder Brandon, FL",
+          "rank": 43,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r43_slot3_1780389680274.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 274,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_slot2_1780389627104.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 34,
+        "direction_requests": 42,
+        "calls": 14,
+        "impressions": 799
+      },
+      "map_ranks": [
+        {
+          "keyword": "swimming pool contractor in Mango, FL",
+          "rank": 36,
+          "volume": 90,
+          "daily_traffic": 6,
+          "estimated_clicks": 90,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp39_1779104702270.png"
+        },
+        {
+          "keyword": "top rated pool contractor Ruskin, FL",
+          "rank": 1,
+          "volume": 90,
+          "daily_traffic": 6,
+          "estimated_clicks": 90,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779104977988.png"
+        },
+        {
+          "keyword": "best swimming pool builder Brandon, FL",
+          "rank": 44,
+          "volume": 90,
+          "daily_traffic": 6,
+          "estimated_clicks": 90,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r44_serp43_1779105142311.png"
+        },
+        {
+          "keyword": "pool installation near me",
+          "rank": 1,
+          "volume": 90,
+          "daily_traffic": 6,
+          "estimated_clicks": 90,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779105348639.png"
+        },
+        {
+          "keyword": "emergency pool repair Seffner, FL",
+          "rank": 1,
+          "volume": 90,
+          "daily_traffic": 6,
+          "estimated_clicks": 90,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779105511795.png"
+        },
+        {
+          "keyword": "swimming pool services in Valrico, FL",
+          "rank": 42,
+          "volume": 90,
+          "daily_traffic": 6,
+          "estimated_clicks": 90,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r42_serp34_1779105660615.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 274,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r36_serp39_1779104702270.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 14,
+        "direction_requests": 16,
+        "calls": 1,
+        "impressions": 225
+      },
+      "map_ranks": [
+        {
+          "keyword": "Swimming pool installation Mango FL",
+          "rank": 12,
+          "volume": 31,
+          "daily_traffic": 6.2,
+          "estimated_clicks": 31,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp8_1778231218349.png"
+        },
+        {
+          "keyword": "Best pool maintenance Ruskin FL",
+          "rank": 11,
+          "volume": 31,
+          "daily_traffic": 6.2,
+          "estimated_clicks": 31,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778231488911.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 273,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp8_1778231218349.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 16,
+        "calls": 1,
+        "impressions": 179
+      },
+      "map_ranks": [
+        {
+          "keyword": "Swimming pool installation Mango FL",
+          "rank": 12,
+          "volume": 25,
+          "daily_traffic": 6.3,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp13_1778160656707.png"
+        },
+        {
+          "keyword": "Affordable pool contractor Lithia FL",
+          "rank": 59,
+          "volume": 25,
+          "daily_traffic": 6.3,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r59_serp48_1778160710550.png"
+        },
+        {
+          "keyword": "Best pool maintenance Ruskin FL",
+          "rank": 16,
+          "volume": 25,
+          "daily_traffic": 6.3,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp7_1778160762175.png"
+        },
+        {
+          "keyword": "Top rated swimming pool builders Brandon FL",
+          "rank": 38,
+          "volume": 25,
+          "daily_traffic": 6.3,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp38_1778160798972.png"
+        },
+        {
+          "keyword": "Emergency pool repair Valrico FL",
+          "rank": 73,
+          "volume": 25,
+          "daily_traffic": 6.3,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r73_serp72_1778160878035.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 273,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp13_1778160656707.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-06-02T08:40:00.825Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 0
+    },
+    "map_ranks": [
+      {
+        "keyword": "swimming pool contractor in Mango, FL",
+        "rank": 42,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_slot2_1780389633566.png"
+      },
+      {
+        "keyword": "affordable pool services Lithia, FL",
+        "rank": 100,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r100_slot20_1780389664663.png"
+      },
+      {
+        "keyword": "best swimming pool builder Brandon, FL",
+        "rank": 43,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r43_slot3_1780389720348.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 274,
+      "average_rating": 4.099999904632568,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r42_slot2_1780389633566.png"
+  },
+  "total_scans": 5
+}

@@ -1,0 +1,126 @@
+{
+  "business_id": "loc:6792279944126378288",
+  "gmbKey": "loc:6792279944126378288",
+  "business_name": "Osorio's Cleaning Service",
+  "location": "locations/6792279944126378288",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-11T21:01:37.890Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 13,
+        "calls": 0,
+        "impressions": 67
+      },
+      "map_ranks": [
+        {
+          "keyword": "house cleaning service Stafford VA",
+          "rank": 17,
+          "volume": 13,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778533333750.png"
+        },
+        {
+          "keyword": "affordable house cleaning Spotsylvania County",
+          "rank": 11,
+          "volume": 13,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778533380531.png"
+        },
+        {
+          "keyword": "best house cleaning Fredericksburg VA",
+          "rank": 14,
+          "volume": 13,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778533525876.png"
+        },
+        {
+          "keyword": "emergency house cleaning Stafford VA",
+          "rank": 11,
+          "volume": 13,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp19_1778533576722.png"
+        },
+        {
+          "keyword": "same day house cleaning Spotsylvania County",
+          "rank": 9,
+          "volume": 13,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 13,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp8_1778533653579.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 31,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778533333750.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-11T21:01:37.890Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 13,
+      "calls": 0,
+      "impressions": 67
+    },
+    "map_ranks": [
+      {
+        "keyword": "house cleaning service Stafford VA",
+        "rank": 17,
+        "volume": 13,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778533333750.png"
+      },
+      {
+        "keyword": "affordable house cleaning Spotsylvania County",
+        "rank": 11,
+        "volume": 13,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778533380531.png"
+      },
+      {
+        "keyword": "best house cleaning Fredericksburg VA",
+        "rank": 14,
+        "volume": 13,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp14_1778533525876.png"
+      },
+      {
+        "keyword": "emergency house cleaning Stafford VA",
+        "rank": 11,
+        "volume": 13,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp19_1778533576722.png"
+      },
+      {
+        "keyword": "same day house cleaning Spotsylvania County",
+        "rank": 9,
+        "volume": 13,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 13,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp8_1778533653579.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 31,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r17_serp17_1778533333750.png"
+  },
+  "total_scans": 1
+}

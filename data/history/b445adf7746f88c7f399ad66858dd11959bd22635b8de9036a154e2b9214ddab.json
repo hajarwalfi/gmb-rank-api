@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:9773571789760207638",
+  "gmbKey": "loc:9773571789760207638",
+  "business_name": "J & C Buenano Carpentry Inc",
+  "location": "locations/9773571789760207638",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T21:23:14.967Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 6
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T21:23:14.967Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 5,
+      "calls": 0,
+      "impressions": 9
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 3
+}

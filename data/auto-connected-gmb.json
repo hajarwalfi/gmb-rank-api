@@ -1,0 +1,4175 @@
+{
+  "generatedAt": "2026-06-02T22:01:17.860Z",
+  "mode": "ranking_server_pipeline",
+  "region": "es,us,br",
+  "crmRegions": [
+    "es",
+    "us",
+    "br"
+  ],
+  "summary": {
+    "totalPaying": 470,
+    "alreadyLinkedCount": 440,
+    "wouldAutoCount": 4,
+    "manualCount": 20,
+    "noEligibleCount": 6,
+    "sameNameCount": 1,
+    "sameMatchCount": 1,
+    "errors": 0,
+    "byRegion": {
+      "es": {
+        "totalPaying": 391,
+        "alreadyLinkedCount": 367,
+        "wouldAutoCount": 4,
+        "manualCount": 20,
+        "noEligibleCount": 0,
+        "sameNameCount": 1,
+        "sameMatchCount": 1,
+        "errors": 0
+      },
+      "us": {
+        "totalPaying": 77,
+        "alreadyLinkedCount": 71,
+        "wouldAutoCount": 0,
+        "manualCount": 0,
+        "noEligibleCount": 6,
+        "sameNameCount": 0,
+        "sameMatchCount": 0,
+        "errors": 0
+      },
+      "br": {
+        "totalPaying": 2,
+        "alreadyLinkedCount": 2,
+        "wouldAutoCount": 0,
+        "manualCount": 0,
+        "noEligibleCount": 0,
+        "sameNameCount": 0,
+        "sameMatchCount": 0,
+        "errors": 0
+      }
+    }
+  },
+  "auto_connected_gmb_name": [
+    {
+      "clientId": "04fdbc12-4dd9-4c38-8040-2cec05cc0348",
+      "region": "es",
+      "business_name": "GreenBlade Outdoor Service",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/04fdbc12-4dd9-4c38-8040-2cec05cc0348",
+      "gmb_name": "Green Blade Outdoor Service"
+    },
+    {
+      "clientId": "384ba4e9-b52b-4ef8-a085-76f52c2c83b2",
+      "region": "es",
+      "business_name": "SESAL TRUCKING",
+      "legal_business_name": "SESAL TRUCKING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/384ba4e9-b52b-4ef8-a085-76f52c2c83b2",
+      "gmb_name": "Sesal TR movers"
+    },
+    {
+      "clientId": "c001e08b-55f8-4d3c-a6aa-d85545b43310",
+      "region": "es",
+      "business_name": "Aldia carpentry",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c001e08b-55f8-4d3c-a6aa-d85545b43310",
+      "gmb_name": "3ABO carpentry LLC"
+    },
+    {
+      "clientId": "0bb9241b-430f-42da-aa1a-1cd3f9171eb2",
+      "region": "es",
+      "business_name": "Gerardo Garcias",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0bb9241b-430f-42da-aa1a-1cd3f9171eb2",
+      "gmb_name": "GCG Garcia’s Construction Group LLC"
+    }
+  ],
+  "manual_connect_gmb_name": [
+    {
+      "clientId": "a6715756-3184-4088-aae2-9a8e127b3fc8",
+      "region": "es",
+      "business_name": "Jpaintingpro",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a6715756-3184-4088-aae2-9a8e127b3fc8",
+      "manual_dropdown_top3_gmb_names": [
+        "Everclean Solutions LLC",
+        "Salguero painting",
+        "Dhaso Painters"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Everclean Solutions LLC",
+          "score": 0
+        },
+        {
+          "listing": "Salguero painting",
+          "score": 0
+        },
+        {
+          "listing": "Dhaso Painters",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "clientId": "b0584d40-11d0-4e2a-8162-bbe9a9d89d8c",
+      "region": "es",
+      "business_name": "Karina cleaning services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b0584d40-11d0-4e2a-8162-bbe9a9d89d8c",
+      "manual_dropdown_top3_gmb_names": [
+        "Doras Cleaning Services",
+        "Maria Sisters cleaning service",
+        "Hadasa’s Cleaning Services"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Doras Cleaning Services",
+          "score": 2
+        },
+        {
+          "listing": "Maria Sisters cleaning service",
+          "score": 2
+        },
+        {
+          "listing": "Hadasa’s Cleaning Services",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "clientId": "44b7ffd8-256d-4957-8d50-06e17e338312",
+      "region": "es",
+      "business_name": "Her roofing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/44b7ffd8-256d-4957-8d50-06e17e338312",
+      "manual_dropdown_top3_gmb_names": [
+        "HER ROOFING & CONSTRUCTION INC",
+        "GR ROOFING CONSTRUCTION LLC",
+        "National Roofing Contractors LLC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "HER ROOFING & CONSTRUCTION INC",
+          "score": 800
+        },
+        {
+          "listing": "GR ROOFING CONSTRUCTION LLC",
+          "score": 2
+        },
+        {
+          "listing": "National Roofing Contractors LLC",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "clientId": "bfab0bd9-3c3c-4b99-aa99-450092fbe289",
+      "region": "es",
+      "business_name": "The Royale genral sevices LLC - TT",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bfab0bd9-3c3c-4b99-aa99-450092fbe289",
+      "manual_dropdown_top3_gmb_names": [
+        "The Royale moving and storage LLC",
+        "The Perfect Climate",
+        "The RoofMan LLC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "The Royale moving and storage LLC",
+          "score": 6
+        },
+        {
+          "listing": "The Perfect Climate",
+          "score": 4
+        },
+        {
+          "listing": "The RoofMan LLC",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "clientId": "e6f6a9fe-3e20-4fce-8bbd-3c91ca9db07c",
+      "region": "es",
+      "business_name": "Dantescleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e6f6a9fe-3e20-4fce-8bbd-3c91ca9db07c",
+      "manual_dropdown_top3_gmb_names": [
+        "Everclean Solutions LLC",
+        "Salguero painting",
+        "Dhaso Painters"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Everclean Solutions LLC",
+          "score": 0
+        },
+        {
+          "listing": "Salguero painting",
+          "score": 0
+        },
+        {
+          "listing": "Dhaso Painters",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "clientId": "53b4ad26-e65d-479c-9819-965f6633ddf6",
+      "region": "es",
+      "business_name": "Johns General corp",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/53b4ad26-e65d-479c-9819-965f6633ddf6",
+      "manual_dropdown_top3_gmb_names": [
+        "Bernies General Construction",
+        "Roofing en general",
+        "Sanchez Concrete General"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Bernies General Construction",
+          "score": 2
+        },
+        {
+          "listing": "Roofing en general",
+          "score": 2
+        },
+        {
+          "listing": "Sanchez Concrete General",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "clientId": "0cc4d1bb-26f4-4a39-a368-6a43b4a6a3b9",
+      "region": "es",
+      "business_name": "Shaddai house Cleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0cc4d1bb-26f4-4a39-a368-6a43b4a6a3b9",
+      "manual_dropdown_top3_gmb_names": [
+        "Shaddai House Cleaning",
+        "Adiel House Cleaning",
+        "Adt housecleaning LLC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Shaddai House Cleaning",
+          "score": 1000
+        },
+        {
+          "listing": "Adiel House Cleaning",
+          "score": 650
+        },
+        {
+          "listing": "Adt housecleaning LLC",
+          "score": 650
+        }
+      ]
+    },
+    {
+      "clientId": "92f778f2-3140-49d4-8409-64b376b95ee1",
+      "region": "es",
+      "business_name": "Mil mudanzas",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/92f778f2-3140-49d4-8409-64b376b95ee1",
+      "manual_dropdown_top3_gmb_names": [
+        "Everclean Solutions LLC",
+        "Salguero painting",
+        "Dhaso Painters"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Everclean Solutions LLC",
+          "score": 0
+        },
+        {
+          "listing": "Salguero painting",
+          "score": 0
+        },
+        {
+          "listing": "Dhaso Painters",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "clientId": "949bbbd0-7e04-4bf4-88c8-911a30813400",
+      "region": "es",
+      "business_name": "Gabriela Ramirez - José Manuel Vázquez Lobato - AA",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/949bbbd0-7e04-4bf4-88c8-911a30813400",
+      "manual_dropdown_top3_gmb_names": [
+        "V-Teg Electrical corp",
+        "A.T home modifications LLC",
+        "Pablo A construction LLC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "V-Teg Electrical corp",
+          "score": 2
+        },
+        {
+          "listing": "A.T home modifications LLC",
+          "score": 2
+        },
+        {
+          "listing": "Pablo A construction LLC",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "clientId": "e381b7d8-bbd7-45bd-8e43-4e6fb110d334",
+      "region": "es",
+      "business_name": "Mario Antonio Chaparro - TT",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e381b7d8-bbd7-45bd-8e43-4e6fb110d334",
+      "manual_dropdown_top3_gmb_names": [
+        "Maria Sisters cleaning service",
+        "Shaun & T's Vehicle Detailing",
+        "A.T home modifications LLC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Maria Sisters cleaning service",
+          "score": 1
+        },
+        {
+          "listing": "Shaun & T's Vehicle Detailing",
+          "score": 1
+        },
+        {
+          "listing": "A.T home modifications LLC",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "clientId": "ee0de18e-d195-4c41-9e91-67487e662ad4",
+      "region": "es",
+      "business_name": "Cmglandscaping",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ee0de18e-d195-4c41-9e91-67487e662ad4",
+      "manual_dropdown_top3_gmb_names": [
+        "ABL landscaping",
+        "Pro mg landscaping llc",
+        "RL LANDSCAPING SERVICES LLC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "ABL landscaping",
+          "score": 700
+        },
+        {
+          "listing": "Pro mg landscaping llc",
+          "score": 700
+        },
+        {
+          "listing": "RL LANDSCAPING SERVICES LLC",
+          "score": 700
+        }
+      ]
+    },
+    {
+      "clientId": "71b13f43-be0b-469c-bed3-42b45449f61e",
+      "region": "es",
+      "business_name": "Hvacelectricalservices@gmail.com",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/71b13f43-be0b-469c-bed3-42b45449f61e",
+      "manual_dropdown_top3_gmb_names": [
+        "Water Heater PDQ.com LLC",
+        "Inmer com multi service",
+        "Aeraci. Com inc"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Water Heater PDQ.com LLC",
+          "score": 2
+        },
+        {
+          "listing": "Inmer com multi service",
+          "score": 2
+        },
+        {
+          "listing": "Aeraci. Com inc",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "clientId": "abf0a737-fe44-4869-900a-f5f7ec7301c2",
+      "region": "es",
+      "business_name": "Habitat Roofing group",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/abf0a737-fe44-4869-900a-f5f7ec7301c2",
+      "manual_dropdown_top3_gmb_names": [
+        "Silver clean group llc",
+        "GR ROOFING CONSTRUCTION LLC",
+        "HER ROOFING & CONSTRUCTION INC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Silver clean group llc",
+          "score": 2
+        },
+        {
+          "listing": "GR ROOFING CONSTRUCTION LLC",
+          "score": 2
+        },
+        {
+          "listing": "HER ROOFING & CONSTRUCTION INC",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "clientId": "10651e7c-c7ed-44f7-88d0-a3683254ccbf",
+      "region": "es",
+      "business_name": "Pristine painting and restoration",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/10651e7c-c7ed-44f7-88d0-a3683254ccbf",
+      "manual_dropdown_top3_gmb_names": [
+        "A2Z Painting and Construction",
+        "W&C Painting Services LLC",
+        "Leal Remodeling, Painting AND Handyman SVC Inc"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "A2Z Painting and Construction",
+          "score": 4
+        },
+        {
+          "listing": "W&C Painting Services LLC",
+          "score": 4
+        },
+        {
+          "listing": "Leal Remodeling, Painting AND Handyman SVC Inc",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "clientId": "5e5cfe08-5635-4d37-a642-1ddbe443a032",
+      "region": "es",
+      "business_name": "Gandhi plastering",
+      "legal_business_name": "F and G Plastering Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5e5cfe08-5635-4d37-a642-1ddbe443a032",
+      "manual_dropdown_top3_gmb_names": [
+        "I & G Tree Care Services Inc",
+        "L&G Quality Cleaning Service",
+        "G&B contractors LLC"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "I & G Tree Care Services Inc",
+          "score": 5
+        },
+        {
+          "listing": "L&G Quality Cleaning Service",
+          "score": 5
+        },
+        {
+          "listing": "G&B contractors LLC",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "clientId": "ad807d00-f36f-4d5e-8dac-b6c3de3b25e5",
+      "region": "es",
+      "business_name": "Bellido  G C  . Inc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ad807d00-f36f-4d5e-8dac-b6c3de3b25e5",
+      "manual_dropdown_top3_gmb_names": [
+        "W&C Painting Services LLC",
+        "Protecto Painters L.L.C",
+        "I & G Tree Care Services Inc"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "W&C Painting Services LLC",
+          "score": 3
+        },
+        {
+          "listing": "Protecto Painters L.L.C",
+          "score": 3
+        },
+        {
+          "listing": "I & G Tree Care Services Inc",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "clientId": "4b139f30-ac81-4597-9fdf-d8a7dfab7956",
+      "region": "es",
+      "business_name": "Storm Mate inc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4b139f30-ac81-4597-9fdf-d8a7dfab7956",
+      "manual_dropdown_top3_gmb_names": [
+        "Everclean Solutions LLC",
+        "Salguero painting",
+        "Dhaso Painters"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Everclean Solutions LLC",
+          "score": 0
+        },
+        {
+          "listing": "Salguero painting",
+          "score": 0
+        },
+        {
+          "listing": "Dhaso Painters",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "clientId": "80a1974b-88ed-4141-b69f-6a314f3d4631",
+      "region": "es",
+      "business_name": "Protouch professional llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/80a1974b-88ed-4141-b69f-6a314f3d4631",
+      "manual_dropdown_top3_gmb_names": [
+        "CBS PROFESSIONAL PAINTERS INC",
+        "RC & AC Professional the house Painting Brothers",
+        "Protech Renovation"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "CBS PROFESSIONAL PAINTERS INC",
+          "score": 2
+        },
+        {
+          "listing": "RC & AC Professional the house Painting Brothers",
+          "score": 2
+        },
+        {
+          "listing": "Protech Renovation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "clientId": "1cc508b8-3b9f-4342-bd02-5a8ad4a3e767",
+      "region": "es",
+      "business_name": "Gricelda",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1cc508b8-3b9f-4342-bd02-5a8ad4a3e767",
+      "manual_dropdown_top3_gmb_names": [
+        "Everclean Solutions LLC",
+        "Salguero painting",
+        "Dhaso Painters"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "Everclean Solutions LLC",
+          "score": 0
+        },
+        {
+          "listing": "Salguero painting",
+          "score": 0
+        },
+        {
+          "listing": "Dhaso Painters",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "clientId": "2d44f9f7-175b-4a0c-8557-8522dfead456",
+      "region": "es",
+      "business_name": "MDC DRYWALL REMODELING LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2d44f9f7-175b-4a0c-8557-8522dfead456",
+      "manual_dropdown_top3_gmb_names": [
+        "R&D Master Plus Home Remodeling LLC",
+        "GC, LLC Construction & Remodeling",
+        "Leal Remodeling, Painting AND Handyman SVC Inc"
+      ],
+      "manual_dropdown_top3_with_score": [
+        {
+          "listing": "R&D Master Plus Home Remodeling LLC",
+          "score": 2
+        },
+        {
+          "listing": "GC, LLC Construction & Remodeling",
+          "score": 2
+        },
+        {
+          "listing": "Leal Remodeling, Painting AND Handyman SVC Inc",
+          "score": 2
+        }
+      ]
+    }
+  ],
+  "alreadyLinked": [
+    {
+      "clientId": "7ace0a08-189f-447c-bef6-7f8ad6afbbbd",
+      "region": "es",
+      "business_name": "Ortez mvp home renovations",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7ace0a08-189f-447c-bef6-7f8ad6afbbbd",
+      "gmb_name": "Ortez mvp home renovations"
+    },
+    {
+      "clientId": "a9c3b5ef-dbff-4a07-b0b8-04060554121f",
+      "region": "es",
+      "business_name": "Bestone",
+      "legal_business_name": "Bestone Construction INC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a9c3b5ef-dbff-4a07-b0b8-04060554121f",
+      "gmb_name": "BESTONE INTERLOCK"
+    },
+    {
+      "clientId": "bd67dc07-260c-4bd3-94b8-aaf3e2344e7d",
+      "region": "es",
+      "business_name": "Brooclean Corp",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bd67dc07-260c-4bd3-94b8-aaf3e2344e7d",
+      "gmb_name": "Brooclean Corp."
+    },
+    {
+      "clientId": "ff780935-7dfd-4445-babe-901439d43a47",
+      "region": "es",
+      "business_name": "Angelys cleaning",
+      "legal_business_name": "Angelys Cleaning LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ff780935-7dfd-4445-babe-901439d43a47",
+      "gmb_name": "Angely's Professional Cleaning"
+    },
+    {
+      "clientId": "da0a1b28-1a2c-4afc-b1f9-5ba561dc0b86",
+      "region": "es",
+      "business_name": "Jpr fencing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/da0a1b28-1a2c-4afc-b1f9-5ba561dc0b86",
+      "gmb_name": "Golden horse fencing"
+    },
+    {
+      "clientId": "3b3efb25-8ebe-4bbe-be21-b5baef2439bf",
+      "region": "es",
+      "business_name": "SparklefreshcleaningLLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3b3efb25-8ebe-4bbe-be21-b5baef2439bf",
+      "gmb_name": "Sparkle fresh cleaningLLC"
+    },
+    {
+      "clientId": "359cf745-c88c-4115-aadc-55b354e0b61c",
+      "region": "es",
+      "business_name": "CABRERA GARAGE DOORS",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/359cf745-c88c-4115-aadc-55b354e0b61c",
+      "gmb_name": "Cabrera Garage Doors"
+    },
+    {
+      "clientId": "ebd06d98-0550-4d6d-ade3-bcb33772395f",
+      "region": "es",
+      "business_name": "SwiftWolfHaulingLLc",
+      "legal_business_name": "SWIFTWOLF HAULING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ebd06d98-0550-4d6d-ade3-bcb33772395f",
+      "gmb_name": "SwiftWolf hauling"
+    },
+    {
+      "clientId": "8e130aa4-d8c6-4d2c-8bd3-47f8ad7895ef",
+      "region": "es",
+      "business_name": "Moromex Sparkle LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8e130aa4-d8c6-4d2c-8bd3-47f8ad7895ef",
+      "gmb_name": "Moromex Sparkle LLC"
+    },
+    {
+      "clientId": "6aa3d3d0-270f-411a-ad55-52326afb4dc8",
+      "region": "es",
+      "business_name": "Mr LawnCare - Faustino Rafael Rodiles",
+      "legal_business_name": "MrLawnCare",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6aa3d3d0-270f-411a-ad55-52326afb4dc8",
+      "gmb_name": "MrLawnCare"
+    },
+    {
+      "clientId": "7193a334-4fc4-429c-83bb-b35ffe26cb58",
+      "region": "es",
+      "business_name": "FillUpTires Mobile Service",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7193a334-4fc4-429c-83bb-b35ffe26cb58",
+      "gmb_name": "Fill Up Tires /Mobile service"
+    },
+    {
+      "clientId": "de8bd1f5-4003-4694-80bb-75276f7b9de8",
+      "region": "es",
+      "business_name": "Universal Painting",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/de8bd1f5-4003-4694-80bb-75276f7b9de8",
+      "gmb_name": "Universal Painting LLC"
+    },
+    {
+      "clientId": "bde0b2dd-f40c-4ddb-a3f2-b8339229cdc5",
+      "region": "es",
+      "business_name": "Summiit core",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bde0b2dd-f40c-4ddb-a3f2-b8339229cdc5",
+      "gmb_name": "Summit core LLC"
+    },
+    {
+      "clientId": "bf2b4d91-b0cc-4309-9c26-0cd655c8e51f",
+      "region": "es",
+      "business_name": "3abopainting & carpentry",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bf2b4d91-b0cc-4309-9c26-0cd655c8e51f",
+      "gmb_name": "Aldia Carpentry and Services LLC"
+    },
+    {
+      "clientId": "e43d0254-5577-45df-a5b5-8b664c3eaf39",
+      "region": "es",
+      "business_name": "M&S Asphalt Paving",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e43d0254-5577-45df-a5b5-8b664c3eaf39",
+      "gmb_name": "G&S Pressure Washing CLT LLC"
+    },
+    {
+      "clientId": "b1c3dc3d-ef5d-4d2d-9cc4-8aaab4380649",
+      "region": "es",
+      "business_name": "Quick solution sewer & drain",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b1c3dc3d-ef5d-4d2d-9cc4-8aaab4380649",
+      "gmb_name": "Quick solution sewer & drain"
+    },
+    {
+      "clientId": "6ea4c929-35d7-4e52-9dc8-dfbf4977f122",
+      "region": "es",
+      "business_name": "Delvis López",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6ea4c929-35d7-4e52-9dc8-dfbf4977f122",
+      "gmb_name": "López landscaping y gardening"
+    },
+    {
+      "clientId": "c35a7a1e-a24b-4559-a9b2-e000eaac26a4",
+      "region": "es",
+      "business_name": "Quality Roofing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c35a7a1e-a24b-4559-a9b2-e000eaac26a4",
+      "gmb_name": "Quality Electropainting LLC"
+    },
+    {
+      "clientId": "f0722aca-c5ad-4e43-87c2-c989b5fdf514",
+      "region": "es",
+      "business_name": "Grupo Naivan 2013 LLC",
+      "legal_business_name": "Grupo Naivan 2013 LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f0722aca-c5ad-4e43-87c2-c989b5fdf514",
+      "gmb_name": "Grupo Naivan 2013"
+    },
+    {
+      "clientId": "1e8ce796-405d-41af-af57-53073ad871dc",
+      "region": "es",
+      "business_name": "WA Home Repairs and Remodeling - TT",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1e8ce796-405d-41af-af57-53073ad871dc",
+      "gmb_name": "W&G Remodeling INC"
+    },
+    {
+      "clientId": "d4c08bac-f1fe-4028-9f6c-904317286e56",
+      "region": "es",
+      "business_name": "Máster roofing & flooring",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d4c08bac-f1fe-4028-9f6c-904317286e56",
+      "gmb_name": "Master Roofing & Flooring LLC"
+    },
+    {
+      "clientId": "cbde0fe6-32f6-4727-8d19-f1fc3aaa45c8",
+      "region": "es",
+      "business_name": "Artlegollc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cbde0fe6-32f6-4727-8d19-f1fc3aaa45c8",
+      "gmb_name": "Art Lego LLC"
+    },
+    {
+      "clientId": "4ce67a82-ed2f-47e8-92a4-b20be674b47c",
+      "region": "es",
+      "business_name": "BRIGHT CLEANING",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4ce67a82-ed2f-47e8-92a4-b20be674b47c",
+      "gmb_name": "BRIGHT CLEANING"
+    },
+    {
+      "clientId": "4591e893-66fe-4293-90bc-2af824990c8b",
+      "region": "es",
+      "business_name": "Cortez roofing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4591e893-66fe-4293-90bc-2af824990c8b",
+      "gmb_name": "Cortez Roofing LLC"
+    },
+    {
+      "clientId": "8041c8e9-8d11-4a0d-8ff4-7455321a15d4",
+      "region": "es",
+      "business_name": "Ismael",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8041c8e9-8d11-4a0d-8ff4-7455321a15d4",
+      "gmb_name": "Castillo Construction Solutions"
+    },
+    {
+      "clientId": "517c1292-8ce0-400f-893c-d41412524d8b",
+      "region": "es",
+      "business_name": "Claudia cleaning services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/517c1292-8ce0-400f-893c-d41412524d8b",
+      "gmb_name": "Marvin’s Painting & Decorating"
+    },
+    {
+      "clientId": "2a61093c-4f6c-46b7-b43b-3e2c36d8d62b",
+      "region": "es",
+      "business_name": "Rico Construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2a61093c-4f6c-46b7-b43b-3e2c36d8d62b",
+      "gmb_name": "RICO. Painting, Drywall and Flooring"
+    },
+    {
+      "clientId": "75a7ccc0-9306-4f63-a51c-ab10e90eabb9",
+      "region": "es",
+      "business_name": "Miranda Lawn Services - Jose Daniel Miranda Garcia",
+      "legal_business_name": "Miranda Lawn Services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/75a7ccc0-9306-4f63-a51c-ab10e90eabb9",
+      "gmb_name": "Texas Lawn Champions LLC"
+    },
+    {
+      "clientId": "6909e3aa-b0f8-4646-ab34-fcbf11991776",
+      "region": "es",
+      "business_name": "J&Jhernandez",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6909e3aa-b0f8-4646-ab34-fcbf11991776",
+      "gmb_name": "Méndez cleaning LLC"
+    },
+    {
+      "clientId": "b595ea9f-c178-48c8-aee4-03a49624772c",
+      "region": "es",
+      "business_name": "Aureliano Chavez - TT",
+      "legal_business_name": "MCA landscaping services and construction inc.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b595ea9f-c178-48c8-aee4-03a49624772c",
+      "gmb_name": "MCA landscaping services and construction inc"
+    },
+    {
+      "clientId": "456a858e-27bd-49c1-a9bb-b038ee9f62a4",
+      "region": "es",
+      "business_name": "Portillo & Gonzalez Landscaping LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/456a858e-27bd-49c1-a9bb-b038ee9f62a4",
+      "gmb_name": "Portillo & Gonzalez Landscaping LLC"
+    },
+    {
+      "clientId": "6a687d52-457c-4c62-8037-e70e8b7ac7a1",
+      "region": "es",
+      "business_name": "G&G Expert Solutions Llc",
+      "legal_business_name": "G&G EXPERT SOLUTIONS LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6a687d52-457c-4c62-8037-e70e8b7ac7a1",
+      "gmb_name": "G&G Expert Solutions Llc"
+    },
+    {
+      "clientId": "38e74b9e-c1bc-4573-b33e-848d569dd82e",
+      "region": "es",
+      "business_name": "Cultural lawns llc",
+      "legal_business_name": "Cultural lawns llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/38e74b9e-c1bc-4573-b33e-848d569dd82e",
+      "gmb_name": "Miranda Lawn Services"
+    },
+    {
+      "clientId": "bc39f931-d356-494a-8619-4cf76032cc6c",
+      "region": "es",
+      "business_name": "Alpha Roofing",
+      "legal_business_name": "Alpha Roofing & Gutters Llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bc39f931-d356-494a-8619-4cf76032cc6c",
+      "gmb_name": "Alpha Roofing & Gutters"
+    },
+    {
+      "clientId": "7a1bc26a-26d0-483a-a738-d7379878feb3",
+      "region": "es",
+      "business_name": "Cerrato company llc",
+      "legal_business_name": "cerrato framing company llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7a1bc26a-26d0-483a-a738-d7379878feb3",
+      "gmb_name": "CERRATO FRAMING COMPANY LLC"
+    },
+    {
+      "clientId": "167262e0-b0da-4183-93d9-f960a5aa7653",
+      "region": "es",
+      "business_name": "Bastrop landscaping and more",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/167262e0-b0da-4183-93d9-f960a5aa7653",
+      "gmb_name": "Bastrop Landscaping & More"
+    },
+    {
+      "clientId": "a121f2e2-222f-4655-b914-23e0433c62ff",
+      "region": "es",
+      "business_name": "one stop building your renovation",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a121f2e2-222f-4655-b914-23e0433c62ff",
+      "gmb_name": "ONE STOP BUILDING & RENOVATION INC."
+    },
+    {
+      "clientId": "e27b1700-77bf-44ee-a553-a383399270ff",
+      "region": "es",
+      "business_name": "A&A Painting Contractors Corp",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e27b1700-77bf-44ee-a553-a383399270ff",
+      "gmb_name": "A&A Painting Contractors Corp"
+    },
+    {
+      "clientId": "22e7d8fd-922a-4550-b99f-fc24371ca577",
+      "region": "es",
+      "business_name": "Oc side construction",
+      "legal_business_name": "Oc side Construction and design.com",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/22e7d8fd-922a-4550-b99f-fc24371ca577",
+      "gmb_name": "OC Side Construction And Design"
+    },
+    {
+      "clientId": "f03ab63d-0180-4239-8619-58e577fb84e1",
+      "region": "es",
+      "business_name": "Jr paint solutions",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f03ab63d-0180-4239-8619-58e577fb84e1",
+      "gmb_name": "Jr Paint Solutions Inc"
+    },
+    {
+      "clientId": "458c7a9c-b6e8-4555-8bbe-9deb7cefbcec",
+      "region": "es",
+      "business_name": "Singers outdoor services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/458c7a9c-b6e8-4555-8bbe-9deb7cefbcec",
+      "gmb_name": "Singer's Outdoor Services"
+    },
+    {
+      "clientId": "04ecb90a-6dfa-49bc-8942-a4c06eaf0c98",
+      "region": "es",
+      "business_name": "Infinite painting",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/04ecb90a-6dfa-49bc-8942-a4c06eaf0c98",
+      "gmb_name": "Infinite Painting LLC"
+    },
+    {
+      "clientId": "b52a85e3-8c2b-48c0-84e2-cfaef261950e",
+      "region": "es",
+      "business_name": "Alikai cleaning house service llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b52a85e3-8c2b-48c0-84e2-cfaef261950e",
+      "gmb_name": "Alikai cleaning house service llc"
+    },
+    {
+      "clientId": "06caf267-c9b1-4118-a1b2-9fcdd8572209",
+      "region": "es",
+      "business_name": "Complete Carpet Cleaning",
+      "legal_business_name": "Complete Carpet Cleaning llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/06caf267-c9b1-4118-a1b2-9fcdd8572209",
+      "gmb_name": "Complete Carpet Cleaning, LLC"
+    },
+    {
+      "clientId": "2c22e042-2055-43de-8e5c-282164c67b4a",
+      "region": "es",
+      "business_name": "Urpainter.com",
+      "legal_business_name": "URPAINTER.COM",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2c22e042-2055-43de-8e5c-282164c67b4a",
+      "gmb_name": "UR PAINTER"
+    },
+    {
+      "clientId": "d9d759d2-93ec-4259-99f0-0fdc85cf8a87",
+      "region": "es",
+      "business_name": "Interior and design flooring",
+      "legal_business_name": "Interiors and Design Remodeling",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d9d759d2-93ec-4259-99f0-0fdc85cf8a87",
+      "gmb_name": "Interior & Design Inc flooring"
+    },
+    {
+      "clientId": "beb35f93-b946-417f-b2dd-2b751dae8448",
+      "region": "es",
+      "business_name": "Progressive landscaping and fencing",
+      "legal_business_name": "Progressive Landscaping and Fencing",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/beb35f93-b946-417f-b2dd-2b751dae8448",
+      "gmb_name": "Progressive Landscaping & Fencing"
+    },
+    {
+      "clientId": "728d5ca6-09f0-401b-bf69-0153c45c8a40",
+      "region": "es",
+      "business_name": "Fernando Diaz - TT",
+      "legal_business_name": "Antos professional tree service LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/728d5ca6-09f0-401b-bf69-0153c45c8a40",
+      "gmb_name": "Antos Professional Tree Service LLC"
+    },
+    {
+      "clientId": "8035f06f-8b25-46e5-8241-a7fb6b52ca1a",
+      "region": "es",
+      "business_name": "Aj remodeling and roofing llc - JOSE ARGUETA",
+      "legal_business_name": "AJ remodeling and roofing llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8035f06f-8b25-46e5-8241-a7fb6b52ca1a",
+      "gmb_name": "AJ REMODELING AND ROOFING LLC"
+    },
+    {
+      "clientId": "09c51483-41ca-49e7-b5f0-3b06a09c8556",
+      "region": "es",
+      "business_name": "HydroGer Pressure Washing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/09c51483-41ca-49e7-b5f0-3b06a09c8556",
+      "gmb_name": "HydroGer Pressure Washing"
+    },
+    {
+      "clientId": "74677a6f-af19-4f03-bc27-8f9fbcef3549",
+      "region": "es",
+      "business_name": "Smart electrical company llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/74677a6f-af19-4f03-bc27-8f9fbcef3549",
+      "gmb_name": "Smart Electrical Company Llc"
+    },
+    {
+      "clientId": "517c1c86-fba3-4a66-882a-6d3ebbf8a117",
+      "region": "es",
+      "business_name": "Victor m remodeling llc",
+      "legal_business_name": "VICTOR M REMODELING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/517c1c86-fba3-4a66-882a-6d3ebbf8a117",
+      "gmb_name": "VICTOR M REMODELING LLC"
+    },
+    {
+      "clientId": "c10f3326-0861-42c0-b773-0758ab1cc4f3",
+      "region": "es",
+      "business_name": "Osorio’s cleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c10f3326-0861-42c0-b773-0758ab1cc4f3",
+      "gmb_name": "Osorio's Cleaning Service"
+    },
+    {
+      "clientId": "bb18aed4-36c0-45c7-8ea3-8dd9b686182b",
+      "region": "es",
+      "business_name": "Dunia Gonzalez - TT",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bb18aed4-36c0-45c7-8ea3-8dd9b686182b",
+      "gmb_name": "Duny Twins Events & Rental"
+    },
+    {
+      "clientId": "027bc3da-3c0c-40e8-81c6-9f3d400c7b1d",
+      "region": "es",
+      "business_name": "Ticos lawncare & tree removal",
+      "legal_business_name": "Ticos Lawn Care",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/027bc3da-3c0c-40e8-81c6-9f3d400c7b1d",
+      "gmb_name": "Ticos Tree Services and Removal"
+    },
+    {
+      "clientId": "fe655ed2-b773-4268-9b67-0b2744d71fd6",
+      "region": "es",
+      "business_name": "Dany’s cleaning services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/fe655ed2-b773-4268-9b67-0b2744d71fd6",
+      "gmb_name": "Dany’s cleaning services LLC"
+    },
+    {
+      "clientId": "cb1dc8d0-2c6f-4ee4-b454-cef3f9e0ea5e",
+      "region": "es",
+      "business_name": "Kingdom Green Cleaning LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cb1dc8d0-2c6f-4ee4-b454-cef3f9e0ea5e",
+      "gmb_name": "Kingdom Green Cleaning LLC"
+    },
+    {
+      "clientId": "53ec550b-ca4f-437e-be35-a9f2b08c17c7",
+      "region": "es",
+      "business_name": "Skystone construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/53ec550b-ca4f-437e-be35-a9f2b08c17c7",
+      "gmb_name": "SKYSTONE CONSTRUCTION"
+    },
+    {
+      "clientId": "dc84a10a-dc17-441a-b477-111d4c7a7144",
+      "region": "es",
+      "business_name": "Gil’s window cleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/dc84a10a-dc17-441a-b477-111d4c7a7144",
+      "gmb_name": "Gil’s Window Cleaning"
+    },
+    {
+      "clientId": "87214bb0-bee2-4ded-9224-b9837d8dfa69",
+      "region": "es",
+      "business_name": "Jerry painting",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/87214bb0-bee2-4ded-9224-b9837d8dfa69",
+      "gmb_name": "Jerry Painting Property Care"
+    },
+    {
+      "clientId": "80c658af-0364-4f30-9da7-d5c338bed81a",
+      "region": "es",
+      "business_name": "Masterix builders",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/80c658af-0364-4f30-9da7-d5c338bed81a",
+      "gmb_name": "Masterix Builders LLC"
+    },
+    {
+      "clientId": "9f1dbc91-92f5-4ebc-a4e4-14c28845e6bd",
+      "region": "es",
+      "business_name": "Mejia’s lawncutservicesllc",
+      "legal_business_name": "Mejías Landscaping",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9f1dbc91-92f5-4ebc-a4e4-14c28845e6bd",
+      "gmb_name": "Rivera lawn care"
+    },
+    {
+      "clientId": "a2271609-e81b-443a-aafd-74376d1c08ff",
+      "region": "es",
+      "business_name": "velasco painting & construction llc",
+      "legal_business_name": "Velasco Painting & construction llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a2271609-e81b-443a-aafd-74376d1c08ff",
+      "gmb_name": "Velasco Painting & construction LLC"
+    },
+    {
+      "clientId": "9c538e83-6d59-4a46-9004-66c16789a8f8",
+      "region": "es",
+      "business_name": "Vevoaroofingsystems",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9c538e83-6d59-4a46-9004-66c16789a8f8",
+      "gmb_name": "VEVOA ROOFING SYSTEMS"
+    },
+    {
+      "clientId": "80609303-3b34-492f-887d-7f38592811fb",
+      "region": "es",
+      "business_name": "CRSOCALPAINTS",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/80609303-3b34-492f-887d-7f38592811fb",
+      "gmb_name": "CR SocalPaints"
+    },
+    {
+      "clientId": "13aef889-f9cc-4915-85c5-bebc7a6bc44f",
+      "region": "es",
+      "business_name": "Elegant finishes painting",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/13aef889-f9cc-4915-85c5-bebc7a6bc44f",
+      "gmb_name": "ELEGANT FINISHES PAINTING"
+    },
+    {
+      "clientId": "54ad3b20-2e46-4f98-a825-6455eabdc17a",
+      "region": "es",
+      "business_name": "Elegance in Drywall LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/54ad3b20-2e46-4f98-a825-6455eabdc17a",
+      "gmb_name": "ELEGANCE IN DRYWALL LLC"
+    },
+    {
+      "clientId": "a39181a9-48e4-4ba4-9d15-ae903c524f40",
+      "region": "es",
+      "business_name": "Regla",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a39181a9-48e4-4ba4-9d15-ae903c524f40",
+      "gmb_name": "Gonzalez & Alcuria LLC"
+    },
+    {
+      "clientId": "912dd764-2d07-4071-9387-116311db270b",
+      "region": "es",
+      "business_name": "Angeles Landscaping &Tree Services Inc",
+      "legal_business_name": "Angeles Landscaping & Tree Services Inc.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/912dd764-2d07-4071-9387-116311db270b",
+      "gmb_name": "Landscaping Service"
+    },
+    {
+      "clientId": "9e09e582-f4b8-45af-bec1-3813e76c819b",
+      "region": "es",
+      "business_name": "Polar bears professional Service",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9e09e582-f4b8-45af-bec1-3813e76c819b",
+      "gmb_name": "Polar Bears Professional Service LLC"
+    },
+    {
+      "clientId": "0c361e98-b14e-4300-bc4f-89f1330f23f1",
+      "region": "es",
+      "business_name": "Ariel's painting and service",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0c361e98-b14e-4300-bc4f-89f1330f23f1",
+      "gmb_name": "LARA'S PAINTING SERVICE INC"
+    },
+    {
+      "clientId": "11f39f00-9163-4a47-bffe-19257495db53",
+      "region": "es",
+      "business_name": "ROME HOME INPRUVEMEN LL C - (Walter Vinicio Romero Megia)",
+      "legal_business_name": "ROME HOME IMPROVEMENT LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/11f39f00-9163-4a47-bffe-19257495db53",
+      "gmb_name": "TjtheBest - Home Improvement"
+    },
+    {
+      "clientId": "62091a13-dc16-4fd7-92de-a9abdf6d4db6",
+      "region": "es",
+      "business_name": "Hugo’s",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/62091a13-dc16-4fd7-92de-a9abdf6d4db6",
+      "gmb_name": "Hugo’s windows cleaning"
+    },
+    {
+      "clientId": "5f9cc427-f1d6-400c-9c9e-b9e206d9b063",
+      "region": "es",
+      "business_name": "J&I Contractors LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5f9cc427-f1d6-400c-9c9e-b9e206d9b063",
+      "gmb_name": "J&I Contractors LLC"
+    },
+    {
+      "clientId": "f9126cd6-7fd5-41c6-a079-8921684d5aab",
+      "region": "es",
+      "business_name": "Francisco's lanscape",
+      "legal_business_name": "Francisco's lanscape",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f9126cd6-7fd5-41c6-a079-8921684d5aab",
+      "gmb_name": "Francisco's landscape"
+    },
+    {
+      "clientId": "af0828ff-afef-4059-934a-5e54c6932625",
+      "region": "es",
+      "business_name": "J&M Painting Services LLC",
+      "legal_business_name": "S&C Painting and More LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/af0828ff-afef-4059-934a-5e54c6932625",
+      "gmb_name": "J&M Painting Services"
+    },
+    {
+      "clientId": "6e81d3db-5594-47f6-b0ff-ff655b9c72be",
+      "region": "es",
+      "business_name": "Marcelo’s concrete LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6e81d3db-5594-47f6-b0ff-ff655b9c72be",
+      "gmb_name": "Marcelo’s concrete LLC"
+    },
+    {
+      "clientId": "9763a4b6-99d4-425f-9d11-8c661b160b28",
+      "region": "es",
+      "business_name": "Amigo Landscape",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9763a4b6-99d4-425f-9d11-8c661b160b28",
+      "gmb_name": "Amigo Landscaping"
+    },
+    {
+      "clientId": "6f5794ef-8533-4ceb-bbe0-7491988eea24",
+      "region": "es",
+      "business_name": "Olivier Multiservices Llc",
+      "legal_business_name": "Olivier Multiservices Llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6f5794ef-8533-4ceb-bbe0-7491988eea24",
+      "gmb_name": "Olivier MultiServices LLC"
+    },
+    {
+      "clientId": "c5a894bf-a490-4bff-993d-e6e7d693d5a2",
+      "region": "es",
+      "business_name": "Herrera's painting Inc",
+      "legal_business_name": "Herrera’s painting inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c5a894bf-a490-4bff-993d-e6e7d693d5a2",
+      "gmb_name": "Herrera’s painting inc"
+    },
+    {
+      "clientId": "8d3ed653-4377-40e4-9210-db6840d345b2",
+      "region": "es",
+      "business_name": "Arty's pressure washing",
+      "legal_business_name": "Arty's pressure washing inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8d3ed653-4377-40e4-9210-db6840d345b2",
+      "gmb_name": "Arty's Pressure Washing Inc"
+    },
+    {
+      "clientId": "98b8ed93-13f7-41da-a6ca-d361388715f3",
+      "region": "es",
+      "business_name": "Greenex",
+      "legal_business_name": "Greenex pest control LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/98b8ed93-13f7-41da-a6ca-d361388715f3",
+      "gmb_name": "Greenex Pest Control"
+    },
+    {
+      "clientId": "3e0b45d5-1ffa-4e45-8e37-c1c9ae1d9ecc",
+      "region": "es",
+      "business_name": "Ivan Salazar - TT",
+      "legal_business_name": "Centaurus Land Services and Concrete LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3e0b45d5-1ffa-4e45-8e37-c1c9ae1d9ecc",
+      "gmb_name": "Centaurus Land Services and Concrete"
+    },
+    {
+      "clientId": "87feb687-c7e7-47f5-b64f-4bde51d95a47",
+      "region": "es",
+      "business_name": "Una maid in colorado",
+      "legal_business_name": "UNA MAID IN COLORADO",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/87feb687-c7e7-47f5-b64f-4bde51d95a47",
+      "gmb_name": "Una Maid in Colorado cleaning service"
+    },
+    {
+      "clientId": "552bba76-f550-4337-8a37-b88294aa0d73",
+      "region": "es",
+      "business_name": "Bramos tree solution llc",
+      "legal_business_name": "Bramos tree solution LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/552bba76-f550-4337-8a37-b88294aa0d73",
+      "gmb_name": "Bramos Tree Solution"
+    },
+    {
+      "clientId": "5d7ad89b-6133-476d-9a4d-87e5cbc42915",
+      "region": "es",
+      "business_name": "Cattaleya Brilliant Cleaning Service LLC",
+      "legal_business_name": "CATTALEYA BRILLANT CLEANING SERVICE LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5d7ad89b-6133-476d-9a4d-87e5cbc42915",
+      "gmb_name": "CATTALEYA BRILLIANT CLEANING SERVICE LLC"
+    },
+    {
+      "clientId": "948c4f4e-006f-46e1-b2a5-63a266fb6629",
+      "region": "es",
+      "business_name": "Florida doug Services",
+      "legal_business_name": "Florida Doug Servcices LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/948c4f4e-006f-46e1-b2a5-63a266fb6629",
+      "gmb_name": "Florida Doug Services"
+    },
+    {
+      "clientId": "2f1077cf-aa91-4088-a661-213638b6f758",
+      "region": "es",
+      "business_name": "Aquilino Mercedes (Elvis) - TT",
+      "legal_business_name": "Mercedes Landscaping LLC.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2f1077cf-aa91-4088-a661-213638b6f758",
+      "gmb_name": "Mercedes Landscaping LLC."
+    },
+    {
+      "clientId": "50eb1fab-e638-47d2-a273-789512c12f59",
+      "region": "es",
+      "business_name": "Elena’s dr cleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/50eb1fab-e638-47d2-a273-789512c12f59",
+      "gmb_name": "Elena’s Dr. Cleaning"
+    },
+    {
+      "clientId": "602fab7a-10dd-483a-ad5a-0c7f3cfbc9d1",
+      "region": "es",
+      "business_name": "Vilchez Landscaping and construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/602fab7a-10dd-483a-ad5a-0c7f3cfbc9d1",
+      "gmb_name": "vilchez Landscaping and construction"
+    },
+    {
+      "clientId": "458f43be-256e-4bda-8993-4bdbf0ca5882",
+      "region": "es",
+      "business_name": "Thy creator home cleaning LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/458f43be-256e-4bda-8993-4bdbf0ca5882",
+      "gmb_name": "Thy creator home cleaning LLC"
+    },
+    {
+      "clientId": "2898aefd-5c51-4552-a223-6cc24bf426a9",
+      "region": "es",
+      "business_name": "Bertha’s Cleaning and Janitorial",
+      "legal_business_name": "Berthas cleaning and janitorial",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2898aefd-5c51-4552-a223-6cc24bf426a9",
+      "gmb_name": "Berthas Cleaning and Janitorial LLC"
+    },
+    {
+      "clientId": "e13ef22b-fdac-4a4a-a6e1-c6dcb5018011",
+      "region": "es",
+      "business_name": "Grass monkey",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e13ef22b-fdac-4a4a-a6e1-c6dcb5018011",
+      "gmb_name": "Grass monkey landscaping llc"
+    },
+    {
+      "clientId": "cbb7605e-52ff-47f9-843c-fe91f7f83078",
+      "region": "es",
+      "business_name": "GJX LANDCARE",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cbb7605e-52ff-47f9-843c-fe91f7f83078",
+      "gmb_name": "GJX LANDCARE LLC"
+    },
+    {
+      "clientId": "3844bc90-d17d-4726-93fc-e500e7f6a4a3",
+      "region": "es",
+      "business_name": "Claudio",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3844bc90-d17d-4726-93fc-e500e7f6a4a3",
+      "gmb_name": "E&CLandscaping"
+    },
+    {
+      "clientId": "aa58ea5f-22a2-4c0f-b66e-09d39d3c0f2a",
+      "region": "es",
+      "business_name": "City Care USA LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/aa58ea5f-22a2-4c0f-b66e-09d39d3c0f2a",
+      "gmb_name": "City Care USA, LLC"
+    },
+    {
+      "clientId": "baf73f2a-f6f7-4288-87f2-5bf79abe76ac",
+      "region": "es",
+      "business_name": "A+ Clean&Maintenance LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/baf73f2a-f6f7-4288-87f2-5bf79abe76ac",
+      "gmb_name": "A+ Clean & Maintenance LLC"
+    },
+    {
+      "clientId": "ea3ddcdf-e64a-441f-b7d5-28a0a450b6be",
+      "region": "es",
+      "business_name": "garcia enterprises",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ea3ddcdf-e64a-441f-b7d5-28a0a450b6be",
+      "gmb_name": "Garcia Enterprises LLC"
+    },
+    {
+      "clientId": "2ca1d966-cd67-4549-b708-ec65b28883b1",
+      "region": "es",
+      "business_name": "Dina’s Painting and More LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2ca1d966-cd67-4549-b708-ec65b28883b1",
+      "gmb_name": "Dina’s Painting & More LLC"
+    },
+    {
+      "clientId": "6f60c086-a23c-401e-9536-ccd8c4eaa534",
+      "region": "es",
+      "business_name": "Ap Roofing",
+      "legal_business_name": "Ap-general construction inc DBA ( AP Roofing )",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6f60c086-a23c-401e-9536-ccd8c4eaa534",
+      "gmb_name": "RCO general construction"
+    },
+    {
+      "clientId": "b73e8b9b-3c16-49d1-b758-6d57892d2dcf",
+      "region": "es",
+      "business_name": "Margil Guerra - TT",
+      "legal_business_name": "M & M AIR CONDITIONING",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b73e8b9b-3c16-49d1-b758-6d57892d2dcf",
+      "gmb_name": "Enterprise Air Conditioning & Refrigeration"
+    },
+    {
+      "clientId": "b6647cf0-50b4-4807-9f1e-e5eb89cdb30e",
+      "region": "es",
+      "business_name": "Luna máster painting",
+      "legal_business_name": "Luna Master Painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b6647cf0-50b4-4807-9f1e-e5eb89cdb30e",
+      "gmb_name": "Luna Master Painting"
+    },
+    {
+      "clientId": "029403ed-0123-4478-86fb-66d5e81fff87",
+      "region": "es",
+      "business_name": "MCM Express LLc",
+      "legal_business_name": "mcm express llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/029403ed-0123-4478-86fb-66d5e81fff87",
+      "gmb_name": "MCM Building Group"
+    },
+    {
+      "clientId": "e093021d-ed0a-46e1-9993-cc007811b5ad",
+      "region": "es",
+      "business_name": "JA carpet cleaning",
+      "legal_business_name": "JA carpet cleaning",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e093021d-ed0a-46e1-9993-cc007811b5ad",
+      "gmb_name": "JA Carpet Cleaning"
+    },
+    {
+      "clientId": "9d396f45-e8fd-47ad-b629-e60004dffd1c",
+      "region": "es",
+      "business_name": "Cleaning - (Mayra Romero)",
+      "legal_business_name": "Cleaning Service FL LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9d396f45-e8fd-47ad-b629-e60004dffd1c",
+      "gmb_name": "Cleaning Service FL LLC"
+    },
+    {
+      "clientId": "5d0fe5d8-e7cb-4548-912e-651f3565d1d9",
+      "region": "es",
+      "business_name": "Lawn teacher",
+      "legal_business_name": "LAWN TEACHER",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5d0fe5d8-e7cb-4548-912e-651f3565d1d9",
+      "gmb_name": "lawn teacher"
+    },
+    {
+      "clientId": "8a0b5448-4be1-4942-ad46-a9bf321b62bd",
+      "region": "es",
+      "business_name": "Roberto",
+      "legal_business_name": "ERC Painting LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8a0b5448-4be1-4942-ad46-a9bf321b62bd",
+      "gmb_name": "ERC Painting LLC"
+    },
+    {
+      "clientId": "986b22ce-92cf-4b6d-b437-e120e4c1e77f",
+      "region": "es",
+      "business_name": "Texas outdoor projects",
+      "legal_business_name": "Texas Outdoor Projects",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/986b22ce-92cf-4b6d-b437-e120e4c1e77f",
+      "gmb_name": "Texas Outdoor Projects"
+    },
+    {
+      "clientId": "632fd684-d20a-4608-ad7d-c0da9a4f91f5",
+      "region": "es",
+      "business_name": "Alejandro’s Remodeling",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/632fd684-d20a-4608-ad7d-c0da9a4f91f5",
+      "gmb_name": "Alejandros Remodeling LLC"
+    },
+    {
+      "clientId": "6e997e6e-c336-4915-85bf-6e142284f825",
+      "region": "es",
+      "business_name": "Neat services Inc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6e997e6e-c336-4915-85bf-6e142284f825",
+      "gmb_name": "Neat Services Inc"
+    },
+    {
+      "clientId": "56f9d0e1-9cfe-4f75-b913-80b565155ddd",
+      "region": "es",
+      "business_name": "Potty Potty USA",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/56f9d0e1-9cfe-4f75-b913-80b565155ddd",
+      "gmb_name": "POTTY POTTY USA"
+    },
+    {
+      "clientId": "067aa920-0f1f-4aae-ab68-ccbec8f5ea2b",
+      "region": "es",
+      "business_name": "Yuliet",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/067aa920-0f1f-4aae-ab68-ccbec8f5ea2b",
+      "gmb_name": "Clean Air Duct Pros LLC"
+    },
+    {
+      "clientId": "bebf4c2c-8219-4dcf-903f-1490e6ea0110",
+      "region": "es",
+      "business_name": "Trends painting solutions",
+      "legal_business_name": "Trends painting solutions llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bebf4c2c-8219-4dcf-903f-1490e6ea0110",
+      "gmb_name": "Trends Painting Solutions"
+    },
+    {
+      "clientId": "209fee1b-f3b3-4b4d-9bfc-2520e333b7c6",
+      "region": "es",
+      "business_name": "Wshomemaintenance",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/209fee1b-f3b3-4b4d-9bfc-2520e333b7c6",
+      "gmb_name": "Wshomemaintenance llc"
+    },
+    {
+      "clientId": "babe8437-d8df-462a-b8ac-029fe5e4c2f5",
+      "region": "es",
+      "business_name": "Dedmi Cleaning Services LLC",
+      "legal_business_name": "Dedmi Cleaning Services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/babe8437-d8df-462a-b8ac-029fe5e4c2f5",
+      "gmb_name": "Dedmi Cleaning Services"
+    },
+    {
+      "clientId": "0d5045fb-969a-4b4b-809f-9798ed0b3cdd",
+      "region": "es",
+      "business_name": "Monte de Sion",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0d5045fb-969a-4b4b-809f-9798ed0b3cdd",
+      "gmb_name": "Monte de Sion tree service"
+    },
+    {
+      "clientId": "df87313a-9e4e-45ba-820b-b844539e3d9d",
+      "region": "es",
+      "business_name": "Protech Renovation",
+      "legal_business_name": "Protech Renovation",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/df87313a-9e4e-45ba-820b-b844539e3d9d",
+      "gmb_name": "Protech Renovation"
+    },
+    {
+      "clientId": "3da966bb-96db-4c2a-820d-310e1cf613cf",
+      "region": "es",
+      "business_name": "Johnny's construction",
+      "legal_business_name": "Johnnys Contruction and Landscape",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3da966bb-96db-4c2a-820d-310e1cf613cf",
+      "gmb_name": "JOHNNYS LANDSCAPE"
+    },
+    {
+      "clientId": "640dac80-5151-4337-96f3-6f91c0346c8d",
+      "region": "es",
+      "business_name": "O&B professional services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/640dac80-5151-4337-96f3-6f91c0346c8d",
+      "gmb_name": "O&B professional services llc"
+    },
+    {
+      "clientId": "03fc8604-c3cb-493b-99ef-749edcea45a7",
+      "region": "es",
+      "business_name": "G&J 1LLC",
+      "legal_business_name": "I & E HOME SOLUTIONS",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/03fc8604-c3cb-493b-99ef-749edcea45a7",
+      "gmb_name": "G&J 1LLC"
+    },
+    {
+      "clientId": "f652f05b-be14-424b-8921-c3bbf7466639",
+      "region": "es",
+      "business_name": "Roofing protector company LLC",
+      "legal_business_name": "Roofing protector company LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f652f05b-be14-424b-8921-c3bbf7466639",
+      "gmb_name": "Roofing Protector company LLC"
+    },
+    {
+      "clientId": "76ee25dc-532a-4426-8164-81c13dc38df6",
+      "region": "es",
+      "business_name": "Jvbs painting",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/76ee25dc-532a-4426-8164-81c13dc38df6",
+      "gmb_name": "JVBS Painting and Texture llc"
+    },
+    {
+      "clientId": "f2157724-0e8c-4206-8c43-5d2e65b6a572",
+      "region": "es",
+      "business_name": "King of clean",
+      "legal_business_name": "king of clean",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f2157724-0e8c-4206-8c43-5d2e65b6a572",
+      "gmb_name": "King of Clean"
+    },
+    {
+      "clientId": "938dfaef-d9fc-431e-88b9-4df40602727b",
+      "region": "es",
+      "business_name": "Sofo irrigation services LLC",
+      "legal_business_name": "Sofo irrigation services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/938dfaef-d9fc-431e-88b9-4df40602727b",
+      "gmb_name": "Sofo Irrigation Services LLC"
+    },
+    {
+      "clientId": "8c5f48f4-dc41-4d1f-b4c4-289e5ce7af00",
+      "region": "es",
+      "business_name": "Quick air conditioning",
+      "legal_business_name": "Quick air cooling and heating llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8c5f48f4-dc41-4d1f-b4c4-289e5ce7af00",
+      "gmb_name": "M&M Air Conditioning"
+    },
+    {
+      "clientId": "5c6baf63-d203-4c6c-bc7c-cf718383df06",
+      "region": "es",
+      "business_name": "Cachim painting",
+      "legal_business_name": "Cachim painting and design inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5c6baf63-d203-4c6c-bc7c-cf718383df06",
+      "gmb_name": "Cachim Painting and Design"
+    },
+    {
+      "clientId": "ea823571-4cad-4461-91bd-b68fdbe7fe32",
+      "region": "es",
+      "business_name": "3D'S Landscaping inc",
+      "legal_business_name": "3D's Landscaping Inc.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ea823571-4cad-4461-91bd-b68fdbe7fe32",
+      "gmb_name": "3D'S landscaping services"
+    },
+    {
+      "clientId": "c823cfbd-77c3-490a-b5e2-db1e5b442566",
+      "region": "es",
+      "business_name": "David Espinoza Aguilar",
+      "legal_business_name": "Estars painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c823cfbd-77c3-490a-b5e2-db1e5b442566",
+      "gmb_name": "Three Stars Painting"
+    },
+    {
+      "clientId": "de65a45e-b517-4d5a-a0c4-eaf2ad534640",
+      "region": "es",
+      "business_name": "Domíngueztreeservice - (Juan Mateo Domingo Esteban)",
+      "legal_business_name": "DOMINGUEZ JM TREE SERVICES",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/de65a45e-b517-4d5a-a0c4-eaf2ad534640",
+      "gmb_name": "JMD Multiservice"
+    },
+    {
+      "clientId": "5ecfd937-3037-45fb-8c00-f3bb59aa3193",
+      "region": "es",
+      "business_name": "Fernando Landscaping LLC",
+      "legal_business_name": "Fernando Landscaping LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5ecfd937-3037-45fb-8c00-f3bb59aa3193",
+      "gmb_name": "Fernando Landscaping LLC"
+    },
+    {
+      "clientId": "d1c26644-a5ce-40e9-a936-650b7abd6518",
+      "region": "es",
+      "business_name": "N&A heating and cooling Inc",
+      "legal_business_name": "N&A heating and cooling Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d1c26644-a5ce-40e9-a936-650b7abd6518",
+      "gmb_name": "N & A Heating & Cooling"
+    },
+    {
+      "clientId": "7302ed20-3121-4484-be6a-fd97a33922ac",
+      "region": "es",
+      "business_name": "Fjords carpet cleaning",
+      "legal_business_name": "FH Carpet Cleaning",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7302ed20-3121-4484-be6a-fd97a33922ac",
+      "gmb_name": "FH Carpet Cleaning"
+    },
+    {
+      "clientId": "1e8899e9-b0f7-4ae1-ac4a-917df4432c54",
+      "region": "es",
+      "business_name": "First Call Junk services - Roberto reyes",
+      "legal_business_name": "First Call Junk services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1e8899e9-b0f7-4ae1-ac4a-917df4432c54",
+      "gmb_name": "First Call Junk services"
+    },
+    {
+      "clientId": "610cc16b-70fc-41d7-a7ff-c714ccb821b7",
+      "region": "es",
+      "business_name": "I&E HOME SOLUTIONS",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/610cc16b-70fc-41d7-a7ff-c714ccb821b7",
+      "gmb_name": "I&E Home Solutions"
+    },
+    {
+      "clientId": "9b5daeb5-3762-4949-bebb-8faa814000ba",
+      "region": "es",
+      "business_name": "Wildland services",
+      "legal_business_name": "Wildland Services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9b5daeb5-3762-4949-bebb-8faa814000ba",
+      "gmb_name": "Wildland Services"
+    },
+    {
+      "clientId": "6dec5a0a-88dc-4af5-9e0e-b6e1ec948acb",
+      "region": "es",
+      "business_name": "Horacio Ortega",
+      "legal_business_name": "Exodus Remodeling LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6dec5a0a-88dc-4af5-9e0e-b6e1ec948acb",
+      "gmb_name": "Exodus Remodeling LLC"
+    },
+    {
+      "clientId": "a375b0ec-13f3-4593-8e90-3d5a8bb8289d",
+      "region": "es",
+      "business_name": "Babylon",
+      "legal_business_name": "Babylon garden landscape & construction,inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a375b0ec-13f3-4593-8e90-3d5a8bb8289d",
+      "gmb_name": "Babylon Garden Landscape & Construction Inc."
+    },
+    {
+      "clientId": "2bc0c63f-875c-4c26-a25c-5b69736f9ef2",
+      "region": "es",
+      "business_name": "BYHER DESIGN CO",
+      "legal_business_name": "ByHer Design Construction & Improvements solutions LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2bc0c63f-875c-4c26-a25c-5b69736f9ef2",
+      "gmb_name": "BYHER DESIGN CONSTRUCTION & IMPROVEMENTS SOLUTIONS LLC"
+    },
+    {
+      "clientId": "1114a4bb-068a-4108-be87-8e6fbc4aa3f8",
+      "region": "es",
+      "business_name": "P.M.C landscaping",
+      "legal_business_name": "PMC Landscaping",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1114a4bb-068a-4108-be87-8e6fbc4aa3f8",
+      "gmb_name": "PMC Landscaping"
+    },
+    {
+      "clientId": "d1d28325-910c-42c8-b3cb-c66824c2249d",
+      "region": "es",
+      "business_name": "Leomar",
+      "legal_business_name": "Leomar Construction",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d1d28325-910c-42c8-b3cb-c66824c2249d",
+      "gmb_name": "Leomar Roofing"
+    },
+    {
+      "clientId": "463bf257-0dcd-414d-9994-487f0f3805df",
+      "region": "es",
+      "business_name": "Handy-tech services",
+      "legal_business_name": "Handy-Tech Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/463bf257-0dcd-414d-9994-487f0f3805df",
+      "gmb_name": "Handy-tech services"
+    },
+    {
+      "clientId": "82ffaf15-60fc-47d3-a671-3611341be128",
+      "region": "es",
+      "business_name": "Hugo man trees services",
+      "legal_business_name": "Hugo painting services llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/82ffaf15-60fc-47d3-a671-3611341be128",
+      "gmb_name": "Hugo man tree services"
+    },
+    {
+      "clientId": "0a83f400-474d-4b9e-bd65-180a3c116228",
+      "region": "es",
+      "business_name": "Clean it",
+      "legal_business_name": "Clean It LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0a83f400-474d-4b9e-bd65-180a3c116228",
+      "gmb_name": "Clean It"
+    },
+    {
+      "clientId": "6e8f4459-443f-46b6-87a5-4db4e67956bd",
+      "region": "es",
+      "business_name": "absolute remodel group llc",
+      "legal_business_name": "ABSOLUTE REMODEL GROUP LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6e8f4459-443f-46b6-87a5-4db4e67956bd",
+      "gmb_name": "Absolute Remodel Group LLC"
+    },
+    {
+      "clientId": "377ee82b-227e-4224-a2ed-d4f718c76774",
+      "region": "es",
+      "business_name": "Hugo Rodriguez",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/377ee82b-227e-4224-a2ed-d4f718c76774",
+      "gmb_name": "Roof City Inc"
+    },
+    {
+      "clientId": "9ab7ef1c-aa03-4be9-84c3-0fc5ba4a8a2f",
+      "region": "es",
+      "business_name": "Exclusive Hardscapes inc",
+      "legal_business_name": "Exclusive Hardscapes inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9ab7ef1c-aa03-4be9-84c3-0fc5ba4a8a2f",
+      "gmb_name": "Exclusive Hardscapes Inc"
+    },
+    {
+      "clientId": "afc9784f-af41-4f7a-bc4e-49e2a2b989a3",
+      "region": "es",
+      "business_name": "337paintingandcleaningllc",
+      "legal_business_name": "337paintingandcleaningllc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/afc9784f-af41-4f7a-bc4e-49e2a2b989a3",
+      "gmb_name": "337paintingandcleaningllc"
+    },
+    {
+      "clientId": "d357abde-714b-46e2-8807-d5ac7e880dc3",
+      "region": "es",
+      "business_name": "Next level roofing",
+      "legal_business_name": "Next level roofing llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d357abde-714b-46e2-8807-d5ac7e880dc3",
+      "gmb_name": "Next Level Roofing"
+    },
+    {
+      "clientId": "9735e153-6ed8-4c99-b4fc-8a01670f646e",
+      "region": "es",
+      "business_name": "Fenix Aire",
+      "legal_business_name": "Fenix Aire",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9735e153-6ed8-4c99-b4fc-8a01670f646e",
+      "gmb_name": "Fenix Aire"
+    },
+    {
+      "clientId": "c3a9c902-6b9d-4893-803b-3f420383ec3a",
+      "region": "es",
+      "business_name": "Lalo Urbina -",
+      "legal_business_name": "Stain Brothers",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c3a9c902-6b9d-4893-803b-3f420383ec3a",
+      "gmb_name": "Fencing-Stain-Brothers"
+    },
+    {
+      "clientId": "a8d69da4-7f32-4bc4-9c53-e78215015bdb",
+      "region": "es",
+      "business_name": "Jose Dwlgado Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a8d69da4-7f32-4bc4-9c53-e78215015bdb",
+      "gmb_name": "Jose Delgado LLC Carpet Repair"
+    },
+    {
+      "clientId": "41bbdfb6-9c89-45f7-9636-b9c8ba81e1fa",
+      "region": "es",
+      "business_name": "Villatoro landscaping llc",
+      "legal_business_name": "Villatoro Landscaping LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/41bbdfb6-9c89-45f7-9636-b9c8ba81e1fa",
+      "gmb_name": "Villatoro landscaping"
+    },
+    {
+      "clientId": "cc1a9ea4-83ad-4c01-8e74-ce7ed1094d7f",
+      "region": "es",
+      "business_name": "Jose Morocho",
+      "legal_business_name": "Eastern shore Remodeling Llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cc1a9ea4-83ad-4c01-8e74-ce7ed1094d7f",
+      "gmb_name": "Eastern shore remodeling llc"
+    },
+    {
+      "clientId": "cc5ddc53-f87b-449e-a50a-852430276b9d",
+      "region": "es",
+      "business_name": "PAINTING COLORS 1",
+      "legal_business_name": "Painting colors 1",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cc5ddc53-f87b-449e-a50a-852430276b9d",
+      "gmb_name": "Painting Colors 1"
+    },
+    {
+      "clientId": "94e6984a-5a8a-4c9b-8a1b-716189a1875c",
+      "region": "es",
+      "business_name": "Tlcjanitotorialservices",
+      "legal_business_name": "TLC Janitorial Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/94e6984a-5a8a-4c9b-8a1b-716189a1875c",
+      "gmb_name": "TLC Janitorial Services"
+    },
+    {
+      "clientId": "c51396c2-988a-42be-9164-bafbc1f2a689",
+      "region": "es",
+      "business_name": "S & R landscaping LLC",
+      "legal_business_name": "S & R Landscaping LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c51396c2-988a-42be-9164-bafbc1f2a689",
+      "gmb_name": "S & R Landscaping LLC"
+    },
+    {
+      "clientId": "0c2453b6-c214-44fc-a8b5-e7e456d3a12c",
+      "region": "es",
+      "business_name": "World of colors",
+      "legal_business_name": "world of colors renewal llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0c2453b6-c214-44fc-a8b5-e7e456d3a12c",
+      "gmb_name": "World Of Colors Renewal LLC"
+    },
+    {
+      "clientId": "7604cfe5-c906-4ee8-bbb6-d70c9955a489",
+      "region": "es",
+      "business_name": "America pool plastering",
+      "legal_business_name": "America pool plastering",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7604cfe5-c906-4ee8-bbb6-d70c9955a489",
+      "gmb_name": "America pool plastering"
+    },
+    {
+      "clientId": "f1189eab-c750-42b7-8718-0efb65509f01",
+      "region": "es",
+      "business_name": "Brush masters LLC",
+      "legal_business_name": "Brush masters LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f1189eab-c750-42b7-8718-0efb65509f01",
+      "gmb_name": "Brush masters LLC"
+    },
+    {
+      "clientId": "1ebc0838-3fbc-452d-8ea9-625b03f95141",
+      "region": "es",
+      "business_name": "Ruelaspainting",
+      "legal_business_name": "Ruelas Painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1ebc0838-3fbc-452d-8ea9-625b03f95141",
+      "gmb_name": "Rubens painting"
+    },
+    {
+      "clientId": "a33d50bd-d742-459d-acc6-4a274a3fb1a1",
+      "region": "es",
+      "business_name": "Painting specialist",
+      "legal_business_name": "Painting specialist",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a33d50bd-d742-459d-acc6-4a274a3fb1a1",
+      "gmb_name": "Painting Specialist"
+    },
+    {
+      "clientId": "41d1870c-fae3-48b1-bbfd-4d734b0a0b5e",
+      "region": "es",
+      "business_name": "Flor garcia cleaning",
+      "legal_business_name": "Flor García cleaning LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/41d1870c-fae3-48b1-bbfd-4d734b0a0b5e",
+      "gmb_name": "Flor Garcia cleaning Llc"
+    },
+    {
+      "clientId": "25b84326-d3d0-4f54-a0e0-035624de3cbd",
+      "region": "es",
+      "business_name": "Pulaski roofing & construction",
+      "legal_business_name": "Pulaski Roofing & construction LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/25b84326-d3d0-4f54-a0e0-035624de3cbd",
+      "gmb_name": "Pulaski Roofing & Construction, LLC"
+    },
+    {
+      "clientId": "55415a32-0060-4db3-8328-bf3c98e31014",
+      "region": "es",
+      "business_name": "MCL total remodeling",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/55415a32-0060-4db3-8328-bf3c98e31014",
+      "gmb_name": "MCL TOTAL REMODELING LLC"
+    },
+    {
+      "clientId": "e98daa9a-ac24-49c6-8abe-bb4f4817449c",
+      "region": "es",
+      "business_name": "Sánchez Landscape",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e98daa9a-ac24-49c6-8abe-bb4f4817449c",
+      "gmb_name": "Sánchez’s landscape"
+    },
+    {
+      "clientId": "efb22a2c-47c9-41a8-876f-94cc81a1e7be",
+      "region": "es",
+      "business_name": "La duct cleaning",
+      "legal_business_name": "LA Duct Cleaning",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/efb22a2c-47c9-41a8-876f-94cc81a1e7be",
+      "gmb_name": "LA Duct Cleaning"
+    },
+    {
+      "clientId": "b4f93c1b-f6d5-4fd5-8d39-55f5c8095616",
+      "region": "es",
+      "business_name": "Columbia esp tree cervices",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b4f93c1b-f6d5-4fd5-8d39-55f5c8095616",
+      "gmb_name": "Columbia Esp Tree Services"
+    },
+    {
+      "clientId": "f682d475-6844-4cbe-8f2c-d787c9285c8c",
+      "region": "es",
+      "business_name": "Electrician 24",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f682d475-6844-4cbe-8f2c-d787c9285c8c",
+      "gmb_name": "Electrician 24 Hours inc"
+    },
+    {
+      "clientId": "cc008674-70da-401d-81af-13fb2c58d499",
+      "region": "es",
+      "business_name": "DMG construcción",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cc008674-70da-401d-81af-13fb2c58d499",
+      "gmb_name": "DMG Concrete construction"
+    },
+    {
+      "clientId": "4bacf7b9-1270-44f8-95c8-9a906e3ceffe",
+      "region": "es",
+      "business_name": "Air home llc",
+      "legal_business_name": "Air home llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4bacf7b9-1270-44f8-95c8-9a906e3ceffe",
+      "gmb_name": "Air home llc"
+    },
+    {
+      "clientId": "2c44b743-6732-45aa-af3b-5de0d674c05b",
+      "region": "es",
+      "business_name": "Quality cleaning  A plus",
+      "legal_business_name": "Quality Cleaning A Plus",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2c44b743-6732-45aa-af3b-5de0d674c05b",
+      "gmb_name": "Quality cleaning A plus"
+    },
+    {
+      "clientId": "0b07a0c4-f212-4f28-b275-79e7b7d71569",
+      "region": "es",
+      "business_name": "Maple Lawn Service LLC.",
+      "legal_business_name": "Maple Lawn Service LLC.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0b07a0c4-f212-4f28-b275-79e7b7d71569",
+      "gmb_name": "Maple Lawn Service LLC"
+    },
+    {
+      "clientId": "f793153a-e54f-4ddf-aa35-63388c46dcbc",
+      "region": "es",
+      "business_name": "Luis custom painting",
+      "legal_business_name": "Luis custom painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f793153a-e54f-4ddf-aa35-63388c46dcbc",
+      "gmb_name": "Luis custom painting"
+    },
+    {
+      "clientId": "9f92a1f5-cad4-4563-94a8-59bddf000f90",
+      "region": "es",
+      "business_name": "Pablo Celse - TT",
+      "legal_business_name": "DAVALCE Company LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9f92a1f5-cad4-4563-94a8-59bddf000f90",
+      "gmb_name": "Shark Pressure Washing East & Detailing"
+    },
+    {
+      "clientId": "f09b8b70-f619-424a-aa6e-0f8e3250e4c9",
+      "region": "es",
+      "business_name": "Ricardo Hernandez",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f09b8b70-f619-424a-aa6e-0f8e3250e4c9",
+      "gmb_name": "Norbac Remodeling"
+    },
+    {
+      "clientId": "bc121084-bf3b-498f-88c1-e102811c2267",
+      "region": "es",
+      "business_name": "JS Landscaper Llc",
+      "legal_business_name": "JS Landscaper LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bc121084-bf3b-498f-88c1-e102811c2267",
+      "gmb_name": "CMG landscaping"
+    },
+    {
+      "clientId": "0585e3b8-7102-486a-9a9d-cb449f08496f",
+      "region": "es",
+      "business_name": "Tony's Repairs LLC - Rogelio Martinez",
+      "legal_business_name": "Tony's Repair's LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0585e3b8-7102-486a-9a9d-cb449f08496f",
+      "gmb_name": "Tony's Repairs LLC"
+    },
+    {
+      "clientId": "d3025e43-2ccf-4d65-9e91-219fe10ffcb6",
+      "region": "es",
+      "business_name": "NDD1 corp.",
+      "legal_business_name": "NDD1 Corp.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d3025e43-2ccf-4d65-9e91-219fe10ffcb6",
+      "gmb_name": "NDD1corp Painting"
+    },
+    {
+      "clientId": "e9909b34-4eba-4e24-83d7-e02b0c4a1180",
+      "region": "es",
+      "business_name": "Ti3D Martin SA Corp",
+      "legal_business_name": "TI3D Martín SA Corp",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e9909b34-4eba-4e24-83d7-e02b0c4a1180",
+      "gmb_name": "TI3D Martin SA corp"
+    },
+    {
+      "clientId": "bfedb8d8-2c3d-4338-bcf2-3e539be2c4ed",
+      "region": "es",
+      "business_name": "Torres Tavara Coating Corp",
+      "legal_business_name": "TT Coating Corp",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bfedb8d8-2c3d-4338-bcf2-3e539be2c4ed",
+      "gmb_name": "Torres Tavara Coating Corp"
+    },
+    {
+      "clientId": "f64d6a3b-09f8-476f-91fe-04db829e1559",
+      "region": "es",
+      "business_name": "K&E home improvement",
+      "legal_business_name": "K&E Home Improvement and Renovation LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f64d6a3b-09f8-476f-91fe-04db829e1559",
+      "gmb_name": "K&E HOME IMPROVEMENT AND RENOVATION LLC"
+    },
+    {
+      "clientId": "eff80325-0d92-47f8-bffe-9d40412e0c65",
+      "region": "es",
+      "business_name": "Kronos Tree Care and Landscaping",
+      "legal_business_name": "9168733185",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/eff80325-0d92-47f8-bffe-9d40412e0c65",
+      "gmb_name": "Maya lawn care & landscaping"
+    },
+    {
+      "clientId": "37fa89e8-a93c-4791-ab50-06c41189e50b",
+      "region": "es",
+      "business_name": "Hlclean pool service",
+      "legal_business_name": "H&L Pool Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/37fa89e8-a93c-4791-ab50-06c41189e50b",
+      "gmb_name": "Apollo Pools"
+    },
+    {
+      "clientId": "064eb8e8-4db6-4f1f-a1c3-b064778afcc6",
+      "region": "es",
+      "business_name": "Green Mount Landscape LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/064eb8e8-4db6-4f1f-a1c3-b064778afcc6",
+      "gmb_name": "Green Mount Landscape LLC"
+    },
+    {
+      "clientId": "da2c4e4f-4e42-4224-b4fd-0bed5157308f",
+      "region": "es",
+      "business_name": "Custom General Services - (Mauricio Siles)",
+      "legal_business_name": "Custom general service LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/da2c4e4f-4e42-4224-b4fd-0bed5157308f",
+      "gmb_name": "Custom General Services LLC"
+    },
+    {
+      "clientId": "9b019d49-f5d8-48a6-b58d-201a5570ed61",
+      "region": "es",
+      "business_name": "Azriel general construction inc",
+      "legal_business_name": "Azriel general construction inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9b019d49-f5d8-48a6-b58d-201a5570ed61",
+      "gmb_name": "Azriel general construction inc"
+    },
+    {
+      "clientId": "d9cf0688-54a5-4da8-9862-a7c13fa5aead",
+      "region": "es",
+      "business_name": "Susys House Cleanings",
+      "legal_business_name": "Susy’s House Cleaning LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d9cf0688-54a5-4da8-9862-a7c13fa5aead",
+      "gmb_name": "Susy’s House Cleanings LLC"
+    },
+    {
+      "clientId": "54cf2436-62cc-4c07-88bb-e80f3799ceff",
+      "region": "es",
+      "business_name": "Nahu Delgado",
+      "legal_business_name": "Guild Masters Plumbing LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/54cf2436-62cc-4c07-88bb-e80f3799ceff",
+      "gmb_name": "Guild Masters Plumbing"
+    },
+    {
+      "clientId": "c7d0c513-4b37-4922-b17f-e04fe77d8f88",
+      "region": "es",
+      "business_name": "Roberto C Pereyra",
+      "legal_business_name": "Delta Core Electric LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c7d0c513-4b37-4922-b17f-e04fe77d8f88",
+      "gmb_name": "Delta Core Electric LLC"
+    },
+    {
+      "clientId": "9e4612f5-8ad0-47df-8565-57c32f279206",
+      "region": "es",
+      "business_name": "Contre one",
+      "legal_business_name": "Countre One",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9e4612f5-8ad0-47df-8565-57c32f279206",
+      "gmb_name": "Contre one"
+    },
+    {
+      "clientId": "41056848-3551-447b-b433-6374bdd53cea",
+      "region": "es",
+      "business_name": "To movers",
+      "legal_business_name": "To Movers LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/41056848-3551-447b-b433-6374bdd53cea",
+      "gmb_name": "To Movers"
+    },
+    {
+      "clientId": "aab031f9-ecbe-493f-83fe-37fe1b80a554",
+      "region": "es",
+      "business_name": "JYNMULTISERVICIOS LLC",
+      "legal_business_name": "JYN MULTISERVICIOS LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/aab031f9-ecbe-493f-83fe-37fe1b80a554",
+      "gmb_name": "JYN MULTISERVICIOS LLC"
+    },
+    {
+      "clientId": "6f2bf113-60ab-401a-a99c-424ed2def407",
+      "region": "es",
+      "business_name": "Its Cool! LLC",
+      "legal_business_name": "It’s Cool! LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6f2bf113-60ab-401a-a99c-424ed2def407",
+      "gmb_name": "It's Cool! LLC"
+    },
+    {
+      "clientId": "8318c8df-0c17-406e-8faf-024ba5e9f61a",
+      "region": "es",
+      "business_name": "Central Building Services - (Hector Munoz)",
+      "legal_business_name": "Central Building Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8318c8df-0c17-406e-8faf-024ba5e9f61a",
+      "gmb_name": "Central Building Services"
+    },
+    {
+      "clientId": "c340714a-90bd-4f75-8212-940a5995977d",
+      "region": "es",
+      "business_name": "United tri states construction llc - (Angel Chevasco)",
+      "legal_business_name": "United Tri States Construction llc.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c340714a-90bd-4f75-8212-940a5995977d",
+      "gmb_name": "United Tri States LLC"
+    },
+    {
+      "clientId": "b736c1da-f449-4cfc-859b-76836d4783ff",
+      "region": "es",
+      "business_name": "Ac the bests American painting",
+      "legal_business_name": "Ac the best American painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b736c1da-f449-4cfc-859b-76836d4783ff",
+      "gmb_name": "AC the Best American Painting INC"
+    },
+    {
+      "clientId": "69daba98-c248-4ebf-a146-3da6c5344f99",
+      "region": "es",
+      "business_name": "Valdez pavers and Hardscapes LLC",
+      "legal_business_name": "Valdez Pavers And Hardscapes LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/69daba98-c248-4ebf-a146-3da6c5344f99",
+      "gmb_name": "Valdez Pavers And Hardscapes LLC"
+    },
+    {
+      "clientId": "0b33a7eb-4b3f-4d34-ac6d-2bbb578c7ed6",
+      "region": "es",
+      "business_name": "The White Glove Cleaning Service",
+      "legal_business_name": "The White Glove Cleaning Service",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0b33a7eb-4b3f-4d34-ac6d-2bbb578c7ed6",
+      "gmb_name": "The White Glove Cleaning Service"
+    },
+    {
+      "clientId": "c26b2494-6350-4b95-97b2-77465f9f6692",
+      "region": "es",
+      "business_name": "Hectir",
+      "legal_business_name": "Lopez flooring & painting LLc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c26b2494-6350-4b95-97b2-77465f9f6692",
+      "gmb_name": "Lopez Flooring & Painting LLC"
+    },
+    {
+      "clientId": "84cf33a0-00ea-49f1-97ad-e9c47690a7e1",
+      "region": "es",
+      "business_name": "Aguilar's Plastering Inc",
+      "legal_business_name": "Aguilar's Plastering Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/84cf33a0-00ea-49f1-97ad-e9c47690a7e1",
+      "gmb_name": "Aguilar's Plastering Inc - Stucco Contractors"
+    },
+    {
+      "clientId": "4a4b6e87-b309-4fcb-b8a0-9932eeffdbd4",
+      "region": "es",
+      "business_name": "Melvin Joel Torres Mencias -",
+      "legal_business_name": "786 484 67 56",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4a4b6e87-b309-4fcb-b8a0-9932eeffdbd4",
+      "gmb_name": "TORRES PAVERS SERVICES LLC"
+    },
+    {
+      "clientId": "9a2fc3c2-a4e6-4979-a7b1-a5bb173111a3",
+      "region": "es",
+      "business_name": "MDL Services",
+      "legal_business_name": "MDL Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9a2fc3c2-a4e6-4979-a7b1-a5bb173111a3",
+      "gmb_name": "MDL Services"
+    },
+    {
+      "clientId": "584cd79c-7c47-4a73-8bd2-98f9df68fde7",
+      "region": "es",
+      "business_name": "ICS master Roofing",
+      "legal_business_name": "ICS Master Roofing LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/584cd79c-7c47-4a73-8bd2-98f9df68fde7",
+      "gmb_name": "ICS Master Roofing"
+    },
+    {
+      "clientId": "d76333f2-bd71-482d-8d2e-69555be526c0",
+      "region": "es",
+      "business_name": "TotalPro exteriors",
+      "legal_business_name": "TotalPro exteriors",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d76333f2-bd71-482d-8d2e-69555be526c0",
+      "gmb_name": "TotalPro Exteriors"
+    },
+    {
+      "clientId": "81ca61c1-cc9a-4e3e-9028-1660ec828709",
+      "region": "es",
+      "business_name": "Rivas Cleaning Service - TT",
+      "legal_business_name": "Rivas Cleaning Service",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/81ca61c1-cc9a-4e3e-9028-1660ec828709",
+      "gmb_name": "Rivas Cleaning Service"
+    },
+    {
+      "clientId": "f825519a-ae8a-46fa-9831-a2450b201e6e",
+      "region": "es",
+      "business_name": "New Remodelers LLC",
+      "legal_business_name": "New Remodelers LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f825519a-ae8a-46fa-9831-a2450b201e6e",
+      "gmb_name": "New Remodelers LLC"
+    },
+    {
+      "clientId": "27f0b6fa-66d5-4c36-876e-bf68fad62ae6",
+      "region": "es",
+      "business_name": "MACK G RUBIO",
+      "legal_business_name": "●●-●●●7858",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/27f0b6fa-66d5-4c36-876e-bf68fad62ae6",
+      "gmb_name": "Handymack Construction & Renovation"
+    },
+    {
+      "clientId": "3abb6221-71f6-46c4-b3f4-456cfcd42d21",
+      "region": "es",
+      "business_name": "Hmeroofingandexteriorsolutionsllc",
+      "legal_business_name": "Hmeroofingandexteriorsolutionsllc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3abb6221-71f6-46c4-b3f4-456cfcd42d21",
+      "gmb_name": "Hme roofing and exterior solutions"
+    },
+    {
+      "clientId": "32c29eeb-da25-439e-b8c2-5e4ce4113413",
+      "region": "es",
+      "business_name": "ML CARPET AND REMODELING SERVICES",
+      "legal_business_name": "ML CARPET AND REMODELING SERVICES LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/32c29eeb-da25-439e-b8c2-5e4ce4113413",
+      "gmb_name": "Ml carpet and remodeling services llc"
+    },
+    {
+      "clientId": "41bb0bac-4e47-4c1d-b27e-b33e9424866e",
+      "region": "es",
+      "business_name": "J&M GUTTER TECH",
+      "legal_business_name": "J&M GUTTER TECH INC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/41bb0bac-4e47-4c1d-b27e-b33e9424866e",
+      "gmb_name": "J&M Gutter Tech Inc."
+    },
+    {
+      "clientId": "c2139e75-0f16-4945-9767-7eb07d9aa51d",
+      "region": "es",
+      "business_name": "Star quality painting",
+      "legal_business_name": "star quality painting and remodeling",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c2139e75-0f16-4945-9767-7eb07d9aa51d",
+      "gmb_name": "Star Services"
+    },
+    {
+      "clientId": "4c185fef-eb9f-40ac-8772-4932f7de5528",
+      "region": "es",
+      "business_name": "DGO PAINTING",
+      "legal_business_name": "DGO PAINTING SERVICES LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4c185fef-eb9f-40ac-8772-4932f7de5528",
+      "gmb_name": "D.G.O Painting Services LLC"
+    },
+    {
+      "clientId": "c55727ca-8046-474d-bc3b-2b4efb9fb6f9",
+      "region": "es",
+      "business_name": "Silvina - (Graciela Silvina López)",
+      "legal_business_name": "Modular Roofing and pérgolas",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c55727ca-8046-474d-bc3b-2b4efb9fb6f9",
+      "gmb_name": "Modular Roofing and Pergola"
+    },
+    {
+      "clientId": "7de9573c-5b87-4242-be0a-df4ed906e5fc",
+      "region": "es",
+      "business_name": "Torres Roofing",
+      "legal_business_name": "Torres’s Roofing",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7de9573c-5b87-4242-be0a-df4ed906e5fc",
+      "gmb_name": "Torres Roofing LLC"
+    },
+    {
+      "clientId": "7934f707-7b25-4d48-a3c9-1693abe0372a",
+      "region": "es",
+      "business_name": "JDL solutions LLC - (Javier Montero)",
+      "legal_business_name": "JDL Solutions LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7934f707-7b25-4d48-a3c9-1693abe0372a",
+      "gmb_name": "JDL Solutions LLC"
+    },
+    {
+      "clientId": "649e3798-4faa-4085-9ef5-781e9aca8699",
+      "region": "es",
+      "business_name": "Matute Painting end remodeling",
+      "legal_business_name": "MATUTE PAINTING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/649e3798-4faa-4085-9ef5-781e9aca8699",
+      "gmb_name": "Matute Painting LLC"
+    },
+    {
+      "clientId": "65b0adad-14b7-4b93-a357-b691f60da4f8",
+      "region": "es",
+      "business_name": "Peca excavations",
+      "legal_business_name": "Peca Excavations LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/65b0adad-14b7-4b93-a357-b691f60da4f8",
+      "gmb_name": "PECA EXCAVATIONS LLC"
+    },
+    {
+      "clientId": "742a69bc-d965-442e-805c-90c7d71efdae",
+      "region": "es",
+      "business_name": "Dg landscape Inc",
+      "legal_business_name": "DG Landscape Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/742a69bc-d965-442e-805c-90c7d71efdae",
+      "gmb_name": "DG Landscape Inc"
+    },
+    {
+      "clientId": "0fd7b481-5560-4237-977d-0719d6b3267b",
+      "region": "es",
+      "business_name": "Arguera's paint",
+      "legal_business_name": "Arguera's Paint",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0fd7b481-5560-4237-977d-0719d6b3267b",
+      "gmb_name": "Arguera's Paint"
+    },
+    {
+      "clientId": "48e07255-4637-4998-b5a9-43c56401475a",
+      "region": "es",
+      "business_name": "Cosmos",
+      "legal_business_name": "Cosmos painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/48e07255-4637-4998-b5a9-43c56401475a",
+      "gmb_name": "Cosmos painting"
+    },
+    {
+      "clientId": "61e3a93f-c686-4696-bee0-168a44fc3d82",
+      "region": "es",
+      "business_name": "Denver Drywall Finishers",
+      "legal_business_name": "Denver drywall Finishers LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/61e3a93f-c686-4696-bee0-168a44fc3d82",
+      "gmb_name": "Denver Drywall finished LLC"
+    },
+    {
+      "clientId": "94fa2a4b-55d4-493a-941c-3abe295e04a0",
+      "region": "es",
+      "business_name": "Balam roofing  company LLC - (Anwar Donicety Del Villar Hernandez)",
+      "legal_business_name": "Balam Roofing Company LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/94fa2a4b-55d4-493a-941c-3abe295e04a0",
+      "gmb_name": "Balam Roofing"
+    },
+    {
+      "clientId": "1bfdedde-9143-4111-8411-5b521487a632",
+      "region": "es",
+      "business_name": "RoofGuard Bay Area",
+      "legal_business_name": "RoofGuard Bay Area",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1bfdedde-9143-4111-8411-5b521487a632",
+      "gmb_name": "RoofGuard Bay Area"
+    },
+    {
+      "clientId": "cdefce69-646b-4f93-a8ad-4cbca5cc5107",
+      "region": "es",
+      "business_name": "Ac hardwood floors",
+      "legal_business_name": "Ac hardwood floors",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cdefce69-646b-4f93-a8ad-4cbca5cc5107",
+      "gmb_name": "Ac hardwood Floors llc"
+    },
+    {
+      "clientId": "07a04782-86db-4ecc-b0d9-bcc3d7cec8d5",
+      "region": "es",
+      "business_name": "SALMERON PAINTING & REMODELING LLC - (Margarita vargas)",
+      "legal_business_name": "SALMERON PAINTING & REMODELING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/07a04782-86db-4ecc-b0d9-bcc3d7cec8d5",
+      "gmb_name": "SALMERON PAINTING & REMODELING LLC"
+    },
+    {
+      "clientId": "1cb19d02-d9b9-4249-8346-f57061fe66e3",
+      "region": "es",
+      "business_name": "Mr finish of naples - (Francisco Xavier Mazzi Palacios)",
+      "legal_business_name": "Mr finish of Naples Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1cb19d02-d9b9-4249-8346-f57061fe66e3",
+      "gmb_name": "Mr finish of Naples Inc"
+    },
+    {
+      "clientId": "dedb3509-6ece-4520-b25c-ab6db43d05f3",
+      "region": "es",
+      "business_name": "Marsha’s Cleaning Service LLC.",
+      "legal_business_name": "Marsha's Cleaning Service LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/dedb3509-6ece-4520-b25c-ab6db43d05f3",
+      "gmb_name": "Marsha's Cleaning Service LLC"
+    },
+    {
+      "clientId": "37ef3113-e61d-4cf7-a853-f14d90116f6d",
+      "region": "es",
+      "business_name": "Ccd - LESLIE C MURGUIA",
+      "legal_business_name": "CCD FLOORING SOLUTIONS.,INC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/37ef3113-e61d-4cf7-a853-f14d90116f6d",
+      "gmb_name": "CCD FLOORING SOLUTIONS.INC"
+    },
+    {
+      "clientId": "b03d62d8-7ca8-49b3-aac9-02abdba778e3",
+      "region": "es",
+      "business_name": "Sunrise - (Luis Enrique )",
+      "legal_business_name": "Sunrise Exterior LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b03d62d8-7ca8-49b3-aac9-02abdba778e3",
+      "gmb_name": "Sunrise Exterior LLC"
+    },
+    {
+      "clientId": "8c4dd401-17c3-4f11-a573-ca8436b0d9a9",
+      "region": "es",
+      "business_name": "Clean n Go Solutions",
+      "legal_business_name": "Clean N Go Solutions",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8c4dd401-17c3-4f11-a573-ca8436b0d9a9",
+      "gmb_name": "Clean N Go Solutions"
+    },
+    {
+      "clientId": "7cf38fc7-be70-4bb3-875b-61baec19e53c",
+      "region": "es",
+      "business_name": "Jorge - Jorge Suarez",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7cf38fc7-be70-4bb3-875b-61baec19e53c",
+      "gmb_name": "S&C PAINTING AND MORE LLC"
+    },
+    {
+      "clientId": "873a96b0-119b-47e3-b0e7-52dcbb3a5ef1",
+      "region": "es",
+      "business_name": "Hailstorm Exterios Inc. - (Inocencio Dela sancha)",
+      "legal_business_name": "Hail Storm Exteriors",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/873a96b0-119b-47e3-b0e7-52dcbb3a5ef1",
+      "gmb_name": "Hail Storm Exteriors, Inc."
+    },
+    {
+      "clientId": "9032cd21-1d83-4702-9ae2-2b845070ea30",
+      "region": "es",
+      "business_name": "Pedro stucco services - (Pedro del angel)",
+      "legal_business_name": "Pedrostuccoservices",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9032cd21-1d83-4702-9ae2-2b845070ea30",
+      "gmb_name": "pedro stucco services"
+    },
+    {
+      "clientId": "44f2c5ee-0b0e-46d9-a1f8-a6f69db3f706",
+      "region": "es",
+      "business_name": "Terra fossil kitchen & bath llc - (Cristobal Rivas)",
+      "legal_business_name": "Terra fossil kitchen & bath llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/44f2c5ee-0b0e-46d9-a1f8-a6f69db3f706",
+      "gmb_name": "Terra Fossil Kitchen & Bath LLC"
+    },
+    {
+      "clientId": "69701a92-b3d3-40ce-9563-01e5cddc97bc",
+      "region": "es",
+      "business_name": "Enog ja remodeling services llc",
+      "legal_business_name": "Enog J.A Remodeling Services llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/69701a92-b3d3-40ce-9563-01e5cddc97bc",
+      "gmb_name": "Enog J.A Remodeling Services LLC"
+    },
+    {
+      "clientId": "11c97d59-b3f8-4980-aedd-eb1d57a1fe4b",
+      "region": "es",
+      "business_name": "Rpm construction llc",
+      "legal_business_name": "Rpm Construction LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/11c97d59-b3f8-4980-aedd-eb1d57a1fe4b",
+      "gmb_name": "RPM CONSTRUCTION LLC"
+    },
+    {
+      "clientId": "3343fc5b-cae7-497b-951f-25229081a60a",
+      "region": "es",
+      "business_name": "Eco-mex llc",
+      "legal_business_name": "EcoMex LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3343fc5b-cae7-497b-951f-25229081a60a",
+      "gmb_name": "Eco-Mex LLC"
+    },
+    {
+      "clientId": "7c7445a5-1330-4243-bb0d-921b7ff3ea70",
+      "region": "es",
+      "business_name": "Bj windows & doors",
+      "legal_business_name": "Bj windows and doors",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7c7445a5-1330-4243-bb0d-921b7ff3ea70",
+      "gmb_name": "BJ Windows & Doors"
+    },
+    {
+      "clientId": "f58e4aec-244e-4e62-82a6-c8058a249a8f",
+      "region": "es",
+      "business_name": "Wilfredo Motino - TT",
+      "legal_business_name": "Fast-Fix Home Repair",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f58e4aec-244e-4e62-82a6-c8058a249a8f",
+      "gmb_name": "Fast Fix Home Repair"
+    },
+    {
+      "clientId": "df26cbb7-9e12-4d5c-b094-f350d7231efe",
+      "region": "es",
+      "business_name": "North Painting Solutions Llc",
+      "legal_business_name": "North painting solutions Llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/df26cbb7-9e12-4d5c-b094-f350d7231efe",
+      "gmb_name": "North Painting and remodeling Llc"
+    },
+    {
+      "clientId": "b6fc9f76-e3e8-48c4-a288-f628705b9bc7",
+      "region": "es",
+      "business_name": "Redfalcon roofing",
+      "legal_business_name": "REDFALCON ROOFING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b6fc9f76-e3e8-48c4-a288-f628705b9bc7",
+      "gmb_name": "Redfalcon roofing"
+    },
+    {
+      "clientId": "25e502d5-89a9-45c0-8c36-f73a58cec730",
+      "region": "es",
+      "business_name": "DJ’s professional tree Removal",
+      "legal_business_name": "DJ’s  Professional Tree Removal & Landscaping",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/25e502d5-89a9-45c0-8c36-f73a58cec730",
+      "gmb_name": null
+    },
+    {
+      "clientId": "d412b34c-26db-4cb5-933d-9e99bdbdbe28",
+      "region": "es",
+      "business_name": "Roofing &Siding company inc",
+      "legal_business_name": "Roofing &Siding company inc.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d412b34c-26db-4cb5-933d-9e99bdbdbe28",
+      "gmb_name": "Roofing & Siding Company Inc"
+    },
+    {
+      "clientId": "3067e552-ff06-47df-b507-7dadbfe16a79",
+      "region": "es",
+      "business_name": "Tlax construction",
+      "legal_business_name": "Tlax construction corp",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3067e552-ff06-47df-b507-7dadbfe16a79",
+      "gmb_name": "Tlax Construction"
+    },
+    {
+      "clientId": "2c535b60-7219-442b-915b-e1bb374f50ce",
+      "region": "es",
+      "business_name": "Carenest Cleaning",
+      "legal_business_name": "CareNest Cleaning",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2c535b60-7219-442b-915b-e1bb374f50ce",
+      "gmb_name": "CareNest Cleaning"
+    },
+    {
+      "clientId": "dc1721f2-d8fa-4e29-8026-d1f21e508c18",
+      "region": "es",
+      "business_name": "Atlanta Cleaners Tribe LLC",
+      "legal_business_name": "Atlanta Cleaners Tribe LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/dc1721f2-d8fa-4e29-8026-d1f21e508c18",
+      "gmb_name": "Atlanta Cleaners Tribe LLC"
+    },
+    {
+      "clientId": "466c3ce4-ae6e-403e-bc98-fb82347b6ef8",
+      "region": "es",
+      "business_name": "Gabriel Garcia - TT",
+      "legal_business_name": "Olimpic corp",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/466c3ce4-ae6e-403e-bc98-fb82347b6ef8",
+      "gmb_name": "Olimpic Corp"
+    },
+    {
+      "clientId": "3f954f22-6c2a-4fb3-a28f-22d32f8e8ec6",
+      "region": "es",
+      "business_name": "Jv heating and air",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3f954f22-6c2a-4fb3-a28f-22d32f8e8ec6",
+      "gmb_name": "Quick air cooling and heating llc"
+    },
+    {
+      "clientId": "feb0b35b-21e8-4ecb-af72-d706d09abca9",
+      "region": "es",
+      "business_name": "House Cleaning services MC LLC",
+      "legal_business_name": "House Cleaning Services MC LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/feb0b35b-21e8-4ecb-af72-d706d09abca9",
+      "gmb_name": "House Cleaning M&M"
+    },
+    {
+      "clientId": "a39a9a24-8f96-430d-a78e-b751c2f980b3",
+      "region": "es",
+      "business_name": "MV Claims & Roofing",
+      "legal_business_name": "MAURICIO VARGAS",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a39a9a24-8f96-430d-a78e-b751c2f980b3",
+      "gmb_name": "MV Claims & Roofing"
+    },
+    {
+      "clientId": "3fef04d8-77b9-4104-9634-5a8454695712",
+      "region": "es",
+      "business_name": "Mizael Diaz - TT",
+      "legal_business_name": "DIAZ Construction and Renovations LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3fef04d8-77b9-4104-9634-5a8454695712",
+      "gmb_name": "DIAZ Construction and Renovations LLC"
+    },
+    {
+      "clientId": "e8d8b326-dced-48be-8c2d-ddfe33b951ad",
+      "region": "es",
+      "business_name": "Giovana Silva - AA",
+      "legal_business_name": "Giovana’s maid services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e8d8b326-dced-48be-8c2d-ddfe33b951ad",
+      "gmb_name": "Giovana's Maid Service, LLC"
+    },
+    {
+      "clientId": "81341cc6-39e5-4d7f-a097-84124981135d",
+      "region": "es",
+      "business_name": "Glim Roofing LLC",
+      "legal_business_name": "Glim Solar LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/81341cc6-39e5-4d7f-a097-84124981135d",
+      "gmb_name": "Glim Solar LLC"
+    },
+    {
+      "clientId": "79b67a7e-af2f-43be-a990-8d330dcc22e7",
+      "region": "es",
+      "business_name": "Jorge",
+      "legal_business_name": "Is next",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/79b67a7e-af2f-43be-a990-8d330dcc22e7",
+      "gmb_name": "U.S. NEXT"
+    },
+    {
+      "clientId": "a53c7385-fcf8-4e14-9fd6-e8070eaac349",
+      "region": "es",
+      "business_name": "Mendez tree services",
+      "legal_business_name": "Mendeztreeservice@gmail.com",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/a53c7385-fcf8-4e14-9fd6-e8070eaac349",
+      "gmb_name": "Mendez Tree Services"
+    },
+    {
+      "clientId": "f5895800-e95a-4bb6-8505-262a905f1744",
+      "region": "es",
+      "business_name": "Brothers and coatings llc",
+      "legal_business_name": "Brothers Coatings and Painting LLc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f5895800-e95a-4bb6-8505-262a905f1744",
+      "gmb_name": "Brothers Coatings and Painting LLC"
+    },
+    {
+      "clientId": "78acbd21-8098-41d4-8c08-128ed212aa8f",
+      "region": "es",
+      "business_name": "Looking good painting and remodeling LLC",
+      "legal_business_name": "Looking good painting and remodeling LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/78acbd21-8098-41d4-8c08-128ed212aa8f",
+      "gmb_name": "Looking good painting and remodeling LLC"
+    },
+    {
+      "clientId": "de316fff-5fee-46cf-9f1f-c0bfae01969f",
+      "region": "es",
+      "business_name": "Cali’s cleaning service",
+      "legal_business_name": "Cali’s Cleaning Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/de316fff-5fee-46cf-9f1f-c0bfae01969f",
+      "gmb_name": "Cali's cleaning services"
+    },
+    {
+      "clientId": "4065764d-e777-4503-babd-190de158f95d",
+      "region": "es",
+      "business_name": "Paz Quert Services llc",
+      "legal_business_name": "Paz Quert Services llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4065764d-e777-4503-babd-190de158f95d",
+      "gmb_name": "Paz Quert Services Llc"
+    },
+    {
+      "clientId": "94a43134-fddd-400b-9cd9-2bf78fd0408f",
+      "region": "es",
+      "business_name": "Javier Serrano - TT",
+      "legal_business_name": "Mr Screen LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/94a43134-fddd-400b-9cd9-2bf78fd0408f",
+      "gmb_name": "Mr Screen Renovations Services LLC"
+    },
+    {
+      "clientId": "30606870-f077-4315-b356-d03932aaa675",
+      "region": "es",
+      "business_name": "Aq Painting Company",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/30606870-f077-4315-b356-d03932aaa675",
+      "gmb_name": "AQ Painting Company"
+    },
+    {
+      "clientId": "acda97df-960a-4464-888b-938e14752071",
+      "region": "es",
+      "business_name": "Essential engineering plumbing & rooter",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/acda97df-960a-4464-888b-938e14752071",
+      "gmb_name": "Essential Engineering Plumbing & Rooter"
+    },
+    {
+      "clientId": "ce326c2a-1687-481e-aa30-b4e6677086c8",
+      "region": "es",
+      "business_name": "Lainez Electric",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ce326c2a-1687-481e-aa30-b4e6677086c8",
+      "gmb_name": "Lainez Electric - Electrical Companie"
+    },
+    {
+      "clientId": "544174d6-0c69-48ac-9e8e-eea6b748ecea",
+      "region": "es",
+      "business_name": "Galindo Framing and drywall llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/544174d6-0c69-48ac-9e8e-eea6b748ecea",
+      "gmb_name": "Galindo Framing and drywall llc"
+    },
+    {
+      "clientId": "00bcf97e-b1a0-4719-874e-2bae481f3cd4",
+      "region": "es",
+      "business_name": "MCAM Services LLC",
+      "legal_business_name": "MCAM SERVICES LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/00bcf97e-b1a0-4719-874e-2bae481f3cd4",
+      "gmb_name": "MCAM Services LLC"
+    },
+    {
+      "clientId": "5ebdaeaf-fff0-43f0-b0ac-0fee646cb7d2",
+      "region": "es",
+      "business_name": "Texas Prime Homes",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5ebdaeaf-fff0-43f0-b0ac-0fee646cb7d2",
+      "gmb_name": "Texas Prime Homes"
+    },
+    {
+      "clientId": "2b8138ee-5f59-456a-8069-f253d3dad996",
+      "region": "es",
+      "business_name": "MBc services llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2b8138ee-5f59-456a-8069-f253d3dad996",
+      "gmb_name": "MBC services"
+    },
+    {
+      "clientId": "bedb7652-8189-4fcb-b18c-0234e260e3ac",
+      "region": "es",
+      "business_name": "LY HOME IMPROVEMENT CORP - TT",
+      "legal_business_name": "Myz home improvement llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bedb7652-8189-4fcb-b18c-0234e260e3ac",
+      "gmb_name": "ROME HOME IMPROVEMENT LLC"
+    },
+    {
+      "clientId": "953d9b80-aa90-4b58-96df-17e99d8f54b1",
+      "region": "es",
+      "business_name": "Trendytiky llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/953d9b80-aa90-4b58-96df-17e99d8f54b1",
+      "gmb_name": "Trendykity LLC"
+    },
+    {
+      "clientId": "68e1cb3f-59d8-4fa0-8ed3-e813438a9027",
+      "region": "es",
+      "business_name": "Arango Air Solutions corp",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/68e1cb3f-59d8-4fa0-8ed3-e813438a9027",
+      "gmb_name": "Arango Air Solutions Corp"
+    },
+    {
+      "clientId": "2efe7b78-d0ea-43d9-b764-8c1fbb02fdf4",
+      "region": "es",
+      "business_name": "Chanate construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2efe7b78-d0ea-43d9-b764-8c1fbb02fdf4",
+      "gmb_name": "Chanate construction"
+    },
+    {
+      "clientId": "8dbe3c81-011a-43a7-beaa-ca0984c6824c",
+      "region": "es",
+      "business_name": "AMK General contractor",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8dbe3c81-011a-43a7-beaa-ca0984c6824c",
+      "gmb_name": "Ms general contractor"
+    },
+    {
+      "clientId": "0006a757-8491-40c6-ada7-daa813e2ddc9",
+      "region": "es",
+      "business_name": "J&C Craft Services LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0006a757-8491-40c6-ada7-daa813e2ddc9",
+      "gmb_name": "F&J painting services LLC."
+    },
+    {
+      "clientId": "4d1b29aa-c14e-451e-b014-dd0a01783e61",
+      "region": "es",
+      "business_name": "Jorge",
+      "legal_business_name": "PREMIUM ROOFING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4d1b29aa-c14e-451e-b014-dd0a01783e61",
+      "gmb_name": "Premium Roofing LLC"
+    },
+    {
+      "clientId": "e2cfdeb3-4019-4f44-9cd6-8787b4502049",
+      "region": "es",
+      "business_name": "Shalom foundation repair",
+      "legal_business_name": "Shalom foundation repair llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e2cfdeb3-4019-4f44-9cd6-8787b4502049",
+      "gmb_name": "Shalom foundation repair llc"
+    },
+    {
+      "clientId": "38c8257a-2e57-4e32-9d7d-c746d8e6d477",
+      "region": "es",
+      "business_name": "DMG CONCRETE PUMPING LLC",
+      "legal_business_name": "DMG CONCRETE PUMPING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/38c8257a-2e57-4e32-9d7d-c746d8e6d477",
+      "gmb_name": "Dmg Concrete Pumping LLC"
+    },
+    {
+      "clientId": "fb4ea494-1541-4226-b6d5-b40856d9f674",
+      "region": "es",
+      "business_name": "Ideal Lawn Solutions",
+      "legal_business_name": "Ideal Lawn Solutions LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/fb4ea494-1541-4226-b6d5-b40856d9f674",
+      "gmb_name": "Ideal Lawn Solutions LLC"
+    },
+    {
+      "clientId": "3fc21ad0-d3a8-4adb-beca-ebf82e986bec",
+      "region": "es",
+      "business_name": "Maya landscaping",
+      "legal_business_name": "Maya lawn care & Landscaping",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3fc21ad0-d3a8-4adb-beca-ebf82e986bec",
+      "gmb_name": "Mejia's Landscaping"
+    },
+    {
+      "clientId": "f1bc2588-f9cd-4fb9-982f-cca67b96eba0",
+      "region": "es",
+      "business_name": "lupe house cleaning",
+      "legal_business_name": "lupe’s House cleaning",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f1bc2588-f9cd-4fb9-982f-cca67b96eba0",
+      "gmb_name": "House Cleaning services LLC"
+    },
+    {
+      "clientId": "acb4f9b8-06a2-4b4b-95fb-b751c3869e85",
+      "region": "es",
+      "business_name": "J&C Buenano Carpentey inc",
+      "legal_business_name": "J & C Buenano Carpentry Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/acb4f9b8-06a2-4b4b-95fb-b751c3869e85",
+      "gmb_name": "J & C Buenano Carpentry Inc"
+    },
+    {
+      "clientId": "3805fbe3-085e-48bd-84ce-06f82d2805be",
+      "region": "es",
+      "business_name": "Ism painting and remodeling@gmail.com",
+      "legal_business_name": "Ism painting and remodeling llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3805fbe3-085e-48bd-84ce-06f82d2805be",
+      "gmb_name": "ISM painting & remodeling"
+    },
+    {
+      "clientId": "8ca963f6-98db-4797-9608-389b057748f9",
+      "region": "es",
+      "business_name": "El dorado cleaning services",
+      "legal_business_name": "El Dorado Cleaning Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8ca963f6-98db-4797-9608-389b057748f9",
+      "gmb_name": "El Dorado cleaning services"
+    },
+    {
+      "clientId": "fa3054b0-5454-4f16-867e-00deafed434b",
+      "region": "es",
+      "business_name": "Jorge",
+      "legal_business_name": "Florida roofing renovations and more",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/fa3054b0-5454-4f16-867e-00deafed434b",
+      "gmb_name": "Florida Roofing Renovations and more"
+    },
+    {
+      "clientId": "8dc90ae7-3499-43f9-aaa7-82e919188744",
+      "region": "es",
+      "business_name": "Sussy's cleaning service",
+      "legal_business_name": "Sussy's Cleaning Service Inc.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8dc90ae7-3499-43f9-aaa7-82e919188744",
+      "gmb_name": "Sussy's Cleaning Service"
+    },
+    {
+      "clientId": "f47ab95c-df2e-4873-9be7-319f0b17af7b",
+      "region": "es",
+      "business_name": "Renattas Cleaning service",
+      "legal_business_name": "Renatta’s Cleaning Service LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f47ab95c-df2e-4873-9be7-319f0b17af7b",
+      "gmb_name": "Renatta’s Cleaning Service LLC"
+    },
+    {
+      "clientId": "9cdd0f95-e96f-4de0-9979-6b86d9319fcd",
+      "region": "es",
+      "business_name": "Jose rodas",
+      "legal_business_name": "Jose Delgado llc Carpet Repair",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9cdd0f95-e96f-4de0-9979-6b86d9319fcd",
+      "gmb_name": "Rodas contractor service llc"
+    },
+    {
+      "clientId": "7fc9304a-c6f3-4b1b-a79b-492e972250c7",
+      "region": "es",
+      "business_name": "MC SERVICE TX",
+      "legal_business_name": "MC SERVICE TX LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7fc9304a-c6f3-4b1b-a79b-492e972250c7",
+      "gmb_name": "MC Service TX LLC"
+    },
+    {
+      "clientId": "0493fb39-4c1d-4fd3-8b50-ae1932ada7e3",
+      "region": "es",
+      "business_name": "Pool table service dmv",
+      "legal_business_name": "Pool Table Service DMV LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0493fb39-4c1d-4fd3-8b50-ae1932ada7e3",
+      "gmb_name": "Pool Table Movers DMV"
+    },
+    {
+      "clientId": "f326fe9d-f0b0-4480-95cf-5d60fc446d5d",
+      "region": "es",
+      "business_name": "Julio’s painting services LLC",
+      "legal_business_name": "Julio’s painting services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f326fe9d-f0b0-4480-95cf-5d60fc446d5d",
+      "gmb_name": "Julio's Painting Services"
+    },
+    {
+      "clientId": "5e2078d8-a011-4c19-bd7d-fd9a3ba0cfb0",
+      "region": "es",
+      "business_name": "Perfect Home Cleaning Service LLC",
+      "legal_business_name": "Perfect Home Cleaning Services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5e2078d8-a011-4c19-bd7d-fd9a3ba0cfb0",
+      "gmb_name": "Perfect Home Cleaning Services LLC"
+    },
+    {
+      "clientId": "41799cda-abd1-44fd-aae4-1197eee0b947",
+      "region": "es",
+      "business_name": "Rgqualitymoving",
+      "legal_business_name": "RG QUALITY MOVING and STORAGE LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/41799cda-abd1-44fd-aae4-1197eee0b947",
+      "gmb_name": "RG Quality Moving and Storage"
+    },
+    {
+      "clientId": "cac8cfe3-a511-4c0d-8593-ef98966cf878",
+      "region": "es",
+      "business_name": "King movers",
+      "legal_business_name": "King movers express",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/cac8cfe3-a511-4c0d-8593-ef98966cf878",
+      "gmb_name": "King Movers"
+    },
+    {
+      "clientId": "9d341a0b-f22d-455e-8a66-64e22e5800e2",
+      "region": "es",
+      "business_name": "B clean B healthy",
+      "legal_business_name": "B Clean B Healthy  LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9d341a0b-f22d-455e-8a66-64e22e5800e2",
+      "gmb_name": "Bclean Bhealthy Cleaning Services Joplin Mo"
+    },
+    {
+      "clientId": "4927cd54-ce2f-4645-a16b-457416a531f9",
+      "region": "es",
+      "business_name": "Hepta Roofing LLC",
+      "legal_business_name": "Hepta Roofing LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4927cd54-ce2f-4645-a16b-457416a531f9",
+      "gmb_name": "Hepta Roofing"
+    },
+    {
+      "clientId": "2efc13a1-972c-4de8-9db6-b5b55382c602",
+      "region": "es",
+      "business_name": "OC House Cleaning",
+      "legal_business_name": "OC House Cleaning",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2efc13a1-972c-4de8-9db6-b5b55382c602",
+      "gmb_name": "OC House Cleaning"
+    },
+    {
+      "clientId": "0b65608a-db37-4e5c-9499-e828f1a72d02",
+      "region": "es",
+      "business_name": "All in concrete",
+      "legal_business_name": "ALL IN CONCRETE LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0b65608a-db37-4e5c-9499-e828f1a72d02",
+      "gmb_name": "ALL IN CONCRETE LLC"
+    },
+    {
+      "clientId": "56c9eb7a-5b8f-4ad4-a758-bfdbb57da1ad",
+      "region": "es",
+      "business_name": "Andino builders and development",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/56c9eb7a-5b8f-4ad4-a758-bfdbb57da1ad",
+      "gmb_name": "Andino Builders and Development"
+    },
+    {
+      "clientId": "f95d919f-057f-4079-bffa-1ee56497a3be",
+      "region": "es",
+      "business_name": "DELROB Construction & Landscape LLC",
+      "legal_business_name": "DELROB Construction & Landscape LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f95d919f-057f-4079-bffa-1ee56497a3be",
+      "gmb_name": "DELROB Construction & Landscape LLC"
+    },
+    {
+      "clientId": "f8be6d0b-efdd-455a-b59e-18ed457b6e87",
+      "region": "es",
+      "business_name": "SOLARUP GROUP LLC",
+      "legal_business_name": "FILTRAMAX SOLUTIONS",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f8be6d0b-efdd-455a-b59e-18ed457b6e87",
+      "gmb_name": "CLEAR SOURCE WATER"
+    },
+    {
+      "clientId": "9488616a-669d-4166-ba44-94e46e4287a7",
+      "region": "es",
+      "business_name": "Rodriguez handyman services 22 LLC",
+      "legal_business_name": "RODRIGUEZ HANDYMAN SERVICES 22 L.L.C.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9488616a-669d-4166-ba44-94e46e4287a7",
+      "gmb_name": "Rodriguez Handyman Services 22 llc"
+    },
+    {
+      "clientId": "fe58b192-eeb7-4e02-9627-d292637bbd9e",
+      "region": "es",
+      "business_name": "Jarocho's roofing llc",
+      "legal_business_name": "Jarocho's roofing llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/fe58b192-eeb7-4e02-9627-d292637bbd9e",
+      "gmb_name": "Jarocho's roofing"
+    },
+    {
+      "clientId": "c9e9e631-55e3-4cbe-a74e-0971a14edbc7",
+      "region": "es",
+      "business_name": "Reyes Roofing and more",
+      "legal_business_name": "Reyes Roofing and more",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c9e9e631-55e3-4cbe-a74e-0971a14edbc7",
+      "gmb_name": "Reyes Roofing and More LLC"
+    },
+    {
+      "clientId": "7bfbe619-3a36-4c56-abe8-93d117600ed6",
+      "region": "es",
+      "business_name": "Gunners Painting",
+      "legal_business_name": "Gunners Painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7bfbe619-3a36-4c56-abe8-93d117600ed6",
+      "gmb_name": "Gunners Painting LLC"
+    },
+    {
+      "clientId": "1853ef8a-c8cf-44ef-a213-9139c0adadd7",
+      "region": "es",
+      "business_name": "Coming True Landscaping Corp.",
+      "legal_business_name": "Coming True Landscaping Corp.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1853ef8a-c8cf-44ef-a213-9139c0adadd7",
+      "gmb_name": "Coming True Landscaping Corp."
+    },
+    {
+      "clientId": "d6e8ff4a-f19a-4786-a8ca-ed24fac48ee3",
+      "region": "es",
+      "business_name": "PRL0",
+      "legal_business_name": "Paralelo 0 LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d6e8ff4a-f19a-4786-a8ca-ed24fac48ee3",
+      "gmb_name": "Paralelo 0 LLC"
+    },
+    {
+      "clientId": "ec12da91-3104-40a4-b252-186d45255e27",
+      "region": "es",
+      "business_name": "First choice painting",
+      "legal_business_name": "First Choice Painting and Remodeling, LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ec12da91-3104-40a4-b252-186d45255e27",
+      "gmb_name": "First Choice Painting & Remodeling"
+    },
+    {
+      "clientId": "dffe23a6-19fb-4476-a5d3-fab48d73a988",
+      "region": "es",
+      "business_name": "Sal cleaning",
+      "legal_business_name": "Sal cleaning llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/dffe23a6-19fb-4476-a5d3-fab48d73a988",
+      "gmb_name": "Sal Cleaning LLC"
+    },
+    {
+      "clientId": "0c67e664-bb1d-40c5-8c20-22fa761462f8",
+      "region": "es",
+      "business_name": "Tree service",
+      "legal_business_name": "López quality tree service",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0c67e664-bb1d-40c5-8c20-22fa761462f8",
+      "gmb_name": "Lopez Quality Tree Service"
+    },
+    {
+      "clientId": "03358647-1154-4dfd-98b7-3fc5489ac798",
+      "region": "es",
+      "business_name": "Garcia innovative",
+      "legal_business_name": "Garcia's innovative llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/03358647-1154-4dfd-98b7-3fc5489ac798",
+      "gmb_name": "Garcia's Innovative llc"
+    },
+    {
+      "clientId": "f766172e-eef9-4f60-ac1f-138abeafc1a4",
+      "region": "es",
+      "business_name": "Mak Home Repairs",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f766172e-eef9-4f60-ac1f-138abeafc1a4",
+      "gmb_name": "MAK Home Repairs LLC"
+    },
+    {
+      "clientId": "3af544c1-d371-4032-8d0d-c464e5367662",
+      "region": "es",
+      "business_name": "Lobos roofing",
+      "legal_business_name": "Lobos roofing llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3af544c1-d371-4032-8d0d-c464e5367662",
+      "gmb_name": "Lobos Roofing LLC"
+    },
+    {
+      "clientId": "bb159934-22f3-401b-859e-a7cd210e9461",
+      "region": "es",
+      "business_name": "LUIS LAFONTAINE",
+      "legal_business_name": "L&M TURBINE LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/bb159934-22f3-401b-859e-a7cd210e9461",
+      "gmb_name": "L&M TURBINE LLC"
+    },
+    {
+      "clientId": "2932a915-28f5-40ae-a73a-eb9e693600c8",
+      "region": "es",
+      "business_name": "Sunset tropical landscaping & Design Inc",
+      "legal_business_name": "Sunset tropical landscaping Design Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2932a915-28f5-40ae-a73a-eb9e693600c8",
+      "gmb_name": "Sunset Tropical Landscaping"
+    },
+    {
+      "clientId": "d36aa0ec-91ae-43bf-af6f-87ad05ada550",
+      "region": "es",
+      "business_name": "4cc landscape & construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d36aa0ec-91ae-43bf-af6f-87ad05ada550",
+      "gmb_name": "4cc landscape & construction"
+    },
+    {
+      "clientId": "95661844-895c-4242-9c74-426003b04587",
+      "region": "es",
+      "business_name": "David Roman",
+      "legal_business_name": "Hard wood floors company llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/95661844-895c-4242-9c74-426003b04587",
+      "gmb_name": "Hardwood Floors Company"
+    },
+    {
+      "clientId": "6692de68-1dcb-453b-aa9d-9b0938106654",
+      "region": "es",
+      "business_name": "Héctor Ramos -",
+      "legal_business_name": "House pro painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6692de68-1dcb-453b-aa9d-9b0938106654",
+      "gmb_name": "House Pro Painting"
+    },
+    {
+      "clientId": "7edde3df-4646-47c2-8521-7530e623f1a2",
+      "region": "es",
+      "business_name": "Hart stucco repair",
+      "legal_business_name": "Hart stucco repair",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7edde3df-4646-47c2-8521-7530e623f1a2",
+      "gmb_name": "Hart Stucco Repair"
+    },
+    {
+      "clientId": "32d90102-2848-4b12-bb07-c3660dc7dc02",
+      "region": "es",
+      "business_name": "Blancas ckesnimg services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/32d90102-2848-4b12-bb07-c3660dc7dc02",
+      "gmb_name": "Blanca´s Cleaning Services"
+    },
+    {
+      "clientId": "d3d4a6f6-9cd5-47e6-8709-525b23c415aa",
+      "region": "es",
+      "business_name": "Sebastian Palacios",
+      "legal_business_name": "Cousins Hardwood Floors Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d3d4a6f6-9cd5-47e6-8709-525b23c415aa",
+      "gmb_name": "Cousins Hardwood Floors Inc"
+    },
+    {
+      "clientId": "88cd554c-cfeb-41f1-b988-656a415f76e6",
+      "region": "es",
+      "business_name": "Texas Gold Roofing",
+      "legal_business_name": "Texas Gold Roofing & More",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/88cd554c-cfeb-41f1-b988-656a415f76e6",
+      "gmb_name": "Texas Gold Roofing and More"
+    },
+    {
+      "clientId": "3534bd71-2cfe-4dff-8d25-e374973e826a",
+      "region": "es",
+      "business_name": "Innovarq L&B",
+      "legal_business_name": "Innovarq L&B llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3534bd71-2cfe-4dff-8d25-e374973e826a",
+      "gmb_name": "Innovarq L&B LLC"
+    },
+    {
+      "clientId": "af7cfb8a-224b-4bf3-b071-4346b99960b6",
+      "region": "es",
+      "business_name": "J.premier fences LLC",
+      "legal_business_name": "J.premier fence LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/af7cfb8a-224b-4bf3-b071-4346b99960b6",
+      "gmb_name": "J Premier Solutions"
+    },
+    {
+      "clientId": "d7a7be6c-4078-4772-a990-9d5b0131121c",
+      "region": "es",
+      "business_name": "Barros Construction",
+      "legal_business_name": "Barros Construction & Remodeling Inc.",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d7a7be6c-4078-4772-a990-9d5b0131121c",
+      "gmb_name": "Barros Construction & Remodeling Inc."
+    },
+    {
+      "clientId": "7d42d3d0-861c-4e55-be64-f998deb563fe",
+      "region": "es",
+      "business_name": "F&J painting services LLC",
+      "legal_business_name": "F&J painting services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7d42d3d0-861c-4e55-be64-f998deb563fe",
+      "gmb_name": "F And G Plastering, Corporation"
+    },
+    {
+      "clientId": "68b87cf3-437f-4b72-9a52-92794f42426e",
+      "region": "es",
+      "business_name": "Long Star painting",
+      "legal_business_name": "Long Star painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/68b87cf3-437f-4b72-9a52-92794f42426e",
+      "gmb_name": "Long star painting"
+    },
+    {
+      "clientId": "1120b258-1c96-44ed-9592-26107b97df0a",
+      "region": "es",
+      "business_name": "Inova",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1120b258-1c96-44ed-9592-26107b97df0a",
+      "gmb_name": "Inova Painting LLC"
+    },
+    {
+      "clientId": "91652628-20f0-43c0-abfa-615688b11b3a",
+      "region": "es",
+      "business_name": "Magic cleaning",
+      "legal_business_name": "Magic cleaning done right",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/91652628-20f0-43c0-abfa-615688b11b3a",
+      "gmb_name": "Magic cleaning done right"
+    },
+    {
+      "clientId": "c63db467-16bb-4d9c-ab52-ad62327cdda3",
+      "region": "es",
+      "business_name": "Dhaso painters",
+      "legal_business_name": "Dhaso painters",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c63db467-16bb-4d9c-ab52-ad62327cdda3",
+      "gmb_name": "Dhaso Painters CO"
+    },
+    {
+      "clientId": "2191e816-8e40-442b-89e6-1d8fb2689f54",
+      "region": "es",
+      "business_name": "American Renovation Projects",
+      "legal_business_name": "AMERICAN RENOVATION PROJECTS LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2191e816-8e40-442b-89e6-1d8fb2689f54",
+      "gmb_name": "American Renovation Projects"
+    },
+    {
+      "clientId": "e733e8e6-40e8-428f-99f0-f6d90fd4a557",
+      "region": "es",
+      "business_name": "Elite troop pressure washing and painting",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e733e8e6-40e8-428f-99f0-f6d90fd4a557",
+      "gmb_name": "Elite Troop Pressure Washing & Painting"
+    },
+    {
+      "clientId": "fa51fbfe-414a-4ac8-a802-567c7cfd5a20",
+      "region": "es",
+      "business_name": "Dynamic",
+      "legal_business_name": "Dynamic",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/fa51fbfe-414a-4ac8-a802-567c7cfd5a20",
+      "gmb_name": "Dynamic Landscaping & Construcction LLC"
+    },
+    {
+      "clientId": "808d6173-ca5b-4c4f-9f75-92a4f53d9db9",
+      "region": "es",
+      "business_name": "Dani & Lalo construcción",
+      "legal_business_name": "Dany & Lalo Construction",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/808d6173-ca5b-4c4f-9f75-92a4f53d9db9",
+      "gmb_name": "Dany & Lalo Services LLC"
+    },
+    {
+      "clientId": "af7a676f-0161-4465-adba-ebe52eee94bb",
+      "region": "es",
+      "business_name": "Emju Cleaning Professionals",
+      "legal_business_name": "Emju Cleaning Professionals LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/af7a676f-0161-4465-adba-ebe52eee94bb",
+      "gmb_name": "Emju Cleaning Professionals LLC"
+    },
+    {
+      "clientId": "8eff1ca4-a285-4821-927a-b0440b9c5c72",
+      "region": "es",
+      "business_name": "Qrrenovationsllc",
+      "legal_business_name": "Qrrenovationsllc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8eff1ca4-a285-4821-927a-b0440b9c5c72",
+      "gmb_name": "QRrenovations LLC"
+    },
+    {
+      "clientId": "092980a2-9f7f-48d7-a274-2e1be58e1f4c",
+      "region": "es",
+      "business_name": "Abarca’s construction",
+      "legal_business_name": "Abarca's construction Inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/092980a2-9f7f-48d7-a274-2e1be58e1f4c",
+      "gmb_name": "Abarca’s Construction"
+    },
+    {
+      "clientId": "7cc0cb2c-f5e2-4f2a-b5e8-07b204189798",
+      "region": "es",
+      "business_name": "Service express cleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7cc0cb2c-f5e2-4f2a-b5e8-07b204189798",
+      "gmb_name": "Service Express Cleaning"
+    },
+    {
+      "clientId": "4745b88c-2ef6-4d16-b638-10f01ae1244c",
+      "region": "es",
+      "business_name": "Mary Clean",
+      "legal_business_name": "MARY CLEAN SERVICES UTAH",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4745b88c-2ef6-4d16-b638-10f01ae1244c",
+      "gmb_name": "Mary Clean Services"
+    },
+    {
+      "clientId": "956357bb-f98b-428c-ba11-0c53fac794ea",
+      "region": "es",
+      "business_name": "Brenda Martinez",
+      "legal_business_name": "2clean service LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/956357bb-f98b-428c-ba11-0c53fac794ea",
+      "gmb_name": "2clean service"
+    },
+    {
+      "clientId": "9917329a-fbd6-4252-b4bd-8637c7d5e02c",
+      "region": "es",
+      "business_name": "Noriega and sons tree service",
+      "legal_business_name": "Noriega and sons tree service",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/9917329a-fbd6-4252-b4bd-8637c7d5e02c",
+      "gmb_name": "Noriega and Sons Tree Service Corp."
+    },
+    {
+      "clientId": "f44a1499-3b89-4293-b86a-6b6b9c79ce77",
+      "region": "es",
+      "business_name": "CG Landscaping",
+      "legal_business_name": "CG landscaping",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/f44a1499-3b89-4293-b86a-6b6b9c79ce77",
+      "gmb_name": "CG Landscaping"
+    },
+    {
+      "clientId": "21a85929-ae5f-4d1c-a4d6-7aeda137f622",
+      "region": "es",
+      "business_name": "Geronimo Casabon Baruch",
+      "legal_business_name": "Baruchmasonrylandscaping",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/21a85929-ae5f-4d1c-a4d6-7aeda137f622",
+      "gmb_name": "Baruch Masonry Landscaping"
+    },
+    {
+      "clientId": "d8f5af9e-9c53-422f-825f-e9975cfe193e",
+      "region": "es",
+      "business_name": "Brymar",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d8f5af9e-9c53-422f-825f-e9975cfe193e",
+      "gmb_name": "Brymar Clean Services LLC"
+    },
+    {
+      "clientId": "01671361-3258-4819-88e4-70c5a6abb5ec",
+      "region": "es",
+      "business_name": "Jkat",
+      "legal_business_name": "JKAT REMODELING LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/01671361-3258-4819-88e4-70c5a6abb5ec",
+      "gmb_name": "JKAT Remodeling LLC"
+    },
+    {
+      "clientId": "2480de28-f826-4a54-bd82-399a67909a1f",
+      "region": "es",
+      "business_name": "Ez  painting plus",
+      "legal_business_name": "Ez painting plus",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/2480de28-f826-4a54-bd82-399a67909a1f",
+      "gmb_name": "EZ Painting Plus"
+    },
+    {
+      "clientId": "43782a51-0585-4034-9a00-f82c993bc546",
+      "region": "es",
+      "business_name": "Javier Rosas",
+      "legal_business_name": "J Rosa’s trees services inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/43782a51-0585-4034-9a00-f82c993bc546",
+      "gmb_name": "J Rosa’s tree service"
+    },
+    {
+      "clientId": "ae512da0-5ccd-46f4-a827-1ef28993d6f3",
+      "region": "es",
+      "business_name": "Jefferson Rodriguez",
+      "legal_business_name": "Rodriguez flooring indiana",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/ae512da0-5ccd-46f4-a827-1ef28993d6f3",
+      "gmb_name": "Rodriguez Flooring Indiana"
+    },
+    {
+      "clientId": "d28413b0-ab54-4691-b1c2-9cbdb2ebbf88",
+      "region": "es",
+      "business_name": "Urbano Barajas -",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/d28413b0-ab54-4691-b1c2-9cbdb2ebbf88",
+      "gmb_name": "BHB Construction DBA BHBremodeling"
+    },
+    {
+      "clientId": "702963d2-0717-4eb6-9a80-b69fc1caf4c8",
+      "region": "es",
+      "business_name": "Jose E Lemus",
+      "legal_business_name": "Lemus contracting services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/702963d2-0717-4eb6-9a80-b69fc1caf4c8",
+      "gmb_name": "Lemus contracting services"
+    },
+    {
+      "clientId": "7c28f3c2-dedc-4553-bd59-66ecca3085ae",
+      "region": "es",
+      "business_name": "Rancho tree care of California",
+      "legal_business_name": "Rancho tree care of California LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7c28f3c2-dedc-4553-bd59-66ecca3085ae",
+      "gmb_name": "RANCHO TREE CARE OF CALIFORNIA LLC"
+    },
+    {
+      "clientId": "5f7ab1f7-e628-4239-b4bf-996d969192aa",
+      "region": "es",
+      "business_name": "Jose Santana",
+      "legal_business_name": "Emporium Construction Group Corp",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/5f7ab1f7-e628-4239-b4bf-996d969192aa",
+      "gmb_name": "Emporium Construction Group Corp"
+    },
+    {
+      "clientId": "4ba09b32-f7b2-40b9-93b5-d6da5d584ff4",
+      "region": "es",
+      "business_name": "Integrity Landscaping",
+      "legal_business_name": "Integrity Landscaping Maintenance LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/4ba09b32-f7b2-40b9-93b5-d6da5d584ff4",
+      "gmb_name": "Integrity Landscaping"
+    },
+    {
+      "clientId": "6b5e1112-567f-4ef0-84fa-458b79c2db53",
+      "region": "es",
+      "business_name": "Aún affordable tree service",
+      "legal_business_name": "Aym affordable tree service",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/6b5e1112-567f-4ef0-84fa-458b79c2db53",
+      "gmb_name": "A&M affordable tree services"
+    },
+    {
+      "clientId": "b229824e-549f-47ca-945e-f9f95e170aec",
+      "region": "es",
+      "business_name": "RM tree service",
+      "legal_business_name": "0013846738",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/b229824e-549f-47ca-945e-f9f95e170aec",
+      "gmb_name": "Ramón tree Removal"
+    },
+    {
+      "clientId": "959769a9-3b4d-4c52-a8fe-b12dae67ab25",
+      "region": "es",
+      "business_name": "Polo Painting",
+      "legal_business_name": "Polo Painting",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/959769a9-3b4d-4c52-a8fe-b12dae67ab25",
+      "gmb_name": "Polo Painting"
+    },
+    {
+      "clientId": "beaf938b-9b7f-4296-8f50-7d9b30b54acd",
+      "region": "es",
+      "business_name": "Valdivia construction LLC flooring",
+      "legal_business_name": "Valdivia construction LLC flooring",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/beaf938b-9b7f-4296-8f50-7d9b30b54acd",
+      "gmb_name": "Valdivia construction LLC"
+    },
+    {
+      "clientId": "e3d82ed0-2264-43b3-8a71-05c8fe2fa008",
+      "region": "es",
+      "business_name": "R&J Premium Cleaning services",
+      "legal_business_name": "R&J Premium Cleaning Services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e3d82ed0-2264-43b3-8a71-05c8fe2fa008",
+      "gmb_name": "R&J Premium Cleaning Services"
+    },
+    {
+      "clientId": "dad6a5b7-beb2-4f2c-89e9-763b869f0263",
+      "region": "es",
+      "business_name": "Arnold Cabrera",
+      "legal_business_name": "TCH professional services llc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/dad6a5b7-beb2-4f2c-89e9-763b869f0263",
+      "gmb_name": "TCH Professional Services LLC"
+    },
+    {
+      "clientId": "28a820ee-44a2-45bc-8855-30d5d5f594ab",
+      "region": "es",
+      "business_name": "Roof protector",
+      "legal_business_name": "Roof protector & construction LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/28a820ee-44a2-45bc-8855-30d5d5f594ab",
+      "gmb_name": "ROOF PROTECTOR LLC"
+    },
+    {
+      "clientId": "fcd686ef-31ff-4fc2-ba40-e78e0b635815",
+      "region": "es",
+      "business_name": "K&E REPAIR SOLUTIONS",
+      "legal_business_name": "K&E Repair Solutions, LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/fcd686ef-31ff-4fc2-ba40-e78e0b635815",
+      "gmb_name": "K&E Repair Solutions LLC"
+    },
+    {
+      "clientId": "1e2a43dc-ad2b-4ded-a489-c3ce78fd1557",
+      "region": "es",
+      "business_name": "Humberto Mora Sanchez",
+      "legal_business_name": "Mora’s Fencing & Landscaping Services LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/1e2a43dc-ad2b-4ded-a489-c3ce78fd1557",
+      "gmb_name": "Mora’s fencing & landscaping service LLC"
+    },
+    {
+      "clientId": "e3af7092-f881-4a9d-bb78-2eaa1aec3784",
+      "region": "es",
+      "business_name": "S J All Florida renovations LLC",
+      "legal_business_name": "S J All Florida renovations LLC",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/e3af7092-f881-4a9d-bb78-2eaa1aec3784",
+      "gmb_name": "S J All Florida Renovations LLC"
+    },
+    {
+      "clientId": "0cdf9fd9-a05d-480d-a3d3-9a0257316294",
+      "region": "es",
+      "business_name": "Bersain",
+      "legal_business_name": "A&B tree experts inc",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/0cdf9fd9-a05d-480d-a3d3-9a0257316294",
+      "gmb_name": "A&B Tree Experts"
+    },
+    {
+      "clientId": "8a95734f-ab47-464a-bd6a-543d9aa7bd81",
+      "region": "es",
+      "business_name": "Mejias Landscaping",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/8a95734f-ab47-464a-bd6a-543d9aa7bd81",
+      "gmb_name": "Mejia's Lawn Cut Services LLC"
+    },
+    {
+      "clientId": "7a54d80f-0105-4120-a767-eb891f0451c3",
+      "region": "es",
+      "business_name": "SORAMID drywall and paint",
+      "legal_business_name": "SORAMID drywall and paint",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7a54d80f-0105-4120-a767-eb891f0451c3",
+      "gmb_name": "Soramid drywall and paint llc"
+    },
+    {
+      "clientId": "7492a982-96a3-498f-9c0b-32a19b1093cc",
+      "region": "es",
+      "business_name": "López Landscaping",
+      "legal_business_name": "Lopez landscaping  & Contrucion",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/7492a982-96a3-498f-9c0b-32a19b1093cc",
+      "gmb_name": "López Landscaping & Construction"
+    },
+    {
+      "clientId": "3fbd6150-31fb-4dd0-81b5-d7df8bc08027",
+      "region": "es",
+      "business_name": "Zavalas tree services",
+      "legal_business_name": "Zavalas tree services",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/3fbd6150-31fb-4dd0-81b5-d7df8bc08027",
+      "gmb_name": "Zavala's Tree Services"
+    },
+    {
+      "clientId": "c128ce53-686b-4844-a188-2351b72c27e3",
+      "region": "es",
+      "business_name": "Bay Area deck restoration",
+      "legal_business_name": "Bay area deck restoration",
+      "clientUrl": "https://click.acquisition-central.com/crm/es/client/c128ce53-686b-4844-a188-2351b72c27e3",
+      "gmb_name": "Bay Area Deck Restoration"
+    },
+    {
+      "clientId": "560d476d-41d9-4a8c-9dd4-134a5ab64e53",
+      "region": "us",
+      "business_name": "Zed & Sons Handyman Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/560d476d-41d9-4a8c-9dd4-134a5ab64e53",
+      "gmb_name": "Zed & Sons Handyman"
+    },
+    {
+      "clientId": "9bffdb78-667e-4ee1-bbc6-5f08c81083ea",
+      "region": "us",
+      "business_name": "D2M Car Wash",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/9bffdb78-667e-4ee1-bbc6-5f08c81083ea",
+      "gmb_name": "D2M carwash"
+    },
+    {
+      "clientId": "afa540ca-47b3-4942-8a9c-2f80fc366419",
+      "region": "us",
+      "business_name": "Nice touch home",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/afa540ca-47b3-4942-8a9c-2f80fc366419",
+      "gmb_name": "Nice touch home"
+    },
+    {
+      "clientId": "0e1d765f-7583-4ab2-aff0-1ab6c0ba8284",
+      "region": "us",
+      "business_name": "Enterprise Air Conditioning & Refrigeration Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/0e1d765f-7583-4ab2-aff0-1ab6c0ba8284",
+      "gmb_name": "Comfy Air Heating and Air Conditioning"
+    },
+    {
+      "clientId": "0cff3a0a-09e8-4ac7-b088-7d24fe781476",
+      "region": "us",
+      "business_name": "R&S Remodeling",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/0cff3a0a-09e8-4ac7-b088-7d24fe781476",
+      "gmb_name": "R&S Remodeling"
+    },
+    {
+      "clientId": "a179fec3-d6d2-4af8-80ac-26aafae23e3c",
+      "region": "us",
+      "business_name": "Platinum Finish Groupllc (No Costumer List)",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/a179fec3-d6d2-4af8-80ac-26aafae23e3c",
+      "gmb_name": "Mirror Finish mobile Detailing"
+    },
+    {
+      "clientId": "df2ce276-0cc1-41c7-9a2f-09bbe7642653",
+      "region": "us",
+      "business_name": "Golden Carpet and Floor Care Inc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/df2ce276-0cc1-41c7-9a2f-09bbe7642653",
+      "gmb_name": "Golden carpet and floor care inc"
+    },
+    {
+      "clientId": "d3a03a32-fdf1-40a2-89d7-5ea887c0e11e",
+      "region": "us",
+      "business_name": "J9 Properties LLC",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/d3a03a32-fdf1-40a2-89d7-5ea887c0e11e",
+      "gmb_name": "J9 Properties LLC"
+    },
+    {
+      "clientId": "ff3fbf74-d35c-4170-8a71-19be86c0ca98",
+      "region": "us",
+      "business_name": "SHAP 616 (He has 2 GMBs, looking to merge both into 1)",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/ff3fbf74-d35c-4170-8a71-19be86c0ca98",
+      "gmb_name": "SHAP 616"
+    },
+    {
+      "clientId": "07572c4e-62c8-4e7d-ac8d-01d4af11a107",
+      "region": "us",
+      "business_name": "Ctj Investments Llc     / Carrol Consutrction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/07572c4e-62c8-4e7d-ac8d-01d4af11a107",
+      "gmb_name": "Carroll Construction"
+    },
+    {
+      "clientId": "04421931-f5f3-4b67-bec9-7ce5aa931c3b",
+      "region": "us",
+      "business_name": "Bayhaulers",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/04421931-f5f3-4b67-bec9-7ce5aa931c3b",
+      "gmb_name": "Bayhaulers"
+    },
+    {
+      "clientId": "f292ece5-abc6-4f21-9929-9e18f36a94e8",
+      "region": "us",
+      "business_name": "Acs Enterprises",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/f292ece5-abc6-4f21-9929-9e18f36a94e8",
+      "gmb_name": "ACS Enterprises"
+    },
+    {
+      "clientId": "6b1317d3-9731-4dec-a7b4-94f7f0d8da2b",
+      "region": "us",
+      "business_name": "Salt Lake To Santaquin Appliance Repair",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/6b1317d3-9731-4dec-a7b4-94f7f0d8da2b",
+      "gmb_name": "Salt Lake to Santaquin Appliance Repair"
+    },
+    {
+      "clientId": "fba54537-495a-45a5-a39b-8f31cf9ee546",
+      "region": "us",
+      "business_name": "Turcio Designs",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/fba54537-495a-45a5-a39b-8f31cf9ee546",
+      "gmb_name": "Turcio Designs Design & Build"
+    },
+    {
+      "clientId": "f18729c5-135b-4957-b10c-51878dc92c46",
+      "region": "us",
+      "business_name": "Closetorder.Com    (Household Sales)",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/f18729c5-135b-4957-b10c-51878dc92c46",
+      "gmb_name": "ClosetOrder.com"
+    },
+    {
+      "clientId": "70064ef5-e8c8-4330-b0dc-45a6177f8681",
+      "region": "us",
+      "business_name": "Mc Maintenance",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/70064ef5-e8c8-4330-b0dc-45a6177f8681",
+      "gmb_name": "MC Maintenance Plumbing and Repair Service"
+    },
+    {
+      "clientId": "81160887-7770-4742-ac9c-05b40e1a26fa",
+      "region": "us",
+      "business_name": "ACF Services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/81160887-7770-4742-ac9c-05b40e1a26fa",
+      "gmb_name": "ACF Services"
+    },
+    {
+      "clientId": "7c520273-01c9-4fe4-b999-dd2684e810ef",
+      "region": "us",
+      "business_name": "Complete Home Solutions",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/7c520273-01c9-4fe4-b999-dd2684e810ef",
+      "gmb_name": "Complete Home Solutions FL, LLC"
+    },
+    {
+      "clientId": "34473c05-714f-4154-8816-046ebc4cea11",
+      "region": "us",
+      "business_name": "The Rooter Guys Plumbing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/34473c05-714f-4154-8816-046ebc4cea11",
+      "gmb_name": "The Rooter Guys Plumbing Inc"
+    },
+    {
+      "clientId": "82ff3975-c40d-4d70-b5cf-0460cf8eafb3",
+      "region": "us",
+      "business_name": "2S Electrical",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/82ff3975-c40d-4d70-b5cf-0460cf8eafb3",
+      "gmb_name": "2S Electric"
+    },
+    {
+      "clientId": "c2913e8b-0aad-41ec-9558-2f53afde09cb",
+      "region": "us",
+      "business_name": "Central Valley Home Upgrades",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/c2913e8b-0aad-41ec-9558-2f53afde09cb",
+      "gmb_name": "Central Valley Home Upgrades"
+    },
+    {
+      "clientId": "8513d26b-4125-4a5f-981e-3a520c6b62b0",
+      "region": "us",
+      "business_name": "All Bay Area Plumbing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/8513d26b-4125-4a5f-981e-3a520c6b62b0",
+      "gmb_name": "ABP All Bay Plumbing Inc"
+    },
+    {
+      "clientId": "a54ac8cf-cab1-4f34-8475-105490812eb8",
+      "region": "us",
+      "business_name": "Fbs Maintenance",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/a54ac8cf-cab1-4f34-8475-105490812eb8",
+      "gmb_name": "FBS Maintenance"
+    },
+    {
+      "clientId": "34aea2ac-b1a7-4ab8-a6ca-fd8f10ca8fed",
+      "region": "us",
+      "business_name": "Precise Construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/34aea2ac-b1a7-4ab8-a6ca-fd8f10ca8fed",
+      "gmb_name": "Precise Construction"
+    },
+    {
+      "clientId": "4e306766-bea7-4f5a-b681-6c38ae7c86b7",
+      "region": "us",
+      "business_name": "Tjthebest Home Improvement",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/4e306766-bea7-4f5a-b681-6c38ae7c86b7",
+      "gmb_name": "MODERNICE HOME IMPROVEMENT INC."
+    },
+    {
+      "clientId": "8b1cb9d0-de39-43af-8bae-aa1e89aaa95f",
+      "region": "us",
+      "business_name": "Ozone Friendly Llc Hvac",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/8b1cb9d0-de39-43af-8bae-aa1e89aaa95f",
+      "gmb_name": "Ozone-Friendly LLC HVAC"
+    },
+    {
+      "clientId": "852981b7-9f68-445d-ae8f-5faa7e137978",
+      "region": "us",
+      "business_name": "Medsport Massage Therapy",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/852981b7-9f68-445d-ae8f-5faa7e137978",
+      "gmb_name": "MedSport Massage Therapy"
+    },
+    {
+      "clientId": "bd2b4cb4-05fb-4f7d-8e8f-7833014ccacb",
+      "region": "us",
+      "business_name": "Jk Plumbing",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/bd2b4cb4-05fb-4f7d-8e8f-7833014ccacb",
+      "gmb_name": "JK Plumbing"
+    },
+    {
+      "clientId": "5cdf2929-f588-40e6-90ba-e7c20a6ed344",
+      "region": "us",
+      "business_name": "Emt Emergency Mobile Tint",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/5cdf2929-f588-40e6-90ba-e7c20a6ed344",
+      "gmb_name": "EMT Emergency Mobile Tint"
+    },
+    {
+      "clientId": "6c8877cf-f9cf-4409-abdb-e1b84d62ac81",
+      "region": "us",
+      "business_name": "Dr Scott Lifschitz",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/6c8877cf-f9cf-4409-abdb-e1b84d62ac81",
+      "gmb_name": "Dr Scott Lifschitz DC"
+    },
+    {
+      "clientId": "16e4b22f-a4db-4053-b4ee-2a5c7c6173dd",
+      "region": "us",
+      "business_name": "Mckinley Concrete",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/16e4b22f-a4db-4053-b4ee-2a5c7c6173dd",
+      "gmb_name": "MCKINLEY CONCRETE LLC"
+    },
+    {
+      "clientId": "84b0368c-570b-44c9-99f0-3275dd269730",
+      "region": "us",
+      "business_name": "Madison Movers",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/84b0368c-570b-44c9-99f0-3275dd269730",
+      "gmb_name": "Madison Movers"
+    },
+    {
+      "clientId": "22f4d267-fb42-48f5-b789-6d5966a9bc3e",
+      "region": "us",
+      "business_name": "Hughes&Sons Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/22f4d267-fb42-48f5-b789-6d5966a9bc3e",
+      "gmb_name": "Hughes & Sons LLC"
+    },
+    {
+      "clientId": "9c07121c-374d-48ed-80c4-a0adc2c4bda9",
+      "region": "us",
+      "business_name": "Hunters Extreme Cleaning Services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/9c07121c-374d-48ed-80c4-a0adc2c4bda9",
+      "gmb_name": "Hunter's Extreme Cleaning Services"
+    },
+    {
+      "clientId": "a29b4bbd-23ee-4e45-b93e-4bafc49c02ba",
+      "region": "us",
+      "business_name": "Thi Construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/a29b4bbd-23ee-4e45-b93e-4bafc49c02ba",
+      "gmb_name": "GHM Construction,LLC"
+    },
+    {
+      "clientId": "b1445903-7d11-4044-967c-e499ebdd5bbc",
+      "region": "us",
+      "business_name": "Angel Suarez Constructions Llc (No Costumer List)",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/b1445903-7d11-4044-967c-e499ebdd5bbc",
+      "gmb_name": "Angel Suarez construction inc"
+    },
+    {
+      "clientId": "5f9b5f10-bfcf-4c05-bb59-62423fc25b70",
+      "region": "us",
+      "business_name": "Vista Cleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/5f9b5f10-bfcf-4c05-bb59-62423fc25b70",
+      "gmb_name": "Vista Cleaning Operations LLC"
+    },
+    {
+      "clientId": "8c92f824-2a81-4cc7-b7eb-dbf9513772a9",
+      "region": "us",
+      "business_name": "Voltrex Electrical",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/8c92f824-2a81-4cc7-b7eb-dbf9513772a9",
+      "gmb_name": "Voltex Electrical Contractors"
+    },
+    {
+      "clientId": "1d6c549b-f8d4-4eb2-b4db-d7ded662cf82",
+      "region": "us",
+      "business_name": "Star Services Tx",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/1d6c549b-f8d4-4eb2-b4db-d7ded662cf82",
+      "gmb_name": "Star Quality Painting and Remodeling"
+    },
+    {
+      "clientId": "15705e57-f029-483e-ad71-738a6dc77aa2",
+      "region": "us",
+      "business_name": "A.V. Paint & Design",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/15705e57-f029-483e-ad71-738a6dc77aa2",
+      "gmb_name": "A&E Design Group"
+    },
+    {
+      "clientId": "a0cb4e0e-d910-43f3-aacc-3554eb23ba52",
+      "region": "us",
+      "business_name": "Day1Builder",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/a0cb4e0e-d910-43f3-aacc-3554eb23ba52",
+      "gmb_name": "Day One Builder"
+    },
+    {
+      "clientId": "24ac6598-449d-451e-960a-4a352d1b0064",
+      "region": "us",
+      "business_name": "Tis Construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/24ac6598-449d-451e-960a-4a352d1b0064",
+      "gmb_name": "TIS CONSTRUCTIONS"
+    },
+    {
+      "clientId": "f1a6d64f-1c27-491b-9a82-527cef9caca0",
+      "region": "us",
+      "business_name": "Apd Painting And Carpentry Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/f1a6d64f-1c27-491b-9a82-527cef9caca0",
+      "gmb_name": "Apd painting and carpentry llc"
+    },
+    {
+      "clientId": "2ccca9a7-994e-4224-aa50-4d76ed42c328",
+      "region": "us",
+      "business_name": "Rodriguez And Son'S Services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/2ccca9a7-994e-4224-aa50-4d76ed42c328",
+      "gmb_name": "Rodriguez and Son's Services"
+    },
+    {
+      "clientId": "51b5605a-c260-4720-8a74-4ac736d36658",
+      "region": "us",
+      "business_name": "D'Lim Property Services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/51b5605a-c260-4720-8a74-4ac736d36658",
+      "gmb_name": "D’Lima Property Services"
+    },
+    {
+      "clientId": "041bc297-fc7c-465a-9d01-e839d701c17f",
+      "region": "us",
+      "business_name": "Black And Gold Painting",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/041bc297-fc7c-465a-9d01-e839d701c17f",
+      "gmb_name": "Black and gold painting"
+    },
+    {
+      "clientId": "9f0d0818-4a94-4635-9d36-b468f56ab7f0",
+      "region": "us",
+      "business_name": "Yeti Custom Homes Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/9f0d0818-4a94-4635-9d36-b468f56ab7f0",
+      "gmb_name": "Yeti custom homes llc"
+    },
+    {
+      "clientId": "63c553c3-0e5b-46f2-a9bc-cc2dfc2d69b5",
+      "region": "us",
+      "business_name": "Screen and Shade Solutions",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/63c553c3-0e5b-46f2-a9bc-cc2dfc2d69b5",
+      "gmb_name": "Screen & shade solutions"
+    },
+    {
+      "clientId": "3f1c8af2-ceef-41f7-903a-27eaffb7d8b7",
+      "region": "us",
+      "business_name": "Supremo Electric",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/3f1c8af2-ceef-41f7-903a-27eaffb7d8b7",
+      "gmb_name": "Supremo electric"
+    },
+    {
+      "clientId": "3ca7952b-3f4e-4579-929f-6dd6c31d8986",
+      "region": "us",
+      "business_name": "Sunday Roof Co",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/3ca7952b-3f4e-4579-929f-6dd6c31d8986",
+      "gmb_name": "Sunday Roof Co"
+    },
+    {
+      "clientId": "83539f28-778d-4fb5-a672-c58a99309dd9",
+      "region": "us",
+      "business_name": "Anything And Everything Residential Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/83539f28-778d-4fb5-a672-c58a99309dd9",
+      "gmb_name": "Anything And Everything Residential LLC"
+    },
+    {
+      "clientId": "0bd222c0-f675-4e14-a0d7-161dd3e1fdaf",
+      "region": "us",
+      "business_name": "Junk101",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/0bd222c0-f675-4e14-a0d7-161dd3e1fdaf",
+      "gmb_name": "JUNK101.COM"
+    },
+    {
+      "clientId": "e29ee4c9-1908-4245-865b-703d4eb6229a",
+      "region": "us",
+      "business_name": "Mr. Handy Plus Services, Inc,",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/e29ee4c9-1908-4245-865b-703d4eb6229a",
+      "gmb_name": "Mr. Handy Plus Services, Inc,"
+    },
+    {
+      "clientId": "dc6c94ff-8c5b-454a-882f-79fbc778bac0",
+      "region": "us",
+      "business_name": "Tl Services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/dc6c94ff-8c5b-454a-882f-79fbc778bac0",
+      "gmb_name": "TL SERVICES"
+    },
+    {
+      "clientId": "e3bb31e3-00ee-4251-aad2-1eff91509e80",
+      "region": "us",
+      "business_name": "Wades Lands Management",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/e3bb31e3-00ee-4251-aad2-1eff91509e80",
+      "gmb_name": "Wades Land Management"
+    },
+    {
+      "clientId": "800bb78c-d666-40a2-b13f-94386f407dc4",
+      "region": "us",
+      "business_name": "Fhw",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/800bb78c-d666-40a2-b13f-94386f407dc4",
+      "gmb_name": "FHW construction"
+    },
+    {
+      "clientId": "cc655f21-3657-407e-b2ae-fcb9b646a783",
+      "region": "us",
+      "business_name": "Tcd Development",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/cc655f21-3657-407e-b2ae-fcb9b646a783",
+      "gmb_name": "TCD Development LLC"
+    },
+    {
+      "clientId": "ee71e275-e406-4d0d-ab7c-caf662f046d4",
+      "region": "us",
+      "business_name": "Heritage Restoration",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/ee71e275-e406-4d0d-ab7c-caf662f046d4",
+      "gmb_name": "Heritage Restoration LLC"
+    },
+    {
+      "clientId": "c9337098-f6af-4992-86ca-82508f003af6",
+      "region": "us",
+      "business_name": "Castle Home Renovation",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/c9337098-f6af-4992-86ca-82508f003af6",
+      "gmb_name": "Castle family enterprise"
+    },
+    {
+      "clientId": "60883a55-e9a8-40d8-ba61-88b6ec7af8e9",
+      "region": "us",
+      "business_name": "Angels Contractors",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/60883a55-e9a8-40d8-ba61-88b6ec7af8e9",
+      "gmb_name": "Angels Plumbing & Heating"
+    },
+    {
+      "clientId": "9bbe3490-b692-4017-895d-bd5d21a9cf61",
+      "region": "us",
+      "business_name": "GKC Landscaping",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/9bbe3490-b692-4017-895d-bd5d21a9cf61",
+      "gmb_name": "GKC Landscaping Contractors"
+    },
+    {
+      "clientId": "a3759ee1-58d9-4469-8fc5-652aac607c3b",
+      "region": "us",
+      "business_name": "Alpha Omega Electric",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/a3759ee1-58d9-4469-8fc5-652aac607c3b",
+      "gmb_name": "Alpha Omega Electric"
+    },
+    {
+      "clientId": "eddc488b-9062-46ef-821a-22bb59d8be7a",
+      "region": "us",
+      "business_name": "OSO Construction",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/eddc488b-9062-46ef-821a-22bb59d8be7a",
+      "gmb_name": "OSO Construction & Materials"
+    },
+    {
+      "clientId": "5bb09b41-876a-4327-81ea-d7d531ea1795",
+      "region": "us",
+      "business_name": "Ed's Home Improvement",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/5bb09b41-876a-4327-81ea-d7d531ea1795",
+      "gmb_name": "Ed's Home Improvement"
+    },
+    {
+      "clientId": "16e94ba6-5245-4612-af37-393dace08663",
+      "region": "us",
+      "business_name": "East Coast Concrete",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/16e94ba6-5245-4612-af37-393dace08663",
+      "gmb_name": "East Coast Concrete"
+    },
+    {
+      "clientId": "1856a259-9496-499b-8edd-cbdabf292f45",
+      "region": "us",
+      "business_name": "Evergreen Ground Management Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/1856a259-9496-499b-8edd-cbdabf292f45",
+      "gmb_name": "EverGreen Ground Management"
+    },
+    {
+      "clientId": "49e9e2eb-a115-46a3-a94a-59cdaee798d5",
+      "region": "us",
+      "business_name": "Ming'S Contracting Dynasty",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/49e9e2eb-a115-46a3-a94a-59cdaee798d5",
+      "gmb_name": "Ming's Plumbing Inc DBA Ming's Contracting Dynasty"
+    },
+    {
+      "clientId": "03cac46e-c7f6-4fd0-a0c3-ba68fa2f44a2",
+      "region": "us",
+      "business_name": "Manny'S Ceramic Pro",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/03cac46e-c7f6-4fd0-a0c3-ba68fa2f44a2",
+      "gmb_name": "Manny’s Ceramic Pro Touch LLC (Liquid PPF & Ceramic Protection)"
+    },
+    {
+      "clientId": "216ed596-4599-426c-9d67-000dea74c0de",
+      "region": "us",
+      "business_name": "Solarium Energy",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/216ed596-4599-426c-9d67-000dea74c0de",
+      "gmb_name": "Solarium Energy Corp"
+    },
+    {
+      "clientId": "f67db333-c95c-4822-b203-80738707b3eb",
+      "region": "us",
+      "business_name": "Paradise Construction Dmv",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/f67db333-c95c-4822-b203-80738707b3eb",
+      "gmb_name": "Paradise Construction LLC"
+    },
+    {
+      "clientId": "b2dedfdd-b102-4a44-9623-59b82a80e6cf",
+      "region": "us",
+      "business_name": "Dynamic Cleaning Service",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/b2dedfdd-b102-4a44-9623-59b82a80e6cf",
+      "gmb_name": "Dynamic Cleaning Service"
+    },
+    {
+      "clientId": "e46ddc1f-055e-4a70-bf58-f62e0a745ee0",
+      "region": "br",
+      "business_name": "Dennis Construction Company Llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/br/client/e46ddc1f-055e-4a70-bf58-f62e0a745ee0",
+      "gmb_name": "Dennis construction company LLC"
+    },
+    {
+      "clientId": "5e87ec9f-d207-4678-acf7-5c1292ca90d9",
+      "region": "br",
+      "business_name": "Apc Painting Inc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/br/client/5e87ec9f-d207-4678-acf7-5c1292ca90d9",
+      "gmb_name": "DMCPAINTING LLC"
+    }
+  ],
+  "noEligible": [
+    {
+      "clientId": "c6f26398-59ff-41ba-8b0a-93e91db9beac",
+      "region": "us",
+      "business_name": "Jnd Services",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/c6f26398-59ff-41ba-8b0a-93e91db9beac"
+    },
+    {
+      "clientId": "ac40f17f-ae9a-4fd5-8ec9-84b634b0851d",
+      "region": "us",
+      "business_name": "365 Heating @ Cooling",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/ac40f17f-ae9a-4fd5-8ec9-84b634b0851d"
+    },
+    {
+      "clientId": "2fd05198-1922-47af-baf2-45519dd00e38",
+      "region": "us",
+      "business_name": "Edith'S Cleaning",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/2fd05198-1922-47af-baf2-45519dd00e38"
+    },
+    {
+      "clientId": "a4fe8ba1-998e-4a1d-a8e4-8bef13445af4",
+      "region": "us",
+      "business_name": "Aplus Improvements llc",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/a4fe8ba1-998e-4a1d-a8e4-8bef13445af4"
+    },
+    {
+      "clientId": "c41f2559-2ebd-4e25-94db-b91ad91f1298",
+      "region": "us",
+      "business_name": "Test Plumbing Co",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/c41f2559-2ebd-4e25-94db-b91ad91f1298"
+    },
+    {
+      "clientId": "0718bd0c-a5f9-4387-a9cc-e8c65f56e68f",
+      "region": "us",
+      "business_name": "W E Enterprise  Advanced Pro Refrigeration / (GMB)  Advanced Pro Refrigeration",
+      "legal_business_name": null,
+      "clientUrl": "https://click.acquisition-central.com/crm/us/client/0718bd0c-a5f9-4387-a9cc-e8c65f56e68f"
+    }
+  ],
+  "errors": []
+}

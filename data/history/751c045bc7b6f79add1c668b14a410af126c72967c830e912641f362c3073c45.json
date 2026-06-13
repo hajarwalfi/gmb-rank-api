@@ -1,0 +1,113 @@
+{
+  "business_id": "loc:892311591863253231",
+  "gmbKey": "loc:892311591863253231",
+  "business_name": "337paintingandcleaningllc",
+  "location": "locations/892311591863253231",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 6,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 40
+      },
+      "map_ranks": [
+        {
+          "keyword": "remodelación de oficinas en Westlake",
+          "rank": 7,
+          "volume": 6,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779052994850.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 4,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779052994850.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 4,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 16
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 4,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 14
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 4,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 6,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 40
+    },
+    "map_ranks": [
+      {
+        "keyword": "remodelación de oficinas en Westlake",
+        "rank": 7,
+        "volume": 6,
+        "daily_traffic": 0.5,
+        "estimated_clicks": 6,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779052994850.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 4,
+      "average_rating": 4,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779052994850.png"
+  },
+  "total_scans": 4
+}

@@ -1,0 +1,128 @@
+{
+  "business_id": "loc:5638022100311328010",
+  "gmbKey": "loc:5638022100311328010",
+  "business_name": "TI3D Martin SA corp",
+  "location": "locations/5638022100311328010",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Reparación de aire acondicionado Miami",
+          "rank": 27,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp38_1778279753365.png"
+        },
+        {
+          "keyword": "Servicio de aire acondicionado profesional Miami",
+          "rank": 41,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp41_1778279792941.png"
+        },
+        {
+          "keyword": "Mejor servicio de aire acondicionado Miami",
+          "rank": 22,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp21_1778279851252.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 23,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp38_1778279753365.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 11
+      },
+      "map_ranks": [
+        {
+          "keyword": "Reparación de aire acondicionado Miami",
+          "rank": 71,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r71_serp72_1778222801126.png"
+        },
+        {
+          "keyword": "Servicio de aire acondicionado profesional Miami",
+          "rank": 81,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r81_serp81_1778222848098.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 23,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r71_serp72_1778222801126.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 11
+    },
+    "map_ranks": [
+      {
+        "keyword": "Reparación de aire acondicionado Miami",
+        "rank": 27,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp38_1778279753365.png"
+      },
+      {
+        "keyword": "Servicio de aire acondicionado profesional Miami",
+        "rank": 41,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp41_1778279792941.png"
+      },
+      {
+        "keyword": "Mejor servicio de aire acondicionado Miami",
+        "rank": 22,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp21_1778279851252.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 23,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r27_serp38_1778279753365.png"
+  },
+  "total_scans": 2
+}

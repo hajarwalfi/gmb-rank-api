@@ -1,0 +1,104 @@
+{
+  "business_id": "loc:2001880415903449446",
+  "gmbKey": "loc:2001880415903449446",
+  "business_name": "M&M Air Conditioning",
+  "location": "locations/2001880415903449446",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 36
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top Rated HVAC Contractor Edinburg TX",
+          "rank": 49,
+          "volume": 17,
+          "daily_traffic": 3.4,
+          "estimated_clicks": 17,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778262967325.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 32,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778262967325.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 30
+      },
+      "map_ranks": [
+        {
+          "keyword": "Air Conditioning Repair Alton TX",
+          "rank": 19,
+          "volume": 17,
+          "daily_traffic": 3.4,
+          "estimated_clicks": 17,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp10_1778193827342.png"
+        },
+        {
+          "keyword": "Affordable HVAC Services McAllen TX",
+          "rank": 41,
+          "volume": 17,
+          "daily_traffic": 3.4,
+          "estimated_clicks": 17,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r41_serp42_1778193862359.png"
+        },
+        {
+          "keyword": "Top Rated HVAC Contractor Edinburg TX",
+          "rank": 43,
+          "volume": 17,
+          "daily_traffic": 3.4,
+          "estimated_clicks": 17,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r43_serp46_1778194055360.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 31,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp10_1778193827342.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 12,
+      "calls": 0,
+      "impressions": 36
+    },
+    "map_ranks": [
+      {
+        "keyword": "Top Rated HVAC Contractor Edinburg TX",
+        "rank": 49,
+        "volume": 17,
+        "daily_traffic": 3.4,
+        "estimated_clicks": 17,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778262967325.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 32,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp50_1778262967325.png"
+  },
+  "total_scans": 2
+}

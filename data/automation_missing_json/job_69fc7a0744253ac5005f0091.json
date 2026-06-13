@@ -1,0 +1,31 @@
+{
+  "jobId": "69fc7a0744253ac5005f0091",
+  "createdAt": "2026-05-07T11:39:52.254Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-07T11:39:20.097Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "8933379981938236041",
+      "locationTitle": "Elite Troop Pressure Washing & Painting"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8933379981938236041",
+      "locationTitle": "Elite Troop Pressure Washing & Painting"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/8933379981938236041",
+      "locationTitle": "Elite Troop Pressure Washing & Painting",
+      "gmbKey": "loc:8933379981938236041",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-07T11:44:26.890Z"
+    }
+  ],
+  "updatedAt": "2026-05-07T11:44:30.773Z"
+}

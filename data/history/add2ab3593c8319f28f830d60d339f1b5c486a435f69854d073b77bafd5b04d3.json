@@ -1,0 +1,112 @@
+{
+  "business_id": "loc:13960762505033195450",
+  "gmbKey": "loc:13960762505033195450",
+  "business_name": "Sur Fence & Gates",
+  "location": "locations/13960762505033195450",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 23
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable fence contractor South Salem NY",
+          "rank": 33,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp32_1778278510051.png"
+        },
+        {
+          "keyword": "Professional fencing solutions New Canaan CT 06840",
+          "rank": 51,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp51_1778278570533.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 21,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp32_1778278510051.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-08T05:25:00.770Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 5,
+        "calls": 0,
+        "impressions": 23
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional fencing solutions New Canaan CT 06840",
+          "rank": 49,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp49_1778221527617.png"
+        },
+        {
+          "keyword": "Best fence repair New Fairfield CT",
+          "rank": 22,
+          "volume": 5,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r22_serp23_1778221574811.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 21,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r49_serp49_1778221527617.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 5,
+      "calls": 0,
+      "impressions": 23
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable fence contractor South Salem NY",
+        "rank": 33,
+        "volume": 5,
+        "daily_traffic": 1.3,
+        "estimated_clicks": 5,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp32_1778278510051.png"
+      },
+      {
+        "keyword": "Professional fencing solutions New Canaan CT 06840",
+        "rank": 51,
+        "volume": 5,
+        "daily_traffic": 1.3,
+        "estimated_clicks": 5,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r51_serp51_1778278570533.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 21,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r33_serp32_1778278510051.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,107 @@
+{
+  "jobId": "6a10bd3cbda43682c12e049f",
+  "createdAt": "2026-05-22T20:31:57.092Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-22T20:31:55.666Z",
+  "status": "running",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "18101394736143809148",
+      "locationTitle": "A&A Painting Contractors Corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "6723287175865360944",
+      "locationTitle": "Andino Builders and Development"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11493835722459256282",
+      "locationTitle": "RICO. Painting, Drywall and Flooring"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16943427567081594211",
+      "locationTitle": "ROME HOME IMPROVEMENT LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16610689694648215456",
+      "locationTitle": "Singer's Outdoor Services"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18101394736143809148",
+      "locationTitle": "A&A Painting Contractors Corp"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6723287175865360944",
+      "locationTitle": "Andino Builders and Development"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11493835722459256282",
+      "locationTitle": "RICO. Painting, Drywall and Flooring"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16943427567081594211",
+      "locationTitle": "ROME HOME IMPROVEMENT LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16610689694648215456",
+      "locationTitle": "Singer's Outdoor Services"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/18101394736143809148",
+      "locationTitle": "A&A Painting Contractors Corp",
+      "gmbKey": "loc:18101394736143809148",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T09:31:19.591Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6723287175865360944",
+      "locationTitle": "Andino Builders and Development",
+      "gmbKey": "loc:6723287175865360944",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T09:32:43.033Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11493835722459256282",
+      "locationTitle": "RICO. Painting, Drywall and Flooring",
+      "gmbKey": "loc:11493835722459256282",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-25T09:34:53.220Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16943427567081594211",
+      "locationTitle": "ROME HOME IMPROVEMENT LLC",
+      "gmbKey": "loc:16943427567081594211",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-22T20:56:32.933Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16610689694648215456",
+      "locationTitle": "Singer's Outdoor Services",
+      "gmbKey": "loc:16610689694648215456",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-22T20:57:36.743Z"
+    }
+  ],
+  "updatedAt": "2026-05-25T09:34:53.394Z"
+}

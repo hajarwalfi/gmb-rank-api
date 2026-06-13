@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:6869022815481231549",
+  "gmbKey": "loc:6869022815481231549",
+  "business_name": "D2M carwash",
+  "location": "locations/6869022815481231549",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 29
+      },
+      "map_ranks": [
+        {
+          "keyword": "car detailing near me",
+          "rank": 53,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r53_serp57_1779122651769.png"
+        },
+        {
+          "keyword": "top rated car detailing Durham NC",
+          "rank": 5,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1779122749731.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 4.099999904632568,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r53_serp57_1779122651769.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 29
+    },
+    "map_ranks": [
+      {
+        "keyword": "car detailing near me",
+        "rank": 53,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r53_serp57_1779122651769.png"
+      },
+      {
+        "keyword": "top rated car detailing Durham NC",
+        "rank": 5,
+        "volume": 0,
+        "daily_traffic": 0,
+        "estimated_clicks": 0,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1779122749731.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 4.099999904632568,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r53_serp57_1779122651769.png"
+  },
+  "total_scans": 1
+}

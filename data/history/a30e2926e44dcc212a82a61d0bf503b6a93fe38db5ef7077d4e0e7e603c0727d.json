@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:579068556314215685",
+  "gmbKey": "loc:579068556314215685",
+  "business_name": "AJ REMODELING AND ROOFING LLC",
+  "location": "locations/579068556314215685",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 28,
+        "calls": 0,
+        "impressions": 39
+      },
+      "map_ranks": [
+        {
+          "keyword": "best roofing contractor near me",
+          "rank": 57,
+          "volume": 28,
+          "daily_traffic": 1.9,
+          "estimated_clicks": 28,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r57_serp60_1779099048372.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r57_serp60_1779099048372.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-17T20:32:15.437Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 28,
+        "calls": 0,
+        "impressions": 39
+      },
+      "map_ranks": [
+        {
+          "keyword": "best roofing contractor near me",
+          "rank": 70,
+          "volume": 28,
+          "daily_traffic": 1.9,
+          "estimated_clicks": 28,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r70_serp73_1779050124728.png"
+        },
+        {
+          "keyword": "emergency roofing services Carolina del Norte",
+          "rank": 1,
+          "volume": 28,
+          "daily_traffic": 1.9,
+          "estimated_clicks": 28,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779050456755.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 2,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r70_serp73_1779050124728.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 28,
+      "calls": 0,
+      "impressions": 39
+    },
+    "map_ranks": [
+      {
+        "keyword": "best roofing contractor near me",
+        "rank": 57,
+        "volume": 28,
+        "daily_traffic": 1.9,
+        "estimated_clicks": 28,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r57_serp60_1779099048372.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 2,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r57_serp60_1779099048372.png"
+  },
+  "total_scans": 2
+}

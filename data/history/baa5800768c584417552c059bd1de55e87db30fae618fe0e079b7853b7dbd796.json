@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:13742967147924397562",
+  "gmbKey": "loc:13742967147924397562",
+  "business_name": "Polar Bears Professional Service LLC",
+  "location": "locations/13742967147924397562",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-26T20:32:45.130Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 71
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 48,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-26T20:32:45.130Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 71
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 48,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

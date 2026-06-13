@@ -1,0 +1,138 @@
+{
+  "business_id": "loc:5699875588014970580",
+  "gmbKey": "loc:5699875588014970580",
+  "business_name": "Bay Area Deck Restoration",
+  "location": "locations/5699875588014970580",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 132
+      },
+      "map_ranks": [
+        {
+          "keyword": "constructor de terrazas San Pablo",
+          "rank": 1,
+          "volume": 10,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779108626416.png"
+        },
+        {
+          "keyword": "affordable constructor de terrazas San Pablo",
+          "rank": 4,
+          "volume": 10,
+          "daily_traffic": 0.7,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779108913388.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 11,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779108626416.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 6,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 30
+      },
+      "map_ranks": [
+        {
+          "keyword": "Deck restoration San Pablo",
+          "rank": 1,
+          "volume": 6,
+          "daily_traffic": 1.2,
+          "estimated_clicks": 6,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778234001046.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778234001046.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 21
+      },
+      "map_ranks": [
+        {
+          "keyword": "Deck restoration San Pablo",
+          "rank": 1,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778162350502.png"
+        },
+        {
+          "keyword": "Best deck maintenance services San Pablo",
+          "rank": 8,
+          "volume": 3,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 3,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp9_1778162796391.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778162350502.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 10,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 132
+    },
+    "map_ranks": [
+      {
+        "keyword": "constructor de terrazas San Pablo",
+        "rank": 1,
+        "volume": 10,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779108626416.png"
+      },
+      {
+        "keyword": "affordable constructor de terrazas San Pablo",
+        "rank": 4,
+        "volume": 10,
+        "daily_traffic": 0.7,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1779108913388.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 11,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779108626416.png"
+  },
+  "total_scans": 3
+}

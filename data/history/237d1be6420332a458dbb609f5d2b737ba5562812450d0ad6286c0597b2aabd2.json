@@ -1,0 +1,196 @@
+{
+  "business_id": "loc:10843283393182982396",
+  "gmbKey": "loc:10843283393182982396",
+  "business_name": "4cc landscape & construction",
+  "location": "locations/10843283393182982396",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 20,
+        "calls": 4,
+        "impressions": 84
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscaper in Lowell, AR",
+          "rank": 9,
+          "volume": 27,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 27,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779053509761.png"
+        },
+        {
+          "keyword": "affordable landscaping Rogers, AR",
+          "rank": 34,
+          "volume": 27,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 27,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r34_serp34_1779053593930.png"
+        },
+        {
+          "keyword": "best landscaper in Springdale",
+          "rank": 29,
+          "volume": 27,
+          "daily_traffic": 1.8,
+          "estimated_clicks": 27,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp30_1779053685884.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 17,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779053509761.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 26
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscaping services Lowell AR",
+          "rank": 13,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp20_1778226955765.png"
+        },
+        {
+          "keyword": "affordable landscaping Rogers AR",
+          "rank": 39,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp38_1778227000395.png"
+        },
+        {
+          "keyword": "top rated landscape construction Fayetteville AR",
+          "rank": 8,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp7_1778227057719.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 16,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp20_1778226955765.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 3,
+        "calls": 0,
+        "impressions": 26
+      },
+      "map_ranks": [
+        {
+          "keyword": "affordable landscaping Rogers AR",
+          "rank": 38,
+          "volume": 5,
+          "daily_traffic": 1,
+          "estimated_clicks": 5,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp39_1778214516247.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 16,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r38_serp39_1778214516247.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 2,
+        "calls": 0,
+        "impressions": 17
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscaping services Lowell AR",
+          "rank": 19,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1778156790424.png"
+        },
+        {
+          "keyword": "top rated landscape construction Fayetteville AR",
+          "rank": 11,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp12_1778157033145.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 16,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1778156790424.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 20,
+      "calls": 4,
+      "impressions": 84
+    },
+    "map_ranks": [
+      {
+        "keyword": "landscaper in Lowell, AR",
+        "rank": 9,
+        "volume": 27,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 27,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779053509761.png"
+      },
+      {
+        "keyword": "affordable landscaping Rogers, AR",
+        "rank": 34,
+        "volume": 27,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 27,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r34_serp34_1779053593930.png"
+      },
+      {
+        "keyword": "best landscaper in Springdale",
+        "rank": 29,
+        "volume": 27,
+        "daily_traffic": 1.8,
+        "estimated_clicks": 27,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r29_serp30_1779053685884.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 17,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779053509761.png"
+  },
+  "total_scans": 4
+}

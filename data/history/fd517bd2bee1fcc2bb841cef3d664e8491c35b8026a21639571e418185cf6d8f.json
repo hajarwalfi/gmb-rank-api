@@ -1,0 +1,120 @@
+{
+  "business_id": "loc:6044685205294367137",
+  "gmbKey": "loc:6044685205294367137",
+  "business_name": "JV mechanical heating and air services",
+  "location": "locations/6044685205294367137",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 70
+      },
+      "map_ranks": [
+        {
+          "keyword": "Thermostat installation services Fulton Maryland",
+          "rank": 10,
+          "volume": 4,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778257929847.png"
+        },
+        {
+          "keyword": "Top rated thermostat installation Crofton Maryland",
+          "rank": 75,
+          "volume": 4,
+          "daily_traffic": 0.8,
+          "estimated_clicks": 4,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r75_serp77_1778258156051.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 122,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778257929847.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 43
+      },
+      "map_ranks": [
+        {
+          "keyword": "Thermostat installation services Fulton Maryland",
+          "rank": 7,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1778189206397.png"
+        },
+        {
+          "keyword": "Emergency HVAC repair Columbia Maryland",
+          "rank": 78,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r78_serp80_1778189376150.png"
+        },
+        {
+          "keyword": "Top rated thermostat installation Crofton Maryland",
+          "rank": 69,
+          "volume": 2,
+          "daily_traffic": 0.5,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r69_serp71_1778189407728.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 122,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1778189206397.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 3,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 70
+    },
+    "map_ranks": [
+      {
+        "keyword": "Thermostat installation services Fulton Maryland",
+        "rank": 10,
+        "volume": 4,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 4,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778257929847.png"
+      },
+      {
+        "keyword": "Top rated thermostat installation Crofton Maryland",
+        "rank": 75,
+        "volume": 4,
+        "daily_traffic": 0.8,
+        "estimated_clicks": 4,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r75_serp77_1778258156051.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 122,
+      "average_rating": 4.900000095367432,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp10_1778257929847.png"
+  },
+  "total_scans": 2
+}

@@ -1,0 +1,196 @@
+{
+  "business_id": "loc:59476945430634031",
+  "gmbKey": "loc:59476945430634031",
+  "business_name": "3D'S landscaping services",
+  "location": "locations/59476945430634031",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 10,
+        "direction_requests": 11,
+        "calls": 3,
+        "impressions": 110
+      },
+      "map_ranks": [
+        {
+          "keyword": "landscaper in Selma, NC",
+          "rank": 25,
+          "volume": 24,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 24,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp21_1779053094084.png"
+        },
+        {
+          "keyword": "affordable landscaper in Wake County",
+          "rank": 1,
+          "volume": 24,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 24,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779053182796.png"
+        },
+        {
+          "keyword": "landscaping services in Johnston County",
+          "rank": 9,
+          "volume": 24,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 24,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779053408454.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 22,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp21_1779053094084.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 4,
+        "calls": 0,
+        "impressions": 29
+      },
+      "map_ranks": [
+        {
+          "keyword": "Landscaping services Selma NC",
+          "rank": 19,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp20_1778226485709.png"
+        },
+        {
+          "keyword": "Top rated landscaper Wake County NC",
+          "rank": 1,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778226691919.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 19,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp20_1778226485709.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T04:24:32.132Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 4,
+        "calls": 0,
+        "impressions": 29
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable landscaping Smithfield NC",
+          "rank": 11,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778214447213.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 19,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778214447213.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 4,
+        "calls": 0,
+        "impressions": 25
+      },
+      "map_ranks": [
+        {
+          "keyword": "Landscaping services Selma NC",
+          "rank": 19,
+          "volume": 8,
+          "daily_traffic": 2,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1778156327044.png"
+        },
+        {
+          "keyword": "Top rated landscaper Wake County NC",
+          "rank": 1,
+          "volume": 8,
+          "daily_traffic": 2,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778156508771.png"
+        },
+        {
+          "keyword": "Professional lawn care Harnett County NC",
+          "rank": 1,
+          "volume": 8,
+          "daily_traffic": 2,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778156628902.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 19,
+        "average_rating": 4.900000095367432,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r19_serp19_1778156327044.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 10,
+      "direction_requests": 11,
+      "calls": 3,
+      "impressions": 110
+    },
+    "map_ranks": [
+      {
+        "keyword": "landscaper in Selma, NC",
+        "rank": 25,
+        "volume": 24,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 24,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp21_1779053094084.png"
+      },
+      {
+        "keyword": "affordable landscaper in Wake County",
+        "rank": 1,
+        "volume": 24,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 24,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779053182796.png"
+      },
+      {
+        "keyword": "landscaping services in Johnston County",
+        "rank": 9,
+        "volume": 24,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 24,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp9_1779053408454.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 22,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp21_1779053094084.png"
+  },
+  "total_scans": 4
+}

@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:3762554411803947308",
+  "gmbKey": "loc:3762554411803947308",
+  "business_name": "Complete Home Solutions FL, LLC",
+  "location": "locations/3762554411803947308",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 5,
+        "direction_requests": 14,
+        "calls": 1,
+        "impressions": 96
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 9,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 5,
+      "direction_requests": 14,
+      "calls": 1,
+      "impressions": 96
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 9,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

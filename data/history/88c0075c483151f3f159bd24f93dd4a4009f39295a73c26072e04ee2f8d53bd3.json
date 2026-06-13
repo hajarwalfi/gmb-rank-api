@@ -1,0 +1,176 @@
+{
+  "business_id": "loc:14600552987235434954",
+  "gmbKey": "loc:14600552987235434954",
+  "business_name": "K&E Repair Solutions LLC",
+  "location": "locations/14600552987235434954",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 48
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roof inspection services Tampa FL",
+          "rank": 2,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1778258617770.png"
+        },
+        {
+          "keyword": "Affordable cabinet painting Valrico FL",
+          "rank": 97,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r97_serp97_1778258654315.png"
+        },
+        {
+          "keyword": "Professional exterior painting Lakeland FL",
+          "rank": 32,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1778258708931.png"
+        },
+        {
+          "keyword": "Best interior painting Plant City FL",
+          "rank": 39,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp40_1778258750883.png"
+        },
+        {
+          "keyword": "Top-rated roofing contractor Polk County FL",
+          "rank": 55,
+          "volume": 14,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r55_serp54_1778258785039.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 82,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1778258617770.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 12,
+        "calls": 0,
+        "impressions": 30
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roof inspection services Tampa FL",
+          "rank": 1,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778189760797.png"
+        },
+        {
+          "keyword": "Emergency drywall repair Brandon FL",
+          "rank": 72,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start60_r72_serp80_1778189971457.png"
+        },
+        {
+          "keyword": "Professional exterior painting Lakeland FL",
+          "rank": 32,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1778190009746.png"
+        },
+        {
+          "keyword": "Top-rated roofing contractor Polk County FL",
+          "rank": 46,
+          "volume": 12,
+          "daily_traffic": 3,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r46_serp60_1778190214000.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 82,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778189760797.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 12,
+      "calls": 0,
+      "impressions": 48
+    },
+    "map_ranks": [
+      {
+        "keyword": "Roof inspection services Tampa FL",
+        "rank": 2,
+        "volume": 14,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1778258617770.png"
+      },
+      {
+        "keyword": "Affordable cabinet painting Valrico FL",
+        "rank": 97,
+        "volume": 14,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r97_serp97_1778258654315.png"
+      },
+      {
+        "keyword": "Professional exterior painting Lakeland FL",
+        "rank": 32,
+        "volume": 14,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1778258708931.png"
+      },
+      {
+        "keyword": "Best interior painting Plant City FL",
+        "rank": 39,
+        "volume": 14,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp40_1778258750883.png"
+      },
+      {
+        "keyword": "Top-rated roofing contractor Polk County FL",
+        "rank": 55,
+        "volume": 14,
+        "daily_traffic": 2.8,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start40_r55_serp54_1778258785039.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 82,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp1_1778258617770.png"
+  },
+  "total_scans": 2
+}

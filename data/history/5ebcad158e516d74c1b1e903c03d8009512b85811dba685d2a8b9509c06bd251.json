@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:15351877601647715979",
+  "gmbKey": "loc:15351877601647715979",
+  "business_name": "Leomar Roofing",
+  "location": "locations/15351877601647715979",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 19
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 15,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 6,
+        "calls": 0,
+        "impressions": 17
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 15,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 6,
+      "calls": 0,
+      "impressions": 19
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 15,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

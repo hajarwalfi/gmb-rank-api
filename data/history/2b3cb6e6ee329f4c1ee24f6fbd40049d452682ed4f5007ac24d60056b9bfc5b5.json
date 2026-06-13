@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:10040719921196814792",
+  "gmbKey": "loc:10040719921196814792",
+  "business_name": "Brooclean Corp.",
+  "location": "locations/10040719921196814792",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-29T20:32:18.468Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 41,
+        "calls": 3,
+        "impressions": 174
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 64,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-29T20:32:18.468Z",
+    "traffic": {
+      "website_clicks": 9,
+      "direction_requests": 41,
+      "calls": 3,
+      "impressions": 174
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 64,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}

@@ -1,0 +1,78 @@
+{
+  "business_id": "loc:14139007292370822559",
+  "gmbKey": "loc:14139007292370822559",
+  "business_name": "EverGreen Ground Management",
+  "location": "locations/14139007292370822559",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 18,
+        "direction_requests": 13,
+        "calls": 9,
+        "impressions": 224
+      },
+      "map_ranks": [
+        {
+          "keyword": "best landscape designer Slidell, LA",
+          "rank": 37,
+          "volume": 40,
+          "daily_traffic": 2.7,
+          "estimated_clicks": 40,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779132580548.png"
+        },
+        {
+          "keyword": "top rated landscape designer Mandeville, LA",
+          "rank": 13,
+          "volume": 40,
+          "daily_traffic": 2.7,
+          "estimated_clicks": 40,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp12_1779132769691.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 49,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779132580548.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 18,
+      "direction_requests": 13,
+      "calls": 9,
+      "impressions": 224
+    },
+    "map_ranks": [
+      {
+        "keyword": "best landscape designer Slidell, LA",
+        "rank": 37,
+        "volume": 40,
+        "daily_traffic": 2.7,
+        "estimated_clicks": 40,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779132580548.png"
+      },
+      {
+        "keyword": "top rated landscape designer Mandeville, LA",
+        "rank": 13,
+        "volume": 40,
+        "daily_traffic": 2.7,
+        "estimated_clicks": 40,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r13_serp12_1779132769691.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 49,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r37_serp37_1779132580548.png"
+  },
+  "total_scans": 1
+}

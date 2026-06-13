@@ -1,0 +1,136 @@
+{
+  "business_id": "loc:10146086616799090076",
+  "gmbKey": "loc:10146086616799090076",
+  "business_name": "Arty's Pressure Washing Inc",
+  "location": "locations/10146086616799090076",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 0,
+        "calls": 6,
+        "impressions": 62
+      },
+      "map_ranks": [
+        {
+          "keyword": "pressure washing Monsey NY",
+          "rank": 3,
+          "volume": 14,
+          "daily_traffic": 1,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779106664471.png"
+        },
+        {
+          "keyword": "pressure washing service in Nyack NY",
+          "rank": 6,
+          "volume": 14,
+          "daily_traffic": 1,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779106842589.png"
+        },
+        {
+          "keyword": "best pressure washing New City NY",
+          "rank": 10,
+          "volume": 14,
+          "daily_traffic": 1,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp11_1779106956450.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 57,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779106664471.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-17T20:32:15.437Z",
+      "traffic": {
+        "website_clicks": 8,
+        "direction_requests": 0,
+        "calls": 6,
+        "impressions": 62
+      },
+      "map_ranks": [
+        {
+          "keyword": "pressure washing Monsey NY",
+          "rank": 7,
+          "volume": 14,
+          "daily_traffic": 1,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779050573673.png"
+        },
+        {
+          "keyword": "pressure washing service in Nyack NY",
+          "rank": 11,
+          "volume": 14,
+          "daily_traffic": 1,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1779050726548.png"
+        },
+        {
+          "keyword": "best pressure washing New City NY",
+          "rank": 9,
+          "volume": 14,
+          "daily_traffic": 1,
+          "estimated_clicks": 14,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r9_serp7_1779050818815.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 57,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r7_serp7_1779050573673.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 8,
+      "direction_requests": 0,
+      "calls": 6,
+      "impressions": 62
+    },
+    "map_ranks": [
+      {
+        "keyword": "pressure washing Monsey NY",
+        "rank": 3,
+        "volume": 14,
+        "daily_traffic": 1,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779106664471.png"
+      },
+      {
+        "keyword": "pressure washing service in Nyack NY",
+        "rank": 6,
+        "volume": 14,
+        "daily_traffic": 1,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1779106842589.png"
+      },
+      {
+        "keyword": "best pressure washing New City NY",
+        "rank": 10,
+        "volume": 14,
+        "daily_traffic": 1,
+        "estimated_clicks": 14,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r10_serp11_1779106956450.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 57,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r3_serp3_1779106664471.png"
+  },
+  "total_scans": 2
+}

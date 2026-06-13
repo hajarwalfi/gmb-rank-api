@@ -1,0 +1,31 @@
+{
+  "jobId": "69fd93ea6df8a885b2906ce9",
+  "createdAt": "2026-05-08T07:42:34.599Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-08T07:42:33.231Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "769968705873488448",
+      "locationTitle": "Gunners Painting LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/769968705873488448",
+      "locationTitle": "Gunners Painting LLC"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/769968705873488448",
+      "locationTitle": "Gunners Painting LLC",
+      "gmbKey": "loc:769968705873488448",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-08T07:44:58.622Z"
+    }
+  ],
+  "updatedAt": "2026-05-08T07:44:59.526Z"
+}

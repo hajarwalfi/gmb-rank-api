@@ -1,0 +1,104 @@
+{
+  "business_id": "loc:16132500585479110819",
+  "gmbKey": "loc:16132500585479110819",
+  "business_name": "ROOF PROTECTOR LLC",
+  "location": "locations/16132500585479110819",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 73
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency roof repair Springfield OR",
+          "rank": 20,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp19_1778275041470.png"
+        },
+        {
+          "keyword": "Best roofing services Florence OR",
+          "rank": 4,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778275089574.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 28,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp19_1778275041470.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 52
+      },
+      "map_ranks": [
+        {
+          "keyword": "Top rated roofing contractor Eugene OR",
+          "rank": 18,
+          "volume": 10,
+          "daily_traffic": 2,
+          "estimated_clicks": 10,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp18_1778207916528.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 28,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r18_serp18_1778207916528.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 10,
+      "calls": 0,
+      "impressions": 73
+    },
+    "map_ranks": [
+      {
+        "keyword": "Emergency roof repair Springfield OR",
+        "rank": 20,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp19_1778275041470.png"
+      },
+      {
+        "keyword": "Best roofing services Florence OR",
+        "rank": 4,
+        "volume": 10,
+        "daily_traffic": 2,
+        "estimated_clicks": 10,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778275089574.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 28,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r20_serp19_1778275041470.png"
+  },
+  "total_scans": 2
+}

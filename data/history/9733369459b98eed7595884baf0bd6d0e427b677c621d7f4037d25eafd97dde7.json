@@ -1,0 +1,105 @@
+{
+  "business_id": "loc:11462276506211639578",
+  "gmbKey": "loc:11462276506211639578",
+  "business_name": "Babylon Garden Landscape & Construction Inc.",
+  "location": "locations/11462276506211639578",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 1,
+        "impressions": 23
+      },
+      "map_ranks": [
+        {
+          "keyword": "masonry contractor Ramsey NJ",
+          "rank": 83,
+          "volume": 1,
+          "daily_traffic": 0.1,
+          "estimated_clicks": 1,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r83_serp84_1779107362792.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r83_serp84_1779107362792.png"
+    },
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T07:45:01.317Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 3
+      },
+      "map_ranks": [
+        {
+          "keyword": "Professional masonry contractor Mahwah NJ 07430",
+          "rank": 86,
+          "volume": 0,
+          "daily_traffic": 0,
+          "estimated_clicks": 0,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r86_serp87_1778232518401.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r86_serp87_1778232518401.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 1
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 0,
+        "average_rating": 0,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 0,
+      "calls": 1,
+      "impressions": 23
+    },
+    "map_ranks": [
+      {
+        "keyword": "masonry contractor Ramsey NJ",
+        "rank": 83,
+        "volume": 1,
+        "daily_traffic": 0.1,
+        "estimated_clicks": 1,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r83_serp84_1779107362792.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 0,
+      "average_rating": 0,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start80_r83_serp84_1779107362792.png"
+  },
+  "total_scans": 3
+}

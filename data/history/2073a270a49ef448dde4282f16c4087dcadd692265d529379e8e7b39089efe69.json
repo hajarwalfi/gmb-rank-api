@@ -1,0 +1,176 @@
+{
+  "business_id": "loc:13759635652810328881",
+  "gmbKey": "loc:13759635652810328881",
+  "business_name": "Roof City Inc",
+  "location": "locations/13759635652810328881",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 80
+      },
+      "map_ranks": [
+        {
+          "keyword": "Roof inspection Rio Linda CA",
+          "rank": 1,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778274601918.png"
+        },
+        {
+          "keyword": "Emergency roof repair North Highlands CA",
+          "rank": 1,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778274635877.png"
+        },
+        {
+          "keyword": "Affordable roof installation Citrus Heights CA",
+          "rank": 4,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778274667712.png"
+        },
+        {
+          "keyword": "Professional gutter repair Antelope CA",
+          "rank": 26,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp25_1778274700627.png"
+        },
+        {
+          "keyword": "Best skylight installation Sacramento CA",
+          "rank": 8,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp6_1778274781096.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 30,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778274601918.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 0,
+        "calls": 0,
+        "impressions": 61
+      },
+      "map_ranks": [
+        {
+          "keyword": "Emergency roof repair North Highlands CA",
+          "rank": 1,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778207633155.png"
+        },
+        {
+          "keyword": "Affordable roof installation Citrus Heights CA",
+          "rank": 5,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r5_serp5_1778207675764.png"
+        },
+        {
+          "keyword": "Professional gutter repair Antelope CA",
+          "rank": 25,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r25_serp27_1778207824754.png"
+        },
+        {
+          "keyword": "Best skylight installation Sacramento CA",
+          "rank": 6,
+          "volume": 2,
+          "daily_traffic": 0.4,
+          "estimated_clicks": 2,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778207863867.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 30,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778207633155.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 0,
+      "calls": 0,
+      "impressions": 80
+    },
+    "map_ranks": [
+      {
+        "keyword": "Roof inspection Rio Linda CA",
+        "rank": 1,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778274601918.png"
+      },
+      {
+        "keyword": "Emergency roof repair North Highlands CA",
+        "rank": 1,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp2_1778274635877.png"
+      },
+      {
+        "keyword": "Affordable roof installation Citrus Heights CA",
+        "rank": 4,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r4_serp4_1778274667712.png"
+      },
+      {
+        "keyword": "Professional gutter repair Antelope CA",
+        "rank": 26,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r26_serp25_1778274700627.png"
+      },
+      {
+        "keyword": "Best skylight installation Sacramento CA",
+        "rank": 8,
+        "volume": 2,
+        "daily_traffic": 0.4,
+        "estimated_clicks": 2,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp6_1778274781096.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 30,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1778274601918.png"
+  },
+  "total_scans": 2
+}

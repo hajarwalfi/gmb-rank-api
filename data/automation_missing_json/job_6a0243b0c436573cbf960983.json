@@ -1,0 +1,31 @@
+{
+  "jobId": "6a0243b0c436573cbf960983",
+  "createdAt": "2026-05-11T21:01:37.208Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-11T21:01:36.110Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "6792279944126378288",
+      "locationTitle": "Osorio's Cleaning Service"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6792279944126378288",
+      "locationTitle": "Osorio's Cleaning Service"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6792279944126378288",
+      "locationTitle": "Osorio's Cleaning Service",
+      "gmbKey": "loc:6792279944126378288",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-11T21:10:35.056Z"
+    }
+  ],
+  "updatedAt": "2026-05-11T21:10:36.157Z"
+}

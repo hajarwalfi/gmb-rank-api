@@ -1,0 +1,96 @@
+{
+  "business_id": "loc:4184322016834380586",
+  "gmbKey": "loc:4184322016834380586",
+  "business_name": "Neat Services Inc",
+  "location": "locations/4184322016834380586",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 59
+      },
+      "map_ranks": [
+        {
+          "keyword": "Free roofing inspection Queens NY",
+          "rank": 35,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp36_1778267711615.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 145,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp36_1778267711615.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 0,
+        "direction_requests": 8,
+        "calls": 0,
+        "impressions": 46
+      },
+      "map_ranks": [
+        {
+          "keyword": "Free roofing inspection Queens NY",
+          "rank": 28,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp30_1778199598373.png"
+        },
+        {
+          "keyword": "Best asphalt shingle replacement Astoria Queens NY",
+          "rank": 32,
+          "volume": 8,
+          "daily_traffic": 1.6,
+          "estimated_clicks": 8,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r32_serp32_1778199699502.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 145,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r28_serp30_1778199598373.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 0,
+      "direction_requests": 8,
+      "calls": 0,
+      "impressions": 59
+    },
+    "map_ranks": [
+      {
+        "keyword": "Free roofing inspection Queens NY",
+        "rank": 35,
+        "volume": 8,
+        "daily_traffic": 1.6,
+        "estimated_clicks": 8,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp36_1778267711615.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 145,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r35_serp36_1778267711615.png"
+  },
+  "total_scans": 2
+}

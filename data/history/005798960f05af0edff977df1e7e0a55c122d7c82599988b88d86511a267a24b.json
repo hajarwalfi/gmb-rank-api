@@ -1,0 +1,88 @@
+{
+  "business_id": "loc:7545701367706636945",
+  "gmbKey": "loc:7545701367706636945",
+  "business_name": "Franla Construction Corp",
+  "location": "locations/7545701367706636945",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 11,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "Servicios de construcción en Beaumont, California",
+          "rank": 8,
+          "volume": 12,
+          "daily_traffic": 2.4,
+          "estimated_clicks": 12,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778249458145.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778249458145.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 1,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 9
+      },
+      "map_ranks": [
+        {
+          "keyword": "Servicios de construcción en Beaumont, California",
+          "rank": 11,
+          "volume": 11,
+          "daily_traffic": 2.8,
+          "estimated_clicks": 11,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778177985368.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 4,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778177985368.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 1,
+      "direction_requests": 11,
+      "calls": 0,
+      "impressions": 9
+    },
+    "map_ranks": [
+      {
+        "keyword": "Servicios de construcción en Beaumont, California",
+        "rank": 8,
+        "volume": 12,
+        "daily_traffic": 2.4,
+        "estimated_clicks": 12,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778249458145.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 4,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r8_serp8_1778249458145.png"
+  },
+  "total_scans": 2
+}

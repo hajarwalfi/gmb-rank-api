@@ -1,0 +1,168 @@
+{
+  "business_id": "loc:1130991212444419000",
+  "gmbKey": "loc:1130991212444419000",
+  "business_name": "OC House Cleaning",
+  "location": "locations/1130991212444419000",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 4,
+        "direction_requests": 22,
+        "calls": 0,
+        "impressions": 108
+      },
+      "map_ranks": [
+        {
+          "keyword": "Affordable house cleaning Orange CA",
+          "rank": 6,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778269159676.png"
+        },
+        {
+          "keyword": "Top rated cleaning services Tustin CA",
+          "rank": 11,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778269201312.png"
+        },
+        {
+          "keyword": "Professional home cleaning Anaheim CA",
+          "rank": 14,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp13_1778269230780.png"
+        },
+        {
+          "keyword": "Emergency cleaning service Santa Ana CA",
+          "rank": 2,
+          "volume": 26,
+          "daily_traffic": 5.2,
+          "estimated_clicks": 26,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778269314565.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 109,
+        "average_rating": 4.699999809265137,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778269159676.png"
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 3,
+        "direction_requests": 22,
+        "calls": 0,
+        "impressions": 83
+      },
+      "map_ranks": [
+        {
+          "keyword": "House cleaning service Irvine CA",
+          "rank": 39,
+          "volume": 25,
+          "daily_traffic": 5,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp38_1778201569159.png"
+        },
+        {
+          "keyword": "Affordable house cleaning Orange CA",
+          "rank": 6,
+          "volume": 25,
+          "daily_traffic": 5,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778201650278.png"
+        },
+        {
+          "keyword": "Top rated cleaning services Tustin CA",
+          "rank": 12,
+          "volume": 25,
+          "daily_traffic": 5,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r12_serp15_1778201705948.png"
+        },
+        {
+          "keyword": "Professional home cleaning Anaheim CA",
+          "rank": 15,
+          "volume": 25,
+          "daily_traffic": 5,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r15_serp15_1778201746958.png"
+        },
+        {
+          "keyword": "Emergency cleaning service Santa Ana CA",
+          "rank": 2,
+          "volume": 25,
+          "daily_traffic": 5,
+          "estimated_clicks": 25,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778201777713.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 109,
+        "average_rating": 4.699999809265137,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start20_r39_serp38_1778201569159.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 4,
+      "direction_requests": 22,
+      "calls": 0,
+      "impressions": 108
+    },
+    "map_ranks": [
+      {
+        "keyword": "Affordable house cleaning Orange CA",
+        "rank": 6,
+        "volume": 26,
+        "daily_traffic": 5.2,
+        "estimated_clicks": 26,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778269159676.png"
+      },
+      {
+        "keyword": "Top rated cleaning services Tustin CA",
+        "rank": 11,
+        "volume": 26,
+        "daily_traffic": 5.2,
+        "estimated_clicks": 26,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r11_serp11_1778269201312.png"
+      },
+      {
+        "keyword": "Professional home cleaning Anaheim CA",
+        "rank": 14,
+        "volume": 26,
+        "daily_traffic": 5.2,
+        "estimated_clicks": 26,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r14_serp13_1778269230780.png"
+      },
+      {
+        "keyword": "Emergency cleaning service Santa Ana CA",
+        "rank": 2,
+        "volume": 26,
+        "daily_traffic": 5.2,
+        "estimated_clicks": 26,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r2_serp2_1778269314565.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 109,
+      "average_rating": 4.699999809265137,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r6_serp6_1778269159676.png"
+  },
+  "total_scans": 2
+}

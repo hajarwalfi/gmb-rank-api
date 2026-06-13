@@ -1,0 +1,145 @@
+{
+  "jobId": "6a0f6bbdc3df8f902ae4848e",
+  "createdAt": "2026-05-21T20:31:58.487Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-21T20:31:56.994Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2711808810456264290",
+      "locationTitle": "Alejandros Remodeling LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "17148211282739959162",
+      "locationTitle": "E&C Landscaping Solutions LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "16149240555459048567",
+      "locationTitle": "Gil’s Window Cleaning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2888910647665547562",
+      "locationTitle": "Grass monkey landscaping llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "4411942619254309326",
+      "locationTitle": "Progressive Landscaping & Fencing"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "6109210288684267848",
+      "locationTitle": "R&S Remodeling"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "11587454799137614545",
+      "locationTitle": "Sánchez’s landscape"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2711808810456264290",
+      "locationTitle": "Alejandros Remodeling LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17148211282739959162",
+      "locationTitle": "E&C Landscaping Solutions LLC"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16149240555459048567",
+      "locationTitle": "Gil’s Window Cleaning"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2888910647665547562",
+      "locationTitle": "Grass monkey landscaping llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4411942619254309326",
+      "locationTitle": "Progressive Landscaping & Fencing"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6109210288684267848",
+      "locationTitle": "R&S Remodeling"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11587454799137614545",
+      "locationTitle": "Sánchez’s landscape"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2711808810456264290",
+      "locationTitle": "Alejandros Remodeling LLC",
+      "gmbKey": "loc:2711808810456264290",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-21T20:32:59.852Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/17148211282739959162",
+      "locationTitle": "E&C Landscaping Solutions LLC",
+      "gmbKey": "loc:17148211282739959162",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-21T20:46:32.748Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/16149240555459048567",
+      "locationTitle": "Gil’s Window Cleaning",
+      "gmbKey": "loc:16149240555459048567",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-21T20:55:18.314Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2888910647665547562",
+      "locationTitle": "Grass monkey landscaping llc",
+      "gmbKey": "loc:2888910647665547562",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-21T20:57:11.084Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/4411942619254309326",
+      "locationTitle": "Progressive Landscaping & Fencing",
+      "gmbKey": "loc:4411942619254309326",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-21T20:58:21.600Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/6109210288684267848",
+      "locationTitle": "R&S Remodeling",
+      "gmbKey": "loc:6109210288684267848",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-21T21:06:38.949Z"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/11587454799137614545",
+      "locationTitle": "Sánchez’s landscape",
+      "gmbKey": "loc:11587454799137614545",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-21T21:11:19.188Z"
+    }
+  ],
+  "updatedAt": "2026-05-21T21:11:20.137Z"
+}

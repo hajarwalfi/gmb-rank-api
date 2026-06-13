@@ -1,0 +1,61 @@
+{
+  "business_id": "loc:3260879597566897883",
+  "gmbKey": "loc:3260879597566897883",
+  "business_name": "Green Mount Landscape LLC",
+  "location": "locations/3260879597566897883",
+  "scans": [
+    {
+      "scan_id": "scan_002",
+      "scanned_at": "2026-05-08T13:35:01.225Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 24
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    },
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-07T12:10:00.951Z",
+      "traffic": {
+        "website_clicks": 2,
+        "direction_requests": 10,
+        "calls": 0,
+        "impressions": 17
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 3,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_002",
+    "scanned_at": "2026-05-08T13:35:01.225Z",
+    "traffic": {
+      "website_clicks": 2,
+      "direction_requests": 10,
+      "calls": 0,
+      "impressions": 24
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 3,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 2
+}

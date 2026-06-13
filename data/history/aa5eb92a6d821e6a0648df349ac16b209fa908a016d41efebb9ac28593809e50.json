@@ -1,0 +1,94 @@
+{
+  "business_id": "loc:17413669496615015515",
+  "gmbKey": "loc:17413669496615015515",
+  "business_name": "ABP All Bay Plumbing Inc",
+  "location": "locations/17413669496615015515",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-17T21:05:01.250Z",
+      "traffic": {
+        "website_clicks": 6,
+        "direction_requests": 12,
+        "calls": 2,
+        "impressions": 124
+      },
+      "map_ranks": [
+        {
+          "keyword": "faucet installation in Modesto",
+          "rank": 16,
+          "volume": 20,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 20,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779057596644.png"
+        },
+        {
+          "keyword": "leak repair near me",
+          "rank": 1,
+          "volume": 20,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 20,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779057740635.png"
+        },
+        {
+          "keyword": "toilet installation in Stockton",
+          "rank": 1,
+          "volume": 20,
+          "daily_traffic": 1.3,
+          "estimated_clicks": 20,
+          "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779057864683.png"
+        }
+      ],
+      "reviews": {
+        "total_count": 18,
+        "average_rating": 4.800000190734863,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779057596644.png"
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-17T21:05:01.250Z",
+    "traffic": {
+      "website_clicks": 6,
+      "direction_requests": 12,
+      "calls": 2,
+      "impressions": 124
+    },
+    "map_ranks": [
+      {
+        "keyword": "faucet installation in Modesto",
+        "rank": 16,
+        "volume": 20,
+        "daily_traffic": 1.3,
+        "estimated_clicks": 20,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779057596644.png"
+      },
+      {
+        "keyword": "leak repair near me",
+        "rank": 1,
+        "volume": 20,
+        "daily_traffic": 1.3,
+        "estimated_clicks": 20,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779057740635.png"
+      },
+      {
+        "keyword": "toilet installation in Stockton",
+        "rank": 1,
+        "volume": 20,
+        "daily_traffic": 1.3,
+        "estimated_clicks": 20,
+        "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r1_serp1_1779057864683.png"
+      }
+    ],
+    "reviews": {
+      "total_count": 18,
+      "average_rating": 4.800000190734863,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": "/api/outputs/screenshots/google_udm1_start0_r16_serp16_1779057596644.png"
+  },
+  "total_scans": 1
+}

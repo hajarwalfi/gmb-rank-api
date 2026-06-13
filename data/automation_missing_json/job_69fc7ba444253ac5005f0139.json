@@ -1,0 +1,31 @@
+{
+  "jobId": "69fc7ba444253ac5005f0139",
+  "createdAt": "2026-05-07T11:46:45.052Z",
+  "allLocations": false,
+  "scheduledAt": "2026-05-07T11:46:43.619Z",
+  "status": "completed",
+  "expectedTargets": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "2941962860397160218",
+      "locationTitle": "Ac hardwood Floors llc"
+    },
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2941962860397160218",
+      "locationTitle": "Ac hardwood Floors llc"
+    }
+  ],
+  "outcomes": [
+    {
+      "accountId": "accounts/110510945243401146545",
+      "locationId": "locations/2941962860397160218",
+      "locationTitle": "Ac hardwood Floors llc",
+      "gmbKey": "loc:2941962860397160218",
+      "persistedToHistory": true,
+      "reason": "saved",
+      "at": "2026-05-07T11:56:07.626Z"
+    }
+  ],
+  "updatedAt": "2026-05-07T11:56:10.038Z"
+}

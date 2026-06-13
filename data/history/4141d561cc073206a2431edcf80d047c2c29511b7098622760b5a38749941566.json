@@ -1,0 +1,44 @@
+{
+  "business_id": "loc:9837285604025732212",
+  "gmbKey": "loc:9837285604025732212",
+  "business_name": "Essential Engineering Plumbing & Rooter",
+  "location": "locations/9837285604025732212",
+  "scans": [
+    {
+      "scan_id": "scan_001",
+      "scanned_at": "2026-05-18T09:05:01.190Z",
+      "traffic": {
+        "website_clicks": 9,
+        "direction_requests": 14,
+        "calls": 0,
+        "impressions": 56
+      },
+      "map_ranks": [],
+      "reviews": {
+        "total_count": 18,
+        "average_rating": 5,
+        "new_since_last_scan": 0
+      },
+      "screenshot_url": null
+    }
+  ],
+  "snapshots": [],
+  "latest_scan": {
+    "scan_id": "scan_001",
+    "scanned_at": "2026-05-18T09:05:01.190Z",
+    "traffic": {
+      "website_clicks": 9,
+      "direction_requests": 14,
+      "calls": 0,
+      "impressions": 56
+    },
+    "map_ranks": [],
+    "reviews": {
+      "total_count": 18,
+      "average_rating": 5,
+      "new_since_last_scan": 0
+    },
+    "screenshot_url": null
+  },
+  "total_scans": 1
+}
