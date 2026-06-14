@@ -9,7 +9,7 @@ import { chromium } from 'playwright-core';
 const require = createRequire(import.meta.url);
 
 // Import the root config/fathom.js (from src/services -> ../../ -> project root config/)
-const { fathomAPI } = require('../../config/fathom.js');
+const { fathomAPI } = require('../../config/fathom.cjs');
 
 function makeOperationalError({ message, code, hint, statusCode = 400, details = null }) {
   const err = new Error(message);

@@ -32,7 +32,7 @@ const FETCH_GBP_CURRENT =
 const require = createRequire(import.meta.url);
 
 function getGmbClient() {
-  return require(path.resolve(__dirname, '../../config/gmb.js'));
+  return require(path.resolve(__dirname, '../../config/gmb.cjs'));
 }
 
 export function currentMonthId(d = new Date()) {

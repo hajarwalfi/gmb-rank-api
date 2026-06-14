@@ -28,7 +28,7 @@ function crmHeaders() {
 }
 
 function getGmbClient() {
-  const parentGmbPath = path.resolve(__dirname, '../../config/gmb.js');
+  const parentGmbPath = path.resolve(__dirname, '../../config/gmb.cjs');
   return require(parentGmbPath);
 }
 

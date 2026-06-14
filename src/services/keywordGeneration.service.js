@@ -22,7 +22,7 @@ export function randomIntInclusive(min, max) {
 
 function getSharedOpenAiClient() {
   try {
-    const shared = require('../../config/openai.js');
+    const shared = require('../../config/openai.cjs');
     if (shared && shared.chat?.completions?.create) return shared;
   } catch {
     // fall through to env-based client

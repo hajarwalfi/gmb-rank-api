@@ -23,7 +23,7 @@ const require = createRequire(import.meta.url);
 
 function getSharedOpenAiClient() {
   try {
-    const shared = require('../../config/openai.js');
+    const shared = require('../../config/openai.cjs');
     if (shared && shared.chat?.completions?.create) return shared;
   } catch {
     // fallback to env-backed client

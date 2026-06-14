@@ -20,7 +20,7 @@ let _snapshotRefreshInFlight = null;
  * Uses parent repo config/gmb.js. Ensure GMB_* env vars are set (same as parent).
  */
 function getGmbClient() {
-  const parentGmbPath = path.resolve(__dirname, '../../config/gmb.js');
+  const parentGmbPath = path.resolve(__dirname, '../../config/gmb.cjs');
   return require(parentGmbPath);
 }
 

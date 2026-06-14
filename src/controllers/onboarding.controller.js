@@ -6,7 +6,7 @@ import { buildAnalysisFromFlatResults } from '../config/checklistData.js';
 import { createRequire } from 'module';
 import axios from 'axios';
 const require = createRequire(import.meta.url);
-const openai = require('../../config/openai.js');
+const openai = require('../../config/openai.cjs');
 
 const FATHOM_API_BASE = 'https://api.fathom.ai/external/v1';
 // Fathom API Keys from .env

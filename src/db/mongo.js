@@ -12,7 +12,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
  */
 function loadRootDatabaseConfig() {
   try {
-    const abs = path.resolve(__dirname, '../../config/database.js');
+    const abs = path.resolve(__dirname, '../../config/database.cjs');
     const mod = require(abs);
     const uri = mod.MONGODB_URI != null ? String(mod.MONGODB_URI).trim() : '';
     const dbName =

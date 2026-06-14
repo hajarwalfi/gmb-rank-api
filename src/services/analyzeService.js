@@ -5,7 +5,7 @@
 
 import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
-const openai = require('../../config/openai.js'); // Root config CommonJS
+const openai = require('../../config/openai.cjs'); // Root config CommonJS
 
 import { CHECKLIST_DATA, flattenChecklist, buildAnalysisFromFlatResults } from '../config/checklistData.js';
 
