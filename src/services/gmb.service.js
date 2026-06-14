@@ -1,4 +1,4 @@
-import { createRequire } from 'module';
+﻿import { createRequire } from 'module';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import fs from 'fs/promises';
@@ -20,7 +20,7 @@ let _snapshotRefreshInFlight = null;
  * Uses parent repo config/gmb.js. Ensure GMB_* env vars are set (same as parent).
  */
 function getGmbClient() {
-  const parentGmbPath = path.resolve(__dirname, '../../../../config/gmb.js');
+  const parentGmbPath = path.resolve(__dirname, '../../config/gmb.js');
   return require(parentGmbPath);
 }
 

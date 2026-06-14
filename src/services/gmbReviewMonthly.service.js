@@ -1,4 +1,4 @@
-import fs from 'fs';
+﻿import fs from 'fs';
 import fsp from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -32,7 +32,7 @@ const FETCH_GBP_CURRENT =
 const require = createRequire(import.meta.url);
 
 function getGmbClient() {
-  return require(path.resolve(__dirname, '../../../../config/gmb.js'));
+  return require(path.resolve(__dirname, '../../config/gmb.js'));
 }
 
 export function currentMonthId(d = new Date()) {

@@ -1,4 +1,4 @@
-import fs from 'fs';
+﻿import fs from 'fs';
 import fsp from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -18,7 +18,7 @@ const CONCURRENCY = Number(process.env.GMB_REVIEW_TRACKING_CONCURRENCY || 3);
 const require = createRequire(import.meta.url);
 
 function getGmbClient() {
-  return require(path.resolve(__dirname, '../../../../config/gmb.js'));
+  return require(path.resolve(__dirname, '../../config/gmb.js'));
 }
 
 function appendLog(payload) {

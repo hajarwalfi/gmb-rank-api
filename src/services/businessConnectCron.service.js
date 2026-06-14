@@ -1,4 +1,4 @@
-import fs from 'fs';
+﻿import fs from 'fs';
 import fsp from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -28,7 +28,7 @@ function crmHeaders() {
 }
 
 function getGmbClient() {
-  const parentGmbPath = path.resolve(__dirname, '../../../../config/gmb.js');
+  const parentGmbPath = path.resolve(__dirname, '../../config/gmb.js');
   return require(parentGmbPath);
 }
 

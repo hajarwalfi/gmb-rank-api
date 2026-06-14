@@ -1,4 +1,4 @@
-import * as FathomService from '../services/fathomService.js';
+﻿import * as FathomService from '../services/fathomService.js';
 import * as AnalyzeService from '../services/analyzeService.js';
 import * as ScoreCalculator from '../services/scoreCalculator.js';
 import * as Repository from '../repositories/fathomOnboarding.repository.js';
@@ -6,7 +6,7 @@ import { buildAnalysisFromFlatResults } from '../config/checklistData.js';
 import { createRequire } from 'module';
 import axios from 'axios';
 const require = createRequire(import.meta.url);
-const openai = require('../../../../config/openai.js');
+const openai = require('../../config/openai.js');
 
 const FATHOM_API_BASE = 'https://api.fathom.ai/external/v1';
 // Fathom API Keys from .env

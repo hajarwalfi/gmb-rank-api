@@ -1,4 +1,4 @@
-/**
+﻿/**
  * DataForSEO Local Finder → rank_absolute → check_url → Scrapfly Screenshot API + cloud browser → screenshot
  */
 
@@ -23,7 +23,7 @@ const require = createRequire(import.meta.url);
 
 function getSharedOpenAiClient() {
   try {
-    const shared = require('../../../../config/openai.js');
+    const shared = require('../../config/openai.js');
     if (shared && shared.chat?.completions?.create) return shared;
   } catch {
     // fallback to env-backed client

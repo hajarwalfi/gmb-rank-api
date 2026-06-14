@@ -1,4 +1,4 @@
-import axios from 'axios';
+﻿import axios from 'axios';
 import { config } from '../config/index.js';
 import fs from 'fs';
 import path from 'path';
@@ -10,7 +10,7 @@ const require = createRequire(import.meta.url);
 const SERVER_ROOT = path.resolve(__dirname, '../../');
 const GMB_SNAPSHOT_PATH = path.join(SERVER_ROOT, 'data', 'gmb_connected_businesses.json');
 const ACTIVE_GMB_PATH = path.join(SERVER_ROOT, 'data', 'active-gmb.json');
-const PARENT_GMB_PATH = path.resolve(__dirname, '../../../../config/gmb.js');
+const PARENT_GMB_PATH = path.resolve(__dirname, '../../config/gmb.js');
 
 let cachedToken = null;
 let tokenExpiry = 0;

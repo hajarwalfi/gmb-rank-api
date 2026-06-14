@@ -1,4 +1,4 @@
-/**
+﻿/**
  * OpenAI-powered local SEO keyword generation for Google Maps ranking scans.
  * Prefers shared root OpenAI client config, falls back to env-based client.
  */
@@ -22,7 +22,7 @@ export function randomIntInclusive(min, max) {
 
 function getSharedOpenAiClient() {
   try {
-    const shared = require('../../../../config/openai.js');
+    const shared = require('../../config/openai.js');
     if (shared && shared.chat?.completions?.create) return shared;
   } catch {
     // fall through to env-based client
