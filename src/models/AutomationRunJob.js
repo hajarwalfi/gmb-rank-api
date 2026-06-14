@@ -54,7 +54,7 @@ const resultSchema = new mongoose.Schema(
       default: [],
     },
   },
-  { _id: false }
+  { _id: false, suppressReservedKeysWarning: true }
 );
 
 const automationRunJobSchema = new mongoose.Schema(
