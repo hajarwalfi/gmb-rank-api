@@ -1,3 +1,6 @@
+import { webcrypto } from 'crypto';
+if (!globalThis.crypto) globalThis.crypto = webcrypto;
+
 import util from 'util';
 import dotenv from 'dotenv';
 import path from 'path';
