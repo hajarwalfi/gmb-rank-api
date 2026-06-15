@@ -12,6 +12,8 @@ const EXPLICIT_ORIGINS = [
   'https://google-search-ranking-api.synoventum.us.cc',
   'https://www.google-search-ranking-api.synoventum.us.cc',
   'https://5892c2a2-af8f-4eb4-b421-2b0d5b5a50ae.lovableproject.com',
+  'https://gmb-rank-dashboard.vercel.app',
+  'https://www.gmb-rank-dashboard.vercel.app',
 ];
 
 const ORIGIN_PATTERNS = [
