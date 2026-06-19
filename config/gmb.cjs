@@ -24,6 +24,52 @@ class GMBAPI {
     const token = await this.getAccessToken();
     return { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json', Accept: 'application/json' };
   }
+
+  async listAccounts() {
+    const headers = await this.getHeaders();
+    const url = 'https://mybusinessaccountmanagement.googleapis.com/v1/accounts';
+    let allAccounts = [];
+    let pageToken = null;
+    do {
+      const params = new URLSearchParams({ pageSize: '20' });
+      if (pageToken) params.append('pageToken', pageToken);
+      const response = await axios.get(`${url}?${params}`, { headers });
+      const accounts = response.data?.accounts || [];
+      allAccounts.push(...accounts);
+      pageToken = response.data?.nextPageToken || null;
+    } while (pageToken);
+    return allAccounts.map(a => ({
+      accountId: a.name,
+      accountIdShort: a.name?.split('/').pop(),
+      accountName: a.accountName || a.name,
+      type: a.type,
+      verificationState: a.verificationState,
+    }));
+  }
+
+  async listLocations(accountId) {
+    const headers = await this.getHeaders();
+    const accountName = accountId.startsWith('accounts/') ? accountId : `accounts/${accountId}`;
+    const baseURL = 'https://mybusinessbusinessinformation.googleapis.com/v1';
+    const readMask = 'name,title,storeCode,websiteUri,storefrontAddress';
+    let allLocations = [];
+    let pageToken = null;
+    do {
+      const params = new URLSearchParams({ readMask, pageSize: '100' });
+      if (pageToken) params.append('pageToken', pageToken);
+      const response = await axios.get(`${baseURL}/${accountName}/locations?${params}`, { headers });
+      allLocations.push(...(response.data?.locations || []));
+      pageToken = response.data?.nextPageToken || null;
+    } while (pageToken);
+    return allLocations.map(loc => ({
+      locationId: loc.name,
+      locationIdShort: loc.name?.split('/').pop(),
+      name: loc.title || 'Unnamed',
+      storeCode: loc.storeCode || null,
+      address: loc.storefrontAddress || null,
+      websiteUrl: loc.websiteUri || null,
+    }));
+  }
 }
 
 module.exports = new GMBAPI();
