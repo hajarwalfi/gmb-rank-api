@@ -402,8 +402,46 @@ async function resolveLocationAndKeywords({ accountId, locationId }) {
       .filter(Boolean)
       .pop() ||
     '';
-  const locationDetails = await GmbService.getLocationFull(selected.accountId, locationIdShort);
-  const primaryCategory = getPrimaryCategory(locationDetails);
+
+  let locationDetails = {
+    title: selected.title,
+    categories: { primaryCategory: { displayName: '' } },
+    serviceArea: { places: { placeInfos: [] }, regions: [] },
+    serviceItems: [],
+    storefrontAddress: null,
+  };
+  try {
+    locationDetails = await GmbService.getLocationFull(selected.accountId, locationIdShort);
+  } catch (e) {
+    console.warn(
+      `[AutomationRun] getLocationFull failed for "${selected.title}" (${locationIdShort}); using services-keywords metadata:`,
+      e?.message || e
+    );
+    try {
+      const skPayload = await readServicesKeywordsPayload();
+      const skRows = skPayload?.rows || [];
+      const skRow = skRows.find(
+        (r) =>
+          String(r.accountId || '').trim() === String(selected.accountId || '').trim() &&
+          String(r.locationIdShort || r.locationId || '').trim() === locationIdShort
+      );
+      if (skRow?.gbpDetailSnapshot) {
+        locationDetails = skRow.gbpDetailSnapshot;
+      } else if (skRow) {
+        const areas = Array.isArray(skRow.serviceAreasExplicit) ? skRow.serviceAreasExplicit : [];
+        if (areas.length) {
+          locationDetails.serviceArea = { places: { placeInfos: areas.map((n) => ({ placeName: n })) } };
+        }
+        if (skRow.primaryCategory) {
+          locationDetails.categories = { primaryCategory: { displayName: skRow.primaryCategory } };
+        }
+      }
+    } catch {
+      // keep default locationDetails
+    }
+  }
+
+  const primaryCategory = getPrimaryCategory(locationDetails) || String(selected.niche || '').trim() || 'Business';
   const areas = getAreas(locationDetails);
 
   let keywords = [];
