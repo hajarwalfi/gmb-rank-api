@@ -47,6 +47,16 @@ class GMBAPI {
     }));
   }
 
+  async getLocationFull(accountId, locationId) {
+    const headers = await this.getHeaders();
+    const accountName = accountId.startsWith('accounts/') ? accountId : `accounts/${accountId}`;
+    const locationName = locationId.startsWith('locations/') ? locationId : `locations/${locationId}`;
+    const baseURL = 'https://mybusinessbusinessinformation.googleapis.com/v1';
+    const readMask = 'name,title,categories,serviceArea,serviceItems,storefrontAddress,websiteUri';
+    const response = await axios.get(`${baseURL}/${accountName}/${locationName}?readMask=${readMask}`, { headers });
+    return response.data;
+  }
+
   async listLocations(accountId) {
     const headers = await this.getHeaders();
     const accountName = accountId.startsWith('accounts/') ? accountId : `accounts/${accountId}`;
