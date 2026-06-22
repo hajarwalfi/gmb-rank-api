@@ -21,7 +21,7 @@ export async function createAutomationRun(req, res) {
       });
     }
     const hasMulti = Array.isArray(selectedLocations) && selectedLocations.length > 0;
-    if (!hasMulti && (!accountId || !locationId)) {
+    if (!hasMulti && !isAllSelected && (!accountId || !locationId)) {
       return res.status(400).json({
         error: 'Please select at least one location and a valid schedule time.',
       });
