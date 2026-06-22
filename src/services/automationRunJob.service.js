@@ -1270,7 +1270,7 @@ export async function scheduleAutomationRun({
     dedup.set(`${aid}::${lid}`, { accountId: aid, locationId: lid, title: String(t?.title || '').trim() });
   }
   let targets = [...dedup.values()];
-  if (!targets.length) {
+  if (!targets.length && !allLocations) {
     throw new Error('Please select at least one GMB location.');
   }
 
