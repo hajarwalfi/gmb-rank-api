@@ -2377,24 +2377,24 @@ export async function captureGoogleSearchLocalScreenshot({
   const realRank = r;
   console.log(`[GoogleLclCapture] Processing overlay for rank #${r} slot=${slotOnPage}`);
 
-  // Google Local Finder layout:
-  // - Filter bar + separator at top ~230px
-  // - Remaining height divided evenly across results on this page
-  // Card height is derived from the actual screenshot so the overlay
-  // tracks the real DOM position regardless of Scrapfly zoom/DPI.
-  const firstCardY = 230;
-  const pageSize = 10; // results per page in local finder
-  const cardHeight = Math.round((imgHeight - firstCardY) / pageSize);
-  const markerY = firstCardY + (slotOnPage - 1) * cardHeight;
-  
-  console.log(`[GoogleLclCapture] Marker Y position: ${markerY}px`);
-
   // Step 4: Add overlay using Sharp
   try {
     const metadata = await sharp(screenshotBuffer).metadata();
     const imgWidth = metadata.width || 1440;
     const imgHeight = metadata.height || 900;
     console.log(`[GoogleLclCapture] Image size: ${imgWidth}x${imgHeight}`);
+
+    // Google Local Finder layout:
+    // - Filter bar + separator at top ~230px
+    // - Remaining height divided evenly across results on this page
+    // Card height is derived from the actual screenshot so the overlay
+    // tracks the real DOM position regardless of Scrapfly zoom/DPI.
+    const firstCardY = 230;
+    const pageSize = 10; // results per page in local finder
+    const cardHeight = Math.round((imgHeight - firstCardY) / pageSize);
+    const markerY = firstCardY + (slotOnPage - 1) * cardHeight;
+
+    console.log(`[GoogleLclCapture] Marker Y position: ${markerY}px`);
 
     // GMB card box: from separator to separator
     const cardX = 120;   // Left edge of GMB content
