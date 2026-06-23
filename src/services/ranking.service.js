@@ -2373,9 +2373,62 @@ export async function captureGoogleSearchLocalScreenshot({
     throw new Error('Scrapfly did not return valid screenshot');
   }
 
-  // Step 2: Use DataForSEO rank for position
+  // Step 2: Detect actual slot by finding the business BY NAME via a Scrapfly scrape.
+  // DataForSEO and Scrapfly may use different proxies/locations and return different result orders,
+  // so we cannot blindly trust DataForSEO's slot number to position the red box.
   const realRank = r;
-  console.log(`[GoogleLclCapture] Processing overlay for rank #${r} slot=${slotOnPage}`);
+  let actualSlotOnPage = slotOnPage;
+  const bizTitle = String(scrollToTitle || '').trim();
+
+  if (bizTitle) {
+    try {
+      const scrapeUrl = new URL('https://api.scrapfly.io/scrape');
+      scrapeUrl.searchParams.set('key', scrapflyKey);
+      scrapeUrl.searchParams.set('url', url);
+      scrapeUrl.searchParams.set('render_js', 'true');
+      scrapeUrl.searchParams.set('rendering_wait', '4000');
+      scrapeUrl.searchParams.set('country', 'us');
+      scrapeUrl.searchParams.set('proxy_pool', 'public_residential_pool');
+      scrapeUrl.searchParams.set('asp', 'true');
+
+      const scrapeResp = await fetch(scrapeUrl.toString(), { signal: AbortSignal.timeout(65000) });
+      if (scrapeResp.ok) {
+        const scrapeJson = await scrapeResp.json();
+        const html = String(scrapeJson?.result?.content || '');
+
+        // Extract h3 text content in DOM order — Google udm=1 place cards use h3 for business name
+        const placeHeadings = [];
+        const h3Pattern = /<h3[^>]*>([^<]{2,100})<\/h3>/gi;
+        let m;
+        while ((m = h3Pattern.exec(html)) !== null) {
+          const text = m[1].trim();
+          if (text.length >= 2 && !/people also ask|related questions|reviews from the web/i.test(text)) {
+            placeHeadings.push(text);
+          }
+        }
+
+        console.log(`[GoogleLclCapture] Scrape found ${placeHeadings.length} h3 headings for name matching`);
+
+        for (let i = 0; i < placeHeadings.length; i++) {
+          if (isMatchedFuzzy(bizTitle, placeHeadings[i], q)) {
+            actualSlotOnPage = i + 1;
+            console.log(`[GoogleLclCapture] Name match: "${bizTitle}" → "${placeHeadings[i]}" at slot ${actualSlotOnPage} (DataForSEO said ${slotOnPage})`);
+            break;
+          }
+        }
+
+        if (actualSlotOnPage === slotOnPage) {
+          console.warn(`[GoogleLclCapture] "${bizTitle}" not found in scrape headings — keeping DataForSEO slot ${slotOnPage}`);
+        }
+      } else {
+        console.warn(`[GoogleLclCapture] Scrape for name-based slot returned ${scrapeResp.status} — keeping DataForSEO slot`);
+      }
+    } catch (scrapeErr) {
+      console.warn(`[GoogleLclCapture] Name-based slot scrape failed: ${scrapeErr?.message} — keeping DataForSEO slot ${slotOnPage}`);
+    }
+  }
+
+  console.log(`[GoogleLclCapture] Processing overlay for rank #${r} actualSlot=${actualSlotOnPage}${actualSlotOnPage !== slotOnPage ? ` (corrected from DataForSEO slot ${slotOnPage})` : ''}`);
 
   // Step 4: Add overlay using Sharp
   try {
@@ -2386,13 +2439,13 @@ export async function captureGoogleSearchLocalScreenshot({
 
     // Google Local Finder layout:
     // - Filter bar + separator at top ~230px
-    // - Remaining height divided evenly across results on this page
+    // - Remaining height divided evenly across results on this page (20 per page on udm=1)
     // Card height is derived from the actual screenshot so the overlay
     // tracks the real DOM position regardless of Scrapfly zoom/DPI.
     const firstCardY = 230;
-    const pageSize = 10; // results per page in local finder
+    const pageSize = 20; // udm=1 shows 20 results per page
     const cardHeight = Math.round((imgHeight - firstCardY) / pageSize);
-    const markerY = firstCardY + (slotOnPage - 1) * cardHeight;
+    const markerY = firstCardY + (actualSlotOnPage - 1) * cardHeight;
 
     console.log(`[GoogleLclCapture] Marker Y position: ${markerY}px`);
 
@@ -2416,7 +2469,7 @@ export async function captureGoogleSearchLocalScreenshot({
       .toBuffer();
 
     // Step 5: Save screenshot
-    const fn = `google_udm1_start${startForFn}_r${realRank}_slot${slotOnPage}_${Date.now()}.png`;
+    const fn = `google_udm1_start${startForFn}_r${realRank}_slot${actualSlotOnPage}_${Date.now()}.png`;
     const localPath = path.join(SCREENSHOTS_DIR, fn);
     await writeFile(localPath, finalBuffer);
     console.log(`[GoogleLclCapture] Saved ${fn}`);
@@ -2425,9 +2478,9 @@ export async function captureGoogleSearchLocalScreenshot({
       found: true,
       screenshotPath: `screenshots/${fn}`,
       scannedRank: r,
-      scannedSlotOnPage: slotOnPage,
+      scannedSlotOnPage: actualSlotOnPage,
       localSerpStart: ls,
-      observedSlotOnPage: slotOnPage,
+      observedSlotOnPage: actualSlotOnPage,
       observedAbsoluteRank: realRank,
       displayRank: realRank,
       matchType: 'dataforseo',
