@@ -1143,28 +1143,24 @@ async function captureCheckUrlScreenshotZenrows({ checkUrl, rank, businessName, 
     throw lastError || new Error('Scrapfly Screenshot API failed after all retries');
   }
 
-  // Step 2: Calculate marker position
-  // Google Local Finder layout:
-  // - Separator line below filters at ~200px
-  // - First GMB card content at ~205px
-  // - Each GMB card = ~148px height
+  // Step 2: Find the actual business card position using AI vision
   const realRank = rank;
-  const firstCardY = 230;
-  const cardHeight = 148;
-  const markerY = firstCardY + (slotOnPage - 1) * cardHeight;
-  
-  console.log(`[DataForSEO/Capture] Processing: rank=${rank} slot=${slotOnPage} markerY=${markerY}`);
+  console.log(`[DataForSEO/Capture] Processing: rank=${rank} slot=${slotOnPage}`);
 
   try {
-    // GMB card box: from separator to separator
-    const estimatedRect = {
-      x: 120,
-      y: markerY,
-      width: 530,
-      height: 140,
-    };
+    // Try AI vision detection first — it reads the actual screenshot to find the right card
+    let markerRect = await detectGmbPositionWithAI(screenshotBuffer, businessName, rank);
 
-    const finalBuffer = await addRedMarkerOverlay(screenshotBuffer, estimatedRect, realRank);
+    if (!markerRect) {
+      // Fallback: estimate based on slot position
+      console.warn(`[DataForSEO/Capture] AI detection failed, falling back to pixel estimate for slot ${slotOnPage}`);
+      const firstCardY = 230;
+      const cardHeight = 148;
+      const markerY = firstCardY + (slotOnPage - 1) * cardHeight;
+      markerRect = { x: 120, y: markerY, width: 530, height: 140 };
+    }
+
+    const finalBuffer = await addRedMarkerOverlay(screenshotBuffer, markerRect, realRank);
 
     // Step 3: Save screenshot
     const safeName = String(businessName).replace(/[^a-zA-Z0-9]/g, '_').slice(0, 40);
