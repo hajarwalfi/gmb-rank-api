@@ -2291,156 +2291,100 @@ export async function captureGoogleSearchLocalScreenshot({
   if (!Number.isFinite(slotOnPage) || slotOnPage < 1) slotOnPage = r - ls;
   slotOnPage = Math.max(1, Math.min(20, slotOnPage));
 
-  const { mkdir, writeFile } = await import('fs/promises');
-  const sharp = (await import('sharp')).default;
+  const { mkdir } = await import('fs/promises');
   await mkdir(SCREENSHOTS_DIR, { recursive: true });
 
-  const scrapflyKey = (process.env.SCRAPFLY_API_KEY || '').trim();
-  if (!scrapflyKey) {
-    throw new Error('SCRAPFLY_API_KEY is required for screenshot capture.');
-  }
+  const playwright = await import('playwright');
+  const bizTitle = String(scrollToTitle || '').trim();
 
-  console.log(`[GoogleLclCapture] Using Scrapfly Screenshot API`);
-  console.log(`[GoogleLclCapture] DataForSEO rank=${r} start=${ls} slot=${slotOnPage}`);
+  console.log(`[GoogleLclCapture] Using Scrapfly Cloud Browser (CDP) for accurate name-based detection`);
+  console.log(`[GoogleLclCapture] DataForSEO rank=${r} start=${ls} slot=${slotOnPage} target="${bizTitle || keyword}"`);
   console.log(`[GoogleLclCapture] URL: ${url.slice(0, 150)}…`);
 
-  // Retry configurations for Scrapfly - simpler params work better with Google
-  const scrapflyConfigs = [
-    { proxy_pool: 'public_residential_pool', rendering_wait: 5000, timeout: 60000, asp: true },
-    { proxy_pool: 'public_residential_pool', rendering_wait: 3000, timeout: 45000, asp: false },
-    { proxy_pool: 'public_datacenter_pool', rendering_wait: 2000, timeout: 30000, asp: false },
-  ];
+  const locations = scrapflyLocationConnectionAttempts(keyword);
+  let browser;
+  let lastError;
 
-  let screenshotBuffer = null;
-  let lastError = null;
-
-  for (let attempt = 0; attempt < scrapflyConfigs.length; attempt++) {
-    const cfg = scrapflyConfigs[attempt];
-    console.log(`[GoogleLclCapture] Attempt ${attempt + 1}/${scrapflyConfigs.length} with ${cfg.proxy_pool}`);
-
-    // Step 1: Use Scrapfly Screenshot API with minimal params
-    const screenshotUrl = new URL('https://api.scrapfly.io/screenshot');
-    screenshotUrl.searchParams.set('key', scrapflyKey);
-    screenshotUrl.searchParams.set('url', url);
-    screenshotUrl.searchParams.set('format', 'png');
-    screenshotUrl.searchParams.set('resolution', '1440x900');
-    screenshotUrl.searchParams.set('capture', 'fullpage');
-    screenshotUrl.searchParams.set('rendering_wait', String(cfg.rendering_wait));
-    screenshotUrl.searchParams.set('country', 'us');
-    screenshotUrl.searchParams.set('proxy_pool', cfg.proxy_pool);
-    if (cfg.asp) screenshotUrl.searchParams.set('asp', 'true');
-    screenshotUrl.searchParams.set('timeout', String(cfg.timeout));
-
+  for (let ri = 0; ri < locations.length; ri++) {
+    if (ri > 0) {
+      console.warn(`[GoogleLclCapture] Cloud retry ${ri + 1}/${locations.length} country=${locations[ri]}`);
+    }
+    if (browser) await browser.close().catch(() => {});
+    browser = undefined;
     try {
-      const response = await fetch(screenshotUrl.toString(), {
-        method: 'GET',
-        signal: AbortSignal.timeout(cfg.timeout + 10000),
-      });
+      const conn = await getCaptureBrowserAndPage(playwright, locations[ri]);
+      browser = conn.browser;
+      const page = conn.page;
 
-      if (!response.ok) {
-        const errorText = await response.text().catch(() => 'Unknown error');
-        lastError = new Error(`Scrapfly failed: ${response.status} - ${errorText.slice(0, 200)}`);
-        console.warn(`[GoogleLclCapture] Attempt ${attempt + 1} failed: ${lastError.message}`);
-        continue;
+      await gotoUdm1SingleShotZenrows(page, url, { fast: false });
+      await assertZenRowsNoHardFail(page);
+      await page
+        .waitForSelector('.rllt__details, .VkpGBb, [data-cid], #rcnt, #search', { timeout: 30000 })
+        .catch(() => {});
+      await new Promise((t) => setTimeout(t, 1300));
+
+      const resolved = await resolveStrictLocalFinderListing(page, bizTitle || keyword, ls, keyword);
+
+      if (!resolved) {
+        console.warn(
+          `[GoogleLclCapture] Business not found in DOM — target="${(bizTitle || keyword).slice(0, 80)}" start=${ls}`
+        );
+        await browser.close().catch(() => {});
+        browser = undefined;
+        return {
+          found: false,
+          screenshotPath: null,
+          scannedRank: r,
+          localSerpStart: ls,
+          displayRank: null,
+          message: `"${(bizTitle || keyword).slice(0, 100)}" not found on Local Finder page (start=${ls}). No screenshot saved.`,
+        };
       }
 
-      screenshotBuffer = Buffer.from(await response.arrayBuffer());
-      console.log(`[GoogleLclCapture] Screenshot received: ${screenshotBuffer.length} bytes`);
-      
-      if (screenshotBuffer.length > 5000) {
-        break; // Success
-      } else {
-        lastError = new Error('Screenshot too small, likely blocked');
-        console.warn(`[GoogleLclCapture] Attempt ${attempt + 1}: Screenshot too small`);
+      const rankForOverlay = resolved.observedAbsoluteRank;
+      if (rankForOverlay !== r) {
+        console.log(`[GoogleLclCapture] DOM rank #${rankForOverlay} overrides DataForSEO rank #${r} for overlay`);
       }
-    } catch (err) {
-      lastError = err;
-      console.warn(`[GoogleLclCapture] Attempt ${attempt + 1} error: ${err?.message || err}`);
+
+      await injectUdm1RankOverlayOnPage(page, resolved.rect, rankForOverlay).catch(() => {});
+      await new Promise((t) => setTimeout(t, 350));
+
+      const fn = `google_udm1_start${startForFn}_r${rankForOverlay}_slot${resolved.observedSlotOnPage}_${Date.now()}.png`;
+      const localPath = path.join(SCREENSHOTS_DIR, fn);
+
+      if (await isCaptchaPage(page)) {
+        throw new Error('[GoogleLclCapture] CAPTCHA detected before screenshot save.');
+      }
+      await page.screenshot({ path: localPath, fullPage: false });
+      console.log(`[GoogleLclCapture] Saved ${fn} (DOM rank #${rankForOverlay} slot=${resolved.observedSlotOnPage})`);
+
+      await browser.close().catch(() => {});
+      browser = undefined;
+
+      return {
+        found: true,
+        screenshotPath: `screenshots/${fn}`,
+        scannedRank: r,
+        scannedSlotOnPage: resolved.observedSlotOnPage,
+        localSerpStart: ls,
+        observedSlotOnPage: resolved.observedSlotOnPage,
+        observedAbsoluteRank: resolved.observedAbsoluteRank,
+        observedOrganicSlotOnPage: resolved.observedOrganicSlotOnPage,
+        observedAbsoluteOrganicRank: resolved.observedAbsoluteOrganicRank,
+        observedMatchIsSponsored: resolved.observedMatchIsSponsored,
+        observedMatchedHeading: resolved.observedMatchedHeading,
+        displayRank: rankForOverlay,
+        matchType: resolved.matchType,
+      };
+    } catch (e) {
+      lastError = e;
+      console.warn(`[GoogleLclCapture] Cloud attempt ${ri + 1} failed:`, e?.message || e);
+      if (browser) await browser.close().catch(() => {});
+      browser = undefined;
     }
-
-    // Small delay between retries
-    if (attempt < scrapflyConfigs.length - 1) {
-      await new Promise(r => setTimeout(r, 2000));
-    }
   }
 
-  if (!screenshotBuffer || screenshotBuffer.length < 5000) {
-    console.error(`[GoogleLclCapture] All Scrapfly attempts failed:`, lastError?.message || 'Unknown');
-    throw lastError || new Error('Scrapfly Screenshot API failed after all retries');
-  }
-
-  if (!screenshotBuffer || screenshotBuffer.length < 1000) {
-    throw new Error('Scrapfly did not return valid screenshot');
-  }
-
-  // Step 2: Use DataForSEO rank for slot position.
-  // Both DataForSEO and Scrapfly use the same tbm=lcl check_url so the ordering is consistent.
-  // Scrapfly's scraping API does not render Google Local Finder results (returns minimal HTML),
-  // so name-based slot detection via a second scrape call is not viable.
-  const realRank = r;
-  const actualSlotOnPage = slotOnPage;
-
-  console.log(`[GoogleLclCapture] Processing overlay for rank #${r} slot=${actualSlotOnPage}`);
-
-  // Step 4: Add overlay using Sharp
-  try {
-    const metadata = await sharp(screenshotBuffer).metadata();
-    const imgWidth = metadata.width || 1440;
-    const imgHeight = metadata.height || 900;
-    console.log(`[GoogleLclCapture] Image size: ${imgWidth}x${imgHeight}`);
-
-    // Google Local Finder layout:
-    // - Filter bar + separator at top ~230px
-    // - Remaining height divided evenly across results on this page (20 per page on udm=1)
-    // Card height is derived from the actual screenshot so the overlay
-    // tracks the real DOM position regardless of Scrapfly zoom/DPI.
-    const firstCardY = 230;
-    const pageSize = 20; // udm=1 shows 20 results per page
-    const cardHeight = Math.round((imgHeight - firstCardY) / pageSize);
-    const markerY = firstCardY + (actualSlotOnPage - 1) * cardHeight;
-
-    console.log(`[GoogleLclCapture] Marker Y position: ${markerY}px`);
-
-    // GMB card box: from separator to separator
-    const cardX = 120;   // Left edge of GMB content
-    const cardW = 530;   // Width to cover GMB + Website/Directions buttons
-    const cardH = 140;   // Height (separator to separator minus padding)
-    const badgeSize = 32;
-    
-    const svgOverlay = `
-      <svg width="${imgWidth}" height="${imgHeight}" xmlns="http://www.w3.org/2000/svg">
-        <rect x="${cardX}" y="${markerY}" width="${cardW}" height="${cardH}" fill="none" stroke="#e4181f" stroke-width="4"/>
-        <rect x="${cardX - badgeSize - 5}" y="${markerY}" width="${badgeSize}" height="${badgeSize}" fill="#e4181f"/>
-        <text x="${cardX - badgeSize/2 - 5}" y="${markerY + badgeSize/2 + 2}" font-family="Arial" font-size="16" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">#${realRank}</text>
-      </svg>
-    `;
-
-    const finalBuffer = await sharp(screenshotBuffer)
-      .composite([{ input: Buffer.from(svgOverlay), top: 0, left: 0 }])
-      .png()
-      .toBuffer();
-
-    // Step 5: Save screenshot
-    const fn = `google_udm1_start${startForFn}_r${realRank}_slot${actualSlotOnPage}_${Date.now()}.png`;
-    const localPath = path.join(SCREENSHOTS_DIR, fn);
-    await writeFile(localPath, finalBuffer);
-    console.log(`[GoogleLclCapture] Saved ${fn}`);
-
-    return {
-      found: true,
-      screenshotPath: `screenshots/${fn}`,
-      scannedRank: r,
-      scannedSlotOnPage: actualSlotOnPage,
-      localSerpStart: ls,
-      observedSlotOnPage: actualSlotOnPage,
-      observedAbsoluteRank: realRank,
-      displayRank: realRank,
-      matchType: 'dataforseo',
-    };
-  } catch (sharpErr) {
-    console.error(`[GoogleLclCapture] Sharp error:`, sharpErr?.message || sharpErr);
-    throw sharpErr;
-  }
+  throw lastError || new Error('captureGoogleSearchLocalScreenshot: all cloud browser attempts failed');
 }
 
 /**
