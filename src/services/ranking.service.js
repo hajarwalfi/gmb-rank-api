@@ -2373,64 +2373,14 @@ export async function captureGoogleSearchLocalScreenshot({
     throw new Error('Scrapfly did not return valid screenshot');
   }
 
-  // Step 2: Detect actual slot by finding the business BY NAME via a Scrapfly scrape.
-  // DataForSEO and Scrapfly may use different proxies/locations and return different result orders,
-  // so we cannot blindly trust DataForSEO's slot number to position the red box.
+  // Step 2: Use DataForSEO rank for slot position.
+  // Both DataForSEO and Scrapfly use the same tbm=lcl check_url so the ordering is consistent.
+  // Scrapfly's scraping API does not render Google Local Finder results (returns minimal HTML),
+  // so name-based slot detection via a second scrape call is not viable.
   const realRank = r;
-  let actualSlotOnPage = slotOnPage;
-  const bizTitle = String(scrollToTitle || '').trim();
+  const actualSlotOnPage = slotOnPage;
 
-  if (bizTitle) {
-    try {
-      const scrapeUrl = new URL('https://api.scrapfly.io/scrape');
-      scrapeUrl.searchParams.set('key', scrapflyKey);
-      scrapeUrl.searchParams.set('url', url);
-      scrapeUrl.searchParams.set('render_js', 'true');
-      scrapeUrl.searchParams.set('rendering_wait', '4000');
-      scrapeUrl.searchParams.set('country', 'us');
-      scrapeUrl.searchParams.set('proxy_pool', 'public_residential_pool');
-      scrapeUrl.searchParams.set('asp', 'true');
-
-      const scrapeResp = await fetch(scrapeUrl.toString(), { signal: AbortSignal.timeout(65000) });
-      if (scrapeResp.ok) {
-        const scrapeJson = await scrapeResp.json();
-        const html = String(scrapeJson?.result?.content || '');
-
-        // Extract h3 text content in DOM order — Google udm=1 place cards use h3 for business name.
-        // Strip inner tags (e.g. <span>) before reading text so "Business Name" inside
-        // <h3><span>Business Name</span></h3> is captured correctly.
-        const placeHeadings = [];
-        const h3Pattern = /<h3[^>]*>([\s\S]*?)<\/h3>/gi;
-        let m;
-        while ((m = h3Pattern.exec(html)) !== null) {
-          const text = m[1].replace(/<[^>]*>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim();
-          if (text.length >= 2 && !/people also ask|related questions|reviews from the web/i.test(text)) {
-            placeHeadings.push(text);
-          }
-        }
-
-        console.log(`[GoogleLclCapture] Scrape found ${placeHeadings.length} h3 headings for name matching`);
-
-        for (let i = 0; i < placeHeadings.length; i++) {
-          if (isMatchedFuzzy(bizTitle, placeHeadings[i], q)) {
-            actualSlotOnPage = i + 1;
-            console.log(`[GoogleLclCapture] Name match: "${bizTitle}" → "${placeHeadings[i]}" at slot ${actualSlotOnPage} (DataForSEO said ${slotOnPage})`);
-            break;
-          }
-        }
-
-        if (actualSlotOnPage === slotOnPage) {
-          console.warn(`[GoogleLclCapture] "${bizTitle}" not found in scrape headings — keeping DataForSEO slot ${slotOnPage}`);
-        }
-      } else {
-        console.warn(`[GoogleLclCapture] Scrape for name-based slot returned ${scrapeResp.status} — keeping DataForSEO slot`);
-      }
-    } catch (scrapeErr) {
-      console.warn(`[GoogleLclCapture] Name-based slot scrape failed: ${scrapeErr?.message} — keeping DataForSEO slot ${slotOnPage}`);
-    }
-  }
-
-  console.log(`[GoogleLclCapture] Processing overlay for rank #${r} actualSlot=${actualSlotOnPage}${actualSlotOnPage !== slotOnPage ? ` (corrected from DataForSEO slot ${slotOnPage})` : ''}`);
+  console.log(`[GoogleLclCapture] Processing overlay for rank #${r} slot=${actualSlotOnPage}`);
 
   // Step 4: Add overlay using Sharp
   try {
