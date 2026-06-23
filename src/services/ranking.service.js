@@ -2378,11 +2378,13 @@ export async function captureGoogleSearchLocalScreenshot({
   console.log(`[GoogleLclCapture] Processing overlay for rank #${r} slot=${slotOnPage}`);
 
   // Google Local Finder layout:
-  // - Separator line below filters at ~200px
-  // - First GMB card content at ~205px
-  // - Each GMB card = ~148px height
-  const firstCardY = 230;  // Y just below separator line
-  const cardHeight = 148;  // Height of each GMB card
+  // - Filter bar + separator at top ~230px
+  // - Remaining height divided evenly across results on this page
+  // Card height is derived from the actual screenshot so the overlay
+  // tracks the real DOM position regardless of Scrapfly zoom/DPI.
+  const firstCardY = 230;
+  const pageSize = 10; // results per page in local finder
+  const cardHeight = Math.round((imgHeight - firstCardY) / pageSize);
   const markerY = firstCardY + (slotOnPage - 1) * cardHeight;
   
   console.log(`[GoogleLclCapture] Marker Y position: ${markerY}px`);
