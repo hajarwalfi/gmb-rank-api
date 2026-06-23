@@ -2396,12 +2396,14 @@ export async function captureGoogleSearchLocalScreenshot({
         const scrapeJson = await scrapeResp.json();
         const html = String(scrapeJson?.result?.content || '');
 
-        // Extract h3 text content in DOM order — Google udm=1 place cards use h3 for business name
+        // Extract h3 text content in DOM order — Google udm=1 place cards use h3 for business name.
+        // Strip inner tags (e.g. <span>) before reading text so "Business Name" inside
+        // <h3><span>Business Name</span></h3> is captured correctly.
         const placeHeadings = [];
-        const h3Pattern = /<h3[^>]*>([^<]{2,100})<\/h3>/gi;
+        const h3Pattern = /<h3[^>]*>([\s\S]*?)<\/h3>/gi;
         let m;
         while ((m = h3Pattern.exec(html)) !== null) {
-          const text = m[1].trim();
+          const text = m[1].replace(/<[^>]*>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim();
           if (text.length >= 2 && !/people also ask|related questions|reviews from the web/i.test(text)) {
             placeHeadings.push(text);
           }
